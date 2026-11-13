@@ -1,0 +1,18 @@
+{
+  "title": "Production React Native with Expo: 1,000 Hours",
+  "researched_on": "2026-11-13",
+  "baseline": {"expo_sdk": 58, "react_native": "0.88", "react": "19.3.0", "minimum_node": "22.13.x"},
+  "capstone": "PocketPilot — an original personal finance app inspired by Rocket Money workflows",
+  "lessons": [
+    {"id": "01", "file": "01-typescript-react-and-expo.md", "title": "TypeScript, React, and the Expo runtime", "hours": 80},
+    {"id": "02", "file": "02-router-ui-and-mobile-interactions.md", "title": "Router, accessible UI, forms, lists, and motion", "hours": 100},
+    {"id": "03", "file": "03-state-offline-and-expo-sdk.md", "title": "State, networking, offline data, and Expo SDK capabilities", "hours": 110},
+    {"id": "04", "file": "04-supabase-and-clerk.md", "title": "Postgres, Supabase, Clerk, and authorization", "hours": 110},
+    {"id": "05", "file": "05-firebase-and-better-auth.md", "title": "Firebase and a Better Auth TypeScript server", "hours": 110},
+    {"id": "06", "file": "06-amplify-and-appwrite.md", "title": "Amplify Gen 2, Appwrite, and stack selection", "hours": 100},
+    {"id": "07", "file": "07-payments-and-subscriptions.md", "title": "RevenueCat, Stripe, store billing, and subscription UX", "hours": 100},
+    {"id": "08", "file": "08-pocketpilot-capstone.md", "title": "PocketPilot finance capstone and sandbox banking", "hours": 140},
+    {"id": "09", "file": "09-quality-security-and-release-engineering.md", "title": "Testing, performance, security, native code, builds, and updates", "hours": 80},
+    {"id": "10", "file": "10-stores-marketing-and-operations.md", "title": "Store release, app marketing, revenue experiments, and operations", "hours": 70}
+  ]
+}

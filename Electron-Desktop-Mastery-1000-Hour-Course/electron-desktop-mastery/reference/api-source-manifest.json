@@ -1,0 +1,407 @@
+[
+  {
+    "file": "docs/api/app-shim-host.md",
+    "sha": "fba58e3e7acb1b19a7beba94378bb5ed94160d42",
+    "length": 9675
+  },
+  {
+    "file": "docs/api/app.md",
+    "sha": "baebb95f8d0dcef75124563bebda9c93100caa7d",
+    "length": 86914
+  },
+  {
+    "file": "docs/api/auto-updater.md",
+    "sha": "7b135c7e23a9aea56bd8d6288a1ed2f47aa48f2e",
+    "length": 8930
+  },
+  {
+    "file": "docs/api/base-window.md",
+    "sha": "44d1b805ff11918a793f6ff19aa1294f8a782c00",
+    "length": 53906
+  },
+  {
+    "file": "docs/api/browser-view.md",
+    "sha": "568f74175b56aa64f7446ae5b360781baef2cd28",
+    "length": 5287
+  },
+  {
+    "file": "docs/api/browser-window.md",
+    "sha": "f1a60125e1279d4e21ed196dc8c552275bf13a52",
+    "length": 64657
+  },
+  {
+    "file": "docs/api/client-request.md",
+    "sha": "0205346319d0593c7d9d1153c8e97f08648f0aab",
+    "length": 11461
+  },
+  {
+    "file": "docs/api/clipboard-item.md",
+    "sha": "aa324b583d287cab9fdabcbe71c6c688465874f6",
+    "length": 7406
+  },
+  {
+    "file": "docs/api/clipboard.md",
+    "sha": "4077baf5f1b89cdd126a8690eb1f1940f93721b6",
+    "length": 7336
+  },
+  {
+    "file": "docs/api/command-line-switches.md",
+    "sha": "a4a032fb47e2cc048c788efa46736f4e5055daa5",
+    "length": 15763
+  },
+  {
+    "file": "docs/api/command-line.md",
+    "sha": "e424ba1f1c498c02643a4d289eafb7d33e2936ab",
+    "length": 3278
+  },
+  {
+    "file": "docs/api/content-tracing.md",
+    "sha": "33540c53d8d18f96e4a26c7f2f931de277f03281",
+    "length": 5662
+  },
+  {
+    "file": "docs/api/context-bridge.md",
+    "sha": "d5bddc8526c0cf7d60f5efdb24547e9af4646a62",
+    "length": 7909
+  },
+  {
+    "file": "docs/api/cookies.md",
+    "sha": "985a2ac9e85436b4a9b8fa9df0d757196edafacc",
+    "length": 5480
+  },
+  {
+    "file": "docs/api/corner-smoothing-css.md",
+    "sha": "f9c1ec53dc3b0789debc22a780b9afb4218d65bb",
+    "length": 3583
+  },
+  {
+    "file": "docs/api/crash-reporter.md",
+    "sha": "5493fc476bdc793a3fa9b8bcb04de386af303084",
+    "length": 14321
+  },
+  {
+    "file": "docs/api/debugger.md",
+    "sha": "a404134b293b5ed6dc3c63482a529564eec1405f",
+    "length": 3370
+  },
+  {
+    "file": "docs/api/desktop-capturer.md",
+    "sha": "2e0ef601ff5d496f4a253c091f28b59afe1853f8",
+    "length": 7441
+  },
+  {
+    "file": "docs/api/dialog.md",
+    "sha": "7a67346411a60d66e4bcc5d77aab8ccb5717b000",
+    "length": 23446
+  },
+  {
+    "file": "docs/api/dock.md",
+    "sha": "6ea2ac956cda0102cfcbf067be9173341e425d41",
+    "length": 2469
+  },
+  {
+    "file": "docs/api/download-item.md",
+    "sha": "0c18c99ad7b664f36fb3dec3635a1f210057d540",
+    "length": 6956
+  },
+  {
+    "file": "docs/api/environment-variables.md",
+    "sha": "9f85353e16ee2c2336a9567c493fcbccb10a67d9",
+    "length": 9668
+  },
+  {
+    "file": "docs/api/extensions-api.md",
+    "sha": "0e9a3eeda6918d9645f77a41d13e0e520cd36d2a",
+    "length": 4054
+  },
+  {
+    "file": "docs/api/extensions.md",
+    "sha": "aa7439c148a27ce3331d9e9174ff8f4debd58f37",
+    "length": 6367
+  },
+  {
+    "file": "docs/api/global-shortcut.md",
+    "sha": "b7f0e27ff4d5206fccb9fbec0f16f0c2e581fa9b",
+    "length": 6831
+  },
+  {
+    "file": "docs/api/image-view.md",
+    "sha": "80c4c8aea3d27eb63ac3b1f3d20e9cf4c9105627",
+    "length": 2298
+  },
+  {
+    "file": "docs/api/in-app-purchase.md",
+    "sha": "b14b4ef1ba3546561f9fd0a3031533844deb718d",
+    "length": 3744
+  },
+  {
+    "file": "docs/api/incoming-message.md",
+    "sha": "5f498f40fa64cb1450cd5e9df8371ef76c969fbf",
+    "length": 3435
+  },
+  {
+    "file": "docs/api/ipc-main-service-worker.md",
+    "sha": "08a9d63a98174e482a566b5836674de9cf3c22de",
+    "length": 2514
+  },
+  {
+    "file": "docs/api/ipc-main.md",
+    "sha": "b14b010f1339aba783d5c03315648c5bfb2912db",
+    "length": 5092
+  },
+  {
+    "file": "docs/api/ipc-renderer.md",
+    "sha": "9438da81268d4b579fbd7adb594fe149ef53aab7",
+    "length": 9552
+  },
+  {
+    "file": "docs/api/language-model-utility.md",
+    "sha": "c81e1eee57126802aec9e80ec2aca601daa7a887",
+    "length": 2914
+  },
+  {
+    "file": "docs/api/local-ai-handler.md",
+    "sha": "8d8d647c852ce49dc643c194ba5676113f00b4a2",
+    "length": 1870
+  },
+  {
+    "file": "docs/api/menu-item.md",
+    "sha": "008ed1ff4952538b47a96abc6d5b95b48badfa2b",
+    "length": 9433
+  },
+  {
+    "file": "docs/api/menu.md",
+    "sha": "4730ba2cf39b40b35b21883b6c22c15fccc76a75",
+    "length": 7858
+  },
+  {
+    "file": "docs/api/message-channel-main.md",
+    "sha": "9825fea47453a0d5d7f704042ff6aa3fda70956f",
+    "length": 1533
+  },
+  {
+    "file": "docs/api/message-port-main.md",
+    "sha": "371d358f94cb0268ed7d1fa60d67bbed7a20c0a5",
+    "length": 1813
+  },
+  {
+    "file": "docs/api/native-image.md",
+    "sha": "425eaa92939544efc3310f545b9f6f74cf47bb39",
+    "length": 15805
+  },
+  {
+    "file": "docs/api/native-theme.md",
+    "sha": "c587cb8ca263181c289f314ec4366803b91f70f4",
+    "length": 4231
+  },
+  {
+    "file": "docs/api/navigation-history.md",
+    "sha": "098279bdb4c26d1ef6bcd08f43c159e5516a48ed",
+    "length": 4062
+  },
+  {
+    "file": "docs/api/net-log.md",
+    "sha": "96facc7621b1e037d380b43375cfb9d5083315c8",
+    "length": 1705
+  },
+  {
+    "file": "docs/api/net.md",
+    "sha": "5bfc73666821411395aa7a4df4241bd87c5d72e1",
+    "length": 8078
+  },
+  {
+    "file": "docs/api/notification.md",
+    "sha": "bc8eacfaa3894ae6b2d04f7fee7773eeee8e445e",
+    "length": 18510
+  },
+  {
+    "file": "docs/api/parent-port.md",
+    "sha": "4b181b474b9337bdfd8d87bde7554047eb39127b",
+    "length": 1130
+  },
+  {
+    "file": "docs/api/power-monitor.md",
+    "sha": "83289e0739123aebf8f32095f243746932e91409",
+    "length": 3739
+  },
+  {
+    "file": "docs/api/power-save-blocker.md",
+    "sha": "348a6b78907a603e65333bc4e035440ccd13f8ba",
+    "length": 1921
+  },
+  {
+    "file": "docs/api/process.md",
+    "sha": "2c1161d9b66b3df4916f104700dfcf104711d730",
+    "length": 9056
+  },
+  {
+    "file": "docs/api/protocol.md",
+    "sha": "ce408076ae194fc1a5cfff987429fd20d6bbf1cb",
+    "length": 22049
+  },
+  {
+    "file": "docs/api/push-notifications.md",
+    "sha": "bec41e227f8816d5cfcdf60ec21e3adf4e422f27",
+    "length": 1908
+  },
+  {
+    "file": "docs/api/safe-storage.md",
+    "sha": "9d64ea959c7d4058cd64e4e1d0bbb8ad617c6fff",
+    "length": 8772
+  },
+  {
+    "file": "docs/api/screen.md",
+    "sha": "d3411069af2fd31acf9fc80935056bbb41a8c800",
+    "length": 5137
+  },
+  {
+    "file": "docs/api/service-worker-main.md",
+    "sha": "d51d65c9e351c98c0ff8c18d2caa77e2a0215f0f",
+    "length": 2007
+  },
+  {
+    "file": "docs/api/service-workers.md",
+    "sha": "2132368b807796598d4e3e1ad2563e40047d531c",
+    "length": 4938
+  },
+  {
+    "file": "docs/api/session.md",
+    "sha": "ac3117698aa1d888425aab3f96b4c0e46e952594",
+    "length": 90911
+  },
+  {
+    "file": "docs/api/share-menu.md",
+    "sha": "cb5ee3d01709ffe9f7618c5aa4dd9b18faafc467",
+    "length": 1919
+  },
+  {
+    "file": "docs/api/shared-texture.md",
+    "sha": "d49f596447e458ff1f935efcf79a706dcdab1186",
+    "length": 3270
+  },
+  {
+    "file": "docs/api/shell.md",
+    "sha": "07f32c73fe43d079effd3bcdfd01a122e838b1b9",
+    "length": 3793
+  },
+  {
+    "file": "docs/api/system-preferences.md",
+    "sha": "876ce45e7da390f3c57dd4d353617c1b7f9cb5a0",
+    "length": 18600
+  },
+  {
+    "file": "docs/api/touch-bar-button.md",
+    "sha": "4d9caaf4822f014e2f8bc6af5e839ffb97bd3b3b",
+    "length": 2132
+  },
+  {
+    "file": "docs/api/touch-bar-color-picker.md",
+    "sha": "a80954adbb6a64da34f7d48317b1343ec892da29",
+    "length": 1212
+  },
+  {
+    "file": "docs/api/touch-bar-group.md",
+    "sha": "a04b2279d0b5d2fbdca3c6c6857b3c781fb689cd",
+    "length": 399
+  },
+  {
+    "file": "docs/api/touch-bar-label.md",
+    "sha": "c774fb804690b635710d5d66148b9bc0308b859f",
+    "length": 1308
+  },
+  {
+    "file": "docs/api/touch-bar-other-items-proxy.md",
+    "sha": "efad02d070c70319fd0ce523714b818c62992b28",
+    "length": 726
+  },
+  {
+    "file": "docs/api/touch-bar-popover.md",
+    "sha": "2fae3b1af3f6e42f24c58e85d74c34cd986725d8",
+    "length": 1113
+  },
+  {
+    "file": "docs/api/touch-bar-scrubber.md",
+    "sha": "a64f309c388f701718fc860db6b9a80b01ecbaaf",
+    "length": 3129
+  },
+  {
+    "file": "docs/api/touch-bar-segmented-control.md",
+    "sha": "53d60622480d330d993ec6dad2fdf7926471fc0b",
+    "length": 3541
+  },
+  {
+    "file": "docs/api/touch-bar-slider.md",
+    "sha": "16036ffcf5b56435064178640bacf80980b57774",
+    "length": 1407
+  },
+  {
+    "file": "docs/api/touch-bar-spacer.md",
+    "sha": "79f4a7bd5ecb42e05d3771f6a85d5f7cb12dbd88",
+    "length": 942
+  },
+  {
+    "file": "docs/api/touch-bar.md",
+    "sha": "2a94207a624ce5c7166f0fcd42729dfe1e536fc6",
+    "length": 5944
+  },
+  {
+    "file": "docs/api/tray.md",
+    "sha": "0c7c2e95ac0b85ffefac3a824caee52cc1b754c7",
+    "length": 13527
+  },
+  {
+    "file": "docs/api/utility-process.md",
+    "sha": "ffa6ab0bd03601ef10ec7fb23d069295fc51b9e0",
+    "length": 10425
+  },
+  {
+    "file": "docs/api/view.md",
+    "sha": "c5367cdecf979de25176f71a0032d58c22ca400e",
+    "length": 4411
+  },
+  {
+    "file": "docs/api/web-contents-view.md",
+    "sha": "cae7dabfc563f19287217174aeaf44caf88cc59d",
+    "length": 2109
+  },
+  {
+    "file": "docs/api/web-contents.md",
+    "sha": "dcac97b4892f06feaa046efc06ab3143bb14d788",
+    "length": 94324
+  },
+  {
+    "file": "docs/api/web-frame-main.md",
+    "sha": "9ee582c893a79e3a6439b0f00b2bffe2c1ea27b1",
+    "length": 12016
+  },
+  {
+    "file": "docs/api/web-frame.md",
+    "sha": "710d4153b432c6f2f673e75621396ef8af40546f",
+    "length": 12948
+  },
+  {
+    "file": "docs/api/web-request.md",
+    "sha": "f15f821b34e703864581ac983737a82aab29bc72",
+    "length": 13995
+  },
+  {
+    "file": "docs/api/web-socket.md",
+    "sha": "3185ab6346ea64b74af872045efdc73dac2dabca",
+    "length": 6427
+  },
+  {
+    "file": "docs/api/web-utils.md",
+    "sha": "39d85f6e6509818d30be31e1242d7e81956f9037",
+    "length": 1675
+  },
+  {
+    "file": "docs/api/webview-tag.md",
+    "sha": "2d266851fda87c6be1e4587d99e2610750971607",
+    "length": 38139
+  },
+  {
+    "file": "docs/api/window-open.md",
+    "sha": "b8102a7698fbbdf70242b6e00f8498fb7417eeea",
+    "length": 5925
+  }
+]

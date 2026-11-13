@@ -1,0 +1,50 @@
+{
+  "encoding": "cl100k_base",
+  "implementation": "standalone byte-pair counter; official split pattern adapted to JavaScript; ordinary-text encoding",
+  "vocabularyGitBlob": "d07f956f41dbd74e4bbbdbffd95dbc91265ddfdc",
+  "fixtures": 2,
+  "vocabularySha256": "223921b76ee99bde995b7ff738513eef100fb51d18c93597a113bcffe865b2a7",
+  "unicodeVersion": "17.0",
+  "lessons": [
+    {
+      "file": "01-foundations-and-tooling.md",
+      "words": 3937,
+      "tokens": 5116
+    },
+    {
+      "file": "02-ipc-security-and-native-integration.md",
+      "words": 3887,
+      "tokens": 5025
+    },
+    {
+      "file": "03-ui-data-and-offline.md",
+      "words": 3929,
+      "tokens": 5058
+    },
+    {
+      "file": "04-auth-payments-and-entitlements.md",
+      "words": 3827,
+      "tokens": 5052
+    },
+    {
+      "file": "05-agent-runtime-and-hermes-capstone.md",
+      "words": 3847,
+      "tokens": 5061
+    },
+    {
+      "file": "06-testing-dx-performance-and-reliability.md",
+      "words": 4023,
+      "tokens": 5051
+    },
+    {
+      "file": "07-distribution-signing-stores-and-updates.md",
+      "words": 3780,
+      "tokens": 5025
+    },
+    {
+      "file": "08-capstone-product-and-marketing.md",
+      "words": 4100,
+      "tokens": 5014
+    }
+  ]
+}

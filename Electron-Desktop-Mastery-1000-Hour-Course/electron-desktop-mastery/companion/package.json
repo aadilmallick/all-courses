@@ -1,0 +1,13 @@
+{
+  "name": "atlas-desk-learning-companion",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Small deterministic Electron teaching reference; not a full agent product",
+  "main": "main.cjs",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test test/*.test.mjs"
+  },
+  "devDependencies": { "electron": "45.3.2" }
+}

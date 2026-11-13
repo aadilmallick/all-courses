@@ -1,0 +1,22 @@
+✔ completed runs reject subsequent execution (1.517199ms)
+✔ a proposal is bound to its exact identifier (0.224203ms)
+✔ prompt and decision decoders reject malformed requests (0.289996ms)
+✔ auth callback is one-time and yields verifier only after correlation (0.968381ms)
+✔ expired and mismatched auth callbacks do not establish a session (0.353311ms)
+✔ verified lease policy checks account, device, expiry and feature (0.207111ms)
+✔ demo approval executes once and reaches a terminal state (2.881268ms)
+✔ denial completes without executing a tool (0.65051ms)
+✔ cancellation during generation prevents later proposal (1.263427ms)
+✔ cancellation during execution suppresses simulated effect (0.595772ms)
+✔ a cancelled proposal cannot be approved later (0.292309ms)
+✔ the service rejects overlapping runs and foreign cancellation (1.594274ms)
+✔ event snapshots serialize concurrent saves and reopen (19.668872ms)
+✔ corrupted data fails visibly rather than silently replacing history (1.963188ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 156.197789

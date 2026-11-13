@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "hours": 1000,
+  "lesson_count": 10,
+  "lesson_words_total": 50718,
+  "depth_measure": "Python str.split whitespace words; minimum 5000 per lesson; conservative proxy, not measured model tokens",
+  "tokenizer": "No suitable model tokenizer available locally; no exact token-compliance claim",
+  "lessons": [
+    {
+      "file": "01-typescript-react-and-expo.md",
+      "hours": 80,
+      "whitespace_words": 5180
+    },
+    {
+      "file": "02-router-ui-and-mobile-interactions.md",
+      "hours": 100,
+      "whitespace_words": 5115
+    },
+    {
+      "file": "03-state-offline-and-expo-sdk.md",
+      "hours": 110,
+      "whitespace_words": 5089
+    },
+    {
+      "file": "04-supabase-and-clerk.md",
+      "hours": 110,
+      "whitespace_words": 5051
+    },
+    {
+      "file": "05-firebase-and-better-auth.md",
+      "hours": 110,
+      "whitespace_words": 5168
+    },
+    {
+      "file": "06-amplify-and-appwrite.md",
+      "hours": 100,
+      "whitespace_words": 5043
+    },
+    {
+      "file": "07-payments-and-subscriptions.md",
+      "hours": 100,
+      "whitespace_words": 5034
+    },
+    {
+      "file": "08-pocketpilot-capstone.md",
+      "hours": 140,
+      "whitespace_words": 5009
+    },
+    {
+      "file": "09-quality-security-and-release-engineering.md",
+      "hours": 80,
+      "whitespace_words": 5009
+    },
+    {
+      "file": "10-stores-marketing-and-operations.md",
+      "hours": 70,
+      "whitespace_words": 5020
+    }
+  ],
+  "markdown_fences": 380,
+  "local_links_checked": 153,
+  "typescript_fence_syntax_checks": 137,
+  "typescript_syntax_parser": "Node node:module.stripTypeScriptTypes (Amaro); syntax only, no import resolution or semantic typing",
+  "tsx_fences_not_compiled": 21,
+  "sdk_entries": 90,
+  "domain_tests": 23,
+  "domain_pass": 23,
+  "domain_test_exit_code": 0,
+  "node": "v24.22.1",
+  "not_run": [
+    "Full TypeScript semantic checking",
+    "TSX/native compilation",
+    "Expo dependency installation",
+    "Postgres/RLS execution",
+    "Cloud auth and storage integration",
+    "Store purchase sandbox",
+    "Plaid Sandbox integration",
+    "Physical device tests",
+    "Native builds",
+    "Store submission"
+  ],
+  "errors": []
+}

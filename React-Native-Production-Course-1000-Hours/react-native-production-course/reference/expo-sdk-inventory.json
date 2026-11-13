@@ -1,0 +1,637 @@
+{
+  "researched_on": "2026-11-13",
+  "expo_sdk": 58,
+  "scope": "All 90 entries in the Expo SDK section of the current official index; per-method platform restrictions still apply.",
+  "entries": [
+    {
+      "name": "Expo",
+      "url": "https://docs.expo.dev/versions/latest/sdk/expo/",
+      "package": "expo",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "Accelerometer",
+      "url": "https://docs.expo.dev/versions/latest/sdk/accelerometer/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'ios*', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "AgeRange",
+      "url": "https://docs.expo.dev/versions/latest/sdk/age-range/",
+      "package": "expo-age-range",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "AppIntegrity",
+      "url": "https://docs.expo.dev/versions/latest/sdk/app-integrity/",
+      "package": "@expo/app-integrity",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "AppIntents",
+      "url": "https://docs.expo.dev/versions/latest/sdk/app-intents/",
+      "package": "expo-app-intents",
+      "platforms": "['ios', 'tvos', 'macos']",
+      "recommended_version": null
+    },
+    {
+      "name": "AppleAuthentication",
+      "url": "https://docs.expo.dev/versions/latest/sdk/apple-authentication/",
+      "package": "expo-apple-authentication",
+      "platforms": "['ios', 'tvos', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "Application",
+      "url": "https://docs.expo.dev/versions/latest/sdk/application/",
+      "package": "expo-application",
+      "platforms": "['android', 'ios', 'web', 'tvos', 'expo-go']",
+      "recommended_version": "~58.1.2"
+    },
+    {
+      "name": "Asset",
+      "url": "https://docs.expo.dev/versions/latest/sdk/asset/",
+      "package": "expo-asset",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.21"
+    },
+    {
+      "name": "Audio (expo-audio)",
+      "url": "https://docs.expo.dev/versions/latest/sdk/audio/",
+      "package": "expo-audio",
+      "platforms": "['android', 'ios', 'web', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.12"
+    },
+    {
+      "name": "AuthSession",
+      "url": "https://docs.expo.dev/versions/latest/sdk/auth-session/",
+      "package": "expo-auth-session",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.18"
+    },
+    {
+      "name": "BackgroundFetch",
+      "url": "https://docs.expo.dev/versions/latest/sdk/background-fetch/",
+      "package": "expo-background-fetch",
+      "platforms": "['android', 'ios']",
+      "recommended_version": null
+    },
+    {
+      "name": "BackgroundTask",
+      "url": "https://docs.expo.dev/versions/latest/sdk/background-task/",
+      "package": "expo-background-task",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "Barometer",
+      "url": "https://docs.expo.dev/versions/latest/sdk/barometer/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'ios*', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "Battery",
+      "url": "https://docs.expo.dev/versions/latest/sdk/battery/",
+      "package": "expo-battery",
+      "platforms": "['android', 'ios*', 'web', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "Blob",
+      "url": "https://docs.expo.dev/versions/latest/sdk/blob/",
+      "package": "expo-blob",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "BlurView",
+      "url": "https://docs.expo.dev/versions/latest/sdk/blur-view/",
+      "package": "expo-blur",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "Brightness",
+      "url": "https://docs.expo.dev/versions/latest/sdk/brightness/",
+      "package": "expo-brightness",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.3"
+    },
+    {
+      "name": "Brownfield",
+      "url": "https://docs.expo.dev/versions/latest/sdk/brownfield/",
+      "package": "expo-brownfield",
+      "platforms": "['android', 'ios']",
+      "recommended_version": "~58.0.20"
+    },
+    {
+      "name": "BuildProperties",
+      "url": "https://docs.expo.dev/versions/latest/sdk/build-properties/",
+      "package": "expo-build-properties",
+      "platforms": "['android', 'ios', 'tvos']",
+      "recommended_version": "~58.0.12"
+    },
+    {
+      "name": "Calendar",
+      "url": "https://docs.expo.dev/versions/latest/sdk/calendar/",
+      "package": "expo-calendar",
+      "platforms": "['ios*', 'android*']",
+      "recommended_version": "~58.0.7"
+    },
+    {
+      "name": "Calendar (legacy)",
+      "url": "https://docs.expo.dev/versions/latest/sdk/calendar-legacy/",
+      "package": "expo-calendar",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.7"
+    },
+    {
+      "name": "Camera",
+      "url": "https://docs.expo.dev/versions/latest/sdk/camera/",
+      "package": "expo-camera",
+      "platforms": "['android*', 'ios*', 'web', 'expo-go']",
+      "recommended_version": "~58.0.14"
+    },
+    {
+      "name": "Cellular",
+      "url": "https://docs.expo.dev/versions/latest/sdk/cellular/",
+      "package": "expo-cellular",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "Checkbox",
+      "url": "https://docs.expo.dev/versions/latest/sdk/checkbox/",
+      "package": "expo-checkbox",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.2"
+    },
+    {
+      "name": "Clipboard",
+      "url": "https://docs.expo.dev/versions/latest/sdk/clipboard/",
+      "package": "expo-clipboard",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "Constants",
+      "url": "https://docs.expo.dev/versions/latest/sdk/constants/",
+      "package": "expo-constants",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.16"
+    },
+    {
+      "name": "Contacts",
+      "url": "https://docs.expo.dev/versions/latest/sdk/contacts/",
+      "package": "expo-contacts",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.11"
+    },
+    {
+      "name": "Contacts (legacy)",
+      "url": "https://docs.expo.dev/versions/latest/sdk/contacts-legacy/",
+      "package": "expo-contacts",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.11"
+    },
+    {
+      "name": "Crypto",
+      "url": "https://docs.expo.dev/versions/latest/sdk/crypto/",
+      "package": "expo-crypto",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.8"
+    },
+    {
+      "name": "DevClient",
+      "url": "https://docs.expo.dev/versions/latest/sdk/dev-client/",
+      "package": "expo-dev-client",
+      "platforms": "['android', 'ios', 'tvos']",
+      "recommended_version": "~58.0.20"
+    },
+    {
+      "name": "Device",
+      "url": "https://docs.expo.dev/versions/latest/sdk/device/",
+      "package": "expo-device",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "DeviceMotion",
+      "url": "https://docs.expo.dev/versions/latest/sdk/devicemotion/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "DevMenu",
+      "url": "https://docs.expo.dev/versions/latest/sdk/dev-menu/",
+      "package": "expo-dev-menu",
+      "platforms": "['android', 'ios', 'tvos']",
+      "recommended_version": null
+    },
+    {
+      "name": "DocumentPicker",
+      "url": "https://docs.expo.dev/versions/latest/sdk/document-picker/",
+      "package": "expo-document-picker",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "FileSystem",
+      "url": "https://docs.expo.dev/versions/latest/sdk/filesystem/",
+      "package": "expo-file-system",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.13"
+    },
+    {
+      "name": "FileSystem (legacy)",
+      "url": "https://docs.expo.dev/versions/latest/sdk/filesystem-legacy/",
+      "package": "expo-file-system",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "Fingerprint",
+      "url": "https://docs.expo.dev/versions/latest/sdk/fingerprint/",
+      "package": "@expo/fingerprint",
+      "platforms": "['node']",
+      "recommended_version": "~0.21.10"
+    },
+    {
+      "name": "Font",
+      "url": "https://docs.expo.dev/versions/latest/sdk/font/",
+      "package": "expo-font",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.12"
+    },
+    {
+      "name": "GlassEffect",
+      "url": "https://docs.expo.dev/versions/latest/sdk/glass-effect/",
+      "package": "expo-glass-effect",
+      "platforms": "['ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "GLView",
+      "url": "https://docs.expo.dev/versions/latest/sdk/gl-view/",
+      "package": "expo-gl",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "Gyroscope",
+      "url": "https://docs.expo.dev/versions/latest/sdk/gyroscope/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'ios*', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "Haptics",
+      "url": "https://docs.expo.dev/versions/latest/sdk/haptics/",
+      "package": "expo-haptics",
+      "platforms": "['android', 'ios', 'web']",
+      "recommended_version": null
+    },
+    {
+      "name": "Hinge",
+      "url": "https://docs.expo.dev/versions/latest/sdk/hinge/",
+      "package": "expo-hinge",
+      "platforms": "['android', 'ios']",
+      "recommended_version": null
+    },
+    {
+      "name": "Image",
+      "url": "https://docs.expo.dev/versions/latest/sdk/image/",
+      "package": "expo-image",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.18"
+    },
+    {
+      "name": "ImageManipulator",
+      "url": "https://docs.expo.dev/versions/latest/sdk/imagemanipulator/",
+      "package": "expo-image-manipulator",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.16"
+    },
+    {
+      "name": "ImagePicker",
+      "url": "https://docs.expo.dev/versions/latest/sdk/imagepicker/",
+      "package": "expo-image-picker",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.10"
+    },
+    {
+      "name": "IntentLauncher",
+      "url": "https://docs.expo.dev/versions/latest/sdk/intent-launcher/",
+      "package": "expo-intent-launcher",
+      "platforms": "['android', 'expo-go']",
+      "recommended_version": "~58.0.3"
+    },
+    {
+      "name": "KeepAwake",
+      "url": "https://docs.expo.dev/versions/latest/sdk/keep-awake/",
+      "package": "expo-keep-awake",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "LightSensor",
+      "url": "https://docs.expo.dev/versions/latest/sdk/light-sensor/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "LinearGradient",
+      "url": "https://docs.expo.dev/versions/latest/sdk/linear-gradient/",
+      "package": "expo-linear-gradient",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "Linking",
+      "url": "https://docs.expo.dev/versions/latest/sdk/linking/",
+      "package": "expo-linking",
+      "platforms": "['android', 'ios', 'web', 'tvos', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "LivePhoto",
+      "url": "https://docs.expo.dev/versions/latest/sdk/live-photo/",
+      "package": "expo-live-photo",
+      "platforms": "['ios', 'expo-go']",
+      "recommended_version": "~58.0.8"
+    },
+    {
+      "name": "LocalAuthentication",
+      "url": "https://docs.expo.dev/versions/latest/sdk/local-authentication/",
+      "package": "expo-local-authentication",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.3"
+    },
+    {
+      "name": "Localization",
+      "url": "https://docs.expo.dev/versions/latest/sdk/localization/",
+      "package": "expo-localization",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "Location",
+      "url": "https://docs.expo.dev/versions/latest/sdk/location/",
+      "package": "expo-location",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.22"
+    },
+    {
+      "name": "Location (next)",
+      "url": "https://docs.expo.dev/versions/latest/sdk/location-next/",
+      "package": "expo-location",
+      "platforms": "['android', 'ios']",
+      "recommended_version": "~58.0.22"
+    },
+    {
+      "name": "Magnetometer",
+      "url": "https://docs.expo.dev/versions/latest/sdk/magnetometer/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "MailComposer",
+      "url": "https://docs.expo.dev/versions/latest/sdk/mail-composer/",
+      "package": "expo-mail-composer",
+      "platforms": "['android', 'ios*', 'web', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "Manifests",
+      "url": "https://docs.expo.dev/versions/latest/sdk/manifests/",
+      "package": "expo-manifests",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.1"
+    },
+    {
+      "name": "Maps",
+      "url": "https://docs.expo.dev/versions/latest/sdk/maps/",
+      "package": "expo-maps",
+      "platforms": "['ios', 'android']",
+      "recommended_version": null
+    },
+    {
+      "name": "MediaLibrary",
+      "url": "https://docs.expo.dev/versions/latest/sdk/media-library/",
+      "package": "expo-media-library",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.14"
+    },
+    {
+      "name": "MediaLibrary (legacy)",
+      "url": "https://docs.expo.dev/versions/latest/sdk/media-library-legacy/",
+      "package": "expo-media-library",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.14"
+    },
+    {
+      "name": "MeshGradient",
+      "url": "https://docs.expo.dev/versions/latest/sdk/mesh-gradient/",
+      "package": "expo-mesh-gradient",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "NavigationBar",
+      "url": "https://docs.expo.dev/versions/latest/sdk/navigation-bar/",
+      "package": "expo-navigation-bar",
+      "platforms": "['android', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "Network",
+      "url": "https://docs.expo.dev/versions/latest/sdk/network/",
+      "package": "expo-network",
+      "platforms": "['android', 'ios', 'web', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "Notifications",
+      "url": "https://docs.expo.dev/versions/latest/sdk/notifications/",
+      "package": "expo-notifications",
+      "platforms": "['android', 'ios']",
+      "recommended_version": "~58.1.9"
+    },
+    {
+      "name": "Observe",
+      "url": "https://docs.expo.dev/versions/latest/sdk/observe/",
+      "package": "expo-observe",
+      "platforms": "['android', 'ios', 'tvos']",
+      "recommended_version": "~58.0.19"
+    },
+    {
+      "name": "Pedometer",
+      "url": "https://docs.expo.dev/versions/latest/sdk/pedometer/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "Print",
+      "url": "https://docs.expo.dev/versions/latest/sdk/print/",
+      "package": "expo-print",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.9"
+    },
+    {
+      "name": "ScreenCapture",
+      "url": "https://docs.expo.dev/versions/latest/sdk/screen-capture/",
+      "package": "expo-screen-capture",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.6"
+    },
+    {
+      "name": "ScreenOrientation",
+      "url": "https://docs.expo.dev/versions/latest/sdk/screen-orientation/",
+      "package": "expo-screen-orientation",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.4"
+    },
+    {
+      "name": "SecureStore",
+      "url": "https://docs.expo.dev/versions/latest/sdk/securestore/",
+      "package": "expo-secure-store",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.3"
+    },
+    {
+      "name": "Sensors",
+      "url": "https://docs.expo.dev/versions/latest/sdk/sensors/",
+      "package": "expo-sensors",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "Server",
+      "url": "https://docs.expo.dev/versions/latest/sdk/server/",
+      "package": "expo-server",
+      "platforms": "['server']",
+      "recommended_version": "~58.1.0"
+    },
+    {
+      "name": "Sharing",
+      "url": "https://docs.expo.dev/versions/latest/sdk/sharing/",
+      "package": "expo-sharing",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.23"
+    },
+    {
+      "name": "SMS",
+      "url": "https://docs.expo.dev/versions/latest/sdk/sms/",
+      "package": "expo-sms",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.3"
+    },
+    {
+      "name": "Speech",
+      "url": "https://docs.expo.dev/versions/latest/sdk/speech/",
+      "package": "expo-speech",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "SplashScreen",
+      "url": "https://docs.expo.dev/versions/latest/sdk/splash-screen/",
+      "package": "expo-splash-screen",
+      "platforms": "['android', 'ios', 'tvos']",
+      "recommended_version": "~58.0.13"
+    },
+    {
+      "name": "SQLite",
+      "url": "https://docs.expo.dev/versions/latest/sdk/sqlite/",
+      "package": "expo-sqlite",
+      "platforms": "['android', 'ios', 'macos', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.17"
+    },
+    {
+      "name": "StatusBar",
+      "url": "https://docs.expo.dev/versions/latest/sdk/status-bar/",
+      "package": "expo-status-bar",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "StoreReview",
+      "url": "https://docs.expo.dev/versions/latest/sdk/storereview/",
+      "package": "expo-store-review",
+      "platforms": "['android', 'ios', 'expo-go']",
+      "recommended_version": "~58.0.3"
+    },
+    {
+      "name": "Symbols",
+      "url": "https://docs.expo.dev/versions/latest/sdk/symbols/",
+      "package": "expo-symbols",
+      "platforms": "['android', 'ios', 'tvos', 'web', 'expo-go']",
+      "recommended_version": "~58.0.5"
+    },
+    {
+      "name": "SystemUI",
+      "url": "https://docs.expo.dev/versions/latest/sdk/system-ui/",
+      "package": "expo-system-ui",
+      "platforms": "['android', 'ios', 'tvos', 'web']",
+      "recommended_version": "~58.0.7"
+    },
+    {
+      "name": "TaskManager",
+      "url": "https://docs.expo.dev/versions/latest/sdk/task-manager/",
+      "package": "expo-task-manager",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.14"
+    },
+    {
+      "name": "TrackingTransparency",
+      "url": "https://docs.expo.dev/versions/latest/sdk/tracking-transparency/",
+      "package": "expo-tracking-transparency",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.1.0"
+    },
+    {
+      "name": "Updates",
+      "url": "https://docs.expo.dev/versions/latest/sdk/updates/",
+      "package": "expo-updates",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.22"
+    },
+    {
+      "name": "Video (expo-video)",
+      "url": "https://docs.expo.dev/versions/latest/sdk/video/",
+      "package": "expo-video",
+      "platforms": "['android', 'ios', 'web', 'tvos', 'expo-go']",
+      "recommended_version": null
+    },
+    {
+      "name": "VideoThumbnails",
+      "url": "https://docs.expo.dev/versions/latest/sdk/video-thumbnails/",
+      "package": "expo-video-thumbnails",
+      "platforms": "['android', 'ios', 'tvos', 'expo-go']",
+      "recommended_version": "~58.0.3"
+    },
+    {
+      "name": "WebBrowser",
+      "url": "https://docs.expo.dev/versions/latest/sdk/webbrowser/",
+      "package": "expo-web-browser",
+      "platforms": "['android', 'ios', 'web', 'expo-go']",
+      "recommended_version": "~58.0.8"
+    },
+    {
+      "name": "Widgets",
+      "url": "https://docs.expo.dev/versions/latest/sdk/widgets/",
+      "package": "expo-widgets",
+      "platforms": "['ios', 'android']",
+      "recommended_version": "~58.0.28"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "example": "event-loop.mjs",
+    "status": "passed",
+    "output": "loop finished\ntimer after 82 ms"
+  },
+  {
+    "example": "pkce-demo.mjs",
+    "status": "passed",
+    "output": "Verifier length: 43\nChallenge length: 43\nSample request: https://identity.example/authorize?response_type=code&client_id=public-desktop-client&redirect_uri=http%3A%2F%2F127.0.0.1%3A43123%2Fcallback&code_challenge_method=S256&code_challenge=qYF41GrB1PH8HOs3thCKgg5RIlTjqNuIyuReCmXbzrQ&state=gXDmLMaO8ioNjvZf5ORqV0DC5Pmdfedybm2yr862WCc"
+  },
+  {
+    "example": "lines.mjs",
+    "status": "passed",
+    "output": "{ text: 'caf\u00e9' }\n{ done: true }"
+  },
+  {
+    "example": "latency.mjs",
+    "status": "passed",
+    "output": "{ medianMs: '3.15', p95Ms: '3.70', sampleCount: 40 }"
+  },
+  {
+    "example": "SQLite schema and transaction",
+    "status": "passed",
+    "engine": "3.53.1"
+  }
+]

@@ -1,0 +1,31 @@
+✔ decimal money parsing uses integer minor units (3.162604ms)
+✔ currency exponent is explicit (0.386462ms)
+✔ rejects malformed and overprecise amounts (0.316567ms)
+✔ safe-integer boundary is exact (0.218625ms)
+✔ money addition rejects currency mixing and overflow (0.781692ms)
+✔ dates reject impossible values and accept leap years (0.437997ms)
+✔ month addition clamps without assuming thirty days (0.493388ms)
+✔ posted expenses net refunds under the documented cash-activity policy (1.842901ms)
+✔ pending, transfers, exclusions, other categories and currencies are excluded (0.563677ms)
+✔ budget period is half-open and dates are validated (0.79034ms)
+✔ budget overage remains negative (0.363407ms)
+✔ spending overflow fails rather than losing precision (0.258245ms)
+✔ monthly detection returns evidence and a candidate, not a confirmed subscription (8.877306ms)
+✔ recurrence rejects too little evidence, irregular timing, and variable amounts (0.262936ms)
+✔ recurrence enforces grouping and unique source identity (0.251579ms)
+✔ entitlement expires at the exact boundary and rejects revoked access (0.379813ms)
+✔ invalid entitlement dates and future verification are rejected (0.266298ms)
+✔ stable provider IDs make duplicate additions idempotent within a window (2.309721ms)
+✔ pending removal plus posted addition preserves annotation and avoids double counting (0.379592ms)
+✔ a posted annotation takes precedence over inherited pending annotation (0.616654ms)
+✔ modifications replace facts and removals clear only the scoped connection (0.452698ms)
+✔ stale cursor and cross-connection writes fail without mutating source state (0.768901ms)
+✔ ambiguous string delimiters cannot collide in provider keys (0.300541ms)
+ℹ tests 23
+ℹ suites 0
+ℹ pass 23
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 309.914077

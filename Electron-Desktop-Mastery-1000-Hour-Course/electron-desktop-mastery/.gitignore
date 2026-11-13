@@ -1,0 +1,17 @@
+node_modules/
+out/
+dist/
+.vite/
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.key
+*.mobileprovision
+*.db
+*.db-wal
+*.db-shm
+coverage/
+test-results/
+playwright-report/
