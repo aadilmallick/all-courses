@@ -1,0 +1,40 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "readiness",
+      "title": "Evidence before the offer",
+      "chapter": "chapter-01",
+      "description": "Evidence before the offer",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "value",
+      "title": "Model customer value",
+      "chapter": "chapter-01",
+      "description": "Model customer value",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "reliability",
+      "title": "Explore an error budget",
+      "chapter": "chapter-02",
+      "description": "Explore an error budget",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "evaluation",
+      "title": "Evaluate a workflow policy",
+      "chapter": "chapter-03",
+      "description": "Evaluate a workflow policy",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "commercial",
+      "title": "Price and capacity",
+      "chapter": "chapter-04",
+      "description": "Price and capacity",
+      "module": "labs.mjs"
+    }
+  ]
+}

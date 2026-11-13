@@ -1,0 +1,353 @@
+{
+  "accessed": "2026-11-13",
+  "sources": [
+    {
+      "id": "chrome-ai-overview",
+      "title": "Artificial Intelligence in Chrome",
+      "publisher": "Google Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/ai",
+      "accessed": "2026-11-13",
+      "accessStatus": "inspected",
+      "inspected": "Built-in AI overview and API navigation.",
+      "use": "Selected currently documented browser capabilities rather than promising universal support."
+    },
+    {
+      "id": "chrome-prompt",
+      "title": "The Prompt API",
+      "publisher": "Google Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/ai/prompt-api",
+      "accessed": "2026-11-13",
+      "version": "Documentation updated October 21, 2026",
+      "accessStatus": "partially-inspected",
+      "inspected": "Availability/create/prompt/destroy, expectedInputs/expectedOutputs, supported languages and audio modality.",
+      "use": "Optional English reflection coach. Urdu is not in the listed supported languages; no Urdu pronunciation assessment is claimed."
+    },
+    {
+      "id": "webspeech-voices",
+      "title": "SpeechSynthesis: getVoices()",
+      "publisher": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis/getVoices",
+      "accessed": "2026-11-13",
+      "accessStatus": "inspected",
+      "inspected": "Device voice enumeration and voiceschanged example.",
+      "use": "Runtime Urdu/Hindi voice detection and an explicit unsupported state."
+    },
+    {
+      "id": "local-asr",
+      "title": "SpeechRecognition: processLocally",
+      "publisher": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition/processLocally",
+      "accessed": "2026-11-13",
+      "accessStatus": "inspected",
+      "inspected": "Local recognition property and language-pack requirement.",
+      "use": "Local-only recognition request; no remote fallback."
+    },
+    {
+      "id": "local-asr-availability",
+      "title": "SpeechRecognition: available() and install()",
+      "publisher": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition/available_static",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "langs/processLocally options, availability states, install usage and errors; companion install_static page also inspected.",
+      "use": "Check before use and request a language-pack download only on user action."
+    },
+    {
+      "id": "subbarao-dakkhini",
+      "title": "South Asian Languages: A Syntactic Typology — supplementary material",
+      "author": "Karumuri V. Subbarao",
+      "publisher": "Cambridge University Press supplementary resource",
+      "url": "https://drupal-s3fs-prod.s3.eu-west-1.amazonaws.com/resources/academic/3513/6680/1739/Subbarao_web_material_9780521861489.pdf",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "Title/contents; Dakkhini sections on quotative bol ke and post-sentential ki at printed pages 52–58; relative so at pages 193–197. Not all 352 PDF pages read.",
+      "use": "Short recognition notes in the field guide; documented regional grammar is not assumed universal across present-day Hyderabad families.",
+      "limitations": "No source PDF redistributed; examples and course activities are original, not a native-speaker validation."
+    },
+    {
+      "id": "b2-huf-verb",
+      "title": "The Hindi-Urdu Verb: A Guided Tour",
+      "author": "Rupert Snell",
+      "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+      "date": "2015-05-01",
+      "url": "https://hindiurduflagship.org/wp/wp-content/uploads/2015/05/HU-Verb.pdf",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "PDF text: sections 8, 10, 16, 17, 18, and 26; original pagination approximately 7-8, 12-13, and 18.",
+      "usedFor": "Spot-checking subjunctive, passive, completion, compound-verb, counterfactual and causative terminology and basic contrasts in chapters 9-10 and 12.",
+      "rights": "Referenced only. No original source PDF or substantial extraction redistributed. Course explanations, examples and dialogues are original."
+    },
+    {
+      "id": "b2-huf-conditional",
+      "title": "Grammar: Conditional Sentences",
+      "author": "Hindi Urdu Flagship; presentation by Dr. Shankar",
+      "publisher": "University of Texas at Austin",
+      "date": "2011-08-15",
+      "url": "https://hindiurduflagship.org/grammar-conditional-sentences/",
+      "accessed": "2026-11-13",
+      "status": "inspected",
+      "inspected": "Landing-page description and indexed conditional presentation summary; not every slide independently checked.",
+      "usedFor": "Reference check that conditional constructions vary with context; no claim to translate the presentation or reproduce its examples.",
+      "rights": "External reference only."
+    },
+    {
+      "id": "b2-huf-skeleton",
+      "title": "Hindi Skeleton Grammar",
+      "author": "Rupert Snell",
+      "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+      "url": "https://hindiurduflagship.org/assets/pdf/Skeleton_Grammar.pdf",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Extracted text: pronouns, postpositions, agreement, comparisons, and conditional summary.",
+      "usedFor": "Cross-checking shared-standard grammatical labels; the source is not a description of all Hyderabadi household patterns.",
+      "rights": "External reference only; original Roman-script examples supplied in the course."
+    },
+    {
+      "id": "b2-cefr",
+      "title": "CEFR Descriptors",
+      "publisher": "Council of Europe",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors",
+      "accessed": "2026-11-13",
+      "status": "inspected",
+      "inspected": "Descriptor overview and links to 2020 Companion Volume; parent workflow also inspected spoken-interaction descriptors.",
+      "usedFor": "Overall direction of unrehearsed spoken interaction, explanation and discussion. Course point thresholds and rubrics are original informal practice tools, not validated CEFR cut scores.",
+      "rights": "Linked and paraphrased briefly; no descriptor bank copied."
+    },
+    {
+      "id": "b2-huf-assessment",
+      "title": "HUF Language Assessment",
+      "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+      "url": "https://hindiurduflagship.org/students-alumni/huf-language-assessment-and-testing/",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Indexed page text on communicative proficiency, sustained conversation, narrative, register and assessment modalities.",
+      "usedFor": "Distinction between rehearsed knowledge and communicative performance in chapters 11-12. No ILR-to-CEFR equivalence claimed.",
+      "rights": "External reference only."
+    },
+    {
+      "id": "b2-casadei",
+      "title": "Language, Social Identity and Collective Memory in the Deccan: The Case of Dakhni Urdu and its Revived and Lost Heritage",
+      "author": "Maria Casadei",
+      "publisher": "Jagiellonian University repository",
+      "date": "2025",
+      "url": "https://ruj.uj.edu.pl/bitstreams/d6c2a552-45b8-45b0-a89f-98aeace7ac4a/download",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Repository download landing page and indexed excerpts discussing contemporary Hyderabad speaker groups and variation; full dissertation was not read.",
+      "usedFor": "Caution against treating Dakhni as one uniform set of slang substitutions. Course household forms need live family confirmation.",
+      "rights": "No source PDF redistributed. Indexed excerpt is not presented as comprehensive inspection."
+    },
+    {
+      "id": "b2-casadei-overview",
+      "title": "From a Literary Language to an Oral Tongue: A Linguistic Overview of the Dakhni Language",
+      "author": "Maria Casadei",
+      "date": "2023",
+      "url": "https://journals.indexcopernicus.com/api/file/viewByFileId/1963987",
+      "accessed": "2026-11-13",
+      "status": "unavailable",
+      "inspected": "Search-result abstract available; direct PDF request timed out. Not relied on for fine-grained grammatical claims.",
+      "usedFor": "Research lead only; do not infer complete reading.",
+      "rights": "Not redistributed."
+    },
+    {
+      "id": "foundation-snell-glossary",
+      "title": "Glossary of Linguistic Terms",
+      "author": "Rupert Snell",
+      "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+      "url": "https://www.hindiurduflagship.org/assets/pdf/Glossary_Linguistic_Terms.pdf",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "PDF text and relevant entries for agreement, adjective, pronoun, postposition, oblique and progressive terminology.",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "use": "Terminology and shared grammatical concepts. Original course explanations and examples; no reproduced lesson text.",
+      "limitations": "Not a pronunciation recording or a Hyderabadi dialect reference. Roman conventions here are independently chosen."
+    },
+    {
+      "id": "foundation-umn-index",
+      "title": "Hindi-Urdu: Open Textbook",
+      "author": "Sungok Hong, Sunil Kumar Bhatt, Rajiv Ranjan and Lakhan Gusain",
+      "publisher": "University of Minnesota Libraries Publishing",
+      "url": "https://open.lib.umn.edu/hindiurdu/",
+      "accessed": "2026-11-13",
+      "accessStatus": "index-only",
+      "inspected": "Book index and linked grammar note titles; selected notes inspected separately below.",
+      "chapters": [
+        3,
+        4
+      ],
+      "use": "Located primary institutional grammar notes.",
+      "limitations": "Index access is not a claim to have read the entire book. Its script and pedagogical order are not copied."
+    },
+    {
+      "id": "foundation-umn-continuous",
+      "title": "Grammar Notes 4.1: Continuous tenses",
+      "publisher": "Hindi-Urdu, University of Minnesota Libraries Publishing",
+      "url": "https://open.lib.umn.edu/hindiurdu/chapter/grammar-notes-4-1/",
+      "accessed": "2026-11-13",
+      "accessStatus": "inspected",
+      "inspected": "Grammar note on ongoing-action formation and tense auxiliaries.",
+      "chapters": [
+        3
+      ],
+      "use": "Cross-check of shared progressive construction. Teaching dialogues and exercises are original.",
+      "limitations": "Does not certify Dakhni pronunciation or all family-specific agreement practices."
+    },
+    {
+      "id": "foundation-umn-want-need",
+      "title": "Grammar Notes 1.2: Wanting and needing",
+      "publisher": "Hindi-Urdu, University of Minnesota Libraries Publishing",
+      "url": "https://open.lib.umn.edu/hindiurdu/chapter/grammar-notes-1-2-2/",
+      "accessed": "2026-11-13",
+      "accessStatus": "inspected",
+      "inspected": "Grammar note distinguishing chaahna and chahiye constructions.",
+      "chapters": [
+        4
+      ],
+      "use": "Cross-check of wanting versus needing. No dialogues or answer keys copied.",
+      "limitations": "Shared Hindi-Urdu grammar source rather than a Hyderabadi usage survey."
+    },
+    {
+      "id": "foundation-umn-imperative-unavailable",
+      "title": "Grammar Notes 1.1: Imperative",
+      "publisher": "Hindi-Urdu, University of Minnesota Libraries Publishing",
+      "url": "https://open.lib.umn.edu/hindiurdu/chapter/grammar-1-1-notes-imperative/",
+      "accessed": "2026-11-13",
+      "accessStatus": "unavailable",
+      "inspected": "Linked from the inspected book index; linked page returned HTTP 403 in the browsing tool.",
+      "chapters": [
+        4
+      ],
+      "use": "Provenance record of an unavailable page; not cited as inspected teaching evidence.",
+      "limitations": "No claim to have read this page."
+    },
+    {
+      "id": "foundation-bhatt-phrase-structure",
+      "title": "Hindi-Urdu Phrase Structure Annotation Guidelines",
+      "author": "Rajesh Bhatt, with Annahita Farudi and Owen Rambow",
+      "version": "0.2, August 28, 2012",
+      "publisher": "Research guidelines hosted by University of Colorado Boulder",
+      "url": "https://verbs.colorado.edu/hindiurdu/guidelines_docs/PhraseStructureguidelines00.pdf",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "PDF metadata, chapter map and relevant text concerning postpositional phrases, pronoun-plus-marker forms and dative constructions; printed chapter 22 begins at page 165.",
+      "chapters": [
+        3
+      ],
+      "use": "Technical cross-check for shared postpositional phrase and pronoun structure.",
+      "limitations": "A research annotation document, not a beginner course or a complete read of all 243 PDF pages."
+    },
+    {
+      "id": "foundation-dakhni-research-limited",
+      "title": "Language and social identity research PDF: repository download endpoint",
+      "publisher": "Jagiellonian University Repository",
+      "url": "https://ruj.uj.edu.pl/bitstreams/d6c2a552-45b8-45b0-a89f-98aeace7ac4a/download",
+      "accessed": "2026-11-13",
+      "accessStatus": "unavailable",
+      "inspected": "Search excerpt mentioned fieldwork and local Dakhni forms; opening produced only a download interstitial naming casadei_language_social_identity_2025.pdf.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "use": "Identified potentially relevant research; not used as an inspected primary source for a dialect claim.",
+      "limitations": "Full PDF and bibliographic metadata were not available in the browsing result. Local examples remain explicitly family-dependent and need native family review."
+    },
+    {
+      "id": "foundation-dakhni-glossary-not-authority",
+      "title": "Glossary of Dakhni Terms",
+      "publisher": "Dakhni.org",
+      "url": "https://dakhni.org/glossary/",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "Visible glossary and editorial disclosure that AI assists research and drafting.",
+      "chapters": [
+        1,
+        3,
+        4
+      ],
+      "use": "Discovery only; not treated as primary linguistic evidence and no etymological or historical claims adopted.",
+      "limitations": "Does not replace a native speaker, fieldwork transcript, or a dialect grammar."
+    },
+    {
+      "id": "ut-hindi-grammar-narrative",
+      "title": "Hindi Grammar",
+      "publisher": "University of Texas at Austin, Hindi language program",
+      "url": "https://hindi.la.utexas.edu/resources/grammar/",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "Tense/aspect overview; noun/adjective plus verb constructions; compound verbs; obligation with chahiye, hona, and padna; ko and se examples.",
+      "chapters": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "rights": "Linked as a reference; no source prose, source recordings, or full extracts redistributed.",
+      "limitations": "A shared Hindi-Urdu grammar reference, not a native Hyderabadi usage audit. Some displayed source examples contain apparent typographic inconsistencies, so this course uses original worked examples rather than reproducing the tables."
+    },
+    {
+      "id": "ut-relative-correlative-narrative",
+      "title": "Nursery Rhymes: selected grammar teaching notes",
+      "publisher": "University of Texas at Austin, Hindi language program",
+      "url": "https://hindi.la.utexas.edu/resources/nursery-rhymes/",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "Relative-correlative explanation and table; sequential kar/ke connections; subjunctive and compulsion teaching notes.",
+      "chapters": [
+        6,
+        8
+      ],
+      "rights": "No song lyrics, audio, illustrations, or source examples reproduced.",
+      "limitations": "Selective inspection of grammar notes only; unrelated songs were not analyzed or adapted."
+    },
+    {
+      "id": "nyu-environment-curriculum-narrative",
+      "title": "Environment, Community and Sustainability",
+      "publisher": "NYU Virtual Hindi",
+      "url": "https://wp.nyu.edu/virtualhindi/environment-community-and-sustainability/",
+      "accessed": "2026-11-13",
+      "accessStatus": "partially-inspected",
+      "inspected": "Week 5 and Week 6 communicative syllabus items mentioning reflexives, household descriptions, food, needs, and likes.",
+      "chapters": [
+        7
+      ],
+      "rights": "Used as a curriculum comparison reference; original course activities written independently.",
+      "limitations": "An inspected syllabus section is not a complete grammar source or an executed course."
+    },
+    {
+      "id": "ut-verb-tour-narrative",
+      "title": "The Hindi-Urdu Verb: A Guided Tour",
+      "author": "Rupert Snell",
+      "publisher": "University of Texas at Austin, Hindi Urdu Flagship",
+      "url": "https://hindi.la.utexas.edu/resources/the-hindi-verb/",
+      "accessed": "2026-11-13",
+      "accessStatus": "index-only",
+      "inspected": "Search-result description identifying the guide as Roman-script verb teaching; direct page fetch timed out.",
+      "chapters": [
+        5
+      ],
+      "rights": "Reference link only.",
+      "limitations": "Full guide and examples were not read; not claimed as a fully inspected authority."
+    },
+    {
+      "id": "ut-ne-cracker-narrative",
+      "title": "The ne Cracker",
+      "author": "Rupert Snell",
+      "publisher": "University of Texas at Austin, Hindi Urdu Flagship",
+      "url": "https://hindi.la.utexas.edu/wp-content/uploads/sites/8/2022/03/Ne_Cracker.pdf",
+      "accessed": "2026-11-13",
+      "accessStatus": "index-only",
+      "inspected": "Search-result description of perfective transitivity tables; direct PDF fetch timed out.",
+      "chapters": [
+        5
+      ],
+      "rights": "Reference link only; no table reproduced.",
+      "limitations": "Not used to certify an exhaustive list of verb exceptions."
+    }
+  ]
+}

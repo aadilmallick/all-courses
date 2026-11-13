@@ -1,0 +1,37 @@
+{
+  "lessons": [
+    {
+      "lesson": "01-study-and-setup.md",
+      "prose_words": 1019
+    },
+    {
+      "lesson": "02-script-and-storyboard.md",
+      "prose_words": 1029
+    },
+    {
+      "lesson": "03-recording-and-voice-edit.md",
+      "prose_words": 997
+    },
+    {
+      "lesson": "04-editing-recipes.md",
+      "prose_words": 1495
+    },
+    {
+      "lesson": "05-assemble-and-polish.md",
+      "prose_words": 974
+    },
+    {
+      "lesson": "06-practice-and-repeat.md",
+      "prose_words": 987
+    }
+  ],
+  "total_lesson_prose_words": 6501,
+  "sample_script_words": 184,
+  "sample_at_150_wpm_seconds": 73.6,
+  "local_links": 23,
+  "anchors": 59,
+  "python_fixture_checks": 4,
+  "js_syntax_files": 5,
+  "errors": [],
+  "browser_preview": "Blocked by browser URL policy. No workaround attempted; actual layout/control interaction unverified."
+}

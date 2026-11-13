@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {economics,funnel,analytics,schedule,storage,scriptTime,weighted,words} from './model.mjs';
+const e=economics({views:200000,rpm:5,notes:60,notesPrice:49,members:40,memberPrice:39,sessions:10,sessionPrice:150,audits:2,auditPrice:1500,refund:5,fee:7,costs:700,contentHours:24,communityHours:8,notesHours:4,sessionHours:1.35,auditHours:6,adminHours:6});
+assert.equal(e.gross,10000);assert.equal(e.cash,8445);assert.equal(e.hours,67.5);assert.equal(e.adOnly,2000000);
+assert.equal(economics({rpm:0}).adOnly,null);assert.equal(economics({views:-10,rpm:10}).ads,0);
+assert.deepEqual(funnel({views:10000,visit:1,optin:40,buy:5,price:49}),{visitors:100,optins:40,buyers:2,gross:98});
+assert.equal(funnel({views:0,visit:1,optin:40,buy:5,price:49}).gross,0);
+assert.equal(analytics({impressions:1000,impressionViews:50,views:80,avd:240,duration:480}).ctr,5);
+assert.equal(analytics({impressions:0}).ctr,null);assert.equal(analytics({duration:100,avd:200}).invalid,true);
+assert.equal(schedule({days:[60,75,60,75,30,150,60],content:8.5,sessions:0,other:0}).remaining,0);
+assert.equal(schedule({days:[60,75,60,75,30,150,60],content:8.5,sessions:2,sessionHours:1.5,other:0}).remaining,-3);
+assert.equal(weighted([4,5],[0,0]),0);assert.equal(words('  one\n two  '),2);assert.equal(scriptTime('one two',120,59),60);
+assert.ok(Math.abs(storage(60,12,2,192)-5.5728)<1e-9);
+console.log('Passed 17 checks: baseline economics, zero/negative inputs, denominators, funnel stages, storage, narration, and capacity.');

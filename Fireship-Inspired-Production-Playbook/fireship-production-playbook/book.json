@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "title": "Make sharp software videos",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "course.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "01 — Study the decisions, then make a small setup",
+      "path": "lessons/01-study-and-setup.md",
+      "status": "complete",
+      "minimum_prose_words": 500,
+      "prerequisites": [],
+      "experiments": []
+    },
+    {
+      "id": "chapter-02",
+      "title": "02 — Write for spoken clarity and plan what the viewer sees",
+      "path": "lessons/02-script-and-storyboard.md",
+      "status": "complete",
+      "minimum_prose_words": 500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": []
+    },
+    {
+      "id": "chapter-03",
+      "title": "03 — Record useful pieces and build the voice track first",
+      "path": "lessons/03-recording-and-voice-edit.md",
+      "status": "complete",
+      "minimum_prose_words": 500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": []
+    },
+    {
+      "id": "chapter-04",
+      "title": "04 — Learn seven editing moves and reuse them",
+      "path": "lessons/04-editing-recipes.md",
+      "status": "complete",
+      "minimum_prose_words": 500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "editing-practice"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "05 — Assemble one complete video and finish it carefully",
+      "path": "lessons/05-assemble-and-polish.md",
+      "status": "complete",
+      "minimum_prose_words": 500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": []
+    },
+    {
+      "id": "chapter-06",
+      "title": "06 — Improve by comparison, then use a repeatable cycle",
+      "path": "lessons/06-practice-and-repeat.md",
+      "status": "complete",
+      "minimum_prose_words": 500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": []
+    }
+  ],
+  "assets": [],
+  "source_listings": [
+    {
+      "id": "lab-model-source",
+      "title": "Original editing calculations",
+      "path": "lab-model.js"
+    },
+    {
+      "id": "demo-source",
+      "title": "Synthetic recording fixture",
+      "path": "assets/json_demo.py"
+    }
+  ],
+  "companion": {
+    "path": ".",
+    "catalog": "catalog.json",
+    "starter": false,
+    "run": "Open editing-lab.html"
+  },
+  "provenance": "sources.md",
+  "verification": "verification.md"
+}

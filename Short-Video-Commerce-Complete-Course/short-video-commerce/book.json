@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "title": "From Short Videos to Customers",
+  "subtitle": "Video craft, affiliate marketing, and digital-product funnels",
+  "audience": "Aadil: a developer and teacher learning video and marketing from the beginning",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Make a video worth watching, then learn to repeat it",
+      "path": "chapters/01-story-and-learning.md",
+      "part": "Part I — Make useful videos",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [],
+      "experiments": [
+        "script"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Record pictures and sound that make the explanation easy",
+      "path": "chapters/02-recording-clear-videos.md",
+      "part": "Part I — Make useful videos",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "frame"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Learn editing through finished projects and careful use of AI",
+      "path": "chapters/03-editing-tools-and-training.md",
+      "part": "Part I — Make useful videos",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "frame"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Affiliate marketing and the TikTok Shop funnel",
+      "path": "chapters/04-affiliate-marketing-and-tiktok-shop.md",
+      "part": "Part II — Build the commercial continuation",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "funnel"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Build owned funnels for ebooks, courses, and useful software",
+      "path": "chapters/05-owned-digital-product-funnels.md",
+      "part": "Part II — Build the commercial continuation",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "utm",
+        "saas"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Measure the whole route and build a sustainable growth process",
+      "path": "chapters/06-measurement-growth-and-capstones.md",
+      "part": "Part II — Build the commercial continuation",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "uncertainty"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/funnel-routes.svg"
+  ],
+  "source_listings": [
+    {
+      "id": "calculation-source",
+      "path": "companion/model.mjs"
+    },
+    {
+      "id": "interaction-source",
+      "path": "companion/labs.mjs"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

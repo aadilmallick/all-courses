@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "c05-001",
+    "chapter": 5,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Maine kal chai pi.",
+    "roman": "Maine kal chai pi.",
+    "english": "I drank tea yesterday.",
+    "answers": [
+      "I drank tea yesterday."
+    ],
+    "explanation": "Pi agrees with feminine chai, not the gender of the person drinking.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-002",
+    "chapter": 5,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Meri behen ghar aayi.",
+    "roman": "Meri behen ghar aayi.",
+    "english": "My sister came home.",
+    "answers": [
+      "My sister came home."
+    ],
+    "explanation": "Aayi follows the feminine subject behen in an intransitive perfective.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-003",
+    "chapter": 5,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Hum pehle yahan rehte the.",
+    "roman": "Hum pehle yahan rehte the.",
+    "english": "We used to live here.",
+    "answers": [
+      "We used to live here."
+    ],
+    "explanation": "Rehte the describes an earlier repeated or continuing living situation.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-004",
+    "chapter": 5,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Maine Ammi ko dekha.",
+    "roman": "Maine Ammi ko dekha.",
+    "english": "I saw Ammi.",
+    "answers": [
+      "I saw Ammi."
+    ],
+    "explanation": "The specific person object has ko; dekha uses default masculine singular agreement.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-005",
+    "chapter": 5,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Bachche khel rahe the.",
+    "roman": "Bachche khel rahe the.",
+    "english": "The children were playing.",
+    "answers": [
+      "The children were playing."
+    ],
+    "explanation": "Rahe the puts the listener inside an ongoing past action.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-006",
+    "chapter": 5,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Uske baad kya hua?",
+    "roman": "Uske baad kya hua?",
+    "english": "What happened after that?",
+    "answers": [
+      "What happened after that?"
+    ],
+    "explanation": "Hua reports a completed occurrence; uske baad anchors the sequence.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-007",
+    "chapter": 5,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I drank water.",
+    "roman": "Maine paani piya.",
+    "english": "I drank water.",
+    "answers": [
+      "Maine paani piya."
+    ],
+    "explanation": "Paani is masculine and unmarked, so the transitive perfective is piya.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-008",
+    "chapter": 5,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: Ali read a book.",
+    "roman": "Ali ne kitaab padhi.",
+    "english": "Ali read a book.",
+    "answers": [
+      "Ali ne kitaab padhi."
+    ],
+    "explanation": "Ne marks the doer and padhi follows feminine kitaab.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-009",
+    "chapter": 5,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: Ammi gave me tea.",
+    "roman": "Ammi ne mujhe chai di.",
+    "english": "Ammi gave me tea.",
+    "answers": [
+      "Ammi ne mujhe chai di."
+    ],
+    "explanation": "Mujhe is the recipient; unmarked chai still controls feminine di.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-010",
+    "chapter": 5,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I went to the market yesterday. Use a male speaker.",
+    "roman": "Main kal bazaar gaya.",
+    "english": "I went to the market yesterday. Use a male speaker.",
+    "answers": [
+      "Main kal bazaar gaya."
+    ],
+    "explanation": "Jaana is intransitive here, so main stays unmarked and gaya follows the male speaker.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-011",
+    "chapter": 5,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I was making food. Use a female speaker.",
+    "roman": "Main khaana bana rahi thi.",
+    "english": "I was making food. Use a female speaker.",
+    "answers": [
+      "Main khaana bana rahi thi."
+    ],
+    "explanation": "Bana rahi thi is past progressive and follows the female subject; there is no ne.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-012",
+    "chapter": 5,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I used to drink tea every day. Use a male speaker.",
+    "roman": "Main roz chai peeta tha.",
+    "english": "I used to drink tea every day. Use a male speaker.",
+    "answers": [
+      "Main roz chai peeta tha."
+    ],
+    "explanation": "The habitual peeta tha follows the male subject rather than the object chai.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-013",
+    "chapter": 5,
+    "type": "grammar",
+    "prompt": "Choose: Ali ne chai ___ .",
+    "roman": "Ali ne chai pi.",
+    "english": "Ali drank tea.",
+    "answers": [
+      "pi"
+    ],
+    "explanation": "Chai is feminine and unmarked, so choose pi.",
+    "register": "shared",
+    "choices": [
+      "pi",
+      "piya",
+      "piye"
+    ]
+  },
+  {
+    "id": "c05-014",
+    "chapter": 5,
+    "type": "grammar",
+    "prompt": "Choose: Maine Sara ko ___ .",
+    "roman": "Maine Sara ko dekha.",
+    "english": "I saw Sara.",
+    "answers": [
+      "dekha"
+    ],
+    "explanation": "Sara ko is a marked direct object, so use default dekha.",
+    "register": "shared",
+    "choices": [
+      "dekha",
+      "dekhi",
+      "dekheen"
+    ]
+  },
+  {
+    "id": "c05-015",
+    "chapter": 5,
+    "type": "grammar",
+    "prompt": "Choose: Meri behen ___ .",
+    "roman": "Meri behen gayi.",
+    "english": "My sister went.",
+    "answers": [
+      "gayi"
+    ],
+    "explanation": "Behen is feminine; the intransitive perfective is gayi.",
+    "register": "shared",
+    "choices": [
+      "gayi",
+      "gaya",
+      "gaye"
+    ]
+  },
+  {
+    "id": "c05-016",
+    "chapter": 5,
+    "type": "grammar",
+    "prompt": "Choose: Humne do kele ___ .",
+    "roman": "Humne do kele khaye.",
+    "english": "We ate two bananas.",
+    "answers": [
+      "khaye"
+    ],
+    "explanation": "The unmarked object do kele is masculine plural and controls khaye.",
+    "register": "shared",
+    "choices": [
+      "khaye",
+      "khaya",
+      "khayi"
+    ]
+  },
+  {
+    "id": "c05-017",
+    "chapter": 5,
+    "type": "grammar",
+    "prompt": "Choose: Bhai ne Ammi ko kitaab ___ .",
+    "roman": "Bhai ne Ammi ko kitaab di.",
+    "english": "My brother gave Ammi a book.",
+    "answers": [
+      "di"
+    ],
+    "explanation": "Ammi ko is a recipient; feminine kitaab controls di.",
+    "register": "shared",
+    "choices": [
+      "di",
+      "diya",
+      "diye"
+    ]
+  },
+  {
+    "id": "c05-018",
+    "chapter": 5,
+    "type": "grammar",
+    "prompt": "Choose the male past progressive: Main kaam ___ .",
+    "roman": "Main kaam kar raha tha.",
+    "english": "I was working.",
+    "answers": [
+      "kar raha tha"
+    ],
+    "explanation": "Kar raha tha means was working; kiya would present a completed episode.",
+    "register": "shared",
+    "choices": [
+      "kar raha tha",
+      "kiya",
+      "karta hoon"
+    ]
+  },
+  {
+    "id": "c05-019",
+    "chapter": 5,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Maine sabzi khareedi.",
+    "english": "I bought vegetables.",
+    "answers": [
+      "Maine sabzi khareedi."
+    ],
+    "explanation": "Listen for the feminine ee ending in khareedi, agreeing with sabzi.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-020",
+    "chapter": 5,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Kal hum ghar par the.",
+    "english": "We were at home yesterday.",
+    "answers": [
+      "Kal hum ghar par the."
+    ],
+    "explanation": "The past auxiliary the supplies the past-state meaning.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-021",
+    "chapter": 5,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Nani ne khaana banaya.",
+    "english": "Nani made food.",
+    "answers": [
+      "Nani ne khaana banaya."
+    ],
+    "explanation": "The unmarked masculine noun khaana controls banaya.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-022",
+    "chapter": 5,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Mera bhai der se aaya.",
+    "english": "My brother came late.",
+    "answers": [
+      "Mera bhai der se aaya."
+    ],
+    "explanation": "Der se means late; aaya follows the masculine subject.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-023",
+    "chapter": 5,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Kya aapne khaana khaya?",
+    "english": "Have you eaten?",
+    "answers": [
+      "Kya aapne khaana khaya?"
+    ],
+    "explanation": "Aapne is a respectful doer form; khaana is the masculine object.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-024",
+    "chapter": 5,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Mereku pehle kaiku nahin bulaya?",
+    "english": "Why did you not call me earlier?",
+    "answers": [
+      "Mereku pehle kaiku nahin bulaya?"
+    ],
+    "explanation": "Mereku and kaiku are local family forms for mujhe and kyun.",
+    "register": "hyderabadi"
+  },
+  {
+    "id": "c05-025",
+    "chapter": 5,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I was at home yesterday. Use a male speaker.",
+    "roman": "Kal main ghar par tha.",
+    "english": "I was at home yesterday. Use a male speaker.",
+    "answers": [
+      "Kal main ghar par tha."
+    ],
+    "explanation": "Use tha for the male speaker's past state; do not add an action verb.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-026",
+    "chapter": 5,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I was at home yesterday. Use a female speaker.",
+    "roman": "Kal main ghar par thi.",
+    "english": "I was at home yesterday. Use a female speaker.",
+    "answers": [
+      "Kal main ghar par thi."
+    ],
+    "explanation": "Use thi for the female speaker's past state.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-027",
+    "chapter": 5,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: What happened then?",
+    "roman": "Phir kya hua?",
+    "english": "What happened then?",
+    "answers": [
+      "Phir kya hua?"
+    ],
+    "explanation": "Give phir a clear boundary before kya hua; this invites a story continuation.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-028",
+    "chapter": 5,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I had called you.",
+    "roman": "Maine aapko phone kiya tha.",
+    "english": "I had called you.",
+    "answers": [
+      "Maine aapko phone kiya tha."
+    ],
+    "explanation": "The completed phone event has maine and the past reference tha.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-029",
+    "chapter": 5,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: We ate together.",
+    "roman": "Humne saath khaana khaya.",
+    "english": "We ate together.",
+    "answers": [
+      "Humne saath khaana khaya."
+    ],
+    "explanation": "Humne marks the doers; saath supplies together.",
+    "register": "shared"
+  },
+  {
+    "id": "c05-030",
+    "chapter": 5,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I could not manage to understand. Use a male speaker.",
+    "roman": "Main samajh nahin paya.",
+    "english": "I could not manage to understand. Use a male speaker.",
+    "answers": [
+      "Main samajh nahin paya."
+    ],
+    "explanation": "Paya follows the subject in this ability-result construction; do not use maine.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-001",
+    "chapter": 6,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Main kal aaunga.",
+    "roman": "Main kal aaunga.",
+    "english": "I will come tomorrow.",
+    "answers": [
+      "I will come tomorrow."
+    ],
+    "explanation": "Aaunga is the first-person future used by a male speaker.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-002",
+    "chapter": 6,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Mujhe jaldi jaana padega.",
+    "roman": "Mujhe jaldi jaana padega.",
+    "english": "I will have to leave early.",
+    "answers": [
+      "I will have to leave early."
+    ],
+    "explanation": "Mujhe plus infinitive and padega presents a future necessity.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-003",
+    "chapter": 6,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Hum kab chalein?",
+    "roman": "Hum kab chalein?",
+    "english": "When shall we leave?",
+    "answers": [
+      "When shall we leave?"
+    ],
+    "explanation": "Chalein is a proposal form rather than a definite prediction.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-004",
+    "chapter": 6,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Main Urdu bol sakti hoon.",
+    "roman": "Main Urdu bol sakti hoon.",
+    "english": "I can speak Urdu.",
+    "answers": [
+      "I can speak Urdu."
+    ],
+    "explanation": "The action stem bol combines with sakti hoon for a female speaker.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-005",
+    "chapter": 6,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Aapko aaraam karna chahiye.",
+    "roman": "Aapko aaraam karna chahiye.",
+    "english": "You should rest.",
+    "answers": [
+      "You should rest."
+    ],
+    "explanation": "Chahiye gives advice with the experiencer marked aapko.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-006",
+    "chapter": 6,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Mujhe jaana nahin padta.",
+    "roman": "Mujhe jaana nahin padta.",
+    "english": "I do not have to go.",
+    "answers": [
+      "I do not have to go."
+    ],
+    "explanation": "Negating padta removes the necessity; it does not prohibit going.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-007",
+    "chapter": 6,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I will call tomorrow. Use a female speaker.",
+    "roman": "Main kal phone karungi.",
+    "english": "I will call tomorrow. Use a female speaker.",
+    "answers": [
+      "Main kal phone karungi."
+    ],
+    "explanation": "Karungi is the female first-person future.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-008",
+    "chapter": 6,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: May I sit here? Use a male speaker.",
+    "roman": "Kya main yahan baith sakta hoon?",
+    "english": "May I sit here? Use a male speaker.",
+    "answers": [
+      "Kya main yahan baith sakta hoon?"
+    ],
+    "explanation": "Sakna can ask permission; baith is the bare action stem.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-009",
+    "chapter": 6,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I want to learn Urdu. Use a male speaker.",
+    "roman": "Main Urdu seekhna chahta hoon.",
+    "english": "I want to learn Urdu. Use a male speaker.",
+    "answers": [
+      "Main Urdu seekhna chahta hoon."
+    ],
+    "explanation": "Wanting uses main with chahta hoon; seekhna retains its infinitive.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-010",
+    "chapter": 6,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I need to work tomorrow.",
+    "roman": "Mujhe kal kaam karna hai.",
+    "english": "I need to work tomorrow.",
+    "answers": [
+      "Mujhe kal kaam karna hai."
+    ],
+    "explanation": "The scheduled task uses mujhe plus infinitive and hai.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-011",
+    "chapter": 6,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: Please speak slowly so that I can understand.",
+    "roman": "Dheere boliye taaki main samajh sakun.",
+    "english": "Please speak slowly so that I can understand.",
+    "answers": [
+      "Dheere boliye taaki main samajh sakun."
+    ],
+    "explanation": "Taaki introduces purpose; sakun is first-person subjunctive.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-012",
+    "chapter": 6,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: If I get time, I will come. Use a male speaker.",
+    "roman": "Agar waqt mile, toh main aaunga.",
+    "english": "If I get time, I will come. Use a male speaker.",
+    "answers": [
+      "Agar waqt mile, toh main aaunga."
+    ],
+    "explanation": "Mile is the prospective condition; aaunga is the future consequence.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-013",
+    "chapter": 6,
+    "type": "grammar",
+    "prompt": "Choose Shall I call?: Main phone ___ ?",
+    "roman": "Main phone karun?",
+    "english": "Shall I call?",
+    "answers": [
+      "karun"
+    ],
+    "explanation": "Karun proposes an action and does not change with speaker gender.",
+    "register": "shared",
+    "choices": [
+      "karun",
+      "karunga",
+      "kiya"
+    ]
+  },
+  {
+    "id": "c06-014",
+    "chapter": 6,
+    "type": "grammar",
+    "prompt": "Choose the female ability phrase: Main ___ .",
+    "roman": "Main bol sakti hoon.",
+    "english": "I can speak.",
+    "answers": [
+      "bol sakti hoon"
+    ],
+    "explanation": "Sakna follows the bare stem bol and agrees with the female subject.",
+    "register": "shared",
+    "choices": [
+      "bol sakti hoon",
+      "bolna sakti hoon",
+      "bol sakta hai"
+    ]
+  },
+  {
+    "id": "c06-015",
+    "chapter": 6,
+    "type": "grammar",
+    "prompt": "Choose I had to go: Mujhe jaana ___ .",
+    "roman": "Mujhe jaana pada.",
+    "english": "I had to go.",
+    "answers": [
+      "pada"
+    ],
+    "explanation": "Pada presents a completed past necessity.",
+    "register": "shared",
+    "choices": [
+      "pada",
+      "padega",
+      "padta hai"
+    ]
+  },
+  {
+    "id": "c06-016",
+    "chapter": 6,
+    "type": "grammar",
+    "prompt": "Choose the respectful condition: Agar aap kal ___ .",
+    "roman": "Aap kal aayein.",
+    "english": "You may come tomorrow.",
+    "answers": [
+      "aayein"
+    ],
+    "explanation": "Aayein is the respectful subjunctive in a prospective if-clause.",
+    "register": "shared",
+    "choices": [
+      "aayein",
+      "aaya",
+      "aata"
+    ]
+  },
+  {
+    "id": "c06-017",
+    "chapter": 6,
+    "type": "grammar",
+    "prompt": "Choose: Mujhe kitaab ___ chahiye.",
+    "roman": "Mujhe kitaab padhni chahiye.",
+    "english": "I should read the book.",
+    "answers": [
+      "padhni"
+    ],
+    "explanation": "The infinitive agrees with feminine kitaab, giving padhni.",
+    "register": "shared",
+    "choices": [
+      "padhni",
+      "padhna",
+      "padhne"
+    ]
+  },
+  {
+    "id": "c06-018",
+    "chapter": 6,
+    "type": "grammar",
+    "prompt": "Choose If you have time: Agar ___ .",
+    "roman": "Aapke paas waqt ho.",
+    "english": "You have time.",
+    "answers": [
+      "aapke paas waqt ho"
+    ],
+    "explanation": "Available time uses the possession frame aapke paas waqt ho.",
+    "register": "shared",
+    "choices": [
+      "aapke paas waqt ho",
+      "aap waqt hain",
+      "aapko waqt hain"
+    ]
+  },
+  {
+    "id": "c06-019",
+    "chapter": 6,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Hum saat baje aayenge.",
+    "english": "We will come at seven.",
+    "answers": [
+      "Hum saat baje aayenge."
+    ],
+    "explanation": "Saat baje is the time expression; aayenge is plural future.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-020",
+    "chapter": 6,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Main aaj nahin aa sakta.",
+    "english": "I cannot come today.",
+    "answers": [
+      "Main aaj nahin aa sakta."
+    ],
+    "explanation": "Listen for nahin and sakta: they change the event into a denied possibility.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-021",
+    "chapter": 6,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Mujhe aath baje nikalna hai.",
+    "english": "I need to leave at eight.",
+    "answers": [
+      "Mujhe aath baje nikalna hai."
+    ],
+    "explanation": "The departure is a scheduled requirement with mujhe and hai.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-022",
+    "chapter": 6,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Kya main madad karun?",
+    "english": "Shall I help?",
+    "answers": [
+      "Kya main madad karun?"
+    ],
+    "explanation": "Karun makes an offer, not a report that help already happened.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-023",
+    "chapter": 6,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Kal shaam chalein?",
+    "english": "Shall we go tomorrow evening?",
+    "answers": [
+      "Kal shaam chalein?"
+    ],
+    "explanation": "The proposal ends in chalein; the subject can be supplied by context.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-024",
+    "chapter": 6,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Thodi der ich chalenge.",
+    "english": "We will go for just a little while.",
+    "answers": [
+      "Thodi der ich chalenge."
+    ],
+    "explanation": "Local ich adds restrictive emphasis like shared hi; the promised duration stays short.",
+    "register": "hyderabadi"
+  },
+  {
+    "id": "c06-025",
+    "chapter": 6,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I will call you tomorrow. Use a male speaker.",
+    "roman": "Main aapko kal phone karunga.",
+    "english": "I will call you tomorrow. Use a male speaker.",
+    "answers": [
+      "Main aapko kal phone karunga."
+    ],
+    "explanation": "Use aapko for respectful you and karunga for the male speaker.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-026",
+    "chapter": 6,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: If I am late, I will call. Use a female speaker.",
+    "roman": "Agar der ho, toh main phone karungi.",
+    "english": "If I am late, I will call. Use a female speaker.",
+    "answers": [
+      "Agar der ho, toh main phone karungi."
+    ],
+    "explanation": "Keep the condition ho distinct from the future karungi.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-027",
+    "chapter": 6,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I should go now.",
+    "roman": "Mujhe ab jaana chahiye.",
+    "english": "I should go now.",
+    "answers": [
+      "Mujhe ab jaana chahiye."
+    ],
+    "explanation": "This advice-to-self frame does not change according to the speaker's gender.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-028",
+    "chapter": 6,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Can you help me? Address a woman respectfully.",
+    "roman": "Kya aap meri madad kar sakti hain?",
+    "english": "Can you help me? Address a woman respectfully.",
+    "answers": [
+      "Kya aap meri madad kar sakti hain?"
+    ],
+    "explanation": "Sakti hain follows the female respectful addressee; meri agrees with madad.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-029",
+    "chapter": 6,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I could not manage to call yesterday. Use a female speaker.",
+    "roman": "Main kal phone nahin kar payi.",
+    "english": "I could not manage to call yesterday. Use a female speaker.",
+    "answers": [
+      "Main kal phone nahin kar payi."
+    ],
+    "explanation": "Payi reports the unsuccessful opportunity with the female subject main.",
+    "register": "shared"
+  },
+  {
+    "id": "c06-030",
+    "chapter": 6,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Shall we sit right here?",
+    "roman": "Hum yahin baithen?",
+    "english": "Shall we sit right here?",
+    "answers": [
+      "Hum yahin baithen?"
+    ],
+    "explanation": "Yahin adds here precisely; baithen makes a shared proposal.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-001",
+    "chapter": 7,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Mujhe bhook lagi hai.",
+    "roman": "Mujhe bhook lagi hai.",
+    "english": "I am hungry.",
+    "answers": [
+      "I am hungry."
+    ],
+    "explanation": "Bhook is feminine, so lagi does not change with the speaker's gender.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-002",
+    "chapter": 7,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Mujhe neend aa rahi hai.",
+    "roman": "Mujhe neend aa rahi hai.",
+    "english": "I am sleepy.",
+    "answers": [
+      "I am sleepy."
+    ],
+    "explanation": "Neend is feminine and the expression literally presents sleep as coming.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-003",
+    "chapter": 7,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Ali apni kitaab padh raha hai.",
+    "roman": "Ali apni kitaab padh raha hai.",
+    "english": "Ali is reading his own book.",
+    "answers": [
+      "Ali is reading his own book."
+    ],
+    "explanation": "Apni points back to Ali and agrees with feminine kitaab.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-004",
+    "chapter": 7,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Hum ek doosre ki madad karte hain.",
+    "roman": "Hum ek doosre ki madad karte hain.",
+    "english": "We help each other.",
+    "answers": [
+      "We help each other."
+    ],
+    "explanation": "Ek doosre gives reciprocity; madad takes the possessive relation ki.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-005",
+    "chapter": 7,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Mere sar mein dard hai.",
+    "roman": "Mere sar mein dard hai.",
+    "english": "My head hurts.",
+    "answers": [
+      "My head hurts."
+    ],
+    "explanation": "The discomfort is located with sar mein; this is language practice, not a diagnosis.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-006",
+    "chapter": 7,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Mujhe aapki yaad aa rahi hai.",
+    "roman": "Mujhe aapki yaad aa rahi hai.",
+    "english": "I miss you.",
+    "answers": [
+      "I miss you."
+    ],
+    "explanation": "Yaad is feminine; aapki respectfully identifies the person missed.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-007",
+    "chapter": 7,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I am thirsty.",
+    "roman": "Mujhe pyaas lagi hai.",
+    "english": "I am thirsty.",
+    "answers": [
+      "Mujhe pyaas lagi hai."
+    ],
+    "explanation": "Use dative mujhe and feminine lagi with pyaas.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-008",
+    "chapter": 7,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: Ammi was feeling cold.",
+    "roman": "Ammi ko thand lag rahi thi.",
+    "english": "Ammi was feeling cold.",
+    "answers": [
+      "Ammi ko thand lag rahi thi."
+    ],
+    "explanation": "Thand is feminine and the past progressive is lag rahi thi.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-009",
+    "chapter": 7,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I forgot my own book. Use a male speaker.",
+    "roman": "Main apni kitaab bhool gaya.",
+    "english": "I forgot my own book. Use a male speaker.",
+    "answers": [
+      "Main apni kitaab bhool gaya."
+    ],
+    "explanation": "Apni agrees with kitaab; gaya follows the male subject in bhool gaya.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-010",
+    "chapter": 7,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I need to talk to a doctor.",
+    "roman": "Mujhe doctor se baat karni hai.",
+    "english": "I need to talk to a doctor.",
+    "answers": [
+      "Mujhe doctor se baat karni hai."
+    ],
+    "explanation": "The person spoken with takes se; feminine baat gives karni.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-011",
+    "chapter": 7,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: That is not what I meant.",
+    "roman": "Mera matlab yeh nahin tha.",
+    "english": "That is not what I meant.",
+    "answers": [
+      "Mera matlab yeh nahin tha."
+    ],
+    "explanation": "The phrase repairs an interpretation with the past form tha.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-012",
+    "chapter": 7,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: We live together.",
+    "roman": "Hum saath rehte hain.",
+    "english": "We live together.",
+    "answers": [
+      "Hum saath rehte hain."
+    ],
+    "explanation": "Saath supplies together; no reciprocal object is necessary.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-013",
+    "chapter": 7,
+    "type": "grammar",
+    "prompt": "Choose: Mujhe pyaas ___ hai.",
+    "roman": "Mujhe pyaas lagi hai.",
+    "english": "I am thirsty.",
+    "answers": [
+      "lagi"
+    ],
+    "explanation": "Pyaas is feminine, so the experience form is lagi.",
+    "register": "shared",
+    "choices": [
+      "lagi",
+      "laga",
+      "lage"
+    ]
+  },
+  {
+    "id": "c07-014",
+    "chapter": 7,
+    "type": "grammar",
+    "prompt": "Choose: Mujhe dar lag ___ hai.",
+    "roman": "Mujhe dar lag raha hai.",
+    "english": "I feel afraid.",
+    "answers": [
+      "raha"
+    ],
+    "explanation": "Dar is masculine; raha follows dar, not the gender of the experiencer.",
+    "register": "shared",
+    "choices": [
+      "raha",
+      "rahi",
+      "raheen"
+    ]
+  },
+  {
+    "id": "c07-015",
+    "chapter": 7,
+    "type": "grammar",
+    "prompt": "Choose Sara takes her own bag: Sara ___ bag leti hai.",
+    "roman": "Sara apna bag leti hai.",
+    "english": "Sara takes her own bag.",
+    "answers": [
+      "apna"
+    ],
+    "explanation": "Apna follows the masculine possession bag, even though Sara is female.",
+    "register": "shared",
+    "choices": [
+      "apna",
+      "apni",
+      "uski"
+    ]
+  },
+  {
+    "id": "c07-016",
+    "chapter": 7,
+    "type": "grammar",
+    "prompt": "Choose I remember: ___ yaad hai.",
+    "roman": "Mujhe yaad hai.",
+    "english": "I remember.",
+    "answers": [
+      "mujhe"
+    ],
+    "explanation": "The remembered-information construction uses mujhe.",
+    "register": "shared",
+    "choices": [
+      "mujhe",
+      "main",
+      "maine"
+    ]
+  },
+  {
+    "id": "c07-017",
+    "chapter": 7,
+    "type": "grammar",
+    "prompt": "Choose the respectful request: Apna khayal ___ .",
+    "roman": "Apna khayal rakhiye.",
+    "english": "Take care of yourself.",
+    "answers": [
+      "rakhiye"
+    ],
+    "explanation": "Rakhiye is respectful; khayal is masculine and takes apna.",
+    "register": "shared",
+    "choices": [
+      "rakhiye",
+      "rakho",
+      "rakhta"
+    ]
+  },
+  {
+    "id": "c07-018",
+    "chapter": 7,
+    "type": "grammar",
+    "prompt": "Choose Ali called his own brother: Ali ne ___ bhai ko phone kiya.",
+    "roman": "Ali ne apne bhai ko phone kiya.",
+    "english": "Ali called his own brother.",
+    "answers": [
+      "apne"
+    ],
+    "explanation": "Apne is the oblique form before masculine bhai ko and points to Ali.",
+    "register": "shared",
+    "choices": [
+      "apne",
+      "apna",
+      "apni"
+    ]
+  },
+  {
+    "id": "c07-019",
+    "chapter": 7,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Mujhe garmi lag rahi hai.",
+    "english": "I feel hot.",
+    "answers": [
+      "Mujhe garmi lag rahi hai."
+    ],
+    "explanation": "Garmi is a feminine experience noun, so listen for rahi.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-020",
+    "chapter": 7,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Mujhe theek se maloom nahin.",
+    "english": "I do not know exactly.",
+    "answers": [
+      "Mujhe theek se maloom nahin."
+    ],
+    "explanation": "The final nahin negates the information claim.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-021",
+    "chapter": 7,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Aapko kab se dard hai?",
+    "english": "How long have you had pain?",
+    "answers": [
+      "Aapko kab se dard hai?"
+    ],
+    "explanation": "Kab se asks for the starting point, not the location.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-022",
+    "chapter": 7,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Vo apna phone le gaya.",
+    "english": "He took his own phone away.",
+    "answers": [
+      "Vo apna phone le gaya."
+    ],
+    "explanation": "Apna ties ownership to vo, the male subject.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-023",
+    "chapter": 7,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Mereku bura laga.",
+    "english": "I felt bad.",
+    "answers": [
+      "Mereku bura laga."
+    ],
+    "explanation": "Local mereku fills the experiencer role of shared mujhe.",
+    "register": "hyderabadi"
+  },
+  {
+    "id": "c07-024",
+    "chapter": 7,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Aapse baat karke achha laga.",
+    "english": "It was nice talking to you.",
+    "answers": [
+      "Aapse baat karke achha laga."
+    ],
+    "explanation": "The whole expression evaluates the experience of speaking with the addressee.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-025",
+    "chapter": 7,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Take care of yourself. Address an elder.",
+    "roman": "Apna khayal rakhiye.",
+    "english": "Take care of yourself. Address an elder.",
+    "answers": [
+      "Apna khayal rakhiye."
+    ],
+    "explanation": "Keep the respectful request rakhiye and a warm delivery.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-026",
+    "chapter": 7,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Shall I bring something for you?",
+    "roman": "Kya main aapke liye kuch laun?",
+    "english": "Shall I bring something for you?",
+    "answers": [
+      "Kya main aapke liye kuch laun?"
+    ],
+    "explanation": "Laun offers an action; aapke liye means for you respectfully.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-027",
+    "chapter": 7,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I miss you regularly.",
+    "roman": "Mujhe aapki yaad aati hai.",
+    "english": "I miss you regularly.",
+    "answers": [
+      "Mujhe aapki yaad aati hai."
+    ],
+    "explanation": "Aati hai gives the recurring feeling rather than a single moment.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-028",
+    "chapter": 7,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I do not want to discuss this. Use a female speaker.",
+    "roman": "Main is baare mein baat nahin karna chahti.",
+    "english": "I do not want to discuss this. Use a female speaker.",
+    "answers": [
+      "Main is baare mein baat nahin karna chahti."
+    ],
+    "explanation": "Chahti follows the female subject; the negative marks the desired limit.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-029",
+    "chapter": 7,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Can you come with me? Address a man respectfully.",
+    "roman": "Kya aap mere saath chal sakte hain?",
+    "english": "Can you come with me? Address a man respectfully.",
+    "answers": [
+      "Kya aap mere saath chal sakte hain?"
+    ],
+    "explanation": "Mere saath expresses accompaniment; sakte hain is respectful masculine ability.",
+    "register": "shared"
+  },
+  {
+    "id": "c07-030",
+    "chapter": 7,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Not right now, thank you.",
+    "roman": "Abhi nahin, shukriya.",
+    "english": "Not right now, thank you.",
+    "answers": [
+      "Abhi nahin, shukriya."
+    ],
+    "explanation": "A clear short refusal can remain polite without adding an untrue promise.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-001",
+    "chapter": 8,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Jo kitaab maine padhi, vo achhi thi.",
+    "roman": "Jo kitaab maine padhi, vo achhi thi.",
+    "english": "The book I read was good.",
+    "answers": [
+      "The book I read was good."
+    ],
+    "explanation": "Jo identifies the book; vo resumes it; padhi follows feminine kitaab.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-002",
+    "chapter": 8,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Jab main aaya, tab sab so rahe the.",
+    "roman": "Jab main aaya, tab sab so rahe the.",
+    "english": "When I came, everyone was sleeping.",
+    "answers": [
+      "When I came, everyone was sleeping."
+    ],
+    "explanation": "Aaya supplies the completed arrival; so rahe the gives ongoing background.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-003",
+    "chapter": 8,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Jahan hum rehte the, vahan ek dukaan thi.",
+    "roman": "Jahan hum rehte the, vahan ek dukaan thi.",
+    "english": "There was a shop where we used to live.",
+    "answers": [
+      "There was a shop where we used to live."
+    ],
+    "explanation": "Jahan and vahan connect the same location across two clauses.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-004",
+    "chapter": 8,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Ammi ne kaha ki khaana tayyar hai.",
+    "roman": "Ammi ne kaha ki khaana tayyar hai.",
+    "english": "Ammi said that the food is ready.",
+    "answers": [
+      "Ammi said that the food is ready."
+    ],
+    "explanation": "Ki introduces the content of Ammi's message.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-005",
+    "chapter": 8,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Main subah se yahan hoon.",
+    "roman": "Main subah se yahan hoon.",
+    "english": "I have been here since morning.",
+    "answers": [
+      "I have been here since morning."
+    ],
+    "explanation": "Se identifies the starting point of a continuing state.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-006",
+    "chapter": 8,
+    "type": "translate-to-english",
+    "prompt": "Translate into English: Main shaam tak kaam khatam karunga.",
+    "roman": "Main shaam tak kaam khatam karunga.",
+    "english": "I will finish the work by evening.",
+    "answers": [
+      "I will finish the work by evening."
+    ],
+    "explanation": "Tak is an endpoint; with completion it naturally means by.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-007",
+    "chapter": 8,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: Call before leaving.",
+    "roman": "Nikalne se pehle phone kijiye.",
+    "english": "Call before leaving.",
+    "answers": [
+      "Nikalne se pehle phone kijiye."
+    ],
+    "explanation": "The infinitive becomes oblique nikalne before se pehle.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-008",
+    "chapter": 8,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: After calling Ammi, I went to sleep. Use a female speaker.",
+    "roman": "Ammi ko phone karke main so gayi.",
+    "english": "After calling Ammi, I went to sleep. Use a female speaker.",
+    "answers": [
+      "Ammi ko phone karke main so gayi."
+    ],
+    "explanation": "The final intransitive so gayi follows main; do not carry maine from a separate phone sentence.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-009",
+    "chapter": 8,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: Take as much tea as you want.",
+    "roman": "Jitni chai chahiye, utni lijiye.",
+    "english": "Take as much tea as you want.",
+    "answers": [
+      "Jitni chai chahiye, utni lijiye."
+    ],
+    "explanation": "Jitni and utni follow feminine chai.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-010",
+    "chapter": 8,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: They asked when you will come. Address a man respectfully.",
+    "roman": "Unhone poochha ki aap kab aayenge.",
+    "english": "They asked when you will come. Address a man respectfully.",
+    "answers": [
+      "Unhone poochha ki aap kab aayenge."
+    ],
+    "explanation": "Poochha reports a question and ki introduces its content.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-011",
+    "chapter": 8,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: It was raining, but we went.",
+    "roman": "Baarish ho rahi thi, lekin hum gaye.",
+    "english": "It was raining, but we went.",
+    "answers": [
+      "Baarish ho rahi thi, lekin hum gaye."
+    ],
+    "explanation": "Lekin marks the contrast between background rain and the completed departure.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-012",
+    "chapter": 8,
+    "type": "translate-to-urdu",
+    "prompt": "Translate into Roman Urdu/Hindi: I think you are right. Address a man respectfully.",
+    "roman": "Mujhe lagta hai ki aap theek keh rahe hain.",
+    "english": "I think you are right. Address a man respectfully.",
+    "answers": [
+      "Mujhe lagta hai ki aap theek keh rahe hain."
+    ],
+    "explanation": "Mujhe lagta hai frames an opinion and ki marks its content; keh rahe hain makes right about a statement explicit.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-013",
+    "chapter": 8,
+    "type": "grammar",
+    "prompt": "Choose When you arrive: ___ aap pahunchein, phone kijiye.",
+    "roman": "Jab aap pahunchein, phone kijiye.",
+    "english": "When you arrive, please call.",
+    "answers": [
+      "jab"
+    ],
+    "explanation": "Jab treats arrival as the expected occasion; agar would mean if.",
+    "register": "shared",
+    "choices": [
+      "jab",
+      "agar",
+      "kyun"
+    ]
+  },
+  {
+    "id": "c08-014",
+    "chapter": 8,
+    "type": "grammar",
+    "prompt": "Choose: Jis aadmi ___ maine dekha...",
+    "roman": "Jis aadmi ko maine dekha, vo yahan rehta hai.",
+    "english": "The man I saw lives here.",
+    "answers": [
+      "ko"
+    ],
+    "explanation": "The identified human is a direct object and takes ko.",
+    "register": "shared",
+    "choices": [
+      "ko",
+      "ki",
+      "mein"
+    ]
+  },
+  {
+    "id": "c08-015",
+    "chapter": 8,
+    "type": "grammar",
+    "prompt": "Choose: Aane ___ baad baithiye.",
+    "roman": "Aane ke baad baithiye.",
+    "english": "Sit down after coming.",
+    "answers": [
+      "ke"
+    ],
+    "explanation": "The fixed postpositional connection is ke baad.",
+    "register": "shared",
+    "choices": [
+      "ke",
+      "se",
+      "ko"
+    ]
+  },
+  {
+    "id": "c08-016",
+    "chapter": 8,
+    "type": "grammar",
+    "prompt": "Choose whose book: ___ kitaab yahan hai...",
+    "roman": "Jiski kitaab yahan hai, usko phone kijiye.",
+    "english": "Call the person whose book is here.",
+    "answers": [
+      "jiski"
+    ],
+    "explanation": "Jiski uses feminine possession because kitaab is feminine.",
+    "register": "shared",
+    "choices": [
+      "jiski",
+      "jiska",
+      "jiske"
+    ]
+  },
+  {
+    "id": "c08-017",
+    "chapter": 8,
+    "type": "grammar",
+    "prompt": "Choose from morning until evening: subah ___ shaam ___ .",
+    "roman": "Main subah se shaam tak yahan hoon.",
+    "english": "I am here from morning until evening.",
+    "answers": [
+      "se tak"
+    ],
+    "explanation": "Se marks the start and tak marks the endpoint.",
+    "register": "shared",
+    "choices": [
+      "se tak",
+      "tak se",
+      "ko ki"
+    ]
+  },
+  {
+    "id": "c08-018",
+    "chapter": 8,
+    "type": "grammar",
+    "prompt": "Choose the content connector: Ammi ne kaha ___ vo aayengi.",
+    "roman": "Ammi ne kaha ki vo aayengi.",
+    "english": "Ammi said that she will come.",
+    "answers": [
+      "ki"
+    ],
+    "explanation": "Ki introduces what was said; the possessive sound-alike is a different construction.",
+    "register": "shared",
+    "choices": [
+      "ki",
+      "ka",
+      "ko"
+    ]
+  },
+  {
+    "id": "c08-019",
+    "chapter": 8,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Jis se maine baat ki, vo mere mamu hain.",
+    "english": "The person I spoke with is my maternal uncle.",
+    "answers": [
+      "Jis se maine baat ki, vo mere mamu hain."
+    ],
+    "explanation": "Jis se expresses the talking-with relation; vo is the subject of identification.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-020",
+    "chapter": 8,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Ghar aane ke baad main aaraam karta hoon.",
+    "english": "I rest after coming home.",
+    "answers": [
+      "Ghar aane ke baad main aaraam karta hoon."
+    ],
+    "explanation": "Aane ke baad organizes the sequence and the final verb supplies the habitual viewpoint.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-021",
+    "chapter": 8,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Aate waqt doodh le aaiye.",
+    "english": "Please bring milk on your way here.",
+    "answers": [
+      "Aate waqt doodh le aaiye."
+    ],
+    "explanation": "Aate waqt connects bringing milk to the trip toward the relevant place.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-022",
+    "chapter": 8,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Jab bhi baarish hoti hai, hum ghar mein rehte hain.",
+    "english": "Whenever it rains, we stay at home.",
+    "answers": [
+      "Jab bhi baarish hoti hai, hum ghar mein rehte hain."
+    ],
+    "explanation": "Jab bhi makes the connection recurring rather than one past occasion.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-023",
+    "chapter": 8,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Jumme ko shaam tak pahunch jayenge.",
+    "english": "They will arrive by Friday evening.",
+    "answers": [
+      "Jumme ko shaam tak pahunch jayenge."
+    ],
+    "explanation": "The named day removes kal ambiguity; tak marks the arrival deadline.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-024",
+    "chapter": 8,
+    "type": "listening",
+    "prompt": "Listen, type the Roman words you hear, and give the English meaning.",
+    "roman": "Jo chai mez par hai, vo aapki hai.",
+    "english": "The tea on the table is yours.",
+    "answers": [
+      "Jo chai mez par hai, vo aapki hai."
+    ],
+    "explanation": "The relative clause identifies chai and aapki agrees with its feminine gender.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-025",
+    "chapter": 8,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: First let me explain this.",
+    "roman": "Pehle main yeh bata doon.",
+    "english": "First let me explain this.",
+    "answers": [
+      "Pehle main yeh bata doon."
+    ],
+    "explanation": "Use this turn-opening frame, pause, and then supply a real explanation.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-026",
+    "chapter": 8,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: What I mean is that we can meet tomorrow.",
+    "roman": "Mera matlab yeh hai ki hum kal mil sakte hain.",
+    "english": "What I mean is that we can meet tomorrow.",
+    "answers": [
+      "Mera matlab yeh hai ki hum kal mil sakte hain."
+    ],
+    "explanation": "Ki separates the clarification frame from the message being clarified.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-027",
+    "chapter": 8,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Sit wherever you would like.",
+    "roman": "Jahan aap baithna chahein, vahan baithiye.",
+    "english": "Sit wherever you would like.",
+    "answers": [
+      "Jahan aap baithna chahein, vahan baithiye."
+    ],
+    "explanation": "Chahein leaves the place open for the respectful addressee to choose.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-028",
+    "chapter": 8,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: Wash your hands and sit down. Be respectful.",
+    "roman": "Haath dho kar baithiye.",
+    "english": "Wash your hands and sit down. Be respectful.",
+    "answers": [
+      "Haath dho kar baithiye."
+    ],
+    "explanation": "Dho kar links the same person's earlier action with the polite final request.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-029",
+    "chapter": 8,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: I will call before leaving. Use a female speaker.",
+    "roman": "Main nikalne se pehle phone karungi.",
+    "english": "I will call before leaving. Use a female speaker.",
+    "answers": [
+      "Main nikalne se pehle phone karungi."
+    ],
+    "explanation": "Nikalne se pehle is the time phrase and karungi carries the female future.",
+    "register": "shared"
+  },
+  {
+    "id": "c08-030",
+    "chapter": 8,
+    "type": "speaking",
+    "prompt": "Say this meaning aloud in Roman Urdu/Hindi: They said they will come on Tuesday.",
+    "roman": "Unhone kaha ki vo mangal ko aayenge.",
+    "english": "They said they will come on Tuesday.",
+    "answers": [
+      "Unhone kaha ki vo mangal ko aayenge."
+    ],
+    "explanation": "Naming Tuesday makes the reported plan clearer than an ambiguous kal.",
+    "register": "shared"
+  }
+]

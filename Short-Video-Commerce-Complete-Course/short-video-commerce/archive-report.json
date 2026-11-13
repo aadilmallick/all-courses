@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "crc_integrity": true,
+  "safe_relative_paths": true,
+  "required_files_present": true,
+  "standalone_editions_match_archive": true,
+  "note": "Final archive is rebuilt and rechecked after this report and source hashes are included."
+}

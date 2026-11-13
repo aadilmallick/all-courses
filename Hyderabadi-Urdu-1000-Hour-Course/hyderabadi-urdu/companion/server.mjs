@@ -1,0 +1,11 @@
+import http from 'node:http';
+import {readFile,stat} from 'node:fs/promises';
+import {existsSync} from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const base=fileURLToPath(new URL('../dist/',import.meta.url));
+const port=Number(process.env.GKB_PORT)||4318;
+const mime={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml','.woff2':'font/woff2','.png':'image/png','.md':'text/markdown; charset=utf-8'};
+if(!existsSync(path.join(base,'index.html')))throw Error('Built website missing. Run npm ci then npm run build in the course folder.');
+const server=http.createServer(async(req,res)=>{try{const url=new URL(req.url,'http://localhost');let name=decodeURIComponent(url.pathname);if(name.includes('\0')||name.includes('\\'))throw Error('Invalid path');let target=path.resolve(base,'.'+name);if(target!==path.resolve(base)&&!target.startsWith(path.resolve(base)+path.sep)){res.writeHead(403);res.end('Forbidden');return;}if((await stat(target)).isDirectory())target=path.join(target,'index.html');const content=await readFile(target);res.writeHead(200,{'Content-Type':mime[path.extname(target)]||'application/octet-stream','Cache-Control':'no-cache','X-Content-Type-Options':'nosniff'});res.end(content);}catch{res.writeHead(404,{'Content-Type':'text/plain; charset=utf-8'});res.end('Page not found. Return to the course home page.');}});
+server.listen(port,'127.0.0.1',()=>console.log(`Ghar ki Baat is ready: http://127.0.0.1:${port}\nKeep this window open. Press Ctrl+C to stop.`));server.on('error',e=>{console.error(e.code==='EADDRINUSE'?`Port ${port} is already in use. Set GKB_PORT to another port and try again.`:e.message);process.exitCode=1;});

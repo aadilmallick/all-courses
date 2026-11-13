@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "title": "Ghar ki Baat",
+  "subtitle": "A 1,000-hour Roman-script Hyderabadi conversation course",
+  "audience": "English-speaking adult, no Urdu or Hindi prerequisites; spoken B2 target",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Your first family conversation",
+      "path": "chapters/01-sounds-and-first-conversations.md",
+      "part": "A place to begin",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [],
+      "experiments": [
+        "practice-1"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "The people who make a home",
+      "path": "chapters/02-family-and-description.md",
+      "part": "A place to begin",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "practice-2"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "A day in your life",
+      "path": "chapters/03-home-routines-and-time.md",
+      "part": "A place to begin",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "practice-3"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Out in the city",
+      "path": "chapters/04-shopping-food-and-directions.md",
+      "part": "A place to begin",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "practice-4"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Tell me what happened",
+      "path": "chapters/05-past-events-and-stories.md",
+      "part": "Stories we share",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "practice-5"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Let’s make a plan",
+      "path": "chapters/06-plans-ability-and-obligation.md",
+      "part": "Stories we share",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "practice-6"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "What’s on your mind?",
+      "path": "chapters/07-relationships-feelings-and-health.md",
+      "part": "Stories we share",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "practice-7"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Connect the whole story",
+      "path": "chapters/08-connected-stories-and-explanations.md",
+      "part": "Stories we share",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "practice-8"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Say what you really think",
+      "path": "chapters/09-opinions-conditions-and-negotiation.md",
+      "part": "A voice of your own",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "practice-9"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Find your family’s rhythm",
+      "path": "chapters/10-nuance-and-hyderabadi-conversation.md",
+      "part": "A voice of your own",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "practice-10"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Keep the conversation going",
+      "path": "chapters/11-real-world-conversation.md",
+      "part": "A voice of your own",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-10"
+      ],
+      "experiments": [
+        "practice-11"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "A seat at every conversation",
+      "path": "chapters/12-b2-capstone-and-lifelong-conversation.md",
+      "part": "A voice of your own",
+      "status": "complete",
+      "minimum_prose_words": 3000,
+      "prerequisites": [
+        "chapter-11"
+      ],
+      "experiments": [
+        "practice-12"
+      ]
+    }
+  ],
+  "assets": [],
+  "source_listings": [],
+  "companion": {
+    "path": "public",
+    "catalog": "public/data/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

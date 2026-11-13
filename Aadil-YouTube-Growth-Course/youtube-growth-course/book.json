@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "title": "The Useful Creator",
+  "subtitle": "Aadil’s complete software and AI YouTube curriculum: from a first useful video to a sustainable creator business",
+  "audience": "A software developer new to consistent video production; 8–10 hours per week, screen recordings and occasional face-to-camera.",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "01 — Choose a viewer, a problem, and a channel you can sustain",
+      "path": "chapters/01-positioning-and-channel-choice.md",
+      "part": "Direction and demand",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "niche"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "02 — Find demand and build a library of ideas",
+      "path": "chapters/02-demand-and-video-ideas.md",
+      "part": "Direction and demand",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "idea-score"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "03 — Make a clear promise: titles, thumbnails, and creator studies",
+      "path": "chapters/03-titles-thumbnails-and-creators.md",
+      "part": "Direction and demand",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "packaging"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "04 — Script videos that make engineering understandable",
+      "path": "chapters/04-scripting-and-teaching.md",
+      "part": "Production craft",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "script"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "05 — Record clear screens, clean speech, and occasional camera segments",
+      "path": "chapters/05-filming-and-audio.md",
+      "part": "Production craft",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "production"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "06 — Edit useful videos and build an AI-assisted production workflow",
+      "path": "chapters/06-editing-and-ai-production.md",
+      "part": "Production craft",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "production"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "07 — Publish, interpret the evidence, and improve the next video",
+      "path": "chapters/07-publishing-analytics-and-growth.md",
+      "part": "Audience and business",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "analytics"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "08 — Turn a useful channel into a useful business",
+      "path": "chapters/08-funnels-products-and-community.md",
+      "part": "Audience and business",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "funnel"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "09 — Work toward $10,000 a month with honest economics",
+      "path": "chapters/09-economics-and-sustainable-income.md",
+      "part": "Audience and business",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "economics"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "10 — Turn the course into a daily practice and a sustainable operating system",
+      "path": "chapters/10-daily-playbook-and-capstone.md",
+      "part": "Operating practice",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "schedule"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/funnel-map.svg"
+  ],
+  "source_listings": [
+    {
+      "id": "model-source",
+      "title": "Transparent calculation models",
+      "path": "companion/model.mjs",
+      "language": "javascript"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

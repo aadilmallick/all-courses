@@ -1,0 +1,392 @@
+[
+  {
+    "id": "S01",
+    "title": "About Creative Center",
+    "publisher": "TikTok",
+    "url": "https://ads.tiktok.com/resources/help/article/creative-center",
+    "access_state": "inspected",
+    "inspected_sections": "Overview and Top Ads purpose; July 2026 page update. Selected advertising examples, not organic benchmarks.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S02",
+    "title": "Creative Tips Finder",
+    "publisher": "TikTok",
+    "url": "https://ads.tiktok.com/business/creativecenter/tiktok-creative-tips-finder/pc/en",
+    "access_state": "index-only",
+    "inspected_sections": "Creative Codes topic index. Individual course videos not watched.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S03",
+    "title": "Get started with YouTube Analytics",
+    "publisher": "YouTube",
+    "url": "https://creatoracademy.youtube.com/page/course/analytics-series?edition=starter&hl=de",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Search-visible official guidance on analytics and Trends. Follow current help navigation; not a reviewed complete video course.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S04",
+    "title": "AI-generated content",
+    "publisher": "TikTok",
+    "url": "https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content",
+    "access_state": "unavailable",
+    "inspected_sections": "Direct page returned no readable text. Current TikTok AI-label rules require a fresh in-app check; no exact rule inferred.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S05",
+    "title": "OBS Quick Start Guide",
+    "publisher": "OBS Project",
+    "url": "https://obsproject.com/kb/quick-start-guide/",
+    "access_state": "inspected",
+    "inspected_sections": "Scenes, sources, audio, and test-recording workflow. Published 2021-08-25; editor not executed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S06",
+    "title": "DaVinci Resolve Training",
+    "publisher": "Blackmagic Design",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/training/",
+    "access_state": "index-only",
+    "inspected_sections": "Training titles, descriptions, books and project links inspected. Resolve 20 books visible alongside newer product navigation. Course videos and PDFs not fully consumed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S07",
+    "title": "Video editing learning guide",
+    "publisher": "Adobe",
+    "url": "https://www.adobe.com/learn/premiere-pro/web/create-edit-sequence",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Published July 22, 2026. Introductory guide and workspace transcript excerpt. Linked course sequence not completed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S08",
+    "title": "Mix audio like a pro",
+    "publisher": "Adobe",
+    "url": "https://www.adobe.com/learn/premiere-pro/web/professional-audio-mix",
+    "access_state": "partially-inspected",
+    "inspected_sections": "January 5, 2026 tutorial description and transcript sections. Audio features documented, not tested in the editor.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S09",
+    "title": "How to Use CapCut on PC and Mac",
+    "publisher": "CapCut",
+    "url": "https://www.capcut.com/resource/how-to-use-capcut-on-pc",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Official workflow and automatic-caption instructions. Features and tiers can change; editor not executed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S10",
+    "title": "Descript Learning Center",
+    "publisher": "Descript",
+    "url": "https://www.descript.com/blog/article/new-learning-center-useful-videos-that-show-you-how-to-use-descript",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Recording, transcript editing, captions, export descriptions. Updated July 29, 2026. In-app lessons not completed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S11",
+    "title": "Content Marketing Certification Course",
+    "publisher": "HubSpot Academy",
+    "url": "https://academy.hubspot.com/courses/content-marketing",
+    "access_state": "index-only",
+    "inspected_sections": "Course landing page and learning objectives. Free learning resource listed; account may be needed. Lessons not completed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S12",
+    "title": "Email Marketing Certification",
+    "publisher": "HubSpot Academy",
+    "url": "https://academy.hubspot.com/courses/email-marketing-certification-en",
+    "access_state": "index-only",
+    "inspected_sections": "Course overview and modules on strategy, segmentation, permission, and deliverability. Lessons not completed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S13",
+    "title": "Creator Eligibility Policy",
+    "publisher": "TikTok Shop US",
+    "url": "https://seller-us.tiktok.com/university/essay?knowledge_id=6939143037667118",
+    "access_state": "inspected",
+    "inspected_sections": "September 25, 2026 policy: account roles, affiliate follower threshold, age/location/identity requirements. Verify actual account approval.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S14",
+    "title": "Prohibited Products Policy",
+    "publisher": "TikTok Shop US",
+    "url": "https://seller-us.tiktok.com/university/essay?knowledge_id=1399532709988097",
+    "access_state": "partially-inspected",
+    "inspected_sections": "November 6, 2026 policy. Services and virtual-products section; digital exception requires category approval. Other prohibited categories not exhaustively reviewed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S15",
+    "title": "Virtual Goods Requirements",
+    "publisher": "TikTok Shop US",
+    "url": "https://seller-us.tiktok.com/university/essay?knowledge_id=7563407075510030",
+    "access_state": "partially-inspected",
+    "inspected_sections": "September 1, 2026 policy: invite-only approval, secure delivery, described categories. Does not establish eligibility for any specific ebook or recurring SaaS.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S16",
+    "title": "Account types on TikTok",
+    "publisher": "TikTok",
+    "url": "https://support.tiktok.com/en/using-tiktok/growing-your-audience/switching-to-a-creator-or-business-account?lang=nl",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Official search-rendered page text: personal accounts with at least 1,000 followers can post a website link. Business and regional options need account verification.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S17",
+    "title": "Disclosures 101 for Social Media Influencers",
+    "publisher": "FTC",
+    "url": "https://search.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "access_state": "inspected",
+    "inspected_sections": "Material connections, placement, and video disclosure guidance. US baseline; not individualized legal advice.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S18",
+    "title": "Commercial use of music on TikTok",
+    "publisher": "TikTok",
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/commercial-use-of-music-on-tiktok?lang=en",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Official text on Commercial Music Library and permissions for music outside it. No blanket cross-platform license inferred.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S19",
+    "title": "Understand three-minute YouTube Shorts",
+    "publisher": "YouTube",
+    "url": "https://support.google.com/youtube/answer/15424877?hl=en",
+    "access_state": "inspected",
+    "inspected_sections": "Duration, format, and claimed-content rules for Shorts over one minute. Recheck before using music.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S20",
+    "title": "Promoting a brand, product, or service",
+    "publisher": "TikTok",
+    "url": "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Official text on commercial-content disclosure including own business. Platform label and clear endorsement language serve related but distinct purposes.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S21",
+    "title": "Descript Affiliate Program Terms and Conditions",
+    "publisher": "Descript",
+    "url": "https://www.descript.com/affiliate-terms",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Official terms concerning approval, qualifying transactions, attribution and promotional restrictions. Stated update February 28, 2024; verify current signed agreement and dashboard. No payout rate promised.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S22",
+    "title": "Finn TikTok Shop case study",
+    "publisher": "TikTok for Business",
+    "url": "https://ads.tiktok.com/business/en-US/inspiration/finn-tiktok-shop-case-study",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Publisher case narrative: creator affiliates, shoppable content, listings, paid amplification. Selected success story; no causal replication claim.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S23",
+    "title": "Send A Friend: How TikTok Helped Scale to $5M",
+    "publisher": "Shopify",
+    "url": "https://www.shopify.com/blog/sendafriend-tiktok",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Historical founder interview: unboxing, creator content, creative variations and paid acquisition. Predates current Shop rules; not proof of a purely organic outcome.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S24",
+    "title": "TikTok Shop sales channel",
+    "publisher": "Shopify Help Center",
+    "url": "https://help.shopify.com/en/manual/online-sales-channels/social-commerce/tiktok",
+    "access_state": "inspected",
+    "inspected_sections": "Native purchasing with Shopify operations; distinct from external Shopify checkout.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S25",
+    "title": "Setting up TikTok Shop",
+    "publisher": "Shopify Help Center",
+    "url": "https://help.shopify.com/en/manual/online-sales-channels/social-commerce/tiktok/setup",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Store and product requirements and catalog/operations synchronization. Region-specific product rules still apply.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S26",
+    "title": "Sharing links with your audiences",
+    "publisher": "YouTube",
+    "url": "https://support.google.com/youtube/answer/13748639?hl=en",
+    "access_state": "inspected",
+    "inspected_sections": "Clickable and non-clickable locations; advanced-feature qualification for external links in applicable locations.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S27",
+    "title": "Add a related video to your YouTube Shorts",
+    "publisher": "YouTube",
+    "url": "https://support.google.com/youtube/answer/14075157?hl=en",
+    "access_state": "inspected",
+    "inspected_sections": "Internal related-video route and advanced-feature access requirement. Not an external-store button.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S28",
+    "title": "Digital Products app",
+    "publisher": "Shopify Help Center",
+    "url": "https://help.shopify.com/en/manual/products/digital-service-product/digital-downloads",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Current name Digital Products; files, supported-provider links, delivery settings and destination-permission limitations. Legacy URL retained by publisher.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S29",
+    "title": "CAN-SPAM Act: A Compliance Guide for Business",
+    "publisher": "FTC",
+    "url": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+    "access_state": "inspected",
+    "inspected_sections": "Sender identity, subjects, address, opt-out, and transactional/commercial distinction. Broader regional permission requirements not exhaustively reviewed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S30",
+    "title": "Pixels overview",
+    "publisher": "Shopify Help Center",
+    "url": "https://help.shopify.com/en/manual/promoting-marketing/pixels/overview/",
+    "access_state": "inspected",
+    "inspected_sections": "Sandbox and consent behavior. Not permission to bypass privacy choices or a full custom-pixel implementation.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S31",
+    "title": "A Change to How We Count Views on Shorts",
+    "publisher": "TeamYouTube",
+    "url": "https://support.google.com/youtube/thread/333869549?hl=en&msgid=346142003",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Official March 26, 2025 announcement visible in search rendering; direct community-page open returned shell only. Starts/replays versus engaged views.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S32",
+    "title": "Runway AI Academy",
+    "publisher": "Runway",
+    "url": "https://academy.runway.com/",
+    "access_state": "index-only",
+    "inspected_sections": "Current course index includes advertising and visual-effects paths. No course completion or generated-video quality benchmark claimed.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S33",
+    "title": "Can I create a Professional Voice Clone of someone else?",
+    "publisher": "ElevenLabs",
+    "url": "https://elevenlabs.io/docs/help-center/product/voices/voice-cloning/can-i-create-a-professional-voice-clone-of-someone-elses-voice",
+    "access_state": "inspected",
+    "inspected_sections": "Product-specific own-voice verification and supported sharing guidance. Not generalized to every cloning product.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S34",
+    "title": "Shopify Collabs for merchants",
+    "publisher": "Shopify Help Center",
+    "url": "https://help.shopify.com/en/manual/promoting-marketing/collabs/merchants",
+    "access_state": "inspected",
+    "inspected_sections": "Recruitment, links, payments and plan exclusions. Does not establish product-specific eligibility.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S35",
+    "title": "Shopify Collabs Discover",
+    "publisher": "Shopify Help Center",
+    "url": "https://help.shopify.com/en/manual/promoting-marketing/collabs/creators/discover",
+    "access_state": "inspected",
+    "inspected_sections": "Current notice: open creator signup closed; merchant invitations and applications can continue. Recheck before operational use.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S36",
+    "title": "YouTube Shopping affiliate program overview and eligibility",
+    "publisher": "YouTube",
+    "url": "https://support.google.com/youtube/answer/13376398?hl=en",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Separate native program, channel requirements, country restrictions, tagging. No assumption of beginner access or digital-product eligibility.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S37",
+    "title": "Adobe Podcast Enhance Speech",
+    "publisher": "Adobe",
+    "url": "https://podcast.adobe.com/guides/guides/what-is-enhance-speech",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Official search-rendered capability description; direct open had no readable lines. No exact plan limits or current price relied upon.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S38",
+    "title": "Digital product taxes",
+    "publisher": "Shopify Help Center",
+    "url": "https://help.shopify.com/en/manual/taxes/tax-on-digital-products",
+    "access_state": "partially-inspected",
+    "inspected_sections": "Jurisdiction-dependent treatment and digital-product settings. Do not infer universal tax exemption.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  },
+  {
+    "id": "S39",
+    "title": "Disclosing the use of GenAI content",
+    "publisher": "YouTube",
+    "url": "https://support.google.com/youtube/answer/14328491?hl=en-GB",
+    "access_state": "inspected",
+    "inspected_sections": "Realistic generated/altered content versus production assistance and current disclosure workflow.",
+    "access_date": "2026-11-13",
+    "redistribution": "Reference link only; no full source extraction distributed"
+  }
+]

@@ -1,0 +1,356 @@
+{
+  "research_date": "2026-11-13",
+  "sources": [
+    {
+      "id": "CNCF",
+      "title": "CNCF Platform Engineering Maturity Model",
+      "publisher": "CNCF TAG App Delivery",
+      "url": "https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/",
+      "access": "partially-inspected",
+      "inspected_sections": "Platform user needs, interfaces, and deliberate maturity",
+      "chapters": [
+        "01",
+        "02"
+      ],
+      "notes": "Official page and relevant search extracts; not every linked white paper inspected.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K1",
+      "title": "Kubernetes Deployments",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/",
+      "access": "partially-inspected",
+      "inspected_sections": "Desired state, replicas, selectors, rollout scope",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Live documentation; no claim that the example was run on its current default Kubernetes version.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K2",
+      "title": "Kubernetes Service",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/services-networking/service/",
+      "access": "partially-inspected",
+      "inspected_sections": "Service selectors and traffic abstraction",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Current documentation extracts; no live cluster verification.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K3",
+      "title": "Resource Management for Pods and Containers",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/",
+      "access": "partially-inspected",
+      "inspected_sections": "Requests, limits, CPU and memory distinctions",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Core concepts used; no newer feature-gated API assumed.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K4",
+      "title": "Liveness, Readiness, and Startup Probes",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/workloads/pods/probes/",
+      "access": "partially-inspected",
+      "inspected_sections": "Different health questions and startup behavior",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Concept page and official task examples inspected through retrieved excerpts.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K5",
+      "title": "Cluster Networking",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/cluster-administration/networking/",
+      "access": "partially-inspected",
+      "inspected_sections": "Traffic path and implementation boundaries",
+      "chapters": [
+        "02"
+      ],
+      "notes": "No provider-specific network enforcement tested.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K6",
+      "title": "Persistent Volumes",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/storage/persistent-volumes/",
+      "access": "partially-inspected",
+      "inspected_sections": "Persistence versus application recovery responsibility",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Not a storage migration or backup implementation guide.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K7",
+      "title": "Horizontal Pod Autoscaling",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/workloads/autoscaling/horizontal-pod-autoscale/",
+      "access": "partially-inspected",
+      "inspected_sections": "Feedback loop, metric dependencies, simplified proportional example",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Task URL redirected to the current concept page; simplified example is not exact controller prediction.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "K8",
+      "title": "Disruptions",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/workloads/pods/disruptions/",
+      "access": "partially-inspected",
+      "inspected_sections": "Voluntary disruption budgets and limits",
+      "chapters": [
+        "02"
+      ],
+      "notes": "PDB not presented as protection from every outage or all Deployment updates.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "RBAC",
+      "title": "Role Based Access Control Good Practices",
+      "publisher": "Kubernetes project",
+      "url": "https://kubernetes.io/docs/concepts/security/rbac-good-practices/",
+      "access": "partially-inspected",
+      "inspected_sections": "Least privilege for an agreed investigation",
+      "chapters": [
+        "02"
+      ],
+      "notes": "No customer authorization configuration was audited.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "OBS",
+      "title": "OpenTelemetry signals",
+      "publisher": "OpenTelemetry project",
+      "url": "https://opentelemetry.io/docs/concepts/signals/",
+      "access": "partially-inspected",
+      "inspected_sections": "Metrics, logs, traces and operational questions",
+      "chapters": [
+        "02"
+      ],
+      "notes": "No SDK integration or exporter executed.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "SRE",
+      "title": "Implementing SLOs",
+      "publisher": "Google SRE",
+      "url": "https://sre.google/workbook/implementing-slos/",
+      "access": "partially-inspected",
+      "inspected_sections": "SLI, SLO, budget meaning and ownership",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Original numerical time-budget examples; no SLA interpretation.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "SRE-POLICY",
+      "title": "Example Error Budget Policy",
+      "publisher": "Google SRE",
+      "url": "https://sre.google/workbook/error-budget-policy/",
+      "access": "partially-inspected",
+      "inspected_sections": "Policy as an agreed decision process",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Google's example policy is not prescribed universally.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "FIN",
+      "title": "Unit Economics",
+      "publisher": "FinOps Foundation",
+      "url": "https://www.finops.org/framework/capabilities/unit-economics/",
+      "access": "partially-inspected",
+      "inspected_sections": "Cost per useful unit and allocation context",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Original hypothetical report-cost example, not actual customer bill analysis.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "AWS",
+      "title": "AWS Well-Architected Framework",
+      "publisher": "Amazon Web Services",
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+      "access": "inspected",
+      "inspected_sections": "Architecture review as a constructive tradeoff conversation",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Short introduction retrieved; displayed publication date November 6, 2024. Not an official partner or assurance claim.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "CDK",
+      "title": "Testing AWS CDK applications",
+      "publisher": "Amazon Web Services",
+      "url": "https://docs.aws.amazon.com/cdk/v2/guide/testing.html",
+      "access": "partially-inspected",
+      "inspected_sections": "Configuration assertions versus live application verification",
+      "chapters": [
+        "02"
+      ],
+      "notes": "CDK v2 documentation; no SDK example or deployment executed.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "GITOPS",
+      "title": "Automated Sync Policy",
+      "publisher": "Argo CD project",
+      "url": "https://argo-cd.readthedocs.io/en/stable/user-guide/auto_sync/",
+      "access": "partially-inspected",
+      "inspected_sections": "Automatic sync, pruning, and self-healing as choices",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Stable documentation route, no installed Argo CD version assumed.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "DORA",
+      "title": "Software delivery performance metrics",
+      "publisher": "DORA / Nathen Harvey",
+      "url": "https://dora.dev/guides/dora-metrics/",
+      "access": "partially-inspected",
+      "inspected_sections": "Current five-metric framing and measurement context",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Do not treat local illustrative release definitions as the official full metric set.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "AGENTS",
+      "title": "Building effective agents",
+      "publisher": "Anthropic",
+      "url": "https://www.anthropic.com/research/building-effective-agents",
+      "access": "partially-inspected",
+      "inspected_sections": "Workflows versus greater model discretion; proportional complexity",
+      "chapters": [
+        "03"
+      ],
+      "notes": "Conceptual guidance; no measured productivity claim adopted.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "EVAL",
+      "title": "LangSmith evaluation",
+      "publisher": "LangChain",
+      "url": "https://www.langchain.com/langsmith/evaluation",
+      "access": "partially-inspected",
+      "inspected_sections": "Datasets, experiments, and evaluator types",
+      "chapters": [
+        "03"
+      ],
+      "notes": "Provider capabilities, not evidence of independent effectiveness; no plan or SDK access assumed.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "OWASP",
+      "title": "Prompt Injection detailed page",
+      "publisher": "OWASP GenAI Security Project",
+      "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+      "access": "partially-inspected",
+      "inspected_sections": "Input-based behavior manipulation and authority boundaries",
+      "chapters": [
+        "03"
+      ],
+      "notes": "Retrieved detailed page is labeled 2025; retained as a versioned source, not the latest release by implication.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "OWASP-INDEX",
+      "title": "LLM Top 10 official repository",
+      "publisher": "OWASP GenAI Security Project",
+      "url": "https://github.com/GenAI-Security-Project/GenAI-LLM-Top10/blob/main/README.md",
+      "access": "partially-inspected",
+      "inspected_sections": "Release and risk taxonomy context",
+      "chapters": [
+        "03"
+      ],
+      "notes": "Official index reported a 2026 release; risk names are used without assuming stable numbering across editions.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "OWASP-AGENCY",
+      "title": "Excessive Agency historical guidance",
+      "publisher": "OWASP GenAI Security Project",
+      "url": "https://genai.owasp.org/llmrisk/llm062025-excessive-agency/?lang=us",
+      "access": "partially-inspected",
+      "inspected_sections": "Capabilities, permissions, and autonomy",
+      "chapters": [
+        "03"
+      ],
+      "notes": "2025 detailed guidance; cross-checked against the current official index.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "STATE",
+      "title": "LangGraph Persistence",
+      "publisher": "LangChain",
+      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "access": "partially-inspected",
+      "inspected_sections": "Checkpointed state, stores, and continuation",
+      "chapters": [
+        "03"
+      ],
+      "notes": "Durable-execution URL redirected; no SDK version-specific code is provided.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "OUTREACH",
+      "title": "CAN-SPAM Act business compliance guide",
+      "publisher": "US Federal Trade Commission",
+      "url": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+      "access": "inspected",
+      "inspected_sections": "US commercial email basics, including B2B applicability",
+      "chapters": [
+        "04"
+      ],
+      "notes": "Actual rules depend on message, jurisdiction, and channel; no international clearance.",
+      "rights": "Concept reference only; no full source page redistributed."
+    },
+    {
+      "id": "EKS-LIMIT",
+      "title": "Amazon EKS best-practices landing page",
+      "publisher": "Amazon Web Services",
+      "url": "https://docs.aws.amazon.com/eks/latest/best-practices/",
+      "access": "unavailable",
+      "inspected_sections": "Research limit only",
+      "chapters": [
+        "02"
+      ],
+      "notes": "Page returned no readable lines. Not used as evidence for a version-specific EKS claim.",
+      "rights": "Concept reference only; no full source page redistributed."
+    }
+  ],
+  "personal_sources": [
+    {
+      "title": "Aadil_s_Resume_SWE_variant.pdf",
+      "access": "inspected",
+      "notes": "User-supplied resume text reviewed. Claims attributed, not independently audited. No source extract redistributed."
+    },
+    {
+      "title": "Aadil-Mallick-Project-Context.md",
+      "access": "inspected",
+      "notes": "User-supplied project context used for goals and preferences. Existing prices treated as hypotheses; no established consulting demand inferred."
+    }
+  ]
+}

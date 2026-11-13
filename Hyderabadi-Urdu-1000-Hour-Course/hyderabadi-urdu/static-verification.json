@@ -1,0 +1,164 @@
+{
+  "passed": true,
+  "chapters": [
+    {
+      "chapter": 1,
+      "words": 3620,
+      "hours": 60
+    },
+    {
+      "chapter": 2,
+      "words": 3526,
+      "hours": 70
+    },
+    {
+      "chapter": 3,
+      "words": 3319,
+      "hours": 80
+    },
+    {
+      "chapter": 4,
+      "words": 3205,
+      "hours": 80
+    },
+    {
+      "chapter": 5,
+      "words": 3592,
+      "hours": 85
+    },
+    {
+      "chapter": 6,
+      "words": 3617,
+      "hours": 85
+    },
+    {
+      "chapter": 7,
+      "words": 3612,
+      "hours": 85
+    },
+    {
+      "chapter": 8,
+      "words": 3810,
+      "hours": 90
+    },
+    {
+      "chapter": 9,
+      "words": 3519,
+      "hours": 90
+    },
+    {
+      "chapter": 10,
+      "words": 3557,
+      "hours": 90
+    },
+    {
+      "chapter": 11,
+      "words": 3659,
+      "hours": 90
+    },
+    {
+      "chapter": 12,
+      "words": 3934,
+      "hours": 95
+    }
+  ],
+  "hours": 1000,
+  "vocabulary": 1000,
+  "authoredPractice": 360,
+  "typeCounts": {
+    "translate-to-english": 72,
+    "translate-to-urdu": 72,
+    "grammar": 72,
+    "listening": 72,
+    "speaking": 72
+  },
+  "derivedVocabularyPrompts": 2000,
+  "tokenEncoding": "o200k_base",
+  "chapterTokens": 64362,
+  "productionPages": 25,
+  "brokenLinks": [],
+  "scriptAwareSpeechModels": {
+    "covered": 134,
+    "total": 144,
+    "unmapped": [
+      {
+        "id": "c01-024",
+        "missing": [
+          "hau"
+        ]
+      },
+      {
+        "id": "c04-023",
+        "missing": [
+          "hau"
+        ]
+      },
+      {
+        "id": "c06-024",
+        "missing": [
+          "ich"
+        ]
+      },
+      {
+        "id": "c09-024",
+        "missing": [
+          "hau"
+        ]
+      },
+      {
+        "id": "c09-030",
+        "missing": [
+          "hau"
+        ]
+      },
+      {
+        "id": "c10-030",
+        "missing": [
+          "hau",
+          "ich"
+        ]
+      },
+      {
+        "id": "c11-024",
+        "missing": [
+          "hau"
+        ]
+      },
+      {
+        "id": "c11-030",
+        "missing": [
+          "hau"
+        ]
+      },
+      {
+        "id": "c12-024",
+        "missing": [
+          "hau"
+        ]
+      },
+      {
+        "id": "c12-030",
+        "missing": [
+          "hau"
+        ]
+      }
+    ]
+  },
+  "scriptAwareVocabulary": {
+    "covered": 999,
+    "total": 1000,
+    "unmapped": [
+      {
+        "id": 61,
+        "missing": [
+          "hau"
+        ]
+      }
+    ]
+  },
+  "limits": [
+    "Static/content verification is not a native-speaker review.",
+    "Voice output, microphone permission, local language packs and AI support depend on the browser/device.",
+    "Machine speech spellings do not verify actual system-voice pronunciation."
+  ]
+}

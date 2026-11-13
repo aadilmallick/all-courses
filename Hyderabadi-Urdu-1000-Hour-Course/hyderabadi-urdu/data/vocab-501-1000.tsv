@@ -1,0 +1,501 @@
+id	roman	english	pos	gender	topic	chapter	example	translation	register
+501	safar	journey	noun	m	travel	11	Safar lamba tha.	The journey was long.	shared
+502	musaafir	traveller	noun	m	travel	11	Musaafir intezaar kar rahe hain.	The travellers are waiting.	shared
+503	raasta	route	noun	m	travel	11	Yeh raasta chhota hai.	This route is short.	shared
+504	manzil	destination	noun	f	travel	11	Hamaari manzil qareeb hai.	Our destination is near.	shared
+505	faasla	distance	noun	m	travel	11	Kitna faasla hai?	How far is it?	shared
+506	raftaar	speed	noun	f	travel	11	Raftaar kam rakhiye.	Keep the speed low.	shared
+507	mod	turn	noun	m	travel	11	Agle mod par rukiye.	Stop at the next turn.	shared
+508	pul	bridge	noun	m	travel	11	Pul ke baad daayen muriye.	Turn right after the bridge.	shared
+509	chauraaha	crossroads	noun	m	travel	11	Chauraahe par bahut bheer hai.	There is a big crowd at the crossroads.	shared
+510	sarak	road	noun	f	travel	11	Sarak band hai.	The road is closed.	shared
+511	footpath	pavement	noun	m	travel	11	Footpath par chaliye.	Walk on the pavement.	shared
+512	traffic	road traffic	noun	m	travel	11	Aaj traffic bahut hai.	There is a lot of traffic today.	shared
+513	jaam	traffic jam	noun	m	travel	11	Hum jaam mein phans gaye.	We got stuck in a traffic jam.	shared
+514	sawaari	ride or passenger transport	noun	f	travel	11	Sawaari mil gayi.	We found a ride.	shared
+515	riksha	rickshaw	noun	m	travel	11	Riksha yahaan rok dijiye.	Stop the rickshaw here.	shared
+516	auto	auto-rickshaw	noun	m	travel	11	Auto ka kiraaya kitna hai?	How much is the auto fare?	shared
+517	taxi	taxi	noun	f	travel	11	Taxi aa gayi hai.	The taxi has arrived.	shared
+518	bus	bus	noun	f	travel	11	Bus kab aayegi?	When will the bus arrive?	shared
+519	rail	railway train	noun	f	travel	11	Rail waqt par aayi.	The train arrived on time.	shared
+520	metro	metro train	noun	f	travel	11	Metro se jaana aasaan hai.	Going by metro is easy.	shared
+521	hawaai jahaaz	aeroplane	noun	m	travel	11	Hawaai jahaaz der se aaya.	The aeroplane arrived late.	shared
+522	kishti	boat	noun	f	travel	11	Kishti dheere chal rahi hai.	The boat is moving slowly.	shared
+523	cycle	bicycle	noun	f	travel	11	Meri cycle baahar hai.	My bicycle is outside.	shared
+524	motorcycle	motorcycle	noun	f	travel	11	Motorcycle aahista chalaaiye.	Ride the motorcycle slowly.	shared
+525	truck	lorry	noun	m	travel	11	Truck raaste mein khara hai.	The lorry is standing in the way.	shared
+526	driver	driver	noun	m	travel	11	Driver ko pata bata dijiye.	Tell the driver the address.	shared
+527	conductor	bus conductor	noun	m	travel	11	Conductor se ticket lijiye.	Get a ticket from the conductor.	shared
+528	ticket	travel ticket	noun	m	travel	11	Ticket sambhaal kar rakhiye.	Keep the ticket safe.	shared
+529	kiraaya	fare or rent	noun	m	travel	11	Kiraaya pehle poochh lijiye.	Ask the fare first.	shared
+530	petrol	petrol	noun	m	travel	11	Petrol kam hai.	There is little petrol left.	shared
+531	diesel	diesel	noun	m	travel	11	Is gaari mein diesel lagta hai.	This vehicle uses diesel.	shared
+532	brake	brake	noun	m	travel	11	Brake theek se kaam nahin kar raha.	The brake is not working properly.	shared
+533	steering	steering wheel	noun	m	travel	11	Steering mazbooti se pakriye.	Hold the steering wheel firmly.	shared
+534	seat	seat	noun	f	travel	11	Yeh seat khaali hai?	Is this seat free?	shared
+535	platform	railway platform	noun	m	travel	11	Platform badal gaya hai.	The platform has changed.	shared
+536	station	station	noun	m	travel	11	Station yahaan se door hai.	The station is far from here.	shared
+537	adda	transport stand	noun	m	travel	11	Bus ka adda kahaan hai?	Where is the bus stand?	shared
+538	hawaai adda	airport	noun	m	travel	11	Hawaai adde tak kitna waqt lagega?	How long will it take to reach the airport?	shared
+539	samaan	luggage	noun	m	travel	11	Apna saamaan dekh lijiye.	Check your luggage.	shared
+540	suitcase	suitcase	noun	m	travel	11	Suitcase bhaari hai.	The suitcase is heavy.	shared
+541	passport	passport	noun	m	travel	11	Passport mere paas hai.	I have the passport.	shared
+542	visa	visa	noun	m	travel	11	Visa abhi nahin mila.	The visa has not arrived yet.	shared
+543	booking	reservation	noun	f	travel	11	Booking ki tasdeeq ho gayi.	The reservation has been confirmed.	shared
+544	rawaangi	departure	noun	f	travel	11	Rawaangi ka waqt badal gaya.	The departure time has changed.	shared
+545	aamad	arrival	noun	f	travel	11	Aamad ka waqt likha hai.	The arrival time is written.	shared
+546	waapsi	return trip	noun	f	travel	11	Waapsi ka ticket bhi le lijiye.	Get the return ticket too.	shared
+547	qayaam	stay	noun	m	travel	11	Aapka qayaam kitne din ka hai?	How many days is your stay?	shared
+548	sarhad	border	noun	f	travel	11	Sarhad par jaanch ho rahi hai.	Checks are taking place at the border.	shared
+549	naqsha	map	noun	m	travel	11	Naqshe mein raasta dekhiye.	Look at the route on the map.	shared
+550	paidal	on foot	adj	-	travel	11	Hum paidal jaayenge.	We will go on foot.	shared
+551	bazaar	market	noun	m	city-services	11	Bazaar shaam ko khulta hai.	The market opens in the evening.	shared
+552	dukaan	shop	noun	f	city-services	11	Dukaan abhi band hai.	The shop is closed at the moment.	shared
+553	dukaandaar	shopkeeper	noun	m	city-services	11	Dukaandaar se poochhiye.	Ask the shopkeeper.	shared
+554	graahak	customer	noun	m	city-services	11	Graahak intezaar kar rahe hain.	The customers are waiting.	shared
+555	raseed	receipt	noun	f	city-services	11	Raseed de dijiye.	Please give me the receipt.	shared
+556	bill	bill	noun	m	city-services	11	Bill mein galti hai.	There is an error in the bill.	shared
+557	qeemat	price	noun	f	city-services	11	Iski qeemat kya hai?	What is its price?	shared
+558	raqam	amount of money	noun	f	city-services	11	Raqam dobara gin lijiye.	Count the amount again.	shared
+559	naqd	cash	noun	m	city-services	11	Kya naqd de sakte hain?	Can we pay cash?	shared
+560	chhutta	small change	noun	m	city-services	11	Mere paas chhutta nahin hai.	I do not have small change.	shared
+561	qarz	debt or loan	noun	m	city-services	11	Qarz waqt par dena hai.	The loan must be repaid on time.	shared
+562	qist	instalment	noun	f	city-services	11	Pehli qist de di hai.	The first instalment has been paid.	shared
+563	kharch	expense	noun	m	city-services	11	Kharch ka andaaza lagaaiye.	Estimate the expense.	shared
+564	bachat	saving	noun	f	city-services	11	Isse waqt ki bachat hogi.	This will save time.	shared
+565	bank	bank	noun	m	city-services	11	Bank kitne baje band hota hai?	What time does the bank close?	shared
+566	khaata	account	noun	m	city-services	11	Mera khaata is bank mein hai.	My account is at this bank.	shared
+567	hisaab	calculation or account	noun	m	city-services	11	Hisaab saaf rakhiye.	Keep the accounts clear.	shared
+568	khidmat	service	noun	f	city-services	11	Aapki khidmat ka shukriya.	Thank you for your service.	shared
+569	sahoolat	facility or convenience	noun	f	city-services	11	Yahaan achchhi sahoolat hai.	There is a good facility here.	shared
+570	intezaam	arrangement	noun	m	city-services	11	Intezaam ho gaya hai.	The arrangement has been made.	shared
+571	zimmedaar	responsible	adj	-	city-services	11	Zimmedaar shakhs ko bulaaiye.	Call the person responsible.	shared
+572	mistri	repair worker	noun	m	city-services	11	Mistri kal aayenge.	The repair worker will come tomorrow.	shared
+573	darzi	tailor	noun	m	city-services	11	Darzi se kurta silwaaya.	I had a kurta made by the tailor.	shared
+574	naai	barber	noun	m	city-services	11	Naai ki dukaan qareeb hai.	The barber shop is near.	shared
+575	dhobi	laundry worker	noun	m	city-services	11	Kapre dhobi ko de diye.	I gave the clothes to the laundry worker.	shared
+576	mazdoor	labourer	noun	m	city-services	11	Mazdoor kaam kar rahe hain.	The workers are working.	shared
+577	chowkeedaar	watchman	noun	m	city-services	11	Chowkeedaar se poochh lijiye.	Ask the watchman.	shared
+578	safaai	cleaning	noun	f	city-services	11	Yahaan safaai ho rahi hai.	Cleaning is taking place here.	shared
+579	kachra	rubbish	noun	m	city-services	11	Kachra dabbe mein daaliye.	Put the rubbish in the bin.	shared
+580	naali	drain	noun	f	city-services	11	Naali band ho gayi hai.	The drain has become blocked.	shared
+581	meter	utility meter	noun	m	city-services	11	Meter ki reading dekh lijiye.	Check the meter reading.	shared
+582	katauti	cut or reduction	noun	f	city-services	11	Aaj bijli ki katauti hai.	There is a power cut today.	shared
+583	paani ki line	water supply line	noun	f	city-services	11	Paani ki line theek ho gayi.	The water supply line has been repaired.	shared
+584	hifaazat	protection or safety	noun	f	city-services	11	Bachchon ki hifaazat zaroori hai.	The safety of children is important.	shared
+585	marammat	repair	noun	f	city-services	11	Marammat mein waqt lagega.	The repair will take time.	shared
+586	kharabi	fault	noun	f	city-services	11	Kharabi kahaan hai?	Where is the fault?	shared
+587	shikaayat	complaint	noun	f	city-services	11	Meri ek shikaayat hai.	I have a complaint.	shared
+588	sifarish	recommendation	noun	f	city-services	11	Aapki sifarish ka shukriya.	Thank you for your recommendation.	shared
+589	ijaazat	permission	noun	f	city-services	11	Andar aane ki ijaazat hai?	May I come in?	shared
+590	daakhila	entry or admission	noun	m	city-services	11	Daakhila yahaan se hai.	Entry is from here.	shared
+591	nikas	exit or outlet	noun	m	city-services	11	Nikas ka raasta kahaan hai?	Where is the exit route?	shared
+592	qanoon	law	noun	m	city-services	11	Qanoon sabke liye hai.	The law applies to everyone.	shared
+593	police	police	noun	f	city-services	11	Police aa gayi hai.	The police have arrived.	shared
+594	thaana	police station	noun	m	city-services	11	Thaana qareeb hai.	The police station is nearby.	shared
+595	daftar	office	noun	m	city-services	11	Daftar aaj band hai.	The office is closed today.	shared
+596	khirki	window or service counter	noun	f	city-services	11	Ticket ki khirki udhar hai.	The ticket counter is over there.	shared
+597	qatar	queue	noun	f	city-services	11	Qatar mein khare rahiye.	Please stand in the queue.	shared
+598	mohr	stamp or seal	noun	f	city-services	11	Kaaghaz par mohr chahiye.	The paper needs a stamp.	shared
+599	form	form	noun	m	city-services	11	Form bhar dijiye.	Please fill in the form.	shared
+600	dastakhat	signature	noun	m	city-services	11	Yahaan dastakhat kijiye.	Sign here.	shared
+601	naukri	job	noun	f	work	11	Mujhe nayi naukri mili hai.	I have found a new job.	shared
+602	rozgaar	employment	noun	m	work	11	Woh rozgaar dhoondh rahe hain.	They are looking for employment.	shared
+603	pesha	profession	noun	m	work	11	Aapka pesha kya hai?	What is your profession?	shared
+604	kaarobaar	business	noun	m	work	11	Unka kaarobaar achchha chal raha hai.	Their business is going well.	shared
+605	company	company	noun	f	work	11	Company ne waqt badal diya.	The company changed the schedule.	shared
+606	idara	organisation	noun	m	work	11	Yeh ek chhota idara hai.	This is a small organisation.	shared
+607	amla	staff	noun	m	work	11	Amle ko bhi suniye.	Listen to the staff too.	shared
+608	saathi	colleague or companion	noun	m	work	11	Mere saathi madad karenge.	My colleagues will help.	shared
+609	afsar	officer or manager	noun	m	work	11	Afsar se baat kijiye.	Speak to the officer.	shared
+610	manager	manager	noun	m	work	11	Manager abhi masroof hain.	The manager is busy at the moment.	shared
+611	mulaazim	employee	noun	m	work	11	Mulaazim waqt par aaye.	The employees arrived on time.	shared
+612	maalik	owner or employer	noun	m	work	11	Maalik se ijaazat lijiye.	Get permission from the owner.	shared
+613	tankhaah	salary	noun	f	work	11	Tankhaah mil gayi hai.	The salary has been paid.	shared
+614	ujrat	wages or fee	noun	f	work	11	Ujrat pehle tai kar lijiye.	Agree the wages beforehand.	shared
+615	mehnat	hard work	noun	f	work	11	Aapki mehnat nazar aa rahi hai.	Your hard work is evident.	shared
+616	zimmedaari	responsibility	noun	f	work	11	Yeh meri zimmedaari hai.	This is my responsibility.	shared
+617	farz	duty	noun	m	work	11	Apna farz nibhaaiye.	Fulfil your duty.	shared
+618	mansuba	plan or project	noun	m	work	11	Mansuba taiyaar hai.	The plan is ready.	shared
+619	mansoobabandi	planning	noun	f	work	11	Pehle mansoobabandi karte hain.	Let us plan first.	shared
+620	mulaaqaat	meeting	noun	f	work	11	Mulaaqaat kal hogi.	The meeting will take place tomorrow.	shared
+621	ijlaas	formal meeting	noun	m	work	11	Ijlaas shuru ho gaya.	The meeting has started.	shared
+622	baithak	sitting or meeting	noun	f	work	11	Kal ek chhoti baithak hai.	There is a small meeting tomorrow.	shared
+623	agenda	agenda	noun	m	work	11	Agenda pehle bhej dijiye.	Send the agenda first.	shared
+624	report	report	noun	f	work	11	Report shaam tak chahiye.	The report is needed by evening.	shared
+625	nateeja	result	noun	m	work	11	Nateeja kal milega.	The result will be available tomorrow.	shared
+626	kaamyaabi	success	noun	f	work	11	Yeh sabki kaamyaabi hai.	This is a success for everyone.	shared
+627	naakaami	failure	noun	f	work	11	Naakaami se bhi seekh sakte hain.	We can learn from failure too.	shared
+628	taraqqi	progress or promotion	noun	f	work	11	Unki taraqqi ho gayi.	They have been promoted.	shared
+629	tajurba	experience	noun	m	work	11	Mujhe is kaam ka tajurba hai.	I have experience of this work.	shared
+630	mahaarat	skill or expertise	noun	f	work	11	Yeh mahaarat waqt se aati hai.	This skill develops with time.	shared
+631	tarbiyat	training or upbringing	noun	f	work	11	Naye logon ki tarbiyat ho rahi hai.	The new people are being trained.	shared
+632	mashq	practice	noun	f	work	11	Roz thodi mashq kijiye.	Practise a little every day.	shared
+633	waqt ki paabandi	punctuality	phrase	-	work	11	Waqt ki paabandi zaroori hai.	Punctuality is important.	shared
+634	chhutti	leave or holiday	noun	f	work	11	Mujhe kal chhutti chahiye.	I need leave tomorrow.	shared
+635	haazri	attendance	noun	f	work	11	Haazri yahaan lagaaiye.	Mark attendance here.	shared
+636	ghairhaazri	absence	noun	f	work	11	Meri ghairhaazri ki wajah bata dijiye.	Explain the reason for my absence.	shared
+637	isteefa	resignation	noun	m	work	11	Unhone isteefa de diya.	They have resigned.	shared
+638	muqaabla	competition	noun	m	work	11	Muqaabla sakht hai.	The competition is tough.	shared
+639	mauqa	opportunity	noun	m	work	11	Mujhe ek mauqa dijiye.	Give me an opportunity.	shared
+640	shart	condition	noun	f	work	11	Yeh shart manzoor hai.	This condition is acceptable.	shared
+641	muwaahida	agreement or contract	noun	m	work	11	Muwaahida parh lijiye.	Read the agreement.	shared
+642	faayda	benefit or profit	noun	m	work	11	Iska kya faayda hoga?	What benefit will it bring?	shared
+643	nuqsaan	loss or harm	noun	m	work	11	Nuqsaan kam hua hai.	The loss was small.	shared
+644	nafa	profit	noun	m	work	11	Is saal nafa hua.	There was a profit this year.	shared
+645	khusoosiyat	feature or characteristic	noun	f	work	11	Iski khaas khusoosiyat kya hai?	What is its special feature?	shared
+646	maqsad	purpose or objective	noun	m	work	11	Kaam ka maqsad saaf hai.	The purpose of the work is clear.	shared
+647	tarjeeh	priority or preference	noun	f	work	11	Is kaam ko tarjeeh dijiye.	Give this work priority.	shared
+648	meeyaar	standard or quality	noun	m	work	11	Meeyaar behtar ho gaya.	The standard has improved.	shared
+649	peshkash	offer or presentation	noun	f	work	11	Aapki peshkash dilchasp hai.	Your offer is interesting.	shared
+650	waada	promise	noun	m	work	11	Main apna waada poora karoonga.	I will keep my promise.	shared
+651	taaleem	education	noun	f	study-technology	11	Taaleem sabke liye zaroori hai.	Education is important for everyone.	shared
+652	madrasa	school	noun	m	study-technology	11	Bachche madrase gaye hain.	The children have gone to school.	shared
+653	school	school	noun	m	study-technology	11	School qareeb hai.	The school is nearby.	shared
+654	college	college	noun	m	study-technology	11	Woh college mein parhti hain.	She studies at college.	shared
+655	university	university	noun	f	study-technology	11	University shehar se door hai.	The university is far from the city.	shared
+656	ustaad	teacher	noun	m	study-technology	11	Ustaad se sawaal poochhiye.	Ask the teacher a question.	shared
+657	ustaani	female teacher	noun	f	study-technology	11	Ustaani ne samjha diya.	The teacher explained it.	shared
+658	taalib-e-ilm	student	noun	m	study-technology	11	Woh taalib-e-ilm hain.	They are students.	shared
+659	shaagird	pupil or apprentice	noun	m	study-technology	11	Shaagird seekh rahe hain.	The pupils are learning.	shared
+660	sabaq	lesson	noun	m	study-technology	11	Aaj ka sabaq parhiye.	Read the lesson for today.	shared
+661	baab	chapter	noun	m	study-technology	11	Yeh baab dobara parhiye.	Read this chapter again.	shared
+662	jawaab	answer	noun	m	study-technology	11	Jawaab soch kar dijiye.	Think before giving the answer.	shared
+663	imtihaan	examination	noun	m	study-technology	11	Imtihaan agle hafte hai.	The examination is next week.	shared
+664	parcha	exam paper or sheet	noun	m	study-technology	11	Parcha aasaan tha.	The paper was easy.	shared
+665	number	mark or number	noun	m	study-technology	11	Mere achchhe number aaye.	I got good marks.	shared
+666	sanad	certificate	noun	f	study-technology	11	Sanad sambhaal kar rakhiye.	Keep the certificate safe.	shared
+667	kaaghaz	paper	noun	m	study-technology	11	Kaaghaz mez par hai.	The paper is on the table.	shared
+668	qalam	pen	noun	m	study-technology	11	Mujhe qalam chahiye.	I need a pen.	shared
+669	pencil	pencil	noun	f	study-technology	11	Pencil se likhiye.	Write in pencil.	shared
+670	daayri	diary	noun	f	study-technology	11	Daayri mein likh lijiye.	Note it in the diary.	shared
+671	safha	page	noun	m	study-technology	11	Agla safha kholiye.	Open the next page.	shared
+672	lafz	word	noun	m	study-technology	11	Is lafz ka matlab kya hai?	What does this word mean?	shared
+673	jumla	sentence	noun	m	study-technology	11	Ek poora jumla kahiye.	Say a complete sentence.	shared
+674	maani	meaning	noun	m	study-technology	11	Iske do maani hain.	It has two meanings.	shared
+675	talaffuz	pronunciation	noun	m	study-technology	11	Talaffuz sun kar dohraaiye.	Listen to the pronunciation and repeat.	shared
+676	qaaida	rule	noun	m	study-technology	11	Qaaida samajh mein aa gaya.	I understood the rule.	shared
+677	misaal	example	noun	f	study-technology	11	Ek aur misaal dijiye.	Give another example.	shared
+678	tarjuma	translation	noun	m	study-technology	11	Tarjuma apne alfaaz mein kijiye.	Translate in your own words.	shared
+679	aawaaz	voice or sound	noun	f	study-technology	11	Aawaaz saaf hai.	The sound is clear.	shared
+680	tasveer	picture	noun	f	study-technology	11	Tasveer bhej dijiye.	Send the picture.	shared
+681	video	video	noun	f	study-technology	11	Video phir se dekhiye.	Watch the video again.	shared
+682	recording	recording	noun	f	study-technology	11	Recording sun lijiye.	Listen to the recording.	shared
+683	computer	computer	noun	m	study-technology	11	Computer band ho gaya.	The computer switched off.	shared
+684	laptop	laptop	noun	m	study-technology	11	Laptop mere paas hai.	I have the laptop.	shared
+685	mobile	mobile phone	noun	m	study-technology	11	Mobile charge kar lijiye.	Charge the mobile phone.	shared
+686	internet	internet	noun	m	study-technology	11	Internet nahin chal raha.	The internet is not working.	shared
+687	website	website	noun	f	study-technology	11	Website khul gayi hai.	The website has opened.	shared
+688	email	email	noun	f	study-technology	11	Email bhej di hai.	I have sent the email.	shared
+689	paighaam	message	noun	m	study-technology	11	Paighaam mil gaya.	I received the message.	shared
+690	raabta	contact or connection	noun	m	study-technology	11	Raabta toot gaya.	The connection was lost.	shared
+691	signal	signal	noun	m	study-technology	11	Yahaan signal kam hai.	The signal is weak here.	shared
+692	password	password	noun	m	study-technology	11	Password kisi ko mat bataaiye.	Do not tell anyone the password.	shared
+693	file	file	noun	f	study-technology	11	File mehfooz hai.	The file is safe.	shared
+694	folder	folder	noun	m	study-technology	11	Folder khol dijiye.	Open the folder.	shared
+695	screen	screen	noun	f	study-technology	11	Screen saaf kijiye.	Clean the screen.	shared
+696	keyboard	keyboard	noun	m	study-technology	11	Keyboard par likhiye.	Type on the keyboard.	shared
+697	charger	charger	noun	m	study-technology	11	Charger kahaan hai?	Where is the charger?	shared
+698	battery	battery	noun	f	study-technology	11	Battery khatam ho gayi.	The battery has run out.	shared
+699	microphone	microphone	noun	m	study-technology	11	Microphone chalu kijiye.	Turn on the microphone.	shared
+700	speaker	loudspeaker	noun	m	study-technology	11	Speaker ki aawaaz kam kijiye.	Turn down the speaker volume.	shared
+701	sar	head	noun	m	body	7	Mere sar mein dard hai.	My head hurts.	shared
+702	chehra	face	noun	m	body	7	Apna chehra dho lijiye.	Wash your face.	shared
+703	aankh	eye	noun	f	body	7	Meri aankh mein paani aa raha hai.	My eye is watering.	shared
+704	kaan	ear	noun	m	body	7	Mere kaan mein dard hai.	My ear hurts.	shared
+705	naak	nose	noun	f	body	7	Naak band hai.	My nose is blocked.	shared
+706	munh	mouth	noun	m	body	7	Munh kholiye.	Open your mouth.	shared
+707	daant	tooth	noun	m	body	7	Mere daant mein dard hai.	My tooth hurts.	shared
+708	gardan	neck	noun	f	body	7	Gardan dheere ghumaaiye.	Turn your neck slowly.	shared
+709	kandha	shoulder	noun	m	body	7	Mera kandha dukh raha hai.	My shoulder hurts.	shared
+710	baazu	arm	noun	m	body	7	Baazu upar kijiye.	Raise your arm.	shared
+711	kohni	elbow	noun	f	body	7	Kohni par chot lagi.	My elbow was hurt.	shared
+712	kalaai	wrist	noun	f	body	7	Kalaai mein dard hai.	My wrist hurts.	shared
+713	haath	hand	noun	m	body	7	Haath dho lijiye.	Wash your hands.	shared
+714	ungli	finger	noun	f	body	7	Meri ungli kat gayi.	I cut my finger.	shared
+715	angutha	thumb	noun	m	body	7	Anguthe par patti hai.	There is a bandage on the thumb.	shared
+716	naakhun	nail	noun	m	body	7	Naakhun chhote rakhiye.	Keep your nails short.	shared
+717	seena	chest	noun	m	body	7	Seene mein takleef hai.	There is discomfort in my chest.	shared
+718	peeth	back	noun	f	body	7	Peeth seedhi rakhiye.	Keep your back straight.	shared
+719	kamar	waist or lower back	noun	f	body	7	Kamar mein dard hai.	My lower back hurts.	shared
+720	pet	stomach or belly	noun	m	body	7	Mera pet bhar gaya.	I am full.	shared
+721	ghutna	knee	noun	m	body	7	Ghutne par chot lagi.	The knee was injured.	shared
+722	taang	leg	noun	f	body	7	Meri taang dukh rahi hai.	My leg hurts.	shared
+723	pair	foot	noun	m	body	7	Pair mein kaanta chubh gaya.	A thorn got into my foot.	shared
+724	aeri	heel	noun	f	body	7	Aeri mein dard hai.	My heel hurts.	shared
+725	talva	sole of the foot	noun	m	body	7	Talve par chot lagi.	The sole of the foot was hurt.	shared
+726	jild	skin	noun	f	body	7	Meri jild khushk hai.	My skin is dry.	shared
+727	haddi	bone	noun	f	body	7	Haddi ko chot lagi hai.	The bone has been injured.	shared
+728	khoon	blood	noun	m	body	7	Khoon aa raha hai.	There is bleeding.	shared
+729	saans	breath	noun	f	body	7	Saans lene mein mushkil hai.	It is difficult to breathe.	shared
+730	dhadkan	heartbeat	noun	f	body	7	Dhadkan tez hai.	The heartbeat is fast.	shared
+731	dimaagh	brain or mind	noun	m	body	7	Dimaagh thak gaya hai.	My mind is tired.	shared
+732	dil	heart	noun	m	body	7	Dil ki baat kahiye.	Say what is in your heart.	shared
+733	zubaan	tongue or language	noun	f	body	7	Zubaan par chot hai.	There is an injury on the tongue.	shared
+734	gala	throat	noun	m	body	7	Mera gala kharaab hai.	I have a sore throat.	shared
+735	hont	lip	noun	m	body	7	Hont khushk hain.	My lips are dry.	shared
+736	gaal	cheek	noun	m	body	7	Gaal par nishaan hai.	There is a mark on the cheek.	shared
+737	maatha	forehead	noun	m	body	7	Maatha garam lag raha hai.	The forehead feels warm.	shared
+738	bhaun	eyebrow	noun	f	body	7	Bhaun ke paas chot hai.	There is an injury near the eyebrow.	shared
+739	jabra	jaw	noun	m	body	7	Jabre mein dard hai.	My jaw hurts.	shared
+740	putli	pupil of the eye	noun	f	body	7	Aankh ki putli saaf nazar aa rahi hai.	The pupil of the eye is clearly visible.	shared
+741	pasli	rib	noun	f	body	7	Pasli mein dard hai.	My rib hurts.	shared
+742	jigar	liver	noun	m	body	7	Doctor ne jigar ki jaanch ki.	The doctor checked the liver.	shared
+743	gurda	kidney	noun	m	body	7	Gurde ki jaanch hui.	The kidney was checked.	shared
+744	doctor	doctor	noun	m	health	7	Doctor se waqt lena hai.	I need to make an appointment with the doctor.	shared
+745	phephra	lung	noun	m	body	7	Doctor ne phephre ki jaanch ki.	The doctor checked the lung.	shared
+746	rag	vein or tendon	noun	f	body	7	Haath ki rag nazar aa rahi hai.	The vein in the hand is visible.	shared
+747	paseena	sweat	noun	m	body	7	Paseena aa raha hai.	I am sweating.	shared
+748	aansoo	tear	noun	m	body	7	Aankhon mein aansoo aa gaye.	Tears came to the eyes.	shared
+749	qad	height	noun	m	body	7	Unka qad lamba hai.	They are tall.	shared
+750	wazan	weight	noun	m	body	7	Iska wazan kitna hai?	How much does it weigh?	shared
+751	sehat	health	noun	f	health	7	Apni sehat ka khayaal rakhiye.	Take care of your health.	shared
+752	tabiyat	state of health or disposition	noun	f	health	7	Aapki tabiyat kaisi hai?	How are you feeling?	shared
+753	beemaari	illness	noun	f	health	7	Beemaari ki wajah maaloom nahin.	The cause of the illness is not known.	shared
+754	mareez	patient	noun	m	health	7	Mareez intezaar kar rahe hain.	The patients are waiting.	shared
+755	dard	pain	noun	m	health	7	Dard kab shuru hua?	When did the pain start?	shared
+756	takleef	discomfort or trouble	noun	f	health	7	Aapko kya takleef hai?	What is troubling you?	shared
+757	bukhaar	fever	noun	m	health	7	Mujhe bukhaar hai.	I have a fever.	shared
+758	zukhaam	cold illness	noun	m	health	7	Mujhe zukhaam ho gaya.	I have caught a cold.	shared
+759	khaansi	cough	noun	f	health	7	Khaansi raat ko barh jaati hai.	The cough gets worse at night.	shared
+760	chheenk	sneeze	noun	f	health	7	Mujhe chheenk aa rahi hai.	I am about to sneeze.	shared
+761	ulti	vomiting	noun	f	health	7	Subah ulti hui.	I vomited in the morning.	shared
+762	matli	nausea	noun	f	health	7	Mujhe matli ho rahi hai.	I feel nauseated.	shared
+763	chakkar	dizziness	noun	m	health	7	Mujhe chakkar aa rahe hain.	I feel dizzy.	shared
+764	kamzori	weakness	noun	f	health	7	Abhi kamzori hai.	I still feel weak.	shared
+765	thakaawat	fatigue	noun	f	health	7	Safar se thakaawat ho gayi.	The journey caused fatigue.	shared
+766	soojan	swelling	noun	f	health	7	Soojan kam ho gayi.	The swelling has decreased.	shared
+767	chot	injury	noun	f	health	7	Chot kahaan lagi?	Where were you hurt?	shared
+768	zakham	wound	noun	m	health	7	Zakham saaf hai.	The wound is clean.	shared
+769	kharish	itching	noun	f	health	7	Jild par kharish hai.	The skin is itchy.	shared
+770	allergy	allergy	noun	f	health	7	Mujhe is dawa se allergy hai.	I am allergic to this medicine.	shared
+771	qabz	constipation	noun	f	health	7	Mujhe qabz hai.	I am constipated.	shared
+772	dast	diarrhoea	noun	m	health	7	Bachche ko dast hain.	The child has diarrhoea.	shared
+773	saans ki tangi	shortness of breath	phrase	-	health	7	Saans ki tangi ho rahi hai.	I am experiencing shortness of breath.	shared
+774	hosh	consciousness	noun	m	health	7	Unko hosh aa gaya.	They regained consciousness.	shared
+775	behoshi	unconsciousness	noun	f	health	7	Behoshi kab hui?	When did the loss of consciousness occur?	shared
+776	dawa	medicine	noun	f	health	7	Yeh dawa kis liye hai?	What is this medicine for?	shared
+777	goli	tablet or pill	noun	f	health	7	Goli ka naam likh dijiye.	Write down the name of the tablet.	shared
+778	khuraak	dose or diet	noun	f	health	7	Dawa ki khuraak likh dijiye.	Write down the medicine dosage.	shared
+779	marham	ointment	noun	m	health	7	Marham ka naam kya hai?	What is the ointment called?	shared
+780	patti	bandage	noun	f	health	7	Patti badalni hai.	The bandage needs changing.	shared
+781	sui	needle or injection	noun	f	health	7	Sui se darr lagta hai.	I am afraid of needles.	shared
+782	teeka	vaccination or injection	noun	m	health	7	Teeke ki taareekh kya hai?	What is the vaccination date?	shared
+783	ilaaj	treatment	noun	m	health	7	Ilaaj chal raha hai.	Treatment is ongoing.	shared
+784	parhez	dietary restriction or avoidance	noun	m	health	7	Kya kisi cheez se parhez hai?	Should anything be avoided?	shared
+785	aaraam	rest or comfort	noun	m	health	7	Mujhe thoda aaraam chahiye.	I need some rest.	shared
+786	neend	sleep	noun	f	health	7	Raat ko neend nahin aayi.	I could not sleep at night.	shared
+787	bhook	hunger	noun	f	health	7	Mujhe bhook nahin hai.	I am not hungry.	shared
+788	pyaas	thirst	noun	f	health	7	Bahut pyaas lagi hai.	I am very thirsty.	shared
+789	jaanch	examination or check	noun	f	health	7	Jaanch kab hogi?	When will the examination take place?	shared
+790	test	medical test	noun	m	health	7	Test ka nateeja aa gaya.	The test result has arrived.	shared
+791	muaina	medical examination	noun	m	health	7	Doctor muaina karenge.	The doctor will examine the patient.	shared
+792	appointment	appointment	noun	f	health	7	Appointment kal ki hai.	The appointment is for tomorrow.	shared
+793	aspataal	hospital	noun	m	health	7	Aspataal qareeb hai.	The hospital is nearby.	shared
+794	clinic	clinic	noun	m	health	7	Clinic kab khulta hai?	When does the clinic open?	shared
+795	dawaakhaana	dispensary or clinic	noun	m	health	7	Dawaakhaana udhar hai.	The dispensary is over there.	shared
+796	pharmacy	pharmacy	noun	f	health	7	Pharmacy abhi khuli hai.	The pharmacy is open now.	shared
+797	ambulance	ambulance	noun	f	health	7	Ambulance bulaaiye.	Call an ambulance.	shared
+798	nurse	nurse	noun	f	health	7	Nurse se poochhiye.	Ask the nurse.	shared
+799	operation	operation	noun	m	health	7	Operation kal hoga.	The operation will be tomorrow.	shared
+800	shifa	recovery or healing	noun	f	health	7	Aapki shifa ki dua hai.	I pray for your recovery.	shared
+801	khushi	happiness	noun	f	feelings-personality	7	Aapko dekhkar khushi hui.	I am happy to see you.	shared
+802	gham	sorrow	noun	m	feelings-personality	7	Unke gham mein shareek hain.	We share their sorrow.	shared
+803	udaasi	sadness	noun	f	feelings-personality	7	Aaj kuchh udaasi hai.	I feel a little sad today.	shared
+804	pareshaani	worry or difficulty	noun	f	feelings-personality	7	Pareshaani ki baat nahin.	There is no need to worry.	shared
+805	fikr	concern	noun	f	feelings-personality	7	Mujhe aapki fikr hai.	I am concerned about you.	shared
+806	darr	fear	noun	m	feelings-personality	7	Mujhe andhere se darr lagta hai.	I am afraid of the dark.	shared
+807	ghussa	anger	noun	m	feelings-personality	7	Ghussa kam ho gaya.	The anger has subsided.	shared
+808	sharm	shyness or shame	noun	f	feelings-personality	7	Mujhe sharm aa rahi hai.	I feel shy.	shared
+809	hairet	surprise	noun	f	feelings-personality	7	Mujhe bahut hairet hui.	I was very surprised.	shared
+810	fakhr	pride	noun	m	feelings-personality	7	Mujhe aap par fakhr hai.	I am proud of you.	shared
+811	afsos	regret or sorrow	noun	m	feelings-personality	7	Mujhe der hone ka afsos hai.	I am sorry about being late.	shared
+812	ummeed	hope	noun	f	feelings-personality	7	Ummeed hai sab theek hoga.	I hope everything will be fine.	shared
+813	maayoosi	disappointment	noun	f	feelings-personality	7	Maayoosi ki zaroorat nahin.	There is no need for disappointment.	shared
+814	sukoon	peace of mind	noun	m	feelings-personality	7	Yahaan sukoon milta hai.	I find peace here.	shared
+815	bechaini	restlessness	noun	f	feelings-personality	7	Mujhe bechaini ho rahi hai.	I feel restless.	shared
+816	sabr	patience	noun	m	feelings-personality	7	Thoda sabr kijiye.	Please be patient.	shared
+817	bharosa	trust	noun	m	feelings-personality	7	Mujhe aap par bharosa hai.	I trust you.	shared
+818	aitemaad	confidence or trust	noun	m	feelings-personality	7	Aitemaad dheere barhta hai.	Confidence grows gradually.	shared
+819	shak	doubt or suspicion	noun	m	feelings-personality	7	Mujhe is baat par shak hai.	I have doubts about this.	shared
+820	yaqeen	certainty or belief	noun	m	feelings-personality	7	Mujhe yaqeen nahin aa raha.	I cannot believe it.	shared
+821	mohabbat	love	noun	f	feelings-personality	7	Ghar waalon se mohabbat hai.	I love my family.	shared
+822	pyaar	love or affection	noun	m	feelings-personality	7	Bachchon ko pyaar dijiye.	Give the children my love.	shared
+823	nafrat	hatred	noun	f	feelings-personality	7	Nafrat se masla hal nahin hota.	Hatred does not solve a problem.	shared
+824	izzat	respect	noun	f	feelings-personality	7	Buzurgon ki izzat kijiye.	Respect elders.	shared
+825	qadr	appreciation or value	noun	f	feelings-personality	7	Main aapki madad ki qadr karta hoon.	I appreciate your help.	shared
+826	rehm	mercy or compassion	noun	m	feelings-personality	7	Kamzor par rehm kijiye.	Show compassion to the weak.	shared
+827	hamdardi	sympathy	noun	f	feelings-personality	7	Aapki hamdardi ka shukriya.	Thank you for your sympathy.	shared
+828	dilchaspi	interest	noun	f	feelings-personality	7	Mujhe is mein dilchaspi hai.	I am interested in this.	shared
+829	shauq	enthusiasm or hobby	noun	m	feelings-personality	7	Aapko kis cheez ka shauq hai?	What are you interested in?	shared
+830	khwaahish	wish	noun	f	feelings-personality	7	Yeh meri khwaahish hai.	This is my wish.	shared
+831	iraada	intention	noun	m	feelings-personality	7	Aapka kya iraada hai?	What do you intend to do?	shared
+832	hausla	courage or encouragement	noun	m	feelings-personality	7	Aapne mera hausla barhaaya.	You encouraged me.	shared
+833	himmat	courage	noun	f	feelings-personality	7	Himmat mat haariye.	Do not lose courage.	shared
+834	rawaiya	attitude or behaviour	noun	m	feelings-personality	7	Unka rawaiya narm tha.	Their attitude was gentle.	shared
+835	aadat	habit	noun	f	feelings-personality	7	Yeh achchhi aadat hai.	This is a good habit.	shared
+836	akhlaaq	manners or character	noun	m	feelings-personality	7	Unke akhlaaq achchhe hain.	They have good manners.	shared
+837	meherbaan	kind	adj	-	feelings-personality	7	Aap bahut meherbaan hain.	You are very kind.	shared
+838	imaandaar	honest	adj	-	feelings-personality	7	Woh imaandaar shakhs hain.	They are an honest person.	shared
+839	khudgarz	selfish	adj	-	feelings-personality	7	Khudgarz rawaiya theek nahin.	Selfish behaviour is not right.	shared
+840	sharmeela	shy	adj	-	feelings-personality	7	Bachcha thoda sharmeela hai.	The child is a little shy.	shared
+841	milansaar	sociable	adj	-	feelings-personality	7	Woh bahut milansaar hain.	They are very sociable.	shared
+842	sanjeeda	serious	adj	-	feelings-personality	7	Yeh sanjeeda baat hai.	This is a serious matter.	shared
+843	hansmukh	cheerful	adj	-	feelings-personality	7	Woh hansmukh insaan hain.	They are a cheerful person.	shared
+844	ziddi	stubborn	adj	-	feelings-personality	7	Itna ziddi mat baniye.	Do not be so stubborn.	shared
+845	laaparwaah	careless	adj	-	feelings-personality	7	Main laaparwaah nahin hona chaahti.	I do not want to be careless.	shared
+846	mehnati	hard-working	adj	-	feelings-personality	7	Woh mehnati hain.	They are hard-working.	shared
+847	sust	sluggish or lazy	adj	-	feelings-personality	7	Aaj main sust hoon.	I feel sluggish today.	shared
+848	chaalaak	clever or crafty	adj	-	feelings-personality	7	Woh bahut chaalaak hai.	That person is very clever.	shared
+849	samajhdaar	sensible	adj	-	feelings-personality	7	Aap samajhdaar hain.	You are sensible.	shared
+850	wafaadaar	loyal	adj	-	feelings-personality	7	Woh wafaadaar dost hain.	They are a loyal friend.	shared
+851	mausam	weather or season	noun	m	weather-nature-clothing	11	Aaj mausam achchha hai.	The weather is good today.	shared
+852	baarish	rain	noun	f	weather-nature-clothing	11	Baarish shuru ho gayi.	It has started raining.	shared
+853	dhoop	sunshine	noun	f	weather-nature-clothing	11	Dhoop bahut tez hai.	The sunshine is very strong.	shared
+854	saaya	shade or shadow	noun	m	weather-nature-clothing	11	Saaye mein baithiye.	Sit in the shade.	shared
+855	hawa	wind or air	noun	f	weather-nature-clothing	11	Hawa thandi hai.	The wind is cool.	shared
+856	aandhi	windstorm	noun	f	weather-nature-clothing	11	Aandhi aa rahi hai.	A windstorm is coming.	shared
+857	toofaan	storm	noun	m	weather-nature-clothing	11	Toofaan guzar gaya.	The storm has passed.	shared
+858	baadal	cloud	noun	m	weather-nature-clothing	11	Baadal chhaa gaye hain.	Clouds have gathered.	shared
+859	garmi	heat or summer	noun	f	weather-nature-clothing	11	Garmi barh rahi hai.	It is getting hotter.	shared
+860	sardi	cold or winter	noun	f	weather-nature-clothing	11	Sardi shuru ho gayi.	Winter has begun.	shared
+861	nami	humidity or moisture	noun	f	weather-nature-clothing	11	Aaj hawa mein nami hai.	The air is humid today.	shared
+862	bijli ki chamak	lightning	phrase	-	weather-nature-clothing	11	Bijli ki chamak nazar aayi.	Lightning was visible.	shared
+863	garaj	thunder	noun	f	weather-nature-clothing	11	Baadalon ki garaj suni?	Did you hear the thunder?	shared
+864	boond	drop	noun	f	weather-nature-clothing	11	Baarish ki boond giri.	A drop of rain fell.	shared
+865	baadh	flood	noun	f	weather-nature-clothing	11	Baadh se raasta band hai.	The road is closed because of flooding.	shared
+866	darakht	tree	noun	m	weather-nature-clothing	11	Darakht ke neeche baithiye.	Sit under the tree.	shared
+867	pauda	plant	noun	m	weather-nature-clothing	11	Paude ko paani dijiye.	Water the plant.	shared
+868	patta	leaf	noun	m	weather-nature-clothing	11	Patta gir gaya.	The leaf fell.	shared
+869	phool	flower	noun	m	weather-nature-clothing	11	Phool ki khushboo achchhi hai.	The flower smells lovely.	shared
+870	mitti	soil or earth	noun	f	weather-nature-clothing	11	Mitti geeli hai.	The soil is wet.	shared
+871	patthar	stone	noun	m	weather-nature-clothing	11	Raaste mein patthar hai.	There is a stone in the path.	shared
+872	pahaad	mountain	noun	m	weather-nature-clothing	11	Pahaad door nazar aa raha hai.	The mountain is visible in the distance.	shared
+873	darya	river	noun	m	weather-nature-clothing	11	Darya mein paani zyaada hai.	There is a lot of water in the river.	shared
+874	jheel	lake	noun	f	weather-nature-clothing	11	Jheel ke paas chalte hain.	Let us walk near the lake.	shared
+875	samundar	sea	noun	m	weather-nature-clothing	11	Samundar qareeb hai.	The sea is near.	shared
+876	baagh	garden	noun	m	weather-nature-clothing	11	Baagh mein phool hain.	There are flowers in the garden.	shared
+877	parinda	bird	noun	m	weather-nature-clothing	11	Parinda ud gaya.	The bird flew away.	shared
+878	jaanwar	animal	noun	m	weather-nature-clothing	11	Jaanwar ko tang mat kijiye.	Do not bother the animal.	shared
+879	kutta	dog	noun	m	weather-nature-clothing	11	Kutta so raha hai.	The dog is sleeping.	shared
+880	billi	cat	noun	f	weather-nature-clothing	11	Billi baahar gayi hai.	The cat has gone outside.	shared
+881	kameez	shirt	noun	f	weather-nature-clothing	11	Kameez saaf hai.	The shirt is clean.	shared
+882	shalwaar	shalwar trousers	noun	f	weather-nature-clothing	11	Shalwaar taiyaar hai.	The shalwar is ready.	shared
+883	kurta	kurta	noun	m	weather-nature-clothing	11	Kurta silwaana hai.	I need to have a kurta made.	shared
+884	dupatta	scarf	noun	m	weather-nature-clothing	11	Dupatta yahaan hai.	The scarf is here.	shared
+885	saari	sari	noun	f	weather-nature-clothing	11	Saari bahut khoobsoorat hai.	The sari is beautiful.	shared
+886	patloon	trousers	noun	f	weather-nature-clothing	11	Patloon lambi hai.	The trousers are long.	shared
+887	jacket	jacket	noun	f	weather-nature-clothing	11	Jacket pehen lijiye.	Put on a jacket.	shared
+888	sweater	sweater	noun	m	weather-nature-clothing	11	Sweater garam hai.	The sweater is warm.	shared
+889	topi	cap	noun	f	weather-nature-clothing	11	Topi kahaan hai?	Where is the cap?	shared
+890	juraab	sock	noun	f	weather-nature-clothing	11	Ek juraab nahin mil rahi.	I cannot find one sock.	shared
+891	joota	shoe	noun	m	weather-nature-clothing	11	Joota tang hai.	The shoe is tight.	shared
+892	chappal	sandal or slipper	noun	f	weather-nature-clothing	11	Chappal baahar rakhiye.	Leave the sandals outside.	shared
+893	chashma	spectacles	noun	m	weather-nature-clothing	11	Mera chashma kahaan hai?	Where are my glasses?	shared
+894	rumal	handkerchief	noun	m	weather-nature-clothing	11	Rumal mere paas hai.	I have a handkerchief.	shared
+895	dastaana	glove	noun	m	weather-nature-clothing	11	Dastaana pehen lijiye.	Put on a glove.	shared
+896	button	button	noun	m	weather-nature-clothing	11	Button toot gaya.	The button broke.	shared
+897	zip	zip	noun	f	weather-nature-clothing	11	Zip band nahin ho rahi.	The zip will not close.	shared
+898	jeb	pocket	noun	f	weather-nature-clothing	11	Chaabi jeb mein hai.	The key is in the pocket.	shared
+899	aasteen	sleeve	noun	f	weather-nature-clothing	11	Aasteen lambi hai.	The sleeve is long.	shared
+900	kapra	cloth or garment	noun	m	weather-nature-clothing	11	Yeh kapra narm hai.	This cloth is soft.	shared
+901	mohalla	neighbourhood	noun	m	community-events	11	Hamaara mohalla puraana hai.	Our neighbourhood is old.	shared
+902	pados	neighbouring area	noun	m	community-events	11	Woh mere pados mein rehte hain.	They live in my neighbourhood.	shared
+903	padosi	neighbour	noun	m	community-events	11	Padosi ne madad ki.	The neighbour helped.	shared
+904	basti	settlement	noun	f	community-events	11	Basti mein school hai.	There is a school in the settlement.	shared
+905	shehar	city	noun	m	community-events	11	Aap kis shehar se hain?	Which city are you from?	shared
+906	gaon	village	noun	m	community-events	11	Hamaara gaon door hai.	Our village is far away.	shared
+907	mulk	country	noun	m	community-events	11	Aap kis mulk mein rehte hain?	Which country do you live in?	shared
+908	riyaasat	state	noun	f	community-events	11	Yeh badi riyaasat hai.	This is a large state.	shared
+909	zila	district	noun	m	community-events	11	Aapka zila kaunsa hai?	Which is your district?	shared
+910	aabaadi	population	noun	f	community-events	11	Shehar ki aabaadi barh rahi hai.	The city population is growing.	shared
+911	muashra	society	noun	m	community-events	11	Muashra badal raha hai.	Society is changing.	shared
+912	qaum	community or nation	noun	f	community-events	11	Har qaum ki apni kahaani hai.	Every community has its own story.	shared
+913	riwaaj	custom	noun	m	community-events	11	Hamaare yahaan yeh riwaaj hai.	This is the custom in our community.	shared
+914	riwaayat	tradition	noun	f	community-events	11	Yeh puraani riwaayat hai.	This is an old tradition.	shared
+915	tehzeeb	culture or refinement	noun	f	community-events	11	Zubaan tehzeeb se judi hai.	Language is connected with culture.	shared
+916	pehchaan	identity or recognition	noun	f	community-events	11	Zubaan hamaari pehchaan ka hissa hai.	Language is part of our identity.	shared
+917	virsa	heritage	noun	m	community-events	11	Yeh hamaara virsa hai.	This is our heritage.	shared
+918	taareekh	history or date	noun	f	community-events	11	Is jagah ki taareekh dilchasp hai.	The history of this place is interesting.	shared
+919	yaadgaar	memorial or keepsake	noun	f	community-events	11	Yeh ek yaadgaar hai.	This is a keepsake.	shared
+920	tehwaar	festival	noun	m	community-events	11	Tehwaar par sab milte hain.	Everyone meets at the festival.	shared
+921	jashn	celebration	noun	m	community-events	11	Jashn ghar mein hoga.	The celebration will be at home.	shared
+922	daawat	invitation or feast	noun	f	community-events	11	Daawat ka shukriya.	Thank you for the invitation.	shared
+923	mehmaan	guest	noun	m	community-events	11	Mehmaan aa gaye hain.	The guests have arrived.	shared
+924	mezbaan	host	noun	m	community-events	11	Mezbaan ka shukriya ada kijiye.	Thank the host.	shared
+925	shaadi	wedding or marriage	noun	f	community-events	11	Shaadi agle mahine hai.	The wedding is next month.	shared
+926	nikah	marriage ceremony	noun	m	community-events	11	Nikah kal hoga.	The marriage ceremony is tomorrow.	shared
+927	rishta	relationship or marriage proposal	noun	m	community-events	11	Hamaara rishta puraana hai.	Our relationship goes back a long way.	shared
+928	mangni	engagement	noun	f	community-events	11	Mangni ki taareekh tai ho gayi.	The engagement date has been fixed.	shared
+929	dulha	bridegroom	noun	m	community-events	11	Dulha aa gaya.	The bridegroom has arrived.	shared
+930	dulhan	bride	noun	f	community-events	11	Dulhan taiyaar hai.	The bride is ready.	shared
+931	saalgirah	anniversary or birthday	noun	f	community-events	11	Aapki saalgirah mubaarak ho.	Happy anniversary or birthday.	shared
+932	paidaaish	birth	noun	f	community-events	11	Bachche ki paidaaish par mubaarakbaad.	Congratulations on the birth of the child.	shared
+933	wafaat	death respectful	noun	f	community-events	11	Unki wafaat ka sunkar afsos hua.	I was saddened to hear of their death.	shared
+934	janaaza	funeral	noun	m	community-events	11	Janaaza kab hai?	When is the funeral?	shared
+935	taaziyat	condolence	noun	f	community-events	11	Main taaziyat ke liye aaya hoon.	I have come to offer condolences.	shared
+936	dua	prayer or good wish	noun	f	community-events	11	Aapki dua chahiye.	I ask for your prayers.	shared
+937	ibaadat	worship	noun	f	community-events	11	Ibaadat ke liye waqt rakhiye.	Set aside time for worship.	shared
+938	masjid	mosque	noun	f	community-events	11	Masjid qareeb hai.	The mosque is nearby.	shared
+939	mandir	temple	noun	m	community-events	11	Mandir udhar hai.	The temple is over there.	shared
+940	mazaar	shrine or tomb	noun	m	community-events	11	Mazaar par log aaye hain.	People have come to the shrine.	shared
+941	roza	fast	noun	m	community-events	11	Aaj mera roza hai.	I am fasting today.	shared
+942	iftaar	breaking of the fast	noun	m	community-events	11	Iftaar ka waqt ho gaya.	It is time to break the fast.	shared
+943	sehri	predawn meal in fasting	noun	f	community-events	11	Sehri ke liye uthi hoon.	I have got up for the predawn meal.	shared
+944	eid	Eid festival	noun	f	community-events	11	Eid mubaarak ho.	Happy Eid.	shared
+945	khairaat	charity	noun	f	community-events	11	Unhone khairaat di.	They gave charity.	shared
+946	atiya	donation	noun	m	community-events	11	Atiya dena chaahte hain.	They want to give a donation.	shared
+947	jalsa	public gathering	noun	m	community-events	11	Jalsa shaam ko hai.	The gathering is in the evening.	shared
+948	mehfil	social or artistic gathering	noun	f	community-events	11	Mehfil mein baat hui.	We spoke at the gathering.	shared
+949	mushaira	poetry gathering	noun	m	community-events	11	Mushaira der tak chala.	The poetry gathering went on late.	shared
+950	geet	song	noun	m	community-events	11	Yeh geet mujhe pasand hai.	I like this song.	shared
+951	raay	opinion	noun	f	discussion	9	Aapki raay kya hai?	What is your opinion?	shared
+952	khayaal	thought or idea	noun	m	discussion	9	Yeh achchha khayaal hai.	This is a good idea.	shared
+953	daleel	argument or reasoned evidence	noun	f	discussion	9	Aapki daleel samajh mein aayi.	I understood your argument.	shared
+954	saboot	evidence	noun	m	discussion	9	Is baat ka saboot kya hai?	What evidence is there for this?	shared
+955	wajah	reason	noun	f	discussion	9	Wajah saaf bataaiye.	Explain the reason clearly.	shared
+956	sabab	cause	noun	m	discussion	9	Iska sabab kya hai?	What caused it?	shared
+957	asar	effect	noun	m	discussion	9	Iska asar baad mein hoga.	Its effect will appear later.	shared
+958	masla	problem or issue	noun	m	discussion	9	Masla hal ho gaya.	The problem has been solved.	shared
+959	hal	solution	noun	m	discussion	9	Koi aur hal dhoondhte hain.	Let us find another solution.	shared
+960	faisla	decision	noun	m	discussion	9	Faisla milkar karte hain.	Let us decide together.	shared
+961	tajweez	proposal	noun	f	discussion	9	Yeh sirf tajweez hai.	This is only a proposal.	shared
+962	mashwara	advice or consultation	noun	m	discussion	9	Aapka mashwara chahiye.	I would like your advice.	shared
+963	tasdeeq	confirmation	noun	f	discussion	9	Tasdeeq abhi nahin hui.	It has not been confirmed yet.	shared
+964	tardeed	denial or refutation	noun	f	discussion	9	Unhone khabar ki tardeed ki.	They denied the report.	shared
+965	ittefaaq	agreement or coincidence	noun	m	discussion	9	Mujhe is baat se ittefaaq hai.	I agree with this point.	shared
+966	ikhtilaaf	disagreement or difference	noun	m	discussion	9	Hamaara ikhtilaaf tareeqe par hai.	Our disagreement is about the method.	shared
+967	sehmat	in agreement	adj	-	discussion	9	Main aapse sehmat hoon.	I agree with you.	shared
+968	raazi	willing or agreed	adj	-	discussion	9	Kya sab raazi hain?	Does everyone agree?	shared
+969	manzoor	acceptable or approved	adj	-	discussion	9	Yeh shart manzoor hai.	This condition is acceptable.	shared
+970	munasib	suitable	adj	-	discussion	9	Yeh waqt munasib hai.	This time is suitable.	shared
+971	na-munasib	inappropriate	adj	-	discussion	9	Yeh sawaal na-munasib hai.	This question is inappropriate.	shared
+972	haqeeqat	reality or fact	noun	f	discussion	9	Haqeeqat kuchh aur hai.	The reality is different.	shared
+973	imkaan	possibility	noun	m	discussion	9	Iska imkaan hai.	It is possible.	shared
+974	andesha	apprehension or risk	noun	m	discussion	9	Der hone ka andesha hai.	There is a risk of delay.	shared
+975	andaaza	estimate or guess	noun	m	discussion	9	Yeh mera andaaza hai.	This is my estimate.	shared
+976	farq	difference	noun	m	discussion	9	Dono mein kya farq hai?	What is the difference between the two?	shared
+977	misaal ke taur par	for example	phrase	-	discussion	9	Misaal ke taur par yeh dekhiye.	Look at this for example.	shared
+978	aam taur par	generally	adv	-	discussion	9	Aam taur par hum jaldi aate hain.	We generally arrive early.	shared
+979	filhaal	for the present	adv	-	discussion	9	Filhaal yahi theek hai.	This is fine for now.	shared
+980	baharhaal	in any case	adv	-	discussion	9	Baharhaal hamein bata dijiye.	In any case, let us know.	shared
+981	phir bhi	nevertheless	adv	-	discussion	9	Phir bhi koshish karte hain.	Let us try nevertheless.	shared
+982	halaanki	although	conj	-	discussion	9	Halaanki door hai, hum jaayenge.	Although it is far, we will go.	shared
+983	basharte ki	provided that	conj	-	discussion	9	Hum jaayenge basharte ki waqt ho.	We will go provided there is time.	shared
+984	warna	otherwise	conj	-	discussion	9	Jaldi chaliye warna der hogi.	Hurry or we will be late.	shared
+985	lihaaza	therefore	adv	-	discussion	9	Lihaaza pehle tasdeeq kijiye.	Therefore, confirm first.	shared
+986	chunaanche	consequently	adv	-	discussion	9	Chunaanche programme badal gaya.	Consequently, the plan changed.	shared
+987	bajaaye	instead of	post	-	discussion	9	Chaar ke bajaaye paanch baje milen.	Let us meet at five instead of four.	shared
+988	alaawa	apart from	post	-	discussion	9	Iske alaawa kya chahiye?	What else is needed apart from this?	shared
+989	baawajood	despite	post	-	discussion	9	Baarish ke baawajood woh aaye.	They came despite the rain.	shared
+990	mutabiq	according to	post	-	discussion	9	Aapke mutabiq kya hua?	According to you, what happened?	shared
+991	mutalliq	concerning	post	-	discussion	9	Iske mutalliq baat karte hain.	Let us talk about this.	shared
+992	darasal	actually or in fact	adv	-	discussion	9	Darasal mujhe waqt maaloom nahin tha.	Actually, I did not know the time.	shared
+993	yaani	that is to say	adv	-	discussion	9	Yaani hum kal milenge?	So you mean we will meet tomorrow?	shared
+994	bilfarz	supposing	adv	-	discussion	9	Bilfarz baarish ho to kya karenge?	Supposing it rains, what will we do?	shared
+995	kaash	if only	part	-	discussion	9	Kaash hum paas rehte.	If only we lived nearby.	shared
+996	haalaat	circumstances	noun	m	discussion	9	Haalaat badal gaye hain.	The circumstances have changed.	shared
+997	soorat-e-haal	situation	noun	f	discussion	9	Soorat-e-haal samajh lijiye.	Understand the situation.	shared
+998	nuqta	point in discussion	noun	m	discussion	9	Aapka nuqta samajh gaya.	I understood your point.	shared
+999	nazariya	viewpoint	noun	m	discussion	9	Har shakhs ka nazariya alag hai.	Each person has a different viewpoint.	shared
+1000	galatfehmi	misunderstanding	noun	f	discussion	9	Galatfehmi door ho gayi.	The misunderstanding has been cleared up.	shared

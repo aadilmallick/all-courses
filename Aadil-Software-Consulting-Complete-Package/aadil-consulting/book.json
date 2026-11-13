@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "title": "From Engineer to Consultant",
+  "subtitle": "Cloud-native, Kubernetes, and AI workflow consulting for Aadil Mallick",
+  "audience": "Software developer learning consulting fundamentals and bounded applied services",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "1. From software developer to consultant",
+      "path": "chapters/01-consulting-foundations-and-your-position.md",
+      "part": "Consulting foundations",
+      "status": "complete",
+      "minimum_prose_words": 4500,
+      "prerequisites": [],
+      "experiments": [
+        "readiness",
+        "value"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "2. Cloud-native and Kubernetes consulting that solves a real problem",
+      "path": "chapters/02-cloud-native-kubernetes-and-platform-consulting.md",
+      "part": "Cloud-native practice",
+      "status": "complete",
+      "minimum_prose_words": 4500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "reliability"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "3. AI workflow consulting: sell a decision that survives evaluation",
+      "path": "chapters/03-ai-workflow-consulting-and-evaluation.md",
+      "part": "AI workflow practice",
+      "status": "complete",
+      "minimum_prose_words": 4500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "evaluation"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "4. Package, sell, and deliver high-value consulting",
+      "path": "chapters/04-high-value-offers-sales-and-delivery.md",
+      "part": "Commercial delivery",
+      "status": "complete",
+      "minimum_prose_words": 4500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "commercial",
+        "value"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/evidence-cycle.svg"
+  ],
+  "source_listings": [
+    {
+      "id": "python-evaluation",
+      "path": "examples/evaluate_workflow.py"
+    },
+    {
+      "id": "kubernetes-example",
+      "path": "examples/workload.yaml"
+    },
+    {
+      "id": "lab-calculations",
+      "path": "companion/core.mjs"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "python -m http.server 8765 --bind 127.0.0.1",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

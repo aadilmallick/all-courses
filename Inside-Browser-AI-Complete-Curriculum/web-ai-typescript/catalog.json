@@ -1,0 +1,62 @@
+{
+  "starter": false,
+  "interface": "Single TypeScript gallery; mount initializes the reader and chapter experiments, returned cleanup disposes the active view.",
+  "experiments": [
+    {
+      "id": "lab-1",
+      "title": "From text prediction to a language-model application",
+      "chapter": "chapter-01",
+      "description": "Chapter 1 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    },
+    {
+      "id": "lab-2",
+      "title": "Build the TypeScript boundary around the model",
+      "chapter": "chapter-02",
+      "description": "Chapter 2 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    },
+    {
+      "id": "lab-3",
+      "title": "Give the application evidence: retrieval and embeddings",
+      "chapter": "chapter-03",
+      "description": "Chapter 3 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    },
+    {
+      "id": "lab-4",
+      "title": "Run a language model in the browser with WebLLM",
+      "chapter": "chapter-04",
+      "description": "Chapter 4 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    },
+    {
+      "id": "lab-5",
+      "title": "Use Chrome's browser-managed AI APIs deliberately",
+      "chapter": "chapter-05",
+      "description": "Chapter 5 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    },
+    {
+      "id": "lab-6",
+      "title": "Expose meaningful application actions with WebMCP",
+      "chapter": "chapter-06",
+      "description": "Chapter 6 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    },
+    {
+      "id": "lab-7",
+      "title": "Decide whether the system is dependable enough to ship",
+      "chapter": "chapter-07",
+      "description": "Chapter 7 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    },
+    {
+      "id": "lab-8",
+      "title": "Assemble the document assistant and choose its next evolution",
+      "chapter": "chapter-08",
+      "description": "Chapter 8 experiment in the integrated gallery. See CURRICULUM.md for the exact native/fixture boundary.",
+      "module": "src/main.ts"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mode": "final",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "prose_words": 5153
+    },
+    {
+      "id": "chapter-02",
+      "prose_words": 5023
+    },
+    {
+      "id": "chapter-03",
+      "prose_words": 5158
+    },
+    {
+      "id": "chapter-04",
+      "prose_words": 5075
+    },
+    {
+      "id": "chapter-05",
+      "prose_words": 5083
+    },
+    {
+      "id": "chapter-06",
+      "prose_words": 5034
+    }
+  ],
+  "prose_words": 30526,
+  "errors": [],
+  "limits": [
+    "Structural and depth checks only",
+    "Math syntax/truth and companion execution require separate evidence"
+  ]
+}

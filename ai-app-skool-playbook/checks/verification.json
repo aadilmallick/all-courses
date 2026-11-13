@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "words": 20586,
+  "sections": 26,
+  "campaignAssets": {
+    "linkedin": 12,
+    "x": 10,
+    "xThreadParts": 8,
+    "shorts": 8,
+    "emails": 7,
+    "articles": 2,
+    "youtubeScripts": 2,
+    "paidLessons": 18
+  },
+  "finance": "reconciled",
+  "funnelMath": "checked",
+  "scriptLengths": "checked",
+  "desktopWidth": 1440,
+  "mobileWidth": 390,
+  "overflow": false,
+  "javascriptErrors": []
+}

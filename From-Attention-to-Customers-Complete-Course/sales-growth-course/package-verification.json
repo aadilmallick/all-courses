@@ -1,0 +1,27 @@
+{
+  "status": "pass",
+  "required_files_present": [
+    "README.md",
+    "book.md",
+    "book.json",
+    "From-Attention-to-Customers.html",
+    "syllabus.md",
+    "100-session-plan.csv",
+    "sources.md",
+    "sources.json",
+    "verification.md",
+    "verification-results.json",
+    "companion/index.html",
+    "companion/models.mjs",
+    "companion/experiments.mjs",
+    "companion/app.mjs",
+    "companion/test-models.mjs",
+    "companion/test-interactions.mjs"
+  ],
+  "chapter_count": 10,
+  "template_count": 14,
+  "crc_integrity": "passed",
+  "path_safety": "relative paths; no traversal, symlinks or excluded directories",
+  "archive_name": "From-Attention-to-Customers-Complete-Course.zip",
+  "file_count": 55
+}

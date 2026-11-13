@@ -1,0 +1,51 @@
+{
+  "encoding": "cl100k_base",
+  "tokenizer": "gpt-tokenizer 4.1.2",
+  "tokenScope": "Final chapter Markdown including its code; source appendix and assembled repetition excluded",
+  "proseScope": "Whitespace-separated words outside fenced code; headings included",
+  "chapters": [
+    {
+      "file": "chapters/01-models-tokens-attention.md",
+      "tokens": 5018,
+      "proseWords": 3770
+    },
+    {
+      "file": "chapters/02-typescript-streaming-architecture.md",
+      "tokens": 5019,
+      "proseWords": 3686
+    },
+    {
+      "file": "chapters/03-retrieval-embeddings-grounding.md",
+      "tokens": 5003,
+      "proseWords": 3666
+    },
+    {
+      "file": "chapters/04-webllm-browser-compute.md",
+      "tokens": 5020,
+      "proseWords": 3759
+    },
+    {
+      "file": "chapters/05-chrome-built-in-ai.md",
+      "tokens": 5055,
+      "proseWords": 3792
+    },
+    {
+      "file": "chapters/06-webmcp-agents-tools.md",
+      "tokens": 5019,
+      "proseWords": 3788
+    },
+    {
+      "file": "chapters/07-evaluation-security-production.md",
+      "tokens": 5008,
+      "proseWords": 3969
+    },
+    {
+      "file": "chapters/08-capstone-modern-ecosystem.md",
+      "tokens": 5033,
+      "proseWords": 3919
+    }
+  ],
+  "totalChapterTokens": 40175,
+  "totalProseWords": 30349,
+  "errors": []
+}

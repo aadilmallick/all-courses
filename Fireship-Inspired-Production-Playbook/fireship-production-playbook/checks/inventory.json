@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-13",
+  "files": [
+    {
+      "path": "assets/json_demo.py",
+      "sha256": "e09a6653cc301922d91bd1641f8469491c1858fea15aab331893b6d1ba4f8bed"
+    },
+    {
+      "path": "book.json",
+      "sha256": "ff0aff6324bd15b8b56d28457662b3f47a8e8b057b76f4ef0e4180cf2bb16b72"
+    },
+    {
+      "path": "build.mjs",
+      "sha256": "4706093feef0fb4414b309d1a976a9b3a1148cff3c743aecf785cf77943d73d9"
+    },
+    {
+      "path": "catalog.json",
+      "sha256": "f62a3be8af54e456cad5d4b3664bceaae8aec5fa19b183abe6b73754a486a2d4"
+    },
+    {
+      "path": "check.cjs",
+      "sha256": "cbe46fb8f64fd809f76e9137b2c2a2b2f91f60ccffa24f66cf86ba68097f950e"
+    },
+    {
+      "path": "checks/structure.json",
+      "sha256": "97525779659c57f4bf96c611b4ce5d7a9c51d1cdd37da1436d07078104db5190"
+    },
+    {
+      "path": "course.html",
+      "sha256": "2eb7657b2ef87ab9d30ccb46e44881ebd8dfc67673228a72bab879a8d8948229"
+    },
+    {
+      "path": "course.md",
+      "sha256": "43e74b3c141703901be4d3f6cdf8c46c388b58cde7bf5946d7b7eb74effb23fe"
+    },
+    {
+      "path": "editing-lab.html",
+      "sha256": "9df03c383aac5be0cd9465e8276f0953d9f117da8b5ae68d0ce2459ef765c4f3"
+    },
+    {
+      "path": "equipment.md",
+      "sha256": "7b1d2c84fcfad6b9ad7dbc84e622da1b92672f6628f26df405e2c3c4df7da967"
+    },
+    {
+      "path": "lab-model.js",
+      "sha256": "b5342df5ba763d24c6ca262f67177c3ccf156a879c1156a1546d9319c70f19f8"
+    },
+    {
+      "path": "lab-mount.mjs",
+      "sha256": "af9ea04701786f0962aa86b1b3024310dca1f9c6b42707841ca2852ebeb4fd5b"
+    },
+    {
+      "path": "lab.js",
+      "sha256": "0c786a26b4ddce39c90301f0e71de7cc615e84442178f45f4bebcb36cf6cc323"
+    },
+    {
+      "path": "lessons/01-study-and-setup.md",
+      "sha256": "36e83f9db6d843ada633062aed72af1d9855f7700c8a9aa68cbc5c6b889ec28b"
+    },
+    {
+      "path": "lessons/02-script-and-storyboard.md",
+      "sha256": "dd7d254801a8cda57871e8f083f6b545a27aa95fc7c36ac60139b3f51dfc7713"
+    },
+    {
+      "path": "lessons/03-recording-and-voice-edit.md",
+      "sha256": "cd1de6fe580298a2519af1e400dd17721781ebe0dbdebe9758fe221a96a0af6f"
+    },
+    {
+      "path": "lessons/04-editing-recipes.md",
+      "sha256": "378af2178ba3d2653c2bbdab00b4230d9bb79f2ae83695c6bdbac4be0473355b"
+    },
+    {
+      "path": "lessons/05-assemble-and-polish.md",
+      "sha256": "6d2053d340f9dd37558073de8f1f3f2ea0c9bf88ea59b2754bd2e7e81232936c"
+    },
+    {
+      "path": "lessons/06-practice-and-repeat.md",
+      "sha256": "6fae2c0c14a0032f8788dfea3c28cff2c4b174efabd750d967333f14a66d4def"
+    },
+    {
+      "path": "playbook.html",
+      "sha256": "e1d2f0fdebf8cc6ec44cd0a8a213ece8bd1d517183c4efbafe549cab1246cd59"
+    },
+    {
+      "path": "playbook.md",
+      "sha256": "b3ed7e3f98988d86925fcbfb8c42df28edf6416386d4ea274a1892a49bb3eb4e"
+    },
+    {
+      "path": "preface.md",
+      "sha256": "3bc504dc8508dd5722ea031bccd4c4d707423a450c099b856cce55511285ac53"
+    },
+    {
+      "path": "README.md",
+      "sha256": "307703ef48552f20ec4eaefcba1d617ebd9e4b2c0169c0c859c2dd6178dd14c6"
+    },
+    {
+      "path": "sample-script.md",
+      "sha256": "b07c545ebb0ec9be350b2cfb4c9ee69bb6bec5b4785fe57f3f16dba7c3b8e0e9"
+    },
+    {
+      "path": "sources.md",
+      "sha256": "aba975fc1ec4976ce5249bba790da1404ece9d7c0beb7654603ba66d13ab4759"
+    },
+    {
+      "path": "vendor/marked-LICENSE.md",
+      "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c"
+    },
+    {
+      "path": "vendor/marked.esm.mjs",
+      "sha256": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc"
+    },
+    {
+      "path": "verification.md",
+      "sha256": "3755124f42a3aaea01cad15636eab0eecaad59443d6dfa9efc00270498b9551f"
+    }
+  ],
+  "excluded": "Caches, creator transcripts/media, private extractions; inventory excludes itself."
+}

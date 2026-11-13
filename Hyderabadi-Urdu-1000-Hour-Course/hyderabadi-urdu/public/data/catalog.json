@@ -1,0 +1,89 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "practice-1",
+      "chapter": "chapter-01",
+      "title": "Your first family conversation",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=1"
+    },
+    {
+      "id": "practice-2",
+      "chapter": "chapter-02",
+      "title": "The people who make a home",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=2"
+    },
+    {
+      "id": "practice-3",
+      "chapter": "chapter-03",
+      "title": "A day in your life",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=3"
+    },
+    {
+      "id": "practice-4",
+      "chapter": "chapter-04",
+      "title": "Out in the city",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=4"
+    },
+    {
+      "id": "practice-5",
+      "chapter": "chapter-05",
+      "title": "Tell me what happened",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=5"
+    },
+    {
+      "id": "practice-6",
+      "chapter": "chapter-06",
+      "title": "Let’s make a plan",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=6"
+    },
+    {
+      "id": "practice-7",
+      "chapter": "chapter-07",
+      "title": "What’s on your mind?",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=7"
+    },
+    {
+      "id": "practice-8",
+      "chapter": "chapter-08",
+      "title": "Connect the whole story",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=8"
+    },
+    {
+      "id": "practice-9",
+      "chapter": "chapter-09",
+      "title": "Say what you really think",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=9"
+    },
+    {
+      "id": "practice-10",
+      "chapter": "chapter-10",
+      "title": "Find your family’s rhythm",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=10"
+    },
+    {
+      "id": "practice-11",
+      "chapter": "chapter-11",
+      "title": "Keep the conversation going",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=11"
+    },
+    {
+      "id": "practice-12",
+      "chapter": "chapter-12",
+      "title": "A seat at every conversation",
+      "module": "studio.mjs",
+      "url": "/practice/?chapter=12"
+    }
+  ]
+}

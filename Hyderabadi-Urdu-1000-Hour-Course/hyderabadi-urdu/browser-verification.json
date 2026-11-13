@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-13",
+  "target": "Production build served at localhost",
+  "surface": "Codex in-app Chromium browser",
+  "observed": [
+    "Desktop homepage and course navigation rendered",
+    "Chapter 9 Urdu-to-English question displayed its actual Roman source",
+    "Correct translation produced specific feedback and disabled repeat submission",
+    "Listening hid transcript and meaning before checking, with separate input fields",
+    "Unavailable Urdu/Hindi speech voices produced useful guidance",
+    "A 30-minute journal session persisted after reload as 0.5 hours",
+    "Vocabulary search reduced 1000 entries to the biryani card",
+    "Speaking studio displayed local Urdu recognition as unavailable",
+    "English AI reflection displayed that the model was unavailable on the device",
+    "Selecting chai and right-clicking opened the custom playback dialog",
+    "Mobile homepage and grammar feedback rendered without horizontal overflow",
+    "Visible mobile text contained no Urdu or Devanagari script"
+  ],
+  "mobile": {"viewportRequested":390,"height":844,"clientWidth":375,"scrollWidth":375,"overrideReset":true},
+  "notVerified": [
+    "Native Hyderabadi pronunciation or native editorial approval",
+    "Actual Urdu/Hindi system-voice output on a voice-enabled device",
+    "Physical microphone capture and recording replay",
+    "Successful Urdu/Hindi on-device recognition pack installation and recognition",
+    "Successful hardware-backed Chrome AI model execution",
+    "Screen-reader testing beyond accessibility tree inspection",
+    "Safari, Firefox, Android and iOS"
+  ]
+}

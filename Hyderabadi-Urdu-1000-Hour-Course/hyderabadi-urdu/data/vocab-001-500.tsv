@@ -1,0 +1,501 @@
+id	roman	english	pos	gender	topic	chapter	example	translation	register
+1	main	I	function	-	function	1	Main yahan hoon.	I am here.	shared
+2	hum	we	function	-	function	1	Hum tayyar hain.	We are ready.	shared
+3	tum	you; familiar	function	-	function	1	Tum kahan ho?	Where are you?	shared
+4	aap	you; respectful	function	-	function	1	Aap kaise hain?	How are you?	shared
+5	yeh	this; this person	function	-	function	1	Yeh mera ghar hai.	This is my house.	shared
+6	vo	that; he; she; they	function	-	function	1	Vo ghar par hain.	They are at home.	shared
+7	mujhe	to me; me	function	-	function	1	Mujhe paani chahiye.	I need water.	shared
+8	humein	to us; us	function	-	function	1	Humein waqt chahiye.	We need time.	shared
+9	tumhe	to you; familiar	function	-	function	1	Tumhe kya chahiye?	What do you need?	shared
+10	aapko	to you; respectful	function	-	function	1	Aapko chai chahiye?	Would you like tea?	shared
+11	usko	to him; to her	function	-	function	1	Usko phone kijiye.	Call him or her.	shared
+12	unko	to them; respectful him or her	function	-	function	1	Unko bata dijiye.	Tell them.	shared
+13	mera	my; masculine	function	-	function	1	Mera naam Ali hai.	My name is Ali.	shared
+14	hamara	our; masculine	function	-	function	1	Hamara ghar paas hai.	Our house is nearby.	shared
+15	tumhara	your; familiar masculine	function	-	function	1	Tumhara naam kya hai?	What is your name?	shared
+16	aapka	your; respectful masculine	function	-	function	1	Aapka bag yahan hai.	Your bag is here.	shared
+17	uska	his; her; its masculine possession	function	-	function	1	Uska ghar door hai.	His or her house is far.	shared
+18	unka	their; respectful possession	function	-	function	1	Unka naam Sara hai.	Her name is Sara.	shared
+19	apna	one's own; masculine	function	-	function	1	Apna bag lijiye.	Take your own bag.	shared
+20	khud	self; personally	function	-	function	1	Main khud karunga.	I will do it myself.	shared
+21	kaun	who	function	-	function	1	Kaun aaya?	Who came?	shared
+22	kya	what; question marker	function	-	function	1	Yeh kya hai?	What is this?	shared
+23	kahan	where	function	-	function	1	Aap kahan hain?	Where are you?	shared
+24	kab	when	function	-	function	1	Aap kab aayenge?	When will you come?	shared
+25	kyun	why	function	-	function	1	Aap kyun gaye?	Why did you go?	shared
+26	kaise	how	function	-	function	1	Yeh kaise hota hai?	How does this happen?	shared
+27	kitna	how much; masculine	function	-	function	1	Kitna paani chahiye?	How much water is needed?	shared
+28	kaisa	what kind; masculine	function	-	function	1	Kaisa khaana chahiye?	What kind of food do you want?	shared
+29	kiska	whose; masculine	function	-	function	1	Yeh kiska bag hai?	Whose bag is this?	shared
+30	kaunsa	which; masculine	function	-	function	1	Kaunsa kamra hai?	Which room is it?	shared
+31	haan	yes	function	-	function	1	Haan, main aaunga.	Yes, I will come.	shared
+32	nahin	no; not	function	-	function	1	Main ghar par nahin hoon.	I am not at home.	shared
+33	ji	respectful acknowledgment	function	-	function	1	Ji, batayiye.	Yes, please tell me.	shared
+34	aur	and; more	function	-	function	1	Chai aur paani lijiye.	Have tea and water.	shared
+35	lekin	but	function	-	function	1	Main aaunga lekin der se.	I will come, but late.	shared
+36	ya	or	function	-	function	1	Chai ya paani?	Tea or water?	shared
+37	toh	then; so	function	-	function	1	Toh hum chalein?	Then shall we leave?	shared
+38	bhi	also; even	function	-	function	1	Main bhi aaunga.	I will come too.	shared
+39	hi	restrictive emphasis; only	function	-	function	1	Main hi gaya tha.	I was the one who went.	shared
+40	sirf	only	function	-	function	1	Sirf ek chahiye.	Only one is needed.	shared
+41	ka	of; masculine possession	function	-	function	1	Ali ka ghar hai.	It is Ali's house.	shared
+42	ki	of; feminine possession; that	function	-	function	1	Yeh Ammi ki kitaab hai.	This is Ammi's book.	shared
+43	ke	of; plural or oblique possession	function	-	function	1	Yeh mere bhai ke joote hain.	These are my brother's shoes.	shared
+44	ko	to; object marker	function	-	function	1	Ammi ko phone karo.	Call Ammi.	shared
+45	se	from; with; by	function	-	function	1	Main ghar se aaya.	I came from home.	shared
+46	mein	in	function	-	function	1	Paani glass mein hai.	The water is in the glass.	shared
+47	par	on; at	function	-	function	1	Kitaab mez par hai.	The book is on the table.	shared
+48	tak	until; as far as	function	-	function	1	Shaam tak aaiye.	Come by evening.	shared
+49	ne	perfective doer marker	function	-	function	1	Ali ne chai pi.	Ali drank tea.	shared
+50	liye	for; in ke liye	function	-	function	1	Yeh aapke liye hai.	This is for you.	shared
+51	saath	with; together	function	-	function	1	Mere saath aaiye.	Come with me.	shared
+52	paas	near; possession with ke paas	function	-	function	1	Mere paas waqt hai.	I have time.	shared
+53	taraf	direction; side	function	f	function	1	Is taraf aaiye.	Come this way.	shared
+54	baare	about; in ke baare mein	function	-	function	1	Aap kis baare mein soch rahe hain?	What are you thinking about?	shared
+55	koi	someone; any	function	-	function	1	Koi aaya hai.	Someone has come.	shared
+56	kuch	something; some	function	-	function	1	Kuch kha lijiye.	Have something to eat.	shared
+57	sab	all; everyone	function	-	function	1	Sab yahan hain.	Everyone is here.	shared
+58	har	every	function	-	function	1	Har din sunta hoon.	I listen every day.	shared
+59	doosra	other; second	function	-	function	1	Doosra glass lijiye.	Take the other glass.	shared
+60	ek doosre	each other	function	-	function	1	Hum ek doosre ki madad karte hain.	We help each other.	shared
+61	hau	yes; local	function	-	function	1	Hau, main aa raha hoon.	Yes, I am coming.	hyderabadi
+62	nakko	do not; not wanted; context dependent	function	-	function	1	Chai nakko, shukriya.	No tea, thank you.	hyderabadi
+63	kaiku	why; local	function	-	function	1	Tum kaiku gaye?	Why did you go?	hyderabadi
+64	mereku	to me; local	function	-	function	1	Mereku paani chahiye.	I need water.	hyderabadi
+65	tereku	to you; familiar or intimate local	function	-	function	1	Tereku kya chahiye?	What do you need?	hyderabadi
+66	sifar	zero	number	-	numbers	3	Mere paas sifar rupaye hain.	I have zero rupees.	shared
+67	ek	one	number	-	numbers	3	Mere paas ek rupaya hai.	I have one rupee.	shared
+68	do	two	number	-	numbers	3	Mere paas do rupaye hain.	I have two rupees.	shared
+69	teen	three	number	-	numbers	3	Mere paas teen rupaye hain.	I have three rupees.	shared
+70	chaar	four	number	-	numbers	3	Mere paas chaar rupaye hain.	I have four rupees.	shared
+71	paanch	five	number	-	numbers	3	Mere paas paanch rupaye hain.	I have five rupees.	shared
+72	chhe	six	number	-	numbers	3	Mere paas chhe rupaye hain.	I have six rupees.	shared
+73	saat	seven	number	-	numbers	3	Mere paas saat rupaye hain.	I have seven rupees.	shared
+74	aath	eight	number	-	numbers	3	Mere paas aath rupaye hain.	I have eight rupees.	shared
+75	nau	nine	number	-	numbers	3	Mere paas nau rupaye hain.	I have nine rupees.	shared
+76	das	ten	number	-	numbers	3	Mere paas das rupaye hain.	I have ten rupees.	shared
+77	gyarah	eleven	number	-	numbers	3	Mere paas gyarah rupaye hain.	I have eleven rupees.	shared
+78	barah	twelve	number	-	numbers	3	Mere paas barah rupaye hain.	I have twelve rupees.	shared
+79	terah	thirteen	number	-	numbers	3	Mere paas terah rupaye hain.	I have thirteen rupees.	shared
+80	chaudah	fourteen	number	-	numbers	3	Mere paas chaudah rupaye hain.	I have fourteen rupees.	shared
+81	pandrah	fifteen	number	-	numbers	3	Mere paas pandrah rupaye hain.	I have fifteen rupees.	shared
+82	solah	sixteen	number	-	numbers	3	Mere paas solah rupaye hain.	I have sixteen rupees.	shared
+83	satrah	seventeen	number	-	numbers	3	Mere paas satrah rupaye hain.	I have seventeen rupees.	shared
+84	atharah	eighteen	number	-	numbers	3	Mere paas atharah rupaye hain.	I have eighteen rupees.	shared
+85	unnees	nineteen	number	-	numbers	3	Mere paas unnees rupaye hain.	I have nineteen rupees.	shared
+86	bees	twenty	number	-	numbers	3	Mere paas bees rupaye hain.	I have twenty rupees.	shared
+87	ikkees	twenty-one	number	-	numbers	3	Mere paas ikkees rupaye hain.	I have twenty-one rupees.	shared
+88	baees	twenty-two	number	-	numbers	3	Mere paas baees rupaye hain.	I have twenty-two rupees.	shared
+89	teis	twenty-three	number	-	numbers	3	Mere paas teis rupaye hain.	I have twenty-three rupees.	shared
+90	chaubees	twenty-four	number	-	numbers	3	Mere paas chaubees rupaye hain.	I have twenty-four rupees.	shared
+91	pachchees	twenty-five	number	-	numbers	3	Mere paas pachchees rupaye hain.	I have twenty-five rupees.	shared
+92	chhabbees	twenty-six	number	-	numbers	3	Mere paas chhabbees rupaye hain.	I have twenty-six rupees.	shared
+93	sattaees	twenty-seven	number	-	numbers	3	Mere paas sattaees rupaye hain.	I have twenty-seven rupees.	shared
+94	atthaees	twenty-eight	number	-	numbers	3	Mere paas atthaees rupaye hain.	I have twenty-eight rupees.	shared
+95	untees	twenty-nine	number	-	numbers	3	Mere paas untees rupaye hain.	I have twenty-nine rupees.	shared
+96	tees	thirty	number	-	numbers	3	Mere paas tees rupaye hain.	I have thirty rupees.	shared
+97	iktees	thirty-one	number	-	numbers	3	Mere paas iktees rupaye hain.	I have thirty-one rupees.	shared
+98	battees	thirty-two	number	-	numbers	3	Mere paas battees rupaye hain.	I have thirty-two rupees.	shared
+99	taintees	thirty-three	number	-	numbers	3	Mere paas taintees rupaye hain.	I have thirty-three rupees.	shared
+100	chauntees	thirty-four	number	-	numbers	3	Mere paas chauntees rupaye hain.	I have thirty-four rupees.	shared
+101	paintees	thirty-five	number	-	numbers	3	Mere paas paintees rupaye hain.	I have thirty-five rupees.	shared
+102	chhattees	thirty-six	number	-	numbers	3	Mere paas chhattees rupaye hain.	I have thirty-six rupees.	shared
+103	saintees	thirty-seven	number	-	numbers	3	Mere paas saintees rupaye hain.	I have thirty-seven rupees.	shared
+104	artees	thirty-eight	number	-	numbers	3	Mere paas artees rupaye hain.	I have thirty-eight rupees.	shared
+105	untaalees	thirty-nine	number	-	numbers	3	Mere paas untaalees rupaye hain.	I have thirty-nine rupees.	shared
+106	chaalees	forty	number	-	numbers	3	Mere paas chaalees rupaye hain.	I have forty rupees.	shared
+107	iktaalees	forty-one	number	-	numbers	3	Mere paas iktaalees rupaye hain.	I have forty-one rupees.	shared
+108	bayaalees	forty-two	number	-	numbers	3	Mere paas bayaalees rupaye hain.	I have forty-two rupees.	shared
+109	taintaalees	forty-three	number	-	numbers	3	Mere paas taintaalees rupaye hain.	I have forty-three rupees.	shared
+110	chavaalees	forty-four	number	-	numbers	3	Mere paas chavaalees rupaye hain.	I have forty-four rupees.	shared
+111	paintaalees	forty-five	number	-	numbers	3	Mere paas paintaalees rupaye hain.	I have forty-five rupees.	shared
+112	chhiyaalees	forty-six	number	-	numbers	3	Mere paas chhiyaalees rupaye hain.	I have forty-six rupees.	shared
+113	saintaalees	forty-seven	number	-	numbers	3	Mere paas saintaalees rupaye hain.	I have forty-seven rupees.	shared
+114	artaalees	forty-eight	number	-	numbers	3	Mere paas artaalees rupaye hain.	I have forty-eight rupees.	shared
+115	unchaas	forty-nine	number	-	numbers	3	Mere paas unchaas rupaye hain.	I have forty-nine rupees.	shared
+116	pachaas	fifty	number	-	numbers	3	Mere paas pachaas rupaye hain.	I have fifty rupees.	shared
+117	Ammi	mother; family address	noun	f	family	2	Ammi ghar par hain.	Ammi is at home.	shared
+118	Abbu	father; family address	noun	m	family	2	Abbu aa rahe hain.	Abbu is coming.	shared
+119	maa	mother	noun	f	family	2	Meri maa yahan hain.	My mother is here.	shared
+120	baap	father; register sensitive	noun	m	family	2	Vo do bachchon ka baap hai.	He is the father of two children.	shared
+121	bhai	brother	noun	m	family	2	Mera bhai aa gaya.	My brother has arrived.	shared
+122	behen	sister	noun	f	family	2	Meri behen yahan hai.	My sister is here.	shared
+123	beta	son	noun	m	family	2	Unka beta padhta hai.	Their son studies.	shared
+124	beti	daughter	noun	f	family	2	Unki beti khel rahi hai.	Their daughter is playing.	shared
+125	bachcha	child	noun	m	family	2	Bachcha so raha hai.	The child is sleeping.	shared
+126	bachchi	girl child	noun	f	family	2	Bachchi khel rahi hai.	The girl is playing.	shared
+127	dada	paternal grandfather	noun	m	family	2	Dada baat kar rahe hain.	Grandfather is talking.	shared
+128	dadi	paternal grandmother	noun	f	family	2	Dadi ghar par hain.	Grandmother is at home.	shared
+129	nana	maternal grandfather	noun	m	family	2	Nana ko phone kijiye.	Call maternal grandfather.	shared
+130	nani	maternal grandmother	noun	f	family	2	Nani ki yaad aati hai.	I miss maternal grandmother.	shared
+131	chacha	father's younger brother	noun	m	family	2	Chacha kal aayenge.	My paternal uncle will come tomorrow.	shared
+132	taya	father's elder brother	noun	m	family	2	Taya se baat kijiye.	Speak with father's elder brother.	shared
+133	phuppi	father's sister	noun	f	family	2	Phuppi ne chai banayi.	My paternal aunt made tea.	shared
+134	mamu	mother's brother	noun	m	family	2	Mamu Hyderabad mein rehte hain.	My maternal uncle lives in Hyderabad.	shared
+135	khala	mother's sister	noun	f	family	2	Khala ko khaana pasand hai.	My maternal aunt likes the food.	shared
+136	chachi	wife of father's younger brother	noun	f	family	2	Chachi aa rahi hain.	My paternal uncle's wife is coming.	shared
+137	taayi	wife of father's elder brother	noun	f	family	2	Taayi ka phone aaya.	Father's elder brother's wife called.	shared
+138	phuppa	husband of father's sister	noun	m	family	2	Phuppa yahan baithe hain.	My paternal aunt's husband is sitting here.	shared
+139	mami	wife of mother's brother	noun	f	family	2	Mami ne bulaya hai.	My maternal uncle's wife has invited us.	shared
+140	khalu	husband of mother's sister	noun	m	family	2	Khalu ke saath aaiye.	Come with my maternal aunt's husband.	shared
+141	shauhar	husband	noun	m	family	2	Unke shauhar yahan hain.	Her husband is here.	shared
+142	biwi	wife	noun	f	family	2	Meri biwi kaam karti hai.	My wife works.	shared
+143	miyaan	husband; form of address	noun	m	family	2	Unke miyaan abhi aaye.	Her husband just arrived.	shared
+144	rishtedaar	relative	noun	m	family	2	Hamare rishtedaar aa rahe hain.	Our relatives are coming.	shared
+145	parivaar	family; shared Hindi word	noun	m	family	2	Mera parivaar yahan hai.	My family is here.	shared
+146	ghar wale	family members; people at home	noun	m.pl	family	2	Ghar wale kaise hain?	How is everyone at home?	shared
+147	ghar	home; house	noun	m	home	3	Main ghar ja raha hoon.	I am going home.	shared
+148	kamra	room	noun	m	home	3	Kamra saaf hai.	The room is clean.	shared
+149	darwaza	door	noun	m	home	3	Darwaza band kijiye.	Close the door.	shared
+150	khidki	window	noun	f	home	3	Khidki khuli hai.	The window is open.	shared
+151	mez	table	noun	f	home	3	Kitaab mez par hai.	The book is on the table.	shared
+152	kursi	chair	noun	f	home	3	Kursi yahan rakhiye.	Put the chair here.	shared
+153	bistar	bed; bedding	noun	m	home	3	Bistar tayyar hai.	The bed is ready.	shared
+154	takiya	pillow	noun	m	home	3	Takiya kahan hai?	Where is the pillow?	shared
+155	chaadar	sheet	noun	f	home	3	Chaadar saaf hai.	The sheet is clean.	shared
+156	kambal	blanket	noun	m	home	3	Kambal le lijiye.	Take a blanket.	shared
+157	farsh	floor	noun	m	home	3	Farsh geela hai.	The floor is wet.	shared
+158	deewar	wall	noun	f	home	3	Deewar safed hai.	The wall is white.	shared
+159	chhat	roof; ceiling	noun	f	home	3	Chhat par aaiye.	Come onto the roof.	shared
+160	seedhi	stair; ladder	noun	f	home	3	Seedhi par dheere chaliye.	Go slowly on the stairs.	shared
+161	rasoi	kitchen; shared Hindi word	noun	f	home	3	Rasoi mein paani hai.	There is water in the kitchen.	shared
+162	baavarchikhana	kitchen; Urdu word	noun	m	home	3	Baavarchikhane mein chai hai.	There is tea in the kitchen.	shared
+163	bathroom	bathroom	noun	m	home	3	Bathroom kahan hai?	Where is the bathroom?	shared
+164	nal	tap	noun	m	home	3	Nal band kijiye.	Turn off the tap.	shared
+165	balti	bucket	noun	f	home	3	Balti mein paani hai.	There is water in the bucket.	shared
+166	sabun	soap	noun	m	home	3	Sabun se haath dhoyiye.	Wash your hands with soap.	shared
+167	tauliya	towel	noun	m	home	3	Tauliya yahan hai.	The towel is here.	shared
+168	aaina	mirror	noun	m	home	3	Aaina saaf hai.	The mirror is clean.	shared
+169	kangi	comb	noun	f	home	3	Kangi kahan rakhi hai?	Where is the comb?	shared
+170	chaabi	key	noun	f	home	3	Chaabi mere paas hai.	I have the key.	shared
+171	taala	lock	noun	m	home	3	Taala laga hai.	It is locked.	shared
+172	bijli	electricity	noun	f	home	3	Bijli aa gayi.	The electricity has come back.	shared
+173	pankha	fan	noun	m	home	3	Pankha chala dijiye.	Turn on the fan.	shared
+174	batti	light; lamp	noun	f	home	3	Batti band kar dijiye.	Turn off the light.	shared
+175	chulha	stove	noun	m	home	3	Chulha band hai.	The stove is off.	shared
+176	fridge	refrigerator	noun	m	home	3	Doodh fridge mein hai.	The milk is in the refrigerator.	shared
+177	bartan	utensil; dish	noun	m	home	3	Bartan dho lijiye.	Wash the dishes.	shared
+178	chamach	spoon	noun	m	home	3	Ek chamach dijiye.	Give me a spoon.	shared
+179	thaali	plate; platter	noun	f	home	3	Thaali yahan rakhiye.	Put the plate here.	shared
+180	piyaali	cup	noun	f	home	3	Piyaali mein chai hai.	There is tea in the cup.	shared
+181	glass	drinking glass	noun	m	home	3	Glass khaali hai.	The glass is empty.	shared
+182	chhuri	knife	noun	f	home	3	Chhuri mez par hai.	The knife is on the table.	shared
+183	dabba	box; container	noun	m	home	3	Dabba khol dijiye.	Open the box.	shared
+184	thaila	bag; shopping sack	noun	m	home	3	Thaila saath lijiye.	Take a bag with you.	shared
+185	kooda	rubbish; trash	noun	m	home	3	Kooda bahar rakhiye.	Put the rubbish outside.	shared
+186	jhaadu	broom	noun	f	home	3	Jhaadu kahan hai?	Where is the broom?	shared
+187	hona	to be; to happen	verb	-	verbs	3	Sab theek hoga.	Everything will be all right.	shared
+188	karna	to do	verb	-	verbs	3	Aap kya kar rahe hain?	What are you doing?	shared
+189	jaana	to go	verb	-	verbs	3	Mujhe ghar jaana hai.	I need to go home.	shared
+190	aana	to come	verb	-	verbs	3	Kal aaiye.	Come tomorrow.	shared
+191	lena	to take	verb	-	verbs	3	Yeh le lijiye.	Take this.	shared
+192	dena	to give	verb	-	verbs	3	Mujhe paani dijiye.	Give me water.	shared
+193	khaana	to eat	verb	-	verbs	3	Kuch kha lijiye.	Have something to eat.	shared
+194	peena	to drink	verb	-	verbs	3	Paani pee lijiye.	Have some water.	shared
+195	bolna	to speak	verb	-	verbs	3	Dheere boliye.	Speak slowly.	shared
+196	kehna	to say	verb	-	verbs	3	Aapne kya kaha?	What did you say?	shared
+197	sunna	to hear; listen	verb	-	verbs	3	Meri baat suniye.	Listen to me.	shared
+198	dekhna	to see; watch	verb	-	verbs	3	Yeh dekhiye.	Look at this.	shared
+199	padhna	to read; study	verb	-	verbs	3	Main kitaab padhta hoon.	I read a book.	shared
+200	likhna	to write	verb	-	verbs	3	Apna naam likhiye.	Write your name.	shared
+201	samajhna	to understand	verb	-	verbs	3	Main samajh gaya.	I understood.	shared
+202	jaanna	to know	verb	-	verbs	3	Main unko jaanta hoon.	I know them.	shared
+203	seekhna	to learn	verb	-	verbs	3	Main Urdu seekh raha hoon.	I am learning Urdu.	shared
+204	sikhana	to teach	verb	-	verbs	3	Mujhe yeh lafz sikhaiye.	Teach me this word.	shared
+205	poochhna	to ask a question	verb	-	verbs	3	Unse poochhiye.	Ask them.	shared
+206	batana	to tell; explain	verb	-	verbs	3	Mujhe bataiye.	Tell me.	shared
+207	uthna	to get up; rise	verb	-	verbs	3	Main jaldi uthta hoon.	I get up early.	shared
+208	sona	to sleep	verb	-	verbs	3	Bachcha so raha hai.	The child is sleeping.	shared
+209	baithna	to sit	verb	-	verbs	3	Yahan baithiye.	Sit here.	shared
+210	khada hona	to stand up; be standing	verb	-	verbs	3	Yahan khade ho jaiye.	Stand here.	shared
+211	chalna	to walk; function	verb	-	verbs	3	Dheere chaliye.	Walk slowly.	shared
+212	daudna	to run	verb	-	verbs	3	Bachche daud rahe hain.	The children are running.	shared
+213	rukna	to stop; stay briefly	verb	-	verbs	3	Zara rukiye.	Please wait a moment.	shared
+214	rehna	to live; stay	verb	-	verbs	3	Aap kahan rehte hain?	Where do you live?	shared
+215	milna	to meet; be found	verb	-	verbs	3	Kal milte hain.	Let us meet tomorrow.	shared
+216	bulana	to call over; invite	verb	-	verbs	3	Bhai ko bulaiye.	Call your brother over.	shared
+217	phone karna	to telephone	verb	-	verbs	3	Main kal phone karunga.	I will call tomorrow.	shared
+218	bhejna	to send	verb	-	verbs	3	Message bhej dijiye.	Send a message.	shared
+219	rakhna	to put; keep	verb	-	verbs	3	Yeh yahan rakhiye.	Put this here.	shared
+220	uthana	to lift; pick up	verb	-	verbs	3	Bag utha lijiye.	Pick up the bag.	shared
+221	laana	to bring	verb	-	verbs	3	Paani le aaiye.	Bring water.	shared
+222	le jaana	to take away	verb	-	verbs	3	Yeh ghar le jaiye.	Take this home.	shared
+223	chhodna	to leave; let go	verb	-	verbs	3	Mujhe yahan chhod dijiye.	Drop me here.	shared
+224	pakadna	to hold; catch	verb	-	verbs	3	Mera bag pakdiye.	Hold my bag.	shared
+225	kholna	to open	verb	-	verbs	3	Darwaza kholiye.	Open the door.	shared
+226	band karna	to close; switch off	verb	-	verbs	3	Batti band kar dijiye.	Turn off the light.	shared
+227	banana	to make	verb	-	verbs	3	Main chai bana raha hoon.	I am making tea.	shared
+228	pakana	to cook	verb	-	verbs	3	Main khaana paka raha hoon.	I am cooking food.	shared
+229	dhona	to wash	verb	-	verbs	3	Haath dhoyiye.	Wash your hands.	shared
+230	nahana	to bathe	verb	-	verbs	3	Main subah nahata hoon.	I bathe in the morning.	shared
+231	saaf karna	to clean	verb	-	verbs	3	Mez saaf kijiye.	Clean the table.	shared
+232	pehenna	to wear; put on	verb	-	verbs	3	Joote pehen lijiye.	Put on your shoes.	shared
+233	utarna	to descend; get off	verb	-	verbs	3	Yahan utariye.	Get off here.	shared
+234	utaarna	to remove; take off	verb	-	verbs	3	Joote utaar dijiye.	Take off your shoes.	shared
+235	khareedna	to buy	verb	-	verbs	3	Maine sabzi khareedi.	I bought vegetables.	shared
+236	bechna	to sell	verb	-	verbs	3	Vo phal bechte hain.	They sell fruit.	shared
+237	maangna	to ask for; request	verb	-	verbs	3	Unse madad maangiye.	Ask them for help.	shared
+238	chahna	to want	verb	-	verbs	3	Main Urdu bolna chahta hoon.	I want to speak Urdu.	shared
+239	pasand karna	to like	verb	-	verbs	3	Main yeh rang pasand karta hoon.	I like this color.	shared
+240	lagna	to seem; feel; attach	verb	-	verbs	3	Mujhe thand lag rahi hai.	I feel cold.	shared
+241	sochna	to think	verb	-	verbs	3	Main soch raha hoon.	I am thinking.	shared
+242	yaad rakhna	to remember; keep in mind	verb	-	verbs	3	Yeh baat yaad rakhiye.	Remember this point.	shared
+243	bhoolna	to forget	verb	-	verbs	3	Main naam bhool gaya.	I forgot the name.	shared
+244	hansna	to laugh	verb	-	verbs	3	Bachche hans rahe hain.	The children are laughing.	shared
+245	rona	to cry	verb	-	verbs	3	Bachcha ro raha hai.	The child is crying.	shared
+246	khelna	to play	verb	-	verbs	3	Hum cricket khelte hain.	We play cricket.	shared
+247	kaam karna	to work	verb	-	verbs	3	Main ghar se kaam karta hoon.	I work from home.	shared
+248	madad karna	to help	verb	-	verbs	3	Meri madad kijiye.	Help me.	shared
+249	intezaar karna	to wait	verb	-	verbs	3	Mera intezaar kijiye.	Wait for me.	shared
+250	koshish karna	to try	verb	-	verbs	3	Phir koshish kijiye.	Try again.	shared
+251	shuru karna	to start	verb	-	verbs	3	Ab shuru kijiye.	Start now.	shared
+252	khatam karna	to finish	verb	-	verbs	3	Main kaam khatam karunga.	I will finish the work.	shared
+253	badalna	to change	verb	-	verbs	3	Waqt badal gaya.	The time has changed.	shared
+254	samjhana	to explain	verb	-	verbs	3	Dobara samjhaiye.	Explain again.	shared
+255	dohrana	to repeat	verb	-	verbs	3	Yeh jumla dohraiye.	Repeat this sentence.	shared
+256	chunna	to choose	verb	-	verbs	3	Ek rang chuniye.	Choose a color.	shared
+257	ginna	to count	verb	-	verbs	3	Paise gin lijiye.	Count the money.	shared
+258	tolna	to weigh	verb	-	verbs	3	Sabzi tol dijiye.	Weigh the vegetables.	shared
+259	kaatna	to cut	verb	-	verbs	3	Pyaaz kaatiye.	Cut the onion.	shared
+260	daalna	to put in; add	verb	-	verbs	3	Thoda namak daaliye.	Add a little salt.	shared
+261	nikalna	to leave; emerge	verb	-	verbs	3	Main ab nikal raha hoon.	I am leaving now.	shared
+262	nikaalna	to take out; remove	verb	-	verbs	3	Kitaab nikaaliye.	Take out the book.	shared
+263	bharna	to fill	verb	-	verbs	3	Glass bhar dijiye.	Fill the glass.	shared
+264	girana	to drop; cause to fall	verb	-	verbs	3	Paani mat giraiye.	Do not spill the water.	shared
+265	girna	to fall	verb	-	verbs	3	Glass gir gaya.	The glass fell.	shared
+266	tootna	to break; intransitive	verb	-	verbs	3	Glass toot gaya.	The glass broke.	shared
+267	todna	to break something	verb	-	verbs	3	Isko mat todiye.	Do not break this.	shared
+268	judna	to join; become connected	verb	-	verbs	3	Do hisse jud gaye.	The two parts joined.	shared
+269	jodna	to join things; add	verb	-	verbs	3	Dono hisse jodiye.	Join both parts.	shared
+270	chalana	to drive; operate	verb	-	verbs	3	Pankha chala dijiye.	Turn on the fan.	shared
+271	pahunchna	to arrive; reach	verb	-	verbs	3	Main ghar pahunch gaya.	I reached home.	shared
+272	lautna	to return	verb	-	verbs	3	Main kal lautunga.	I will return tomorrow.	shared
+273	baantna	to share out; divide	verb	-	verbs	3	Khaana baant dijiye.	Share out the food.	shared
+274	bachna	to remain; be saved	verb	-	verbs	3	Thoda khaana bacha hai.	Some food is left.	shared
+275	bachana	to save; protect	verb	-	verbs	3	Thoda waqt bachaiye.	Save a little time.	shared
+276	dhakna	to cover	verb	-	verbs	3	Khaana dhak dijiye.	Cover the food.	shared
+277	talna	to fry	verb	-	verbs	3	Pyaaz tal lijiye.	Fry the onion.	shared
+278	ubaalna	to boil something	verb	-	verbs	3	Paani ubaal lijiye.	Boil the water.	shared
+279	garam karna	to heat; warm up	verb	-	verbs	3	Khaana garam kijiye.	Warm the food.	shared
+280	thanda karna	to cool something	verb	-	verbs	3	Chai thandi kar lijiye.	Let the tea cool.	shared
+281	chakhna	to taste	verb	-	verbs	3	Yeh chakh kar dekhiye.	Taste this.	shared
+282	chabana	to chew	verb	-	verbs	3	Dheere chabaiye.	Chew slowly.	shared
+283	nigalna	to swallow	verb	-	verbs	3	Aaraam se nigaliye.	Swallow carefully.	shared
+284	chhoona	to touch	verb	-	verbs	3	Garam bartan mat chhuiye.	Do not touch the hot pot.	shared
+285	dhoondhna	to look for	verb	-	verbs	3	Main chaabi dhoondh raha hoon.	I am looking for the key.	shared
+286	paana	to obtain; manage to	verb	-	verbs	3	Main samajh nahin paya.	I could not manage to understand.	shared
+287	aaj	today	time word	-	time	3	Aaj chhutti hai.	Today is a day off.	shared
+288	kal	yesterday or tomorrow; context decides	time word	-	time	3	Kal main aaya tha.	I came yesterday.	shared
+289	parson	day before yesterday or day after tomorrow	time word	-	time	3	Parson hum milenge.	We will meet the day after tomorrow.	shared
+290	ab	now	time word	-	time	3	Ab chaliye.	Let us go now.	shared
+291	abhi	right now; just now	time word	-	time	3	Main abhi aaya.	I just arrived.	shared
+292	tab	then; at that time	time word	-	time	3	Tab main ghar par tha.	I was at home then.	shared
+293	pehle	before; first	time word	-	time	3	Pehle paani peejiye.	Drink water first.	shared
+294	baad	after; later	time word	-	time	3	Khaane ke baad aaiye.	Come after the meal.	shared
+295	phir	then; again	time word	-	time	3	Phir kya hua?	What happened then?	shared
+296	dobara	again	time word	-	time	3	Dobara kahiye.	Say it again.	shared
+297	subah	morning	time word	f	time	3	Subah jaldi aaiye.	Come early in the morning.	shared
+298	dopahar	afternoon; midday	time word	f	time	3	Dopahar mein milte hain.	Let us meet in the afternoon.	shared
+299	shaam	evening	time word	f	time	3	Shaam ko phone kijiye.	Call in the evening.	shared
+300	raat	night	time word	f	time	3	Raat ko der ho gayi.	It became late at night.	shared
+301	din	day	time word	m	time	3	Aaj achha din hai.	Today is a good day.	shared
+302	hafta	week	time word	m	time	3	Agle hafte aaiye.	Come next week.	shared
+303	mahina	month	time word	m	time	3	Ek mahina ho gaya.	A month has passed.	shared
+304	saal	year	time word	m	time	3	Main har saal aata hoon.	I come every year.	shared
+305	waqt	time	time word	m	time	3	Aapke paas waqt hai?	Do you have time?	shared
+306	ghanta	hour	time word	m	time	3	Ek ghanta rukiye.	Wait one hour.	shared
+307	minute	minute	time word	m	time	3	Do minute rukiye.	Wait two minutes.	shared
+308	baje	o'clock; time expression	time word	-	time	3	Saat baje aaiye.	Come at seven.	shared
+309	aadha	half; masculine	time word	-	time	3	Aadha ghanta lagega.	It will take half an hour.	shared
+310	pauna	quarter to; three quarters	time word	-	time	3	Paune saat baje hain.	It is quarter to seven.	shared
+311	sava	quarter past; one and a quarter	time word	-	time	3	Sava saat baje hain.	It is quarter past seven.	shared
+312	saadhe	half past; half more	time word	-	time	3	Saadhe saat baje hain.	It is half past seven.	shared
+313	roz	every day	time word	-	time	3	Main roz sunta hoon.	I listen every day.	shared
+314	hamesha	always	time word	-	time	3	Vo hamesha madad karte hain.	They always help.	shared
+315	aksar	often	time word	-	time	3	Hum aksar milte hain.	We often meet.	shared
+316	kabhi	ever; sometimes in context	time word	-	time	3	Kabhi ghar aaiye.	Come home sometime.	shared
+317	jaldi	soon; early; quickly	time word	-	time	3	Jaldi aaiye.	Come soon.	shared
+318	der	lateness; a while	time word	f	time	3	Der ho gayi.	It has become late.	shared
+319	itvaar	Sunday	time word	m	time	3	Itvaar ko milte hain.	Let us meet on Sunday.	shared
+320	peer	Monday; Urdu day name	time word	m	time	3	Peer ko kaam hai.	There is work on Monday.	shared
+321	mangal	Tuesday	time word	m	time	3	Mangal ko aaiye.	Come on Tuesday.	shared
+322	budh	Wednesday	time word	m	time	3	Budh ko chhutti hai.	Wednesday is a day off.	shared
+323	jumeraat	Thursday; Urdu day name	time word	f	time	3	Jumeraat ko aaiye.	Come on Thursday.	shared
+324	jumma	Friday; Urdu day name	time word	m	time	3	Jumme ko phone kijiye.	Call on Friday.	shared
+325	sanichar	Saturday; shared Hindi day name	time word	m	time	3	Sanichar ko milte hain.	Let us meet on Saturday.	shared
+326	paani	water	noun	m	food	4	Mujhe paani chahiye.	I would like water.	shared
+327	chai	tea	noun	f	food	4	Mujhe chai chahiye.	I would like tea.	shared
+328	doodh	milk	noun	m	food	4	Mujhe doodh chahiye.	I would like milk.	shared
+329	coffee	coffee	noun	f	food	4	Mujhe coffee chahiye.	I would like coffee.	shared
+330	naashta	breakfast; snack	noun	m	food	4	Mujhe naashta chahiye.	I would like breakfast.	shared
+331	roti	flatbread	noun	f	food	4	Mujhe roti chahiye.	I would like flatbread.	shared
+332	chaawal	rice; usually plural agreement	noun	m.pl	food	4	Mujhe chaawal chahiye.	I would like rice.	shared
+333	daal	lentils; lentil dish	noun	f	food	4	Mujhe daal chahiye.	I would like lentils.	shared
+334	sabzi	vegetable; vegetable dish	noun	f	food	4	Mujhe sabzi chahiye.	I would like vegetable.	shared
+335	gosht	meat	noun	m	food	4	Mujhe gosht chahiye.	I would like meat.	shared
+336	murghi	chicken; hen	noun	f	food	4	Mujhe murghi chahiye.	I would like chicken.	shared
+337	machhli	fish	noun	f	food	4	Mujhe machhli chahiye.	I would like fish.	shared
+338	anda	egg	noun	m	food	4	Mujhe anda chahiye.	I would like egg.	shared
+339	dahi	yogurt	noun	m	food	4	Mujhe dahi chahiye.	I would like yogurt.	shared
+340	makhan	butter	noun	m	food	4	Mujhe makhan chahiye.	I would like butter.	shared
+341	ghee	clarified butter	noun	m	food	4	Mujhe ghee chahiye.	I would like clarified butter.	shared
+342	tel	oil	noun	m	food	4	Mujhe tel chahiye.	I would like oil.	shared
+343	namak	salt	noun	m	food	4	Mujhe namak chahiye.	I would like salt.	shared
+344	cheeni	sugar	noun	f	food	4	Mujhe cheeni chahiye.	I would like sugar.	shared
+345	mirch	chili; pepper	noun	f	food	4	Mujhe mirch chahiye.	I would like chili.	shared
+346	haldi	turmeric	noun	f	food	4	Mujhe haldi chahiye.	I would like turmeric.	shared
+347	zeera	cumin	noun	m	food	4	Mujhe zeera chahiye.	I would like cumin.	shared
+348	dhaniya	coriander	noun	m	food	4	Mujhe dhaniya chahiye.	I would like coriander.	shared
+349	adrak	ginger	noun	f	food	4	Mujhe adrak chahiye.	I would like ginger.	shared
+350	lehsun	garlic	noun	m	food	4	Mujhe lehsun chahiye.	I would like garlic.	shared
+351	pyaaz	onion	noun	f	food	4	Mujhe pyaaz chahiye.	I would like onion.	shared
+352	tamatar	tomato	noun	m	food	4	Mujhe tamatar chahiye.	I would like tomato.	shared
+353	aaloo	potato	noun	m	food	4	Mujhe aaloo chahiye.	I would like potato.	shared
+354	baingan	eggplant	noun	m	food	4	Mujhe baingan chahiye.	I would like eggplant.	shared
+355	bhindi	okra	noun	f	food	4	Mujhe bhindi chahiye.	I would like okra.	shared
+356	palak	spinach	noun	f	food	4	Mujhe palak chahiye.	I would like spinach.	shared
+357	gajar	carrot	noun	f	food	4	Mujhe gajar chahiye.	I would like carrot.	shared
+358	matar	peas	noun	m.pl	food	4	Mujhe matar chahiye.	I would like peas.	shared
+359	kheera	cucumber	noun	m	food	4	Mujhe kheera chahiye.	I would like cucumber.	shared
+360	nimbu	lemon; lime	noun	m	food	4	Mujhe nimbu chahiye.	I would like lemon.	shared
+361	phal	fruit	noun	m	food	4	Mujhe phal chahiye.	I would like fruit.	shared
+362	seb	apple	noun	m	food	4	Mujhe seb chahiye.	I would like apple.	shared
+363	kela	banana	noun	m	food	4	Mujhe kela chahiye.	I would like banana.	shared
+364	aam	mango	noun	m	food	4	Mujhe aam chahiye.	I would like mango.	shared
+365	santra	orange	noun	m	food	4	Mujhe santra chahiye.	I would like orange.	shared
+366	angoor	grapes	noun	m.pl	food	4	Mujhe angoor chahiye.	I would like grapes.	shared
+367	anaar	pomegranate	noun	m	food	4	Mujhe anaar chahiye.	I would like pomegranate.	shared
+368	papita	papaya	noun	m	food	4	Mujhe papita chahiye.	I would like papaya.	shared
+369	tarbooz	watermelon	noun	m	food	4	Mujhe tarbooz chahiye.	I would like watermelon.	shared
+370	khajoor	date fruit	noun	f	food	4	Mujhe khajoor chahiye.	I would like date fruit.	shared
+371	badam	almond	noun	m	food	4	Mujhe badam chahiye.	I would like almond.	shared
+372	kaaju	cashew	noun	m	food	4	Mujhe kaaju chahiye.	I would like cashew.	shared
+373	kishmish	raisins	noun	f	food	4	Mujhe kishmish chahiye.	I would like raisins.	shared
+374	atta	whole-wheat flour	noun	m	food	4	Mujhe atta chahiye.	I would like whole-wheat flour.	shared
+375	maida	refined flour	noun	m	food	4	Mujhe maida chahiye.	I would like refined flour.	shared
+376	besan	chickpea flour	noun	m	food	4	Mujhe besan chahiye.	I would like chickpea flour.	shared
+377	sooji	semolina	noun	f	food	4	Mujhe sooji chahiye.	I would like semolina.	shared
+378	chana	chickpea	noun	m	food	4	Mujhe chana chahiye.	I would like chickpea.	shared
+379	rajma	kidney beans	noun	m	food	4	Mujhe rajma chahiye.	I would like kidney beans.	shared
+380	paneer	fresh cheese	noun	m	food	4	Mujhe paneer chahiye.	I would like fresh cheese.	shared
+381	biryani	biryani rice dish	noun	f	food	4	Mujhe biryani chahiye.	I would like biryani rice dish.	shared
+382	khichdi	rice and lentil dish	noun	f	food	4	Mujhe khichdi chahiye.	I would like rice and lentil dish.	shared
+383	haleem	slow-cooked grain and meat dish	noun	m	food	4	Mujhe haleem chahiye.	I would like slow-cooked grain and meat dish.	shared
+384	nihari	slow-cooked meat stew	noun	f	food	4	Mujhe nihari chahiye.	I would like slow-cooked meat stew.	shared
+385	qorma	braised curry	noun	m	food	4	Mujhe qorma chahiye.	I would like braised curry.	shared
+386	salan	curry; gravy	noun	m	food	4	Mujhe salan chahiye.	I would like curry.	shared
+387	achaar	pickle condiment	noun	m	food	4	Mujhe achaar chahiye.	I would like pickle condiment.	shared
+388	chutney	chutney condiment	noun	f	food	4	Mujhe chutney chahiye.	I would like chutney condiment.	shared
+389	raita	yogurt side dish	noun	m	food	4	Mujhe raita chahiye.	I would like yogurt side dish.	shared
+390	salad	salad	noun	m	food	4	Mujhe salad chahiye.	I would like salad.	shared
+391	soop	soup	noun	m	food	4	Mujhe soop chahiye.	I would like soup.	shared
+392	mithai	sweets	noun	f	food	4	Mujhe mithai chahiye.	I would like sweets.	shared
+393	kheer	milk rice pudding	noun	f	food	4	Mujhe kheer chahiye.	I would like milk rice pudding.	shared
+394	seviyan	vermicelli; sweet dish	noun	f.pl	food	4	Mujhe seviyan chahiye.	I would like vermicelli.	shared
+395	double ka meetha	Hyderabadi bread dessert	noun	m	food	4	Mujhe double ka meetha chahiye.	I would like Hyderabadi bread dessert.	shared
+396	lassi	yogurt drink	noun	f	food	4	Mujhe lassi chahiye.	I would like yogurt drink.	shared
+397	sharbat	sweet drink	noun	m	food	4	Mujhe sharbat chahiye.	I would like sweet drink.	shared
+398	juice	juice	noun	m	food	4	Mujhe juice chahiye.	I would like juice.	shared
+399	biscuit	biscuit; cookie	noun	m	food	4	Mujhe biscuit chahiye.	I would like biscuit.	shared
+400	papad	crisp lentil wafer	noun	m	food	4	Mujhe papad chahiye.	I would like crisp lentil wafer.	shared
+401	achha	good; masculine	descriptor	-	descriptors	2	Yeh achha hai.	This is good.	shared
+402	bura	bad; masculine	descriptor	-	descriptors	2	Yeh bura nahin hai.	This is not bad.	shared
+403	bada	big; elder; masculine	descriptor	-	descriptors	2	Ghar bada hai.	The house is big.	shared
+404	chhota	small; younger; masculine	descriptor	-	descriptors	2	Kamra chhota hai.	The room is small.	shared
+405	naya	new; masculine	descriptor	-	descriptors	2	Yeh naya hai.	This is new.	shared
+406	purana	old; not new; masculine	descriptor	-	descriptors	2	Yeh purana ghar hai.	This is an old house.	shared
+407	lamba	long; tall; masculine	descriptor	-	descriptors	2	Raasta lamba hai.	The route is long.	shared
+408	naata	short in height; masculine	descriptor	-	descriptors	2	Vo mujhse naata hai.	He is shorter than me.	shared
+409	ooncha	high; masculine	descriptor	-	descriptors	2	Darwaza ooncha hai.	The door is high.	shared
+410	neecha	low; masculine	descriptor	-	descriptors	2	Mez neechi hai.	The table is low.	shared
+411	mota	thick; fat; masculine	descriptor	-	descriptors	2	Yeh kapda mota hai.	This fabric is thick.	shared
+412	patla	thin; masculine	descriptor	-	descriptors	2	Yeh kapda patla hai.	This fabric is thin.	shared
+413	chauda	wide; masculine	descriptor	-	descriptors	2	Raasta chauda hai.	The road is wide.	shared
+414	tang	narrow; tight	descriptor	-	descriptors	2	Kamra tang hai.	The room is cramped.	shared
+415	gehra	deep; masculine	descriptor	-	descriptors	2	Paani gehra hai.	The water is deep.	shared
+416	uthla	shallow; masculine	descriptor	-	descriptors	2	Yahan paani uthla hai.	The water is shallow here.	shared
+417	saaf	clean; clear	descriptor	-	descriptors	2	Paani saaf hai.	The water is clean.	shared
+418	ganda	dirty; masculine	descriptor	-	descriptors	2	Glass ganda hai.	The glass is dirty.	shared
+419	garam	hot	descriptor	-	descriptors	2	Khaana garam hai.	The food is hot.	shared
+420	thanda	cold; masculine	descriptor	-	descriptors	2	Paani thanda hai.	The water is cold.	shared
+421	taaza	fresh	descriptor	-	descriptors	2	Khaana taaza hai.	The food is fresh.	shared
+422	baasi	stale	descriptor	-	descriptors	2	Yeh khaana baasi hai.	This food is stale.	shared
+423	meetha	sweet; masculine	descriptor	-	descriptors	2	Aam meetha hai.	The mango is sweet.	shared
+424	khatta	sour; masculine	descriptor	-	descriptors	2	Nimbu khatta hai.	The lemon is sour.	shared
+425	kadwa	bitter; masculine	descriptor	-	descriptors	2	Yeh kadwa hai.	This is bitter.	shared
+426	namkeen	salty; savory	descriptor	-	descriptors	2	Yeh namkeen hai.	This is salty.	shared
+427	teekha	spicy; sharp; masculine	descriptor	-	descriptors	2	Khaana teekha hai.	The food is spicy.	shared
+428	pheeka	bland; masculine	descriptor	-	descriptors	2	Salan pheeka hai.	The curry is bland.	shared
+429	kaccha	raw; unripe; masculine	descriptor	-	descriptors	2	Aam kaccha hai.	The mango is unripe.	shared
+430	pakka	cooked; ripe; certain; masculine	descriptor	-	descriptors	2	Yeh pakka hai?	Is this certain?	shared
+431	naram	soft	descriptor	-	descriptors	2	Roti naram hai.	The flatbread is soft.	shared
+432	sakht	hard; strict	descriptor	-	descriptors	2	Yeh bahut sakht hai.	This is very hard.	shared
+433	geela	wet; masculine	descriptor	-	descriptors	2	Farsh geela hai.	The floor is wet.	shared
+434	sookha	dry; masculine	descriptor	-	descriptors	2	Kapda sookha hai.	The cloth is dry.	shared
+435	bhara	full; masculine	descriptor	-	descriptors	2	Glass bhara hai.	The glass is full.	shared
+436	khaali	empty; free	descriptor	-	descriptors	2	Kamra khaali hai.	The room is empty.	shared
+437	khula	open; masculine	descriptor	-	descriptors	2	Darwaza khula hai.	The door is open.	shared
+438	band	closed; off	descriptor	-	descriptors	2	Darwaza band hai.	The door is closed.	shared
+439	sasta	inexpensive; masculine	descriptor	-	descriptors	2	Yeh sasta hai.	This is inexpensive.	shared
+440	mehnga	expensive; masculine	descriptor	-	descriptors	2	Yeh mehnga hai.	This is expensive.	shared
+441	muft	free of charge	descriptor	-	descriptors	2	Yeh muft hai.	This is free of charge.	shared
+442	bhaari	heavy	descriptor	-	descriptors	2	Bag bhaari hai.	The bag is heavy.	shared
+443	halka	light in weight; masculine	descriptor	-	descriptors	2	Bag halka hai.	The bag is light.	shared
+444	tez	fast; strong; sharp	descriptor	-	descriptors	2	Pankha tez hai.	The fan is fast.	shared
+445	dheema	slow; low in intensity; masculine	descriptor	-	descriptors	2	Pankha dheema hai.	The fan is slow.	shared
+446	dheere	slowly	descriptor	-	descriptors	2	Dheere boliye.	Speak slowly.	shared
+447	aasaan	easy	descriptor	-	descriptors	2	Yeh aasaan hai.	This is easy.	shared
+448	mushkil	difficult	descriptor	-	descriptors	2	Yeh mushkil hai.	This is difficult.	shared
+449	sahi	correct; right	descriptor	-	descriptors	2	Yeh sahi hai.	This is correct.	shared
+450	ghalat	incorrect; wrong	descriptor	-	descriptors	2	Yeh ghalat hai.	This is incorrect.	shared
+451	theek	all right; correct	descriptor	-	descriptors	2	Sab theek hai.	Everything is all right.	shared
+452	tayyar	ready	descriptor	-	descriptors	2	Khaana tayyar hai.	The food is ready.	shared
+453	zaroori	necessary; important	descriptor	-	descriptors	2	Yeh zaroori hai.	This is necessary.	shared
+454	kaafi	enough; quite	descriptor	-	descriptors	2	Itna kaafi hai.	This much is enough.	shared
+455	kam	less; little	descriptor	-	descriptors	2	Namak kam hai.	There is little salt.	shared
+456	zyada	more; too much	descriptor	-	descriptors	2	Cheeni zyada hai.	There is too much sugar.	shared
+457	bahut	very; a lot	descriptor	-	descriptors	2	Bahut achha hai.	It is very good.	shared
+458	thoda	a little; masculine	descriptor	-	descriptors	2	Thoda paani dijiye.	Give me a little water.	shared
+459	poora	whole; complete; masculine	descriptor	-	descriptors	2	Poora din laga.	It took the whole day.	shared
+460	adhoora	incomplete; masculine	descriptor	-	descriptors	2	Kaam adhoora hai.	The work is incomplete.	shared
+461	aadha-adhoora	half finished; masculine	descriptor	-	descriptors	2	Kaam aadha-adhoora hai.	The work is half finished.	shared
+462	barabar	equal; evenly	descriptor	-	descriptors	2	Dono barabar hain.	Both are equal.	shared
+463	alag	different; separate	descriptor	-	descriptors	2	Yeh alag hai.	This is different.	shared
+464	ek jaisa	alike; masculine	descriptor	-	descriptors	2	Dono ek jaise hain.	Both are alike.	shared
+465	seedha	straight; direct; masculine	descriptor	-	descriptors	2	Seedha jaiye.	Go straight.	shared
+466	ulta	upside down; opposite; masculine	descriptor	-	descriptors	2	Yeh ulta hai.	This is upside down.	shared
+467	gol	round	descriptor	-	descriptors	2	Mez gol hai.	The table is round.	shared
+468	tedha	crooked; masculine	descriptor	-	descriptors	2	Yeh tedha hai.	This is crooked.	shared
+469	kareeb	near; approximately	descriptor	-	descriptors	2	Ghar kareeb hai.	The house is nearby.	shared
+470	door	far	descriptor	-	descriptors	2	Ghar door hai.	The house is far away.	shared
+471	andar	inside	descriptor	-	descriptors	2	Andar aaiye.	Come inside.	shared
+472	bahar	outside	descriptor	-	descriptors	2	Bahar rukiye.	Wait outside.	shared
+473	oopar	above; upstairs	descriptor	-	descriptors	2	Oopar aaiye.	Come upstairs.	shared
+474	neeche	below; downstairs	descriptor	-	descriptors	2	Neeche baithiye.	Sit below.	shared
+475	aage	ahead; in front	descriptor	-	descriptors	2	Aage jaiye.	Go ahead.	shared
+476	peechhe	behind; back	descriptor	-	descriptors	2	Peechhe dekhiye.	Look behind.	shared
+477	daayein	to the right	descriptor	-	descriptors	2	Daayein mudiye.	Turn right.	shared
+478	baayein	to the left	descriptor	-	descriptors	2	Baayein mudiye.	Turn left.	shared
+479	beech	middle	descriptor	-	descriptors	2	Beech mein rakhiye.	Put it in the middle.	shared
+480	yahan	here	descriptor	-	descriptors	2	Yahan aaiye.	Come here.	shared
+481	vahan	there	descriptor	-	descriptors	2	Vahan baithiye.	Sit there.	shared
+482	idhar	this way; here	descriptor	-	descriptors	2	Idhar dekhiye.	Look this way.	shared
+483	udhar	that way; there	descriptor	-	descriptors	2	Udhar jaiye.	Go that way.	shared
+484	laal	red	descriptor	-	descriptors	2	Yeh laal hai.	This is red.	shared
+485	neela	blue; masculine	descriptor	-	descriptors	2	Yeh neela hai.	This is blue.	shared
+486	hara	green; masculine	descriptor	-	descriptors	2	Yeh hara hai.	This is green.	shared
+487	peela	yellow; masculine	descriptor	-	descriptors	2	Yeh peela hai.	This is yellow.	shared
+488	kaala	black; masculine	descriptor	-	descriptors	2	Yeh kaala hai.	This is black.	shared
+489	safed	white	descriptor	-	descriptors	2	Yeh safed hai.	This is white.	shared
+490	bhoora	brown; masculine	descriptor	-	descriptors	2	Yeh bhoora hai.	This is brown.	shared
+491	gulaabi	pink	descriptor	-	descriptors	2	Yeh gulaabi hai.	This is pink.	shared
+492	baingani	purple	descriptor	-	descriptors	2	Yeh baingani hai.	This is purple.	shared
+493	narangi	orange-colored	descriptor	-	descriptors	2	Yeh narangi hai.	This is orange-colored.	shared
+494	sunahra	golden; masculine	descriptor	-	descriptors	2	Yeh sunahra hai.	This is golden.	shared
+495	chaandi jaisa	silver-colored; masculine	descriptor	-	descriptors	2	Yeh chaandi jaisa hai.	This is silver-colored.	shared
+496	halka rang	light color	descriptor	m	descriptors	2	Halka rang chuniye.	Choose a light color.	shared
+497	gehra rang	dark color	descriptor	m	descriptors	2	Gehra rang chuniye.	Choose a dark color.	shared
+498	bilkul	completely; exactly	descriptor	-	descriptors	2	Bilkul theek hai.	It is completely all right.	shared
+499	lagbhag	approximately	descriptor	-	descriptors	2	Lagbhag das log hain.	There are approximately ten people.	shared
+500	taqreeban	approximately; Urdu word	descriptor	-	descriptors	2	Taqreeban saat baje hain.	It is approximately seven.	shared

@@ -1,0 +1,1748 @@
+[
+  {
+    "id": "c01-001",
+    "chapter": 1,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Main theek hoon.",
+    "roman": "Main theek hoon.",
+    "english": "I am well.",
+    "answers": [
+      "I am well.",
+      "I am fine.",
+      "I am okay."
+    ],
+    "explanation": "Main takes hoon; theek gives the description."
+  },
+  {
+    "id": "c01-002",
+    "chapter": 1,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Aap yahaan hain.",
+    "roman": "Aap yahaan hain.",
+    "english": "You are here.",
+    "answers": [
+      "You are here."
+    ],
+    "explanation": "Respectful aap takes hain even when one person is addressed."
+  },
+  {
+    "id": "c01-003",
+    "chapter": 1,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Yeh chai nahin hai.",
+    "roman": "Yeh chai nahin hai.",
+    "english": "This is not tea.",
+    "answers": [
+      "This is not tea."
+    ],
+    "explanation": "Nahin negates the identification; leaving it out reverses the message."
+  },
+  {
+    "id": "c01-004",
+    "chapter": 1,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Main bhi theek hoon.",
+    "roman": "Main bhi theek hoon.",
+    "english": "I am well too.",
+    "answers": [
+      "I am well too.",
+      "I am fine too.",
+      "I am also well."
+    ],
+    "explanation": "Bhi follows main and includes the speaker in an earlier statement."
+  },
+  {
+    "id": "c01-005",
+    "chapter": 1,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Aap kahaan hain?",
+    "roman": "Aap kahaan hain?",
+    "english": "Where are you?",
+    "answers": [
+      "Where are you?"
+    ],
+    "explanation": "Kahaan asks for a location. Aap keeps the question respectful."
+  },
+  {
+    "id": "c01-006",
+    "chapter": 1,
+    "type": "translate-to-english",
+    "register": "hyderabadi",
+    "prompt": "Translate into English: Hau, main yahaan hoon.",
+    "roman": "Hau, main yahaan hoon.",
+    "english": "Yes, I am here.",
+    "answers": [
+      "Yes, I am here."
+    ],
+    "explanation": "Hau is a local affirmative in many Hyderabadi households; haan is the shared alternative."
+  },
+  {
+    "id": "c01-007",
+    "chapter": 1,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I am well.",
+    "roman": "Main theek hoon.",
+    "english": "I am well.",
+    "answers": [
+      "Main theek hoon."
+    ],
+    "explanation": "Main takes hoon; theek gives the description."
+  },
+  {
+    "id": "c01-008",
+    "chapter": 1,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: You are here.",
+    "roman": "Aap yahaan hain.",
+    "english": "You are here.",
+    "answers": [
+      "Aap yahaan hain."
+    ],
+    "explanation": "Respectful aap takes hain even when one person is addressed."
+  },
+  {
+    "id": "c01-009",
+    "chapter": 1,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: This is not tea.",
+    "roman": "Yeh chai nahin hai.",
+    "english": "This is not tea.",
+    "answers": [
+      "Yeh chai nahin hai."
+    ],
+    "explanation": "Nahin negates the identification; leaving it out reverses the message."
+  },
+  {
+    "id": "c01-010",
+    "chapter": 1,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I am well too.",
+    "roman": "Main bhi theek hoon.",
+    "english": "I am well too.",
+    "answers": [
+      "Main bhi theek hoon."
+    ],
+    "explanation": "Bhi follows main and includes the speaker in an earlier statement."
+  },
+  {
+    "id": "c01-011",
+    "chapter": 1,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: Where are you?",
+    "roman": "Aap kahaan hain?",
+    "english": "Where are you?",
+    "answers": [
+      "Aap kahaan hain?"
+    ],
+    "explanation": "Kahaan asks for a location. Aap keeps the question respectful."
+  },
+  {
+    "id": "c01-012",
+    "chapter": 1,
+    "type": "translate-to-urdu",
+    "register": "hyderabadi",
+    "prompt": "Translate into Roman Urdu/Hindi: Yes, I am here.",
+    "roman": "Hau, main yahaan hoon.",
+    "english": "Yes, I am here.",
+    "answers": [
+      "Hau, main yahaan hoon.",
+      "Haan, main yahaan hoon."
+    ],
+    "explanation": "Hau is a local affirmative in many Hyderabadi households; haan is the shared alternative."
+  },
+  {
+    "id": "c01-013",
+    "chapter": 1,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Complete: Main theek ___.",
+    "roman": "Main theek hoon.",
+    "english": "I am well.",
+    "answers": [
+      "hoon"
+    ],
+    "choices": [
+      "hoon",
+      "hain",
+      "ho"
+    ],
+    "explanation": "Main selects hoon in this present linking sentence."
+  },
+  {
+    "id": "c01-014",
+    "chapter": 1,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose the respectful question: Aap theek ___?",
+    "roman": "Aap theek hain?",
+    "english": "Are you well?",
+    "answers": [
+      "hain"
+    ],
+    "choices": [
+      "hai",
+      "hain",
+      "ho"
+    ],
+    "explanation": "Aap takes hain, including respectful address to one person."
+  },
+  {
+    "id": "c01-015",
+    "chapter": 1,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose the familiar linking form: Tum yahaan ___.",
+    "roman": "Tum yahaan ho.",
+    "english": "You are here, familiar.",
+    "answers": [
+      "ho"
+    ],
+    "choices": [
+      "hoon",
+      "hai",
+      "ho"
+    ],
+    "explanation": "Tum takes ho; familiarity does not use the main ending hoon."
+  },
+  {
+    "id": "c01-016",
+    "chapter": 1,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "What makes this negative? Yeh chai ___ hai.",
+    "roman": "Yeh chai nahin hai.",
+    "english": "This is not tea.",
+    "answers": [
+      "nahin"
+    ],
+    "choices": [
+      "nahin",
+      "bhi",
+      "aur"
+    ],
+    "explanation": "Nahin denies the identification. Nakko is not our model for this sentence."
+  },
+  {
+    "id": "c01-017",
+    "chapter": 1,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Which word asks what a thing is? Yeh ___ hai?",
+    "roman": "Yeh kya hai?",
+    "english": "What is this?",
+    "answers": [
+      "kya"
+    ],
+    "choices": [
+      "kahaan",
+      "kya",
+      "main"
+    ],
+    "explanation": "Kya asks what in this content question; kahaan would ask where."
+  },
+  {
+    "id": "c01-018",
+    "chapter": 1,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose a respectful request to slow down.",
+    "roman": "Zara aahista boliye.",
+    "english": "Please speak a little slowly.",
+    "answers": [
+      "Zara aahista boliye."
+    ],
+    "choices": [
+      "Zara aahista boliye.",
+      "Tum bolo.",
+      "Main yahaan hoon."
+    ],
+    "explanation": "Boliye is a respectful request; aahista specifies the requested slower pace."
+  },
+  {
+    "id": "c01-019",
+    "chapter": 1,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Yeh chai hai.",
+    "english": "This is tea.",
+    "answers": [
+      "Yeh chai hai."
+    ],
+    "explanation": "Hear hai at the end; no negative is present.",
+    "englishAnswers": [
+      "It is tea."
+    ]
+  },
+  {
+    "id": "c01-020",
+    "chapter": 1,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Main yahaan hoon.",
+    "english": "I am here.",
+    "answers": [
+      "Main yahaan hoon."
+    ],
+    "explanation": "Yahaan means here; wahaan would mean there.",
+    "romanAnswers": [
+      "Main yahan hoon."
+    ]
+  },
+  {
+    "id": "c01-021",
+    "chapter": 1,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Aap theek hain?",
+    "english": "Are you well?",
+    "answers": [
+      "Aap theek hain?"
+    ],
+    "explanation": "Questioning intonation and respectful aap/hain make this a check on well-being.",
+    "englishAnswers": [
+      "Are you fine?",
+      "Are you okay?"
+    ]
+  },
+  {
+    "id": "c01-022",
+    "chapter": 1,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Phir se boliye.",
+    "english": "Please say it again.",
+    "answers": [
+      "Phir se boliye."
+    ],
+    "explanation": "Phir se requests repetition, not merely slower speech.",
+    "englishAnswers": [
+      "Please repeat.",
+      "Say it again."
+    ]
+  },
+  {
+    "id": "c01-023",
+    "chapter": 1,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Main Urdu seekh rahi hoon.",
+    "english": "I am learning Urdu.",
+    "answers": [
+      "Main Urdu seekh rahi hoon."
+    ],
+    "explanation": "Rahi marks the female speaker in this ongoing-action phrase.",
+    "englishAnswers": [
+      "I am studying Urdu."
+    ]
+  },
+  {
+    "id": "c01-024",
+    "chapter": 1,
+    "type": "listening",
+    "register": "hyderabadi",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Hau, sab theek hai.",
+    "english": "Yes, everything is all right.",
+    "answers": [
+      "Hau, sab theek hai."
+    ],
+    "explanation": "Hau is a local yes; sab theek hai reassures the listener.",
+    "englishAnswers": [
+      "Yes, everything is fine.",
+      "Yes, everything is okay."
+    ]
+  },
+  {
+    "id": "c01-025",
+    "chapter": 1,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Greet a relative using your preferred family greeting. Model shown for a family that uses this greeting.",
+    "roman": "Assalaam alaikum.",
+    "english": "Peace be upon you.",
+    "answers": [
+      "Assalaam alaikum."
+    ],
+    "explanation": "Use your household greeting; successful social choice matters more than copying a model from another household."
+  },
+  {
+    "id": "c01-026",
+    "chapter": 1,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Tell someone you are well, then return the question respectfully.",
+    "roman": "Main theek hoon. Aur aap?",
+    "english": "I am well. And you?",
+    "answers": [
+      "Main theek hoon. Aur aap?"
+    ],
+    "explanation": "The return question gives the other person a conversational turn."
+  },
+  {
+    "id": "c01-027",
+    "chapter": 1,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask a female elder how she is.",
+    "roman": "Aap kaisi hain?",
+    "english": "How are you, respectful female?",
+    "answers": [
+      "Aap kaisi hain?"
+    ],
+    "explanation": "Kaisi suits a female addressee; aap and hain maintain respectful address."
+  },
+  {
+    "id": "c01-028",
+    "chapter": 1,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask a male elder how he is.",
+    "roman": "Aap kaise hain?",
+    "english": "How are you, respectful male?",
+    "answers": [
+      "Aap kaise hain?"
+    ],
+    "explanation": "Kaise suits this respectful male question."
+  },
+  {
+    "id": "c01-029",
+    "chapter": 1,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Say you are learning Urdu, using the gender form appropriate to you.",
+    "roman": "Main Urdu seekh raha hoon.",
+    "english": "I am learning Urdu.",
+    "answers": [
+      "Main Urdu seekh raha hoon.",
+      "Main Urdu seekh rahi hoon."
+    ],
+    "explanation": "Raha suits a male speaker and rahi a female speaker. This is not an accent test."
+  },
+  {
+    "id": "c01-030",
+    "chapter": 1,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask for repetition and slower speech in one short turn.",
+    "roman": "Phir se boliye. Zara aahista boliye.",
+    "english": "Please say it again. Please speak a little slowly.",
+    "answers": [
+      "Phir se boliye. Zara aahista boliye."
+    ],
+    "explanation": "Two clear requests identify repetition and pace as separate needs."
+  },
+  {
+    "id": "c02-001",
+    "chapter": 2,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Yeh meri behen hai.",
+    "roman": "Yeh meri behen hai.",
+    "english": "This is my sister.",
+    "answers": [
+      "This is my sister."
+    ],
+    "explanation": "Meri agrees with feminine behen; it does not describe the owner as female."
+  },
+  {
+    "id": "c02-002",
+    "chapter": 2,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Mera ghar chhota hai.",
+    "roman": "Mera ghar chhota hai.",
+    "english": "My house is small.",
+    "answers": [
+      "My house is small."
+    ],
+    "explanation": "Ghar is masculine, so mera and chhota use masculine singular forms."
+  },
+  {
+    "id": "c02-003",
+    "chapter": 2,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Aap ki kursi nayi hai.",
+    "roman": "Aap ki kursi nayi hai.",
+    "english": "Your chair is new.",
+    "answers": [
+      "Your chair is new."
+    ],
+    "explanation": "Kursi is feminine; ki and nayi follow the chair, while aap is respectful."
+  },
+  {
+    "id": "c02-004",
+    "chapter": 2,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Yeh Samira ki kitaaben hain.",
+    "roman": "Yeh Samira ki kitaaben hain.",
+    "english": "These are Samira's books.",
+    "answers": [
+      "These are Samira's books."
+    ],
+    "explanation": "Ki stays feminine with kitaaben; hain marks the plural books."
+  },
+  {
+    "id": "c02-005",
+    "chapter": 2,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Yeh mere Abba hain.",
+    "roman": "Yeh mere Abba hain.",
+    "english": "This is my father.",
+    "answers": [
+      "This is my father."
+    ],
+    "explanation": "Mere and hain show respectful reference to one father."
+  },
+  {
+    "id": "c02-006",
+    "chapter": 2,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Meri do behnen hain.",
+    "roman": "Meri do behnen hain.",
+    "english": "I have two sisters.",
+    "answers": [
+      "I have two sisters."
+    ],
+    "explanation": "This relationship construction literally presents my two sisters; it does not need a universal verb meaning have."
+  },
+  {
+    "id": "c02-007",
+    "chapter": 2,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: This is my sister.",
+    "roman": "Yeh meri behen hai.",
+    "english": "This is my sister.",
+    "answers": [
+      "Yeh meri behen hai.",
+      "Yeh meri behen hain."
+    ],
+    "explanation": "Meri agrees with feminine behen; it does not describe the owner as female."
+  },
+  {
+    "id": "c02-008",
+    "chapter": 2,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: My house is small.",
+    "roman": "Mera ghar chhota hai.",
+    "english": "My house is small.",
+    "answers": [
+      "Mera ghar chhota hai."
+    ],
+    "explanation": "Ghar is masculine, so mera and chhota use masculine singular forms."
+  },
+  {
+    "id": "c02-009",
+    "chapter": 2,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: Your chair is new.",
+    "roman": "Aap ki kursi nayi hai.",
+    "english": "Your chair is new.",
+    "answers": [
+      "Aap ki kursi nayi hai."
+    ],
+    "explanation": "Kursi is feminine; ki and nayi follow the chair, while aap is respectful."
+  },
+  {
+    "id": "c02-010",
+    "chapter": 2,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: These are Samira's books.",
+    "roman": "Yeh Samira ki kitaaben hain.",
+    "english": "These are Samira's books.",
+    "answers": [
+      "Yeh Samira ki kitaaben hain."
+    ],
+    "explanation": "Ki stays feminine with kitaaben; hain marks the plural books."
+  },
+  {
+    "id": "c02-011",
+    "chapter": 2,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: This is my father.",
+    "roman": "Yeh mere Abba hain.",
+    "english": "This is my father.",
+    "answers": [
+      "Yeh mere Abba hain."
+    ],
+    "explanation": "Mere and hain show respectful reference to one father."
+  },
+  {
+    "id": "c02-012",
+    "chapter": 2,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I have two sisters.",
+    "roman": "Meri do behnen hain.",
+    "english": "I have two sisters.",
+    "answers": [
+      "Meri do behnen hain."
+    ],
+    "explanation": "This relationship construction literally presents my two sisters; it does not need a universal verb meaning have."
+  },
+  {
+    "id": "c02-013",
+    "chapter": 2,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose: ___ behen.",
+    "roman": "Meri behen yahaan hai.",
+    "english": "My sister is here.",
+    "answers": [
+      "meri"
+    ],
+    "choices": [
+      "mera",
+      "meri",
+      "mere"
+    ],
+    "explanation": "Behen is feminine. The possessed noun controls the choice."
+  },
+  {
+    "id": "c02-014",
+    "chapter": 2,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose: Samira ___ ghar.",
+    "roman": "Samira ka ghar bada hai.",
+    "english": "Samira's house is big.",
+    "answers": [
+      "ka"
+    ],
+    "choices": [
+      "ka",
+      "ki",
+      "ke"
+    ],
+    "explanation": "Ka agrees with masculine ghar, regardless of Samira's gender."
+  },
+  {
+    "id": "c02-015",
+    "chapter": 2,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose: Yeh kamre bade ___.",
+    "roman": "Yeh kamre bade hain.",
+    "english": "These rooms are big.",
+    "answers": [
+      "hain"
+    ],
+    "choices": [
+      "hai",
+      "hoon",
+      "hain"
+    ],
+    "explanation": "The direct plural kamre takes hain in this description."
+  },
+  {
+    "id": "c02-016",
+    "chapter": 2,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Which adjective changes correctly with chai?",
+    "roman": "Achchhi chai.",
+    "english": "Good tea.",
+    "answers": [
+      "achchhi"
+    ],
+    "choices": [
+      "achchha",
+      "achchhi",
+      "achchhe"
+    ],
+    "explanation": "Chai is feminine, so the changing adjective takes achchhi."
+  },
+  {
+    "id": "c02-017",
+    "chapter": 2,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose the mother's sister.",
+    "roman": "Yeh meri Khala hain.",
+    "english": "This is my maternal aunt.",
+    "answers": [
+      "Khala"
+    ],
+    "choices": [
+      "Khala",
+      "Phuppi",
+      "Nani"
+    ],
+    "explanation": "Khala commonly names the mother's sister; household address may extend the term."
+  },
+  {
+    "id": "c02-018",
+    "chapter": 2,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Ask whose book: Yeh ___ kitaab hai?",
+    "roman": "Yeh kis ki kitaab hai?",
+    "english": "Whose book is this?",
+    "answers": [
+      "kis ki"
+    ],
+    "choices": [
+      "kis ka",
+      "kis ki",
+      "kaun"
+    ],
+    "explanation": "Kis ki asks whose with feminine kitaab. Kaun asks who."
+  },
+  {
+    "id": "c02-019",
+    "chapter": 2,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Mera bhai yahaan hai.",
+    "english": "My brother is here.",
+    "answers": [
+      "Mera bhai yahaan hai."
+    ],
+    "explanation": "Mera matches masculine bhai in this ordinary singular example.",
+    "romanAnswers": [
+      "Mera bhai yahan hai."
+    ]
+  },
+  {
+    "id": "c02-020",
+    "chapter": 2,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Meri behen khush hai.",
+    "english": "My sister is happy.",
+    "answers": [
+      "Meri behen khush hai."
+    ],
+    "explanation": "Khush does not change visibly for the feminine noun."
+  },
+  {
+    "id": "c02-021",
+    "chapter": 2,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Yeh meri kitaab nahin hai.",
+    "english": "This is not my book.",
+    "answers": [
+      "Yeh meri kitaab nahin hai."
+    ],
+    "explanation": "Listen for nahin; the speaker denies ownership.",
+    "romanAnswers": [
+      "Yeh meri kitaab nahi hai."
+    ]
+  },
+  {
+    "id": "c02-022",
+    "chapter": 2,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Nani kaisi hain?",
+    "english": "How is maternal Grandmother?",
+    "answers": [
+      "Nani kaisi hain?"
+    ],
+    "explanation": "Nani identifies the maternal grandmother; hain is respectful singular reference."
+  },
+  {
+    "id": "c02-023",
+    "chapter": 2,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Hamaara ghar bada hai.",
+    "english": "Our house is big.",
+    "answers": [
+      "Hamaara ghar bada hai."
+    ],
+    "explanation": "Hamaara identifies our ownership; bada describes masculine ghar.",
+    "romanAnswers": [
+      "hamara ghar bada hai."
+    ]
+  },
+  {
+    "id": "c02-024",
+    "chapter": 2,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Yeh kis ka phone hai?",
+    "english": "Whose phone is this?",
+    "answers": [
+      "Yeh kis ka phone hai?"
+    ],
+    "explanation": "Kis ka asks ownership; the masculine phone selects ka."
+  },
+  {
+    "id": "c02-025",
+    "chapter": 2,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Introduce your younger brother in a complete sentence.",
+    "roman": "Yeh mera chhota bhai hai.",
+    "english": "This is my younger brother.",
+    "answers": [
+      "Yeh mera chhota bhai hai."
+    ],
+    "explanation": "Mera and chhota agree with masculine bhai."
+  },
+  {
+    "id": "c02-026",
+    "chapter": 2,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Introduce your younger sister in a complete sentence.",
+    "roman": "Yeh meri chhoti behen hai.",
+    "english": "This is my younger sister.",
+    "answers": [
+      "Yeh meri chhoti behen hai."
+    ],
+    "explanation": "Both meri and chhoti follow feminine behen."
+  },
+  {
+    "id": "c02-027",
+    "chapter": 2,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask respectfully who a person in a photo is.",
+    "roman": "Yeh kaun hain?",
+    "english": "Who is this, respectfully?",
+    "answers": [
+      "Yeh kaun hain?"
+    ],
+    "explanation": "Kaun asks identity and hain permits respectful reference."
+  },
+  {
+    "id": "c02-028",
+    "chapter": 2,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask whose chair an item is.",
+    "roman": "Yeh kis ki kursi hai?",
+    "english": "Whose chair is this?",
+    "answers": [
+      "Yeh kis ki kursi hai?"
+    ],
+    "explanation": "The feminine item kursi selects ki in the ownership question."
+  },
+  {
+    "id": "c02-029",
+    "chapter": 2,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Say your house is small but nice.",
+    "roman": "Mera ghar chhota hai, lekin achchha hai.",
+    "english": "My house is small, but it is nice.",
+    "answers": [
+      "Mera ghar chhota hai, lekin achchha hai.",
+      "Mera ghar chhota hai, lekin achha hai."
+    ],
+    "explanation": "Lekin joins contrasting descriptions; both adjectives agree with masculine ghar."
+  },
+  {
+    "id": "c02-030",
+    "chapter": 2,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Introduce your maternal grandfather respectfully.",
+    "roman": "Yeh mere Nana hain.",
+    "english": "This is my maternal grandfather.",
+    "answers": [
+      "Yeh mere Nana hain."
+    ],
+    "explanation": "Nana is the maternal grandfather; mere and hain show respectful reference."
+  },
+  {
+    "id": "c03-001",
+    "chapter": 3,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Kitaab mez par hai.",
+    "roman": "Kitaab mez par hai.",
+    "english": "The book is on the table.",
+    "answers": [
+      "The book is on the table."
+    ],
+    "explanation": "Par follows mez; location phrases come before the final linking form in this model."
+  },
+  {
+    "id": "c03-002",
+    "chapter": 3,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Main Hyderabad mein rehta hoon.",
+    "roman": "Main Hyderabad mein rehta hoon.",
+    "english": "I live in Hyderabad, male speaker.",
+    "answers": [
+      "I live in Hyderabad."
+    ],
+    "explanation": "Rehta hoon describes a male speaker's ordinary residence."
+  },
+  {
+    "id": "c03-003",
+    "chapter": 3,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Main Urdu seekh rahi hoon.",
+    "roman": "Main Urdu seekh rahi hoon.",
+    "english": "I am learning Urdu, female speaker.",
+    "answers": [
+      "I am learning Urdu."
+    ],
+    "explanation": "The stem seekh plus rahi hoon describes an ongoing action by a female speaker."
+  },
+  {
+    "id": "c03-004",
+    "chapter": 3,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Phone mere naye kamre mein hai.",
+    "roman": "Phone mere naye kamre mein hai.",
+    "english": "The phone is in my new room.",
+    "answers": [
+      "The phone is in my new room."
+    ],
+    "explanation": "Mein creates an oblique phrase: mera naya kamra becomes mere naye kamre mein."
+  },
+  {
+    "id": "c03-005",
+    "chapter": 3,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Mere paas phone hai.",
+    "roman": "Mere paas phone hai.",
+    "english": "I have a phone.",
+    "answers": [
+      "I have a phone."
+    ],
+    "explanation": "Ke paas with the matching possessive expresses possession of an available object."
+  },
+  {
+    "id": "c03-006",
+    "chapter": 3,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Ammi abhi aaraam kar rahi hain.",
+    "roman": "Ammi abhi aaraam kar rahi hain.",
+    "english": "Mother is resting now.",
+    "answers": [
+      "Mother is resting now."
+    ],
+    "explanation": "Abhi locates the ongoing action now; rahi hain respects the female subject."
+  },
+  {
+    "id": "c03-007",
+    "chapter": 3,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: The book is on the table.",
+    "roman": "Kitaab mez par hai.",
+    "english": "The book is on the table.",
+    "answers": [
+      "Kitaab mez par hai."
+    ],
+    "explanation": "Par follows mez; location phrases come before the final linking form in this model."
+  },
+  {
+    "id": "c03-008",
+    "chapter": 3,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I live in Hyderabad, male speaker.",
+    "roman": "Main Hyderabad mein rehta hoon.",
+    "english": "I live in Hyderabad, male speaker.",
+    "answers": [
+      "Main Hyderabad mein rehta hoon."
+    ],
+    "explanation": "Rehta hoon describes a male speaker's ordinary residence."
+  },
+  {
+    "id": "c03-009",
+    "chapter": 3,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I am learning Urdu, female speaker.",
+    "roman": "Main Urdu seekh rahi hoon.",
+    "english": "I am learning Urdu, female speaker.",
+    "answers": [
+      "Main Urdu seekh rahi hoon."
+    ],
+    "explanation": "The stem seekh plus rahi hoon describes an ongoing action by a female speaker."
+  },
+  {
+    "id": "c03-010",
+    "chapter": 3,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: The phone is in my new room.",
+    "roman": "Phone mere naye kamre mein hai.",
+    "english": "The phone is in my new room.",
+    "answers": [
+      "Phone mere naye kamre mein hai."
+    ],
+    "explanation": "Mein creates an oblique phrase: mera naya kamra becomes mere naye kamre mein."
+  },
+  {
+    "id": "c03-011",
+    "chapter": 3,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I have a phone.",
+    "roman": "Mere paas phone hai.",
+    "english": "I have a phone.",
+    "answers": [
+      "Mere paas phone hai."
+    ],
+    "explanation": "Ke paas with the matching possessive expresses possession of an available object."
+  },
+  {
+    "id": "c03-012",
+    "chapter": 3,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: Mother is resting now.",
+    "roman": "Ammi abhi aaraam kar rahi hain.",
+    "english": "Mother is resting now.",
+    "answers": [
+      "Ammi abhi aaraam kar rahi hain."
+    ],
+    "explanation": "Abhi locates the ongoing action now; rahi hain respects the female subject."
+  },
+  {
+    "id": "c03-013",
+    "chapter": 3,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose: ___ mein, in the room.",
+    "roman": "Phone kamre mein hai.",
+    "english": "The phone is in the room.",
+    "answers": [
+      "kamre"
+    ],
+    "choices": [
+      "kamra",
+      "kamre",
+      "kamron"
+    ],
+    "explanation": "A common masculine -a singular noun changes to -e before mein. Kamron would be plural oblique."
+  },
+  {
+    "id": "c03-014",
+    "chapter": 3,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose the male speaker's habit: Main roz chai ___.",
+    "roman": "Main roz chai peeta hoon.",
+    "english": "I drink tea every day.",
+    "answers": [
+      "peeta hoon"
+    ],
+    "choices": [
+      "pee raha hoon",
+      "peeta hoon",
+      "peeti hain"
+    ],
+    "explanation": "Roz makes the recurring habit salient; peeta hoon matches a male main subject."
+  },
+  {
+    "id": "c03-015",
+    "chapter": 3,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose the female ongoing form: Main abhi Urdu ___.",
+    "roman": "Main abhi Urdu seekh rahi hoon.",
+    "english": "I am learning Urdu now.",
+    "answers": [
+      "seekh rahi hoon"
+    ],
+    "choices": [
+      "seekhti hain",
+      "seekh rahi hoon",
+      "seekh raha hai"
+    ],
+    "explanation": "Rahi hoon gives female first-person ongoing action."
+  },
+  {
+    "id": "c03-016",
+    "chapter": 3,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Complete a respectful female question: Aap kya kar ___?",
+    "roman": "Aap kya kar rahi hain?",
+    "english": "What are you doing, respectful female?",
+    "answers": [
+      "rahi hain"
+    ],
+    "choices": [
+      "rahi hain",
+      "raha hoon",
+      "rahe ho"
+    ],
+    "explanation": "A female addressee takes rahi; aap takes hain."
+  },
+  {
+    "id": "c03-017",
+    "chapter": 3,
+    "type": "grammar",
+    "register": "hyderabadi",
+    "prompt": "Choose a shared equivalent of local mereku in this need phrase.",
+    "roman": "Mujhe paani chahiye.",
+    "english": "I need water.",
+    "answers": [
+      "mujhe"
+    ],
+    "choices": [
+      "main",
+      "mujhe",
+      "mera"
+    ],
+    "explanation": "Mujhe marks the experiencer of the need; mereku is local and family-dependent."
+  },
+  {
+    "id": "c03-018",
+    "chapter": 3,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Which phrase means at seven o'clock?",
+    "roman": "Main saat baje uthta hoon.",
+    "english": "I get up at seven.",
+    "answers": [
+      "saat baje"
+    ],
+    "choices": [
+      "saat kamre",
+      "saat baje",
+      "saat se"
+    ],
+    "explanation": "Baje marks the clock-time phrase; saat is seven."
+  },
+  {
+    "id": "c03-019",
+    "chapter": 3,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Main roz saat baje uthti hoon.",
+    "english": "I get up at seven every day.",
+    "answers": [
+      "Main roz saat baje uthti hoon."
+    ],
+    "explanation": "Roz and uthti hoon describe a female speaker's routine, not a current event."
+  },
+  {
+    "id": "c03-020",
+    "chapter": 3,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Abba kamre mein hain.",
+    "english": "Father is in the room.",
+    "answers": [
+      "Abba kamre mein hain."
+    ],
+    "explanation": "Kamre mein is a singular location; hain shows respect for Father."
+  },
+  {
+    "id": "c03-021",
+    "chapter": 3,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Aap kahaan rehte hain?",
+    "english": "Where do you live?",
+    "answers": [
+      "Aap kahaan rehte hain?"
+    ],
+    "explanation": "Kahaan asks location and rehte hain describes ordinary residence.",
+    "romanAnswers": [
+      "Aap kahan rehte hain?"
+    ]
+  },
+  {
+    "id": "c03-022",
+    "chapter": 3,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Main abhi chai pee raha hoon.",
+    "english": "I am drinking tea now.",
+    "answers": [
+      "Main abhi chai pee raha hoon."
+    ],
+    "explanation": "Abhi and pee raha hoon describe a current activity."
+  },
+  {
+    "id": "c03-023",
+    "chapter": 3,
+    "type": "listening",
+    "register": "hyderabadi",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Mereku bhi practice chahiye.",
+    "english": "I need practice too.",
+    "answers": [
+      "Mereku bhi practice chahiye."
+    ],
+    "explanation": "Mereku is a local experiencer form here; shared mujhe is an alternative."
+  },
+  {
+    "id": "c03-024",
+    "chapter": 3,
+    "type": "listening",
+    "register": "hyderabadi",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Aap kaiku hans rahe hain?",
+    "english": "Why are you laughing?",
+    "answers": [
+      "Aap kaiku hans rahe hain?"
+    ],
+    "explanation": "Kaiku is a local why in many households; rahe hain preserves respectful agreement."
+  },
+  {
+    "id": "c03-025",
+    "chapter": 3,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Describe your daily tea habit using a gender form appropriate to you.",
+    "roman": "Main roz chai peeta hoon.",
+    "english": "I drink tea every day.",
+    "answers": [
+      "Main roz chai peeta hoon.",
+      "Main roz chai peeti hoon."
+    ],
+    "explanation": "The habitual peeta/peeti form describes routine; it does not mean you are drinking this instant."
+  },
+  {
+    "id": "c03-026",
+    "chapter": 3,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Say you are learning Urdu right now.",
+    "roman": "Main abhi Urdu seekh raha hoon.",
+    "english": "I am learning Urdu right now.",
+    "answers": [
+      "Main abhi Urdu seekh raha hoon.",
+      "Main abhi Urdu seekh rahi hoon."
+    ],
+    "explanation": "An ongoing event uses the stem with raha/rahi and hoon."
+  },
+  {
+    "id": "c03-027",
+    "chapter": 3,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask respectfully where Mother is.",
+    "roman": "Ammi kahaan hain?",
+    "english": "Where is Mother?",
+    "answers": [
+      "Ammi kahaan hain?"
+    ],
+    "explanation": "The respectful reference takes hain even though one person is meant."
+  },
+  {
+    "id": "c03-028",
+    "chapter": 3,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Place a phone inside your new room.",
+    "roman": "Phone mere naye kamre mein hai.",
+    "english": "The phone is in my new room.",
+    "answers": [
+      "Phone mere naye kamre mein hai."
+    ],
+    "explanation": "The entire masculine singular location phrase shifts to the oblique before mein."
+  },
+  {
+    "id": "c03-029",
+    "chapter": 3,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask a male elder what he is doing now.",
+    "roman": "Aap abhi kya kar rahe hain?",
+    "english": "What are you doing now, respectful male?",
+    "answers": [
+      "Aap abhi kya kar rahe hain?"
+    ],
+    "explanation": "Kya replaces the activity and rahe hain gives respectful male agreement."
+  },
+  {
+    "id": "c03-030",
+    "chapter": 3,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Explain that your family members speak Urdu.",
+    "roman": "Mere ghar waale Urdu bolte hain.",
+    "english": "My family members speak Urdu.",
+    "answers": [
+      "Mere ghar waale Urdu bolte hain."
+    ],
+    "explanation": "Ghar waale is a common household/family expression; bolte hain describes their usual language."
+  },
+  {
+    "id": "c04-001",
+    "chapter": 4,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Mujhe paani chahiye.",
+    "roman": "Mujhe paani chahiye.",
+    "english": "I would like water.",
+    "answers": [
+      "I would like water.",
+      "I need water.",
+      "I want water."
+    ],
+    "explanation": "Mujhe identifies the person with the need; main is not the subject form for this construction."
+  },
+  {
+    "id": "c04-002",
+    "chapter": 4,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Mujhe biryani pasand hai.",
+    "roman": "Mujhe biryani pasand hai.",
+    "english": "I like biryani.",
+    "answers": [
+      "I like biryani."
+    ],
+    "explanation": "Pasand hai describes a preference, which does not necessarily mean an order now."
+  },
+  {
+    "id": "c04-003",
+    "chapter": 4,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Yahaan mat baithiye.",
+    "roman": "Yahaan mat baithiye.",
+    "english": "Please do not sit here.",
+    "answers": [
+      "Please do not sit here."
+    ],
+    "explanation": "Mat prohibits the action; baithiye is a respectful request form."
+  },
+  {
+    "id": "c04-004",
+    "chapter": 4,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Yeh kamra us kamre se bada hai.",
+    "roman": "Yeh kamra us kamre se bada hai.",
+    "english": "This room is bigger than that room.",
+    "answers": [
+      "This room is bigger than that room."
+    ],
+    "explanation": "Se introduces the comparison standard; kamre is oblique before se."
+  },
+  {
+    "id": "c04-005",
+    "chapter": 4,
+    "type": "translate-to-english",
+    "register": "shared",
+    "prompt": "Translate into English: Seedha jaaiye. Phir daayen mudiye.",
+    "roman": "Seedha jaaiye. Phir daayen mudiye.",
+    "english": "Go straight. Then turn right.",
+    "answers": [
+      "Go straight. Then turn right."
+    ],
+    "explanation": "Phir gives the order of the two direction steps."
+  },
+  {
+    "id": "c04-006",
+    "chapter": 4,
+    "type": "translate-to-english",
+    "register": "hyderabadi",
+    "prompt": "Translate into English: Abhi chai nakko, shukriya.",
+    "roman": "Abhi chai nakko, shukriya.",
+    "english": "No tea now, thank you.",
+    "answers": [
+      "No tea now, thank you."
+    ],
+    "explanation": "Nakko can express not wanted in this local refusal; shared nahin chahiye is also useful."
+  },
+  {
+    "id": "c04-007",
+    "chapter": 4,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I would like water.",
+    "roman": "Mujhe paani chahiye.",
+    "english": "I would like water.",
+    "answers": [
+      "Mujhe paani chahiye."
+    ],
+    "explanation": "Mujhe identifies the person with the need; main is not the subject form for this construction."
+  },
+  {
+    "id": "c04-008",
+    "chapter": 4,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: I like biryani.",
+    "roman": "Mujhe biryani pasand hai.",
+    "english": "I like biryani.",
+    "answers": [
+      "Mujhe biryani pasand hai."
+    ],
+    "explanation": "Pasand hai describes a preference, which does not necessarily mean an order now."
+  },
+  {
+    "id": "c04-009",
+    "chapter": 4,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: Please do not sit here.",
+    "roman": "Yahaan mat baithiye.",
+    "english": "Please do not sit here.",
+    "answers": [
+      "Yahaan mat baithiye."
+    ],
+    "explanation": "Mat prohibits the action; baithiye is a respectful request form."
+  },
+  {
+    "id": "c04-010",
+    "chapter": 4,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: This room is bigger than that room.",
+    "roman": "Yeh kamra us kamre se bada hai.",
+    "english": "This room is bigger than that room.",
+    "answers": [
+      "Yeh kamra us kamre se bada hai."
+    ],
+    "explanation": "Se introduces the comparison standard; kamre is oblique before se."
+  },
+  {
+    "id": "c04-011",
+    "chapter": 4,
+    "type": "translate-to-urdu",
+    "register": "shared",
+    "prompt": "Translate into Roman Urdu/Hindi: Go straight. Then turn right.",
+    "roman": "Seedha jaaiye. Phir daayen mudiye.",
+    "english": "Go straight. Then turn right.",
+    "answers": [
+      "Seedha jaaiye. Phir daayen mudiye."
+    ],
+    "explanation": "Phir gives the order of the two direction steps."
+  },
+  {
+    "id": "c04-012",
+    "chapter": 4,
+    "type": "translate-to-urdu",
+    "register": "hyderabadi",
+    "prompt": "Translate into Roman Urdu/Hindi: No tea now, thank you.",
+    "roman": "Abhi chai nakko, shukriya.",
+    "english": "No tea now, thank you.",
+    "answers": [
+      "Abhi chai nakko, shukriya.",
+      "Abhi chai nahin chahiye, shukriya."
+    ],
+    "explanation": "Nakko can express not wanted in this local refusal; shared nahin chahiye is also useful."
+  },
+  {
+    "id": "c04-013",
+    "chapter": 4,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Complete: ___ chai chahiye.",
+    "roman": "Mujhe chai chahiye.",
+    "english": "I would like tea.",
+    "answers": [
+      "mujhe"
+    ],
+    "choices": [
+      "main",
+      "mujhe",
+      "mera"
+    ],
+    "explanation": "The need construction marks the experiencer with mujhe."
+  },
+  {
+    "id": "c04-014",
+    "chapter": 4,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose a respectful request for water.",
+    "roman": "Zara paani dijiye.",
+    "english": "Please give me some water.",
+    "answers": [
+      "Zara paani dijiye."
+    ],
+    "choices": [
+      "Zara paani dijiye.",
+      "Paani do.",
+      "Main paani hoon."
+    ],
+    "explanation": "Dijiye is the respectful imperative of dena; do is familiar."
+  },
+  {
+    "id": "c04-015",
+    "chapter": 4,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Complete a shared prohibition: Yahaan ___ baithiye.",
+    "roman": "Yahaan mat baithiye.",
+    "english": "Please do not sit here.",
+    "answers": [
+      "mat"
+    ],
+    "choices": [
+      "bhi",
+      "mat",
+      "main"
+    ],
+    "explanation": "Mat is our shared prohibition marker with an imperative."
+  },
+  {
+    "id": "c04-016",
+    "chapter": 4,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose: Yeh kursi us se ___.",
+    "roman": "Yeh kursi us se sasti hai.",
+    "english": "This chair is cheaper than that.",
+    "answers": [
+      "sasti hai"
+    ],
+    "choices": [
+      "sasta hai",
+      "sasti hai",
+      "saste hoon"
+    ],
+    "explanation": "The feminine noun kursi controls sasti; the comparison uses se."
+  },
+  {
+    "id": "c04-017",
+    "chapter": 4,
+    "type": "grammar",
+    "register": "shared",
+    "prompt": "Choose a little sugar: ___ cheeni.",
+    "roman": "Thodi cheeni, please.",
+    "english": "A little sugar, please.",
+    "answers": [
+      "thodi"
+    ],
+    "choices": [
+      "thoda",
+      "thodi",
+      "thode"
+    ],
+    "explanation": "Cheeni is feminine, so the changing quantity word takes thodi."
+  },
+  {
+    "id": "c04-018",
+    "chapter": 4,
+    "type": "grammar",
+    "register": "hyderabadi",
+    "prompt": "Where is nakko used appropriately in our beginner models?",
+    "roman": "Chai nakko, shukriya.",
+    "english": "No tea, thank you.",
+    "answers": [
+      "Chai nakko, shukriya."
+    ],
+    "choices": [
+      "Yeh mera phone nakko hai.",
+      "Chai nakko, shukriya.",
+      "Main ghar par nakko hoon."
+    ],
+    "explanation": "The local refusal fits nakko. Identity and location negatives use nahin in our models."
+  },
+  {
+    "id": "c04-019",
+    "chapter": 4,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Do cup chai dijiye.",
+    "english": "Please give me two cups of tea.",
+    "answers": [
+      "Do cup chai dijiye."
+    ],
+    "explanation": "Do is two; dijiye is respectful. Hear the quantity before placing the order.",
+    "englishAnswers": [
+      "Give me two cups of tea, please."
+    ]
+  },
+  {
+    "id": "c04-020",
+    "chapter": 4,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Cheeni kam rakhiye.",
+    "english": "Please keep the sugar low.",
+    "answers": [
+      "Cheeni kam rakhiye."
+    ],
+    "explanation": "Kam asks for less sugar; it does not mean no sugar.",
+    "englishAnswers": [
+      "Please use less sugar.",
+      "Use less sugar."
+    ]
+  },
+  {
+    "id": "c04-021",
+    "chapter": 4,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Pehle seedha, phir baayen.",
+    "english": "First straight, then left.",
+    "answers": [
+      "Pehle seedha, phir baayen."
+    ],
+    "explanation": "Baayen is left; confusing it with daayen changes the route.",
+    "romanAnswers": [
+      "Pehle seedha, phir baayein."
+    ]
+  },
+  {
+    "id": "c04-022",
+    "chapter": 4,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Mujhe chai pasand hai, lekin abhi nahin chahiye.",
+    "english": "I like tea, but I do not want it now.",
+    "answers": [
+      "Mujhe chai pasand hai, lekin abhi nahin chahiye."
+    ],
+    "explanation": "The sentence contrasts a general preference with a current refusal.",
+    "romanAnswers": [
+      "Mujhe chai pasand hai, lekin abhi nahi chahiye."
+    ]
+  },
+  {
+    "id": "c04-023",
+    "chapter": 4,
+    "type": "listening",
+    "register": "hyderabadi",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Hau, thoda sa.",
+    "english": "Yes, a little.",
+    "answers": [
+      "Hau, thoda sa."
+    ],
+    "explanation": "Hau is local yes; thoda sa accepts a small amount of a masculine item understood from context."
+  },
+  {
+    "id": "c04-024",
+    "chapter": 4,
+    "type": "listening",
+    "register": "shared",
+    "prompt": "Listen without reading. Type the Roman sentence, then give its English meaning.",
+    "roman": "Do sau rupaye?",
+    "english": "Two hundred rupees?",
+    "answers": [
+      "Do sau rupaye?"
+    ],
+    "explanation": "Do sau is two hundred; rising intonation checks the amount rather than stating a current market price.",
+    "englishAnswers": [
+      "200 rupees?"
+    ],
+    "romanAnswers": [
+      "Do sau rupay?"
+    ]
+  },
+  {
+    "id": "c04-025",
+    "chapter": 4,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Request water respectfully.",
+    "roman": "Zara paani dijiye.",
+    "english": "Please give me some water.",
+    "answers": [
+      "Zara paani dijiye."
+    ],
+    "explanation": "A calm delivery and respectful dijiye work together."
+  },
+  {
+    "id": "c04-026",
+    "chapter": 4,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Order one tea and ask for less sugar.",
+    "roman": "Ek chai dijiye. Cheeni kam rakhiye, please.",
+    "english": "Please give me one tea. Please use less sugar.",
+    "answers": [
+      "Ek chai dijiye. Cheeni kam rakhiye, please."
+    ],
+    "explanation": "Two short accurate clauses are enough; do not replace less with no."
+  },
+  {
+    "id": "c04-027",
+    "chapter": 4,
+    "type": "speaking",
+    "register": "hyderabadi",
+    "prompt": "Decline tea now using a familiar Hyderabadi form, or give the shared equivalent.",
+    "roman": "Abhi chai nakko, shukriya.",
+    "english": "No tea now, thank you.",
+    "answers": [
+      "Abhi chai nakko, shukriya.",
+      "Abhi chai nahin chahiye, shukriya."
+    ],
+    "explanation": "Nakko fits this not-wanted context. It is not a universal replacement for nahin."
+  },
+  {
+    "id": "c04-028",
+    "chapter": 4,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Ask the price and request repetition if needed.",
+    "roman": "Kitne rupaye? Zara phir se boliye.",
+    "english": "How many rupees? Please say it again.",
+    "answers": [
+      "Kitne rupaye? Zara phir se boliye."
+    ],
+    "explanation": "A clear confirmation request prevents a quantity misunderstanding."
+  },
+  {
+    "id": "c04-029",
+    "chapter": 4,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Give a two-step route: straight, then left.",
+    "roman": "Seedha jaaiye. Phir baayen mudiye.",
+    "english": "Go straight. Then turn left.",
+    "answers": [
+      "Seedha jaaiye. Phir baayen mudiye."
+    ],
+    "explanation": "Directions need a sequence and an unambiguous left/right choice."
+  },
+  {
+    "id": "c04-030",
+    "chapter": 4,
+    "type": "speaking",
+    "register": "shared",
+    "prompt": "Say you like tea but do not want it now.",
+    "roman": "Mujhe chai pasand hai, lekin abhi chai nahin chahiye.",
+    "english": "I like tea, but I do not want tea now.",
+    "answers": [
+      "Mujhe chai pasand hai, lekin abhi chai nahin chahiye."
+    ],
+    "explanation": "Preference and current need use different expressions; both use mujhe in these models."
+  }
+]

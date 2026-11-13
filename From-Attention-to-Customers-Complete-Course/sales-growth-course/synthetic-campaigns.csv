@@ -1,0 +1,5 @@
+page,source,visits,purchases,evidence_state
+A,search,1000,90,synthetic
+A,social,1000,10,synthetic
+B,search,500,50,synthetic
+B,social,1500,20,synthetic

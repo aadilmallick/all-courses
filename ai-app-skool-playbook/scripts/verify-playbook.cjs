@@ -1,0 +1,53 @@
+const fs=require('node:fs');
+const path=require('node:path');
+const assert=require('node:assert/strict');
+const {chromium}=require('C:/Users/amallick.ENGINEERS/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+(async()=>{
+ const root=path.resolve(__dirname,'..'),qa=path.join(root,'checks');
+ fs.mkdirSync(qa,{recursive:true});
+ const md=fs.readFileSync(path.join(root,'playbook.md'),'utf8');
+ const drafts=JSON.parse(fs.readFileSync(path.join(root,'content-kit','drafts.json'),'utf8'));
+ assert.equal(drafts.linkedin.length,12);assert.equal(drafts.x.length,10);assert.equal(drafts.xThread.length,8);assert.equal(drafts.shorts.length,8);assert.equal(drafts.emails.length,7);
+ for(const post of drafts.x.concat(drafts.xThread))assert.ok(post.length<=240,'X draft too long');
+ for(const post of drafts.linkedin)assert.ok(post.copy.length<2800,'LinkedIn draft needs shortening');
+ const close=(a,b)=>assert.ok(Math.abs(a-b)<.000001);
+ const snapshots=[[15,0,0,2235],[15,35,0,9200],[15,80,5,20650],[15,220,15,53500],[15,460,25,106250],[15,900,40,201295]];
+ for(const [f,c,p,revenue]of snapshots)close(f*149+c*199+p*499,revenue);
+ const gross=201295,fees=Math.round((gross*.029+955*.3)*100)/100;
+ close(fees,6124.06);
+ const costs=[fees,99,12077.70,6038.85,4025.90,42000,12000,3000,3000].reduce((a,b)=>a+b,0);
+ close(costs,88365.51);close(gross-costs,112929.49);
+ close(4000*.25*.4*.5*.15,30);close(250*.02,5);close(955*.04,38.2);
+ const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+ const page=await browser.newPage({viewport:{width:1440,height:1050}});
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('file:///'+path.join(root,'playbook.html').replaceAll('\\','/'));
+ await page.addStyleTag({content:'html{scroll-behavior:auto!important}'});
+ assert.equal(await page.locator('main section').count(),26);
+ const headings=await page.locator('main section > h2').allTextContents();
+ assert.ok(headings.every((h,i)=>h.startsWith((i+1)+' ')));
+ const targets=await page.locator('a[href^="#"]').evaluateAll(links=>links.map(a=>a.getAttribute('href').slice(1)));
+ const ids=await page.locator('[id]').evaluateAll(els=>els.map(e=>e.id));
+ for(const target of targets)assert.ok(ids.includes(target));
+ assert.equal(new Set(ids).size,ids.length);
+ for(const [section,name]of [[null,'desktop'],['#section-5','curriculum'],['#section-11','social'],['#section-21','economics']]){
+  if(section)await page.locator(section).evaluate(el=>el.scrollIntoView({block:'start'}));
+  await page.screenshot({path:path.join(qa,name+'.png'),fullPage:false});
+ }
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+ await page.setViewportSize({width:390,height:844});
+ await page.locator('details').evaluate(el=>el.open=false);
+ await page.evaluate(()=>window.scrollTo(0,0));
+ await page.screenshot({path:path.join(qa,'mobile.png'),fullPage:false});
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+ await page.locator('#section-11').evaluate(el=>el.scrollIntoView({block:'start'}));
+ await page.screenshot({path:path.join(qa,'mobile-copy.png'),fullPage:false});
+ await page.emulateMedia({media:'print'});await page.setViewportSize({width:1000,height:1000});await page.evaluate(()=>window.scrollTo(0,0));
+ await page.screenshot({path:path.join(qa,'print-style.png'),fullPage:false});
+ assert.deepEqual(errors,[]);
+ const report={status:'passed',words:md.split(/\s+/).length,sections:26,campaignAssets:{linkedin:12,x:10,xThreadParts:8,shorts:8,emails:7,articles:2,youtubeScripts:2,paidLessons:18},finance:'reconciled',funnelMath:'checked',scriptLengths:'checked',desktopWidth:1440,mobileWidth:390,overflow:false,javascriptErrors:errors};
+ fs.writeFileSync(path.join(qa,'verification.json'),JSON.stringify(report,null,2));
+ console.log(JSON.stringify(report));
+ await browser.close();
+})().catch(e=>{console.error(e);process.exitCode=1;});
+

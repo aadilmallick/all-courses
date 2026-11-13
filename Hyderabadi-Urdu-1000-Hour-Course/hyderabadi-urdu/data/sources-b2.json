@@ -1,0 +1,87 @@
+[
+  {
+    "id": "b2-huf-verb",
+    "title": "The Hindi-Urdu Verb: A Guided Tour",
+    "author": "Rupert Snell",
+    "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+    "date": "2015-05-01",
+    "url": "https://hindiurduflagship.org/wp/wp-content/uploads/2015/05/HU-Verb.pdf",
+    "accessed": "2026-11-13",
+    "status": "partially-inspected",
+    "inspected": "PDF text: sections 8, 10, 16, 17, 18, and 26; original pagination approximately 7-8, 12-13, and 18.",
+    "usedFor": "Spot-checking subjunctive, passive, completion, compound-verb, counterfactual and causative terminology and basic contrasts in chapters 9-10 and 12.",
+    "rights": "Referenced only. No original source PDF or substantial extraction redistributed. Course explanations, examples and dialogues are original."
+  },
+  {
+    "id": "b2-huf-conditional",
+    "title": "Grammar: Conditional Sentences",
+    "author": "Hindi Urdu Flagship; presentation by Dr. Shankar",
+    "publisher": "University of Texas at Austin",
+    "date": "2011-08-15",
+    "url": "https://hindiurduflagship.org/grammar-conditional-sentences/",
+    "accessed": "2026-11-13",
+    "status": "inspected",
+    "inspected": "Landing-page description and indexed conditional presentation summary; not every slide independently checked.",
+    "usedFor": "Reference check that conditional constructions vary with context; no claim to translate the presentation or reproduce its examples.",
+    "rights": "External reference only."
+  },
+  {
+    "id": "b2-huf-skeleton",
+    "title": "Hindi Skeleton Grammar",
+    "author": "Rupert Snell",
+    "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+    "url": "https://hindiurduflagship.org/assets/pdf/Skeleton_Grammar.pdf",
+    "accessed": "2026-11-13",
+    "status": "partially-inspected",
+    "inspected": "Extracted text: pronouns, postpositions, agreement, comparisons, and conditional summary.",
+    "usedFor": "Cross-checking shared-standard grammatical labels; the source is not a description of all Hyderabadi household patterns.",
+    "rights": "External reference only; original Roman-script examples supplied in the course."
+  },
+  {
+    "id": "b2-cefr",
+    "title": "CEFR Descriptors",
+    "publisher": "Council of Europe",
+    "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors",
+    "accessed": "2026-11-13",
+    "status": "inspected",
+    "inspected": "Descriptor overview and links to 2020 Companion Volume; parent workflow also inspected spoken-interaction descriptors.",
+    "usedFor": "Overall direction of unrehearsed spoken interaction, explanation and discussion. Course point thresholds and rubrics are original informal practice tools, not validated CEFR cut scores.",
+    "rights": "Linked and paraphrased briefly; no descriptor bank copied."
+  },
+  {
+    "id": "b2-huf-assessment",
+    "title": "HUF Language Assessment",
+    "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+    "url": "https://hindiurduflagship.org/students-alumni/huf-language-assessment-and-testing/",
+    "accessed": "2026-11-13",
+    "status": "partially-inspected",
+    "inspected": "Indexed page text on communicative proficiency, sustained conversation, narrative, register and assessment modalities.",
+    "usedFor": "Distinction between rehearsed knowledge and communicative performance in chapters 11-12. No ILR-to-CEFR equivalence claimed.",
+    "rights": "External reference only."
+  },
+  {
+    "id": "b2-casadei",
+    "title": "Language, Social Identity and Collective Memory in the Deccan: The Case of Dakhni Urdu and its Revived and Lost Heritage",
+    "author": "Maria Casadei",
+    "publisher": "Jagiellonian University repository",
+    "date": "2025",
+    "url": "https://ruj.uj.edu.pl/bitstreams/d6c2a552-45b8-45b0-a89f-98aeace7ac4a/download",
+    "accessed": "2026-11-13",
+    "status": "partially-inspected",
+    "inspected": "Repository download landing page and indexed excerpts discussing contemporary Hyderabad speaker groups and variation; full dissertation was not read.",
+    "usedFor": "Caution against treating Dakhni as one uniform set of slang substitutions. Course household forms need live family confirmation.",
+    "rights": "No source PDF redistributed. Indexed excerpt is not presented as comprehensive inspection."
+  },
+  {
+    "id": "b2-casadei-overview",
+    "title": "From a Literary Language to an Oral Tongue: A Linguistic Overview of the Dakhni Language",
+    "author": "Maria Casadei",
+    "date": "2023",
+    "url": "https://journals.indexcopernicus.com/api/file/viewByFileId/1963987",
+    "accessed": "2026-11-13",
+    "status": "unavailable",
+    "inspected": "Search-result abstract available; direct PDF request timed out. Not relied on for fine-grained grammatical claims.",
+    "usedFor": "Research lead only; do not infer complete reading.",
+    "rights": "Not redistributed."
+  }
+]

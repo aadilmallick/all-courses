@@ -1,0 +1,14 @@
+{
+  "starter": false,
+  "experiments": [
+    {"id":"niche","title":"Choose a channel hypothesis","chapter":"chapter-01","description":"Compare your own judgments and expose how sensitive your preference is to weights.","module":"labs.mjs"},
+    {"id":"idea-score","title":"Choose the next video","chapter":"chapter-02","description":"Score demand evidence, proof, fit and production effort without pretending to predict views.","module":"labs.mjs"},
+    {"id":"packaging","title":"Check the viewer promise","chapter":"chapter-03","description":"Write a title, opening proof and payoff; inspect their alignment.","module":"labs.mjs"},
+    {"id":"script","title":"Budget a spoken script","chapter":"chapter-04","description":"Estimate narration duration and show how demonstration time affects runtime.","module":"labs.mjs"},
+    {"id":"production","title":"Plan recording and editing","chapter":"chapter-05","description":"Calculate recording storage and the editing allowance inside a two-week cycle.","module":"labs.mjs"},
+    {"id":"analytics","title":"Read a small analytics cohort","chapter":"chapter-07","description":"Keep impressions, views, retention and traffic changes separate.","module":"labs.mjs"},
+    {"id":"funnel","title":"Trace a funnel cohort","chapter":"chapter-08","description":"Follow one month's hypothetical viewers through visits, opt-ins and purchases.","module":"labs.mjs"},
+    {"id":"economics","title":"Inspect the $10,000 scenario","chapter":"chapter-09","description":"Change every revenue assumption, then subtract explicit refunds, fees and cash costs.","module":"labs.mjs"},
+    {"id":"schedule","title":"Protect your weekly capacity","chapter":"chapter-10","description":"See what happens when content and paid delivery compete for the same hours.","module":"labs.mjs"}
+  ]
+}

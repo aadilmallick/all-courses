@@ -1,0 +1,47 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "script",
+      "title": "Script timing",
+      "chapter": "chapter-01",
+      "description": "Estimate speech and demonstration time from your own script.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "frame",
+      "title": "Vertical frame",
+      "chapter": "chapter-02",
+      "description": "Inspect caption placement in an illustrative phone frame.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "funnel",
+      "title": "Funnel economics",
+      "chapter": "chapter-04",
+      "description": "Compare owned-product revenue and affiliate commissions.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "utm",
+      "title": "Campaign links",
+      "chapter": "chapter-05",
+      "description": "Build labeled URLs locally without personal data.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "saas",
+      "title": "SaaS retention",
+      "chapter": "chapter-05",
+      "description": "Explore a finite contribution model by paid-customer month.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "uncertainty",
+      "title": "Conversion uncertainty",
+      "chapter": "chapter-06",
+      "description": "Inspect Wilson intervals for two observed proportions.",
+      "module": "labs.mjs"
+    }
+  ]
+}

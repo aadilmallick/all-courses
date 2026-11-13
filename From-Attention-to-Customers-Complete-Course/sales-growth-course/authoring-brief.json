@@ -1,0 +1,22 @@
+{
+ "title":"From Attention to Customers",
+ "subtitle":"A 1,000-hour course in sales, digital marketing, LinkedIn, X/Twitter, and YouTube",
+ "audience":"A developer and educator building a trustworthy audience to sell services, coding notes, and courses; no marketing experience assumed.",
+ "assumptions":["Examples use synthetic businesses and USD; all forecasts are scenarios, not promised outcomes.","1,000 hours includes reading, guided practice, production, field application, and review.","No paid software, advertising spend, or public posting is required to use the materials; private simulations are identified as simulations.","Ten substantial chapters double as course modules, with an exact hour ledger and 100 ten-hour sessions.","Length proxy: at least 5,000 whitespace-separated words per chapter; an authorized model tokenizer was unavailable. Exact model-token counts will not be claimed."],
+ "deliverables":["Ten complete Markdown chapters","Continuous Markdown book","Standalone HTML reading edition with embedded interactive labs","Offline browser companion and readable source","100-session syllabus","Reusable templates and synthetic datasets","Research ledger, verification report, portable ZIP"],
+ "platform_baseline":"Official public guidance inspected November 13, 2026; account-specific tools, pricing, eligibility and UI labels require rechecking in the learner's account.",
+ "chapters":[
+ [1,"Foundations and commercial economics",70,[12,12,22,16,8]],
+ [2,"Customer research, positioning, and offers",90,[14,16,28,24,8]],
+ [3,"Content strategy, copywriting, and creative",90,[14,16,36,16,8]],
+ [4,"Prospecting, discovery, proposals, and sales",120,[16,20,36,36,12]],
+ [5,"LinkedIn authority and demand generation",100,[12,14,42,22,10]],
+ [6,"X/Twitter conversations and audience growth",80,[10,12,32,18,8]],
+ [7,"YouTube long-form, Shorts, and production",140,[18,22,64,24,12]],
+ [8,"Websites, email, digital products, and launches",90,[14,14,34,18,10]],
+ [9,"Measurement, experimentation, and paid acquisition",100,[14,16,38,22,10]],
+ [10,"Retention, operations, partnerships, and capstone",120,[16,18,48,26,12]]
+ ],
+ "hour_categories":["Study","Guided practice","Production","Field application","Review"],
+ "workflow":"Sequential authoring; canonical chapters first; generate book/reader/session ledger; verify browser and calculations; save deliverables."
+}

@@ -1,0 +1,78 @@
+{
+  "encoding": "o200k_base",
+  "tiktoken": "0.14.0",
+  "chapters": [
+    {
+      "file": "01-sounds-and-first-conversations.md",
+      "tokens": 5093,
+      "words": 3620,
+      "sha256": "49d6e5c60279fefc50cc81634e45177ab0e38fcd9e4038de8f9400ff56e8aa18"
+    },
+    {
+      "file": "02-family-and-description.md",
+      "tokens": 5170,
+      "words": 3526,
+      "sha256": "a8f52fe4c5ebbbc8f9d89a970f86f6adcafc1c62fd5a16b66e3bf0d909463bc8"
+    },
+    {
+      "file": "03-home-routines-and-time.md",
+      "tokens": 5064,
+      "words": 3319,
+      "sha256": "dfa62624e909046a45d0ebff6e0ca282f0bf28c32310ff1967968febaa27b97e"
+    },
+    {
+      "file": "04-shopping-food-and-directions.md",
+      "tokens": 5122,
+      "words": 3205,
+      "sha256": "c3897de346eee8cf5f336b130676a22788d6f4ef1451fe2837d9afd7e7d8b468"
+    },
+    {
+      "file": "05-past-events-and-stories.md",
+      "tokens": 5380,
+      "words": 3592,
+      "sha256": "dba8422ba81f3c6905e752f908b2b3a8a932a3a4dcc2a5edacffe067b941533d"
+    },
+    {
+      "file": "06-plans-ability-and-obligation.md",
+      "tokens": 5688,
+      "words": 3617,
+      "sha256": "8ec2b191559fb68f91b9097b4e4d9f2cb7e938b703c594f7df5a8d8bb3b85861"
+    },
+    {
+      "file": "07-relationships-feelings-and-health.md",
+      "tokens": 5726,
+      "words": 3612,
+      "sha256": "54aa674f5aba41143561643408ecd5297a65211608f323f82cbc983f4173de9a"
+    },
+    {
+      "file": "08-connected-stories-and-explanations.md",
+      "tokens": 5831,
+      "words": 3810,
+      "sha256": "17b4905f5dabf618585b98e8e05c55d4428c9be5f2816fe53d880dc924e00007"
+    },
+    {
+      "file": "09-opinions-conditions-and-negotiation.md",
+      "tokens": 5118,
+      "words": 3519,
+      "sha256": "b879d9ef06af1bb3f209120af5632cf8a5eb5466377973ea16ec76e150f40884"
+    },
+    {
+      "file": "10-nuance-and-hyderabadi-conversation.md",
+      "tokens": 5352,
+      "words": 3557,
+      "sha256": "e569993a17dec11d41d24c9fe71400581c5b7f1ce46a4f307d267f001ee2d727"
+    },
+    {
+      "file": "11-real-world-conversation.md",
+      "tokens": 5323,
+      "words": 3659,
+      "sha256": "665a5013225acbc5644503769fa42894a5fa141185e697d4fa64d5f5417eead9"
+    },
+    {
+      "file": "12-b2-capstone-and-lifelong-conversation.md",
+      "tokens": 5495,
+      "words": 3934,
+      "sha256": "94a91fcdf0256e47ba13b0ce5d13e5c2f1557f5fceea30b31aadc8e13eada918"
+    }
+  ]
+}

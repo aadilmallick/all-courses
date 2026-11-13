@@ -1,0 +1,88 @@
+#!/usr/bin/env python3
+"""Assemble canonical content and embed the real local companion. Requires Pandoc for HTML."""
+from pathlib import Path
+import re,json,subprocess,html,hashlib
+ROOT=Path(__file__).parent
+chapter_paths=sorted((ROOT/'chapters').glob('0*.md'))
+source_ids={s['id'] for s in json.loads((ROOT/'sources.json').read_text())['sources']}
+def citation(match):
+ ids=[s.strip() for s in match.group(1).split(',')]
+ if not all(s in source_ids for s in ids):return match.group(0)
+ return ', '.join(f'[{s}](../references.md#{s.lower()})' for s in ids)
+for p in chapter_paths:
+ text=p.read_text()
+ text=re.sub(r'\[([A-Z0-9,-]+(?:, [A-Z0-9-]+)*)\](?!\()',citation,text)
+ p.write_text(text)
+# Preserve exact canonical fixture; module wrapper is generated for browser compatibility.
+fixture=json.loads((ROOT/'examples/routing-cases.json').read_text())
+(ROOT/'companion/cases.mjs').write_text('// Generated from examples/routing-cases.json.\nexport default '+json.dumps(fixture,indent=2)+';\n')
+parts=['Consulting foundations','Cloud-native practice','AI workflow practice','Commercial delivery']
+experiments=[['readiness','value'],['reliability'],['evaluation'],['commercial','value']]
+chapters=[]
+for i,p in enumerate(chapter_paths):
+ title=p.read_text().splitlines()[0].removeprefix('# ')
+ chapters.append({'id':f'chapter-{i+1:02d}','title':title,'path':str(p.relative_to(ROOT)),
+  'part':parts[i],'status':'complete','minimum_prose_words':4500,
+  'prerequisites':[f'chapter-{i:02d}'] if i else [],'experiments':experiments[i]})
+manifest={'schema_version':1,'title':'From Engineer to Consultant','subtitle':'Cloud-native, Kubernetes, and AI workflow consulting for Aadil Mallick',
+ 'audience':'Software developer learning consulting fundamentals and bounded applied services','status':'complete','preface':'preface.md','output':'book.md','chapters':chapters,
+ 'assets':['assets/evidence-cycle.svg'],'source_listings':[{'id':'python-evaluation','path':'examples/evaluate_workflow.py'},{'id':'kubernetes-example','path':'examples/workload.yaml'},{'id':'lab-calculations','path':'companion/core.mjs'}],
+ 'companion':{'path':'companion','catalog':'companion/catalog.json','run':'python -m http.server 8765 --bind 127.0.0.1','starter':False},'provenance':'sources.json','verification':'verification.md'}
+(ROOT/'book.json').write_text(json.dumps(manifest,indent=2)+'\n')
+book='# From Engineer to Consultant\n\n## Cloud-native, Kubernetes, and AI workflow consulting for Aadil Mallick\n\nResearch edition: November 13, 2026.\n\n'
+book+='<a id="contents"></a>\n\n# Reading order\n\n'
+book+='[Preface](#preface) · [Consulting Decision Lab](#consulting-lab)\n\n'
+for c in chapters:book+=f'- [{c["title"]}](#{c["id"]})\n'
+book+='\n[Consulting kit](#consulting-kit) · [References](#references) · [Projects and source](#source-appendix)\n\n'
+book+='<a id="preface"></a>\n\n'+(ROOT/'preface.md').read_text().replace('# Preface','# Before you begin',1)+'\n\n'
+for i,c in enumerate(chapters):
+ body=(ROOT/c['path']).read_text()
+ body='\n'.join(line for line in body.splitlines() if not line.startswith('[Previous:') and not line.startswith('[Contents]'))
+ body=body.replace('../assets/','assets/')
+ body=re.sub(r'\]\(\.\./references\.md#([^)]*)\)',r'](#\1)',body)
+ body=body.replace('](../consulting-kit.md)','](#consulting-kit)')
+ body=re.sub(r'^# ', '## ',body,count=1,flags=re.M)
+ # All original subheadings are one level beneath the numbered chapter.
+ body=re.sub(r'^## (?![1-4]\. )','### ',body,flags=re.M)
+ body=re.sub(r'^### (The founder|The engineering|The agency|A resource|A platform|A large|A premium|A technically)',r'#### \1',body,flags=re.M)
+ book+=f'# Part {i+1} · {parts[i]}\n\n<a id="{c["id"]}"></a>\n\n'+body+'\n\n'
+book+='<a id="consulting-lab"></a>\n\n# Consulting Decision Lab\n\n'
+book+='The HTML edition embeds the complete interactive lab here. In this Markdown edition, open [the standalone companion](companion/index.html) using the local HTTP instructions in [README.md](README.md). Source and tests are included. Five experiments cover evidence readiness, modeled value, reliability budgets, AI policy evaluation, and commercial capacity. Each has reset behavior, visible assumptions, and readable calculation source.\n\n'
+book+='<a id="consulting-kit"></a>\n\n'+(ROOT/'consulting-kit.md').read_text()+'\n\n'
+book+='<a id="references"></a>\n\n'+(ROOT/'references.md').read_text()+'\n\n'
+book+='<a id="source-appendix"></a>\n\n# Optional projects and complete source\n\n'
+book+='These are optional applications, not additional implementations claimed as completed customer projects.\n\n'
+book+='| Project | Starting point | Useful finished evidence |\n|---|---|---|\n| Cloud delivery diagnostic | A repository you own or an approved sandbox | Workflow map, reproduced failure, alternatives, recommendation, handover |\n| Kubernetes operating demonstration | Included sample configuration, then a disposable cluster you administer | Recorded artifact, traffic path, health behavior, a controlled update, and observed recovery |\n| AI workflow evaluation | Included fixture and evaluator | Task definition, reference labels, baseline, candidate comparison, error analysis, and action boundary |\n| Commercial validation | Consulting kit and readiness lab | One offer, relevant proof, researched account hypotheses, and actual buyer feedback |\n\n'
+book+='## Included runnable source\n\n'
+for label,path in [('Python evaluator','examples/evaluate_workflow.py'),('Synthetic cases','examples/routing-cases.json'),('Kubernetes workload example','examples/workload.yaml'),('Lab calculations','companion/core.mjs'),('Lab UI and controls','companion/labs.mjs'),('Lab host','companion/app.mjs'),('Numerical and cross-language checks','companion/check.mjs')]:book+=f'- [{label}]({path})\n'
+book+='\nThe Python evaluator and JavaScript calculations were executed. The YAML was statically parsed, not deployed. The browser UI source is complete, but browser visual and DOM-control testing were unavailable. See [verification.md](verification.md).\n'
+(ROOT/'book.md').write_text(book)
+css=ROOT/'assets/book.css'
+css.write_text('''
+:root{--ink:#24352e;--muted:#5b6a60;--accent:#357453;--line:#d7dfd2}*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:25px}body{max-width:1120px;margin:0 auto;padding:54px 45px 100px;background:#fafaf3;color:var(--ink);font:18px/1.8 system-ui,-apple-system,Arial,sans-serif}a{color:#236640;text-underline-offset:3px}a:focus-visible,summary:focus-visible{outline:3px solid #ae8a2f;outline-offset:5px}header{background:#172a21;color:#f5f4e4;padding:48px 45px;border-radius:12px;margin-bottom:38px;border-top:7px solid #c3aa65}.title{font:500 54px/1.08 Georgia,serif;letter-spacing:-1px;color:#f5f4e4;margin:0 0 25px;border:0;padding:0}.subtitle{font-size:20px;line-height:1.5;color:#d2dbc9;margin-bottom:0}h1{font:500 42px/1.2 Georgia,serif;padding-top:28px;margin-top:85px;border-top:2px solid #a6b79e}h2{font-size:29px;line-height:1.3;letter-spacing:-.6px;margin:45px 0 22px}h3{font-size:23px;line-height:1.4;margin:43px 0 18px}h4{font-size:20px;margin:30px 0 16px}p{max-width:88ch}li{margin:9px 0}img{max-width:100%;height:auto;border-radius:7px}figure{margin:35px 0}figcaption{font-size:12px;color:var(--muted)}table{display:block;overflow:auto;border-collapse:collapse;background:#fff;font-size:14px;line-height:1.6;margin:30px 0;width:100%}td,th{border:1px solid var(--line);padding:13px 15px;vertical-align:top;min-width:110px}th{background:#e6eee0;text-align:left}tr:nth-child(even){background:#f4f6ef}pre{padding:22px;background:#173023;color:#e5ecdb;border-radius:7px;overflow:auto;font:13px/1.65 ui-monospace,monospace}code{font-size:.9em}blockquote{margin:25px 0;padding:8px 22px;border-left:3px solid #a7b48b;color:var(--muted)}.contents{border:1px solid var(--line);background:#eef3e7;padding:18px 24px;border-radius:7px}.contents>summary{cursor:pointer;color:#2d6744;font-size:16px;font-weight:600}#TOC{max-height:460px;overflow:auto;font-size:13px;line-height:1.5}#TOC ul{padding-left:20px}#TOC a{text-decoration:none}#TOC>ul>li{font-weight:600}#TOC>ul>li li{font-weight:400}.lab-frame{width:100%;height:1120px;border:1px solid #afc1aa;border-radius:9px;background:#f5f5ee}.lab-note{padding:18px 22px;background:#e9f0e2;border-left:3px solid #809a70;font-size:14px}.book-actions{display:flex;gap:20px;flex-wrap:wrap;margin-bottom:25px;font-size:14px}.book-actions a{border:1px solid #b3c4a9;padding:9px 16px;border-radius:5px;text-decoration:none}@media(max-width:650px){body{padding:22px 19px 70px;font-size:17px}header{padding:35px 26px}.title{font-size:41px}.subtitle{font-size:17px}h1{font-size:33px}h2{font-size:26px}h3{font-size:22px}.lab-frame{height:1450px}td,th{min-width:145px}pre{font-size:11px;padding:16px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media print{body{max-width:none;padding:0;font:11pt/1.5 Georgia,serif}header{background:white;color:#172a21;border-radius:0}.title,.subtitle{color:#172a21}h1{break-before:page}table{display:table;font-size:9pt}.lab-frame,.book-actions{display:none}pre{white-space:pre-wrap;background:#eee;color:#111}#TOC{max-height:none}}
+''')
+# Inline the actual companion modules into one self-contained srcdoc document.
+companion=(ROOT/'companion/index.html').read_text()
+core=(ROOT/'companion/core.mjs').read_text().replace('export function ','function ')
+model='const model = {finite,readiness,businessCase,reliability,evaluate,effort,commercial};\n'
+labs=(ROOT/'companion/labs.mjs').read_text()
+labs=re.sub(r'^import .*?;\n','',labs,flags=re.M).replace('export const catalog','const catalog').replace('export function mount','function mount')
+app=(ROOT/'companion/app.mjs').read_text();app=re.sub(r'^import .*?;\n','',app,flags=re.M)
+script=core+'\n'+model+'const CASES='+json.dumps(fixture)+';\n'+labs+'\n'+app
+(ROOT/'companion/bundle-inline.mjs').write_text(script)
+companion=companion.replace('<link rel="stylesheet" href="style.css">','<style>'+(ROOT/'companion/style.css').read_text()+'</style>')
+companion=companion.replace('<script type="module" src="app.mjs"></script>','<script type="module">'+script+'</script>')
+(ROOT/'companion/standalone.html').write_text(companion)
+html_input=ROOT/'html-input.md'
+html_input.write_text(re.sub(r'^# From Engineer to Consultant\n\n## Cloud-native, Kubernetes, and AI workflow consulting for Aadil Mallick\n\n','',book))
+out=ROOT/'From-Engineer-to-Consultant.html'
+subprocess.run(['pandoc',str(html_input),'--from=markdown','--to=html5','--standalone','--embed-resources','--toc','--toc-depth=3','--css',str(css),'--resource-path',str(ROOT),'--metadata','title=From Engineer to Consultant','--metadata','subtitle=Cloud-native, Kubernetes, and AI workflow consulting for Aadil Mallick','-o',str(out)],check=True)
+text=out.read_text()
+text=text.replace('<nav id="TOC"','<div class="book-actions"><a href="#consulting-lab">Open Consulting Decision Lab ↓</a><a href="#chapter-04">Explore service offers ↓</a></div><details class="contents"><summary>Browse the textbook</summary><nav id="TOC"',1)
+text=text.replace('</nav>','</nav></details>',1)
+# Insert the local executable lab directly after its stable explicit anchor.
+iframe='<p class="lab-note">This is the actual local companion. Choose an experiment, edit values, reset it, and inspect the calculation source. No external services are contacted. Linked source files and Markdown documents are in the complete ZIP package.</p><iframe class="lab-frame" title="Consulting Decision Lab" sandbox="allow-scripts" srcdoc="'+html.escape(companion,quote=True)+'"></iframe>'
+text=text.replace('<a id="consulting-lab"></a>','<a id="consulting-lab"></a>'+iframe,1)
+out.write_text(text)
+html_input.unlink()
+print(json.dumps({'chapters':len(chapters),'chapter_words_whitespace':{p.name:len(p.read_text().split()) for p in chapter_paths},'html_bytes':out.stat().st_size,'embedded_companion':True},indent=2))

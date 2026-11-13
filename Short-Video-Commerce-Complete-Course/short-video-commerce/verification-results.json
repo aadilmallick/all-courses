@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "inline_scripts_syntax_checked": 2,
+  "markdown_files": 22,
+  "errors": [],
+  "browser_rendering": "unverified: installed Chromium could not launch due to denied process-singleton socket"
+}

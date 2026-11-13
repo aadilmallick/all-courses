@@ -1,0 +1,102 @@
+[
+  {
+    "id": "foundation-snell-glossary",
+    "title": "Glossary of Linguistic Terms",
+    "author": "Rupert Snell",
+    "publisher": "Hindi Urdu Flagship, University of Texas at Austin",
+    "url": "https://www.hindiurduflagship.org/assets/pdf/Glossary_Linguistic_Terms.pdf",
+    "accessed": "2026-11-13",
+    "accessStatus": "partially-inspected",
+    "inspected": "PDF text and relevant entries for agreement, adjective, pronoun, postposition, oblique and progressive terminology.",
+    "chapters": [1, 2, 3],
+    "use": "Terminology and shared grammatical concepts. Original course explanations and examples; no reproduced lesson text.",
+    "limitations": "Not a pronunciation recording or a Hyderabadi dialect reference. Roman conventions here are independently chosen."
+  },
+  {
+    "id": "foundation-umn-index",
+    "title": "Hindi-Urdu: Open Textbook",
+    "author": "Sungok Hong, Sunil Kumar Bhatt, Rajiv Ranjan and Lakhan Gusain",
+    "publisher": "University of Minnesota Libraries Publishing",
+    "url": "https://open.lib.umn.edu/hindiurdu/",
+    "accessed": "2026-11-13",
+    "accessStatus": "index-only",
+    "inspected": "Book index and linked grammar note titles; selected notes inspected separately below.",
+    "chapters": [3, 4],
+    "use": "Located primary institutional grammar notes.",
+    "limitations": "Index access is not a claim to have read the entire book. Its script and pedagogical order are not copied."
+  },
+  {
+    "id": "foundation-umn-continuous",
+    "title": "Grammar Notes 4.1: Continuous tenses",
+    "publisher": "Hindi-Urdu, University of Minnesota Libraries Publishing",
+    "url": "https://open.lib.umn.edu/hindiurdu/chapter/grammar-notes-4-1/",
+    "accessed": "2026-11-13",
+    "accessStatus": "inspected",
+    "inspected": "Grammar note on ongoing-action formation and tense auxiliaries.",
+    "chapters": [3],
+    "use": "Cross-check of shared progressive construction. Teaching dialogues and exercises are original.",
+    "limitations": "Does not certify Dakhni pronunciation or all family-specific agreement practices."
+  },
+  {
+    "id": "foundation-umn-want-need",
+    "title": "Grammar Notes 1.2: Wanting and needing",
+    "publisher": "Hindi-Urdu, University of Minnesota Libraries Publishing",
+    "url": "https://open.lib.umn.edu/hindiurdu/chapter/grammar-notes-1-2-2/",
+    "accessed": "2026-11-13",
+    "accessStatus": "inspected",
+    "inspected": "Grammar note distinguishing chaahna and chahiye constructions.",
+    "chapters": [4],
+    "use": "Cross-check of wanting versus needing. No dialogues or answer keys copied.",
+    "limitations": "Shared Hindi-Urdu grammar source rather than a Hyderabadi usage survey."
+  },
+  {
+    "id": "foundation-umn-imperative-unavailable",
+    "title": "Grammar Notes 1.1: Imperative",
+    "publisher": "Hindi-Urdu, University of Minnesota Libraries Publishing",
+    "url": "https://open.lib.umn.edu/hindiurdu/chapter/grammar-1-1-notes-imperative/",
+    "accessed": "2026-11-13",
+    "accessStatus": "unavailable",
+    "inspected": "Linked from the inspected book index; linked page returned HTTP 403 in the browsing tool.",
+    "chapters": [4],
+    "use": "Provenance record of an unavailable page; not cited as inspected teaching evidence.",
+    "limitations": "No claim to have read this page."
+  },
+  {
+    "id": "foundation-bhatt-phrase-structure",
+    "title": "Hindi-Urdu Phrase Structure Annotation Guidelines",
+    "author": "Rajesh Bhatt, with Annahita Farudi and Owen Rambow",
+    "version": "0.2, August 28, 2012",
+    "publisher": "Research guidelines hosted by University of Colorado Boulder",
+    "url": "https://verbs.colorado.edu/hindiurdu/guidelines_docs/PhraseStructureguidelines00.pdf",
+    "accessed": "2026-11-13",
+    "accessStatus": "partially-inspected",
+    "inspected": "PDF metadata, chapter map and relevant text concerning postpositional phrases, pronoun-plus-marker forms and dative constructions; printed chapter 22 begins at page 165.",
+    "chapters": [3],
+    "use": "Technical cross-check for shared postpositional phrase and pronoun structure.",
+    "limitations": "A research annotation document, not a beginner course or a complete read of all 243 PDF pages."
+  },
+  {
+    "id": "foundation-dakhni-research-limited",
+    "title": "Language and social identity research PDF: repository download endpoint",
+    "publisher": "Jagiellonian University Repository",
+    "url": "https://ruj.uj.edu.pl/bitstreams/d6c2a552-45b8-45b0-a89f-98aeace7ac4a/download",
+    "accessed": "2026-11-13",
+    "accessStatus": "unavailable",
+    "inspected": "Search excerpt mentioned fieldwork and local Dakhni forms; opening produced only a download interstitial naming casadei_language_social_identity_2025.pdf.",
+    "chapters": [1, 2, 3, 4],
+    "use": "Identified potentially relevant research; not used as an inspected primary source for a dialect claim.",
+    "limitations": "Full PDF and bibliographic metadata were not available in the browsing result. Local examples remain explicitly family-dependent and need native family review."
+  },
+  {
+    "id": "foundation-dakhni-glossary-not-authority",
+    "title": "Glossary of Dakhni Terms",
+    "publisher": "Dakhni.org",
+    "url": "https://dakhni.org/glossary/",
+    "accessed": "2026-11-13",
+    "accessStatus": "partially-inspected",
+    "inspected": "Visible glossary and editorial disclosure that AI assists research and drafting.",
+    "chapters": [1, 3, 4],
+    "use": "Discovery only; not treated as primary linguistic evidence and no etymological or historical claims adopted.",
+    "limitations": "Does not replace a native speaker, fieldwork transcript, or a dialect grammar."
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "title": "From Attention to Customers",
+  "subtitle": "A 1,000-hour course in sales, digital marketing, LinkedIn, X/Twitter, and YouTube",
+  "audience": "A developer and educator building a trustworthy audience to sell services, coding notes, and courses; no marketing experience assumed.",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Foundations and commercial economics",
+      "path": "chapters/01-foundations.md",
+      "part": "I. Commercial foundations",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [],
+      "experiments": [
+        "funnel",
+        "economics"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Customer research, positioning, and offers",
+      "path": "chapters/02-research-and-offers.md",
+      "part": "I. Commercial foundations",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "economics"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Content strategy, copywriting, and creative",
+      "path": "chapters/03-content-and-copy.md",
+      "part": "I. Commercial foundations",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Prospecting, discovery, proposals, and sales",
+      "path": "chapters/04-sales.md",
+      "part": "I. Commercial foundations",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "pipeline",
+        "economics"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "LinkedIn authority and demand generation",
+      "path": "chapters/05-linkedin.md",
+      "part": "II. Platform practice",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "pipeline",
+        "capacity"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "X/Twitter conversations and audience growth",
+      "path": "chapters/06-x-twitter.md",
+      "part": "II. Platform practice",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "pipeline",
+        "capacity"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "YouTube long-form, Shorts, and production",
+      "path": "chapters/07-youtube.md",
+      "part": "II. Platform practice",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "video",
+        "capacity"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Websites, email, digital products, and launches",
+      "path": "chapters/08-funnels-email-launches.md",
+      "part": "III. Conversion, evidence, and integration",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "funnel",
+        "economics"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Measurement, experimentation, and paid acquisition",
+      "path": "chapters/09-measurement-and-paid.md",
+      "part": "III. Conversion, evidence, and integration",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "uncertainty",
+        "funnel",
+        "economics"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Retention, operations, partnerships, and capstone",
+      "path": "chapters/10-operations-and-capstone.md",
+      "part": "III. Conversion, evidence, and integration",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "capacity",
+        "pipeline",
+        "economics"
+      ]
+    }
+  ],
+  "assets": [],
+  "source_listings": [
+    {
+      "id": "calculation-source",
+      "title": "Complete calculation models",
+      "path": "companion/models.mjs",
+      "language": "javascript"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

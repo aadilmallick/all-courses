@@ -1,0 +1,51 @@
+{
+  "mode": "final",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "prose_words": 5061
+    },
+    {
+      "id": "chapter-02",
+      "prose_words": 5480
+    },
+    {
+      "id": "chapter-03",
+      "prose_words": 5099
+    },
+    {
+      "id": "chapter-04",
+      "prose_words": 5573
+    },
+    {
+      "id": "chapter-05",
+      "prose_words": 5294
+    },
+    {
+      "id": "chapter-06",
+      "prose_words": 6155
+    },
+    {
+      "id": "chapter-07",
+      "prose_words": 5191
+    },
+    {
+      "id": "chapter-08",
+      "prose_words": 6157
+    },
+    {
+      "id": "chapter-09",
+      "prose_words": 5971
+    },
+    {
+      "id": "chapter-10",
+      "prose_words": 5110
+    }
+  ],
+  "prose_words": 55091,
+  "errors": [],
+  "limits": [
+    "Structural and depth checks only",
+    "Math syntax/truth and companion execution require separate evidence"
+  ]
+}

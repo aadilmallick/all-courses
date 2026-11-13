@@ -1,0 +1,733 @@
+{
+  "access_date": "2026-11-13",
+  "method": "Primary-page text research and explicitly bounded public creator inspection; individual access states in linked ledgers.",
+  "source_count": 80,
+  "sources": [
+    {
+      "title": "Portfolio",
+      "url": "https://aadilmallick.com/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md",
+        "research/sources-business.md",
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "About",
+      "url": "https://aadilmallick.com/about",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md"
+      ]
+    },
+    {
+      "title": "Tools",
+      "url": "https://aadilmallick.com/tools",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md",
+        "research/sources-business.md",
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Coding notebooks",
+      "url": "https://aadilmallick.com/products",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md",
+        "research/sources-business.md",
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Résumé index",
+      "url": "https://aadilmallick.notion.site/Resume-Aadil-Mallick-d74ee18d708a4b0cb7c3a38bd11d2c62",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md"
+      ]
+    },
+    {
+      "title": "AI résumé",
+      "url": "https://fg9lr93u3r.ufs.sh/f/M1jaWQTyrQtbbk5hOpn4HhdRWpwUj082rPqgJcBb7YEIFmoS",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md"
+      ]
+    },
+    {
+      "title": "SWE résumé",
+      "url": "https://fg9lr93u3r.ufs.sh/f/M1jaWQTyrQtbQPF4XSYFOeoVZIbSJXEWz1wUnu2yp0H9xlN5",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md"
+      ]
+    },
+    {
+      "title": "YouTube Bookmarker listing",
+      "url": "https://chromewebstore.google.com/detail/youtube-bookmarker/afkamhoafddblohdfjldodabchpgfofg",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/project-profile.md"
+      ]
+    },
+    {
+      "title": "Expanded YouTube Partner Program",
+      "url": "https://support.google.com/youtube/answer/13429240",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "YPP overview and eligibility",
+      "url": "https://support.google.com/youtube/answer/72851",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Changes to the YouTube Partner Program",
+      "url": "https://support.google.com/youtube/answer/12843009",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Understand ad revenue analytics",
+      "url": "https://support.google.com/youtube/answer/9314357",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Channel monetization policies",
+      "url": "https://support.google.com/youtube/answer/1311392",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Sharing links with audiences",
+      "url": "https://support.google.com/youtube/answer/13748639",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "YouTube branded-content disclosure",
+      "url": "https://support.google.com/youtube/answer/154235",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "FTC influencer disclosures",
+      "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "FTC commercial-email guide",
+      "url": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Kit pricing",
+      "url": "https://kit.com/pricing",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Kit free-plan help",
+      "url": "https://help.kit.com/en/articles/16627071-the-kit-free-plan",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Gumroad fee help",
+      "url": "https://gumroad.com/help/article/66-gumroads-fees",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Gumroad pricing",
+      "url": "https://gumroad.com/pricing",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Lemon Squeezy fee help",
+      "url": "https://docs.lemonsqueezy.com/help/getting-started/fees",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Lemon Squeezy pricing",
+      "url": "https://www.lemonsqueezy.com/pricing",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Skool pricing",
+      "url": "https://www.skool.com/pricing",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Circle pricing",
+      "url": "https://circle.so/pricing",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-business.md"
+      ]
+    },
+    {
+      "title": "Research content and find trends — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/17232321",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Explore trends on YouTube — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/11962757?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "YouTube performance FAQ — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/141805?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "A/B test titles and thumbnails — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/16391400?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Impressions and CTR FAQ — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/7628154?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Measure key moments for audience retention — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/9314415?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Understand your audience — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/9314416?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Content performance — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/12220281?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Good to know about recommendations — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/16559651?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Upload YouTube videos — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/57407?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Add a related video to Shorts — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/14075157?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Search and discovery tips — YouTube Help",
+      "url": "https://support.google.com/youtube/answer/11914225?hl=en",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Python in 100 Seconds — Fireship",
+      "url": "https://www.youtube.com/watch?v=x7X9w_GIm1s",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Fireship official site",
+      "url": "https://fireship.dev/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "But what is a Neural Network? — 3Blue1Brown",
+      "url": "https://www.3blue1brown.com/lessons/neural-networks/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Neural network collection — 3Blue1Brown",
+      "url": "https://www.3blue1brown.com/?topic=neural-networks",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Video index — StatQuest",
+      "url": "https://statquest.org/video-index/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "StatQuest live learning",
+      "url": "https://live.statquest.org/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Python Tutorial: Generators — Corey Schafer",
+      "url": "https://www.youtube.com/watch?v=bD05uGo_sVI",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Corey Schafer official site",
+      "url": "https://coreyms.com/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Neural Networks: Zero to Hero — Andrej Karpathy",
+      "url": "https://karpathy.ai/zero-to-hero.html",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Introducing Future Tools — Matt Wolfe, December 22, 2022",
+      "url": "https://mattwolfe.com/introducing-future-tools",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Build in public update — Matt Wolfe, April 28, 2023",
+      "url": "https://mattwolfe.com/build-in-public-update-everything-went-insane",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "Matt Wolfe official home",
+      "url": "https://mattwolfe.com/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-growth.md"
+      ]
+    },
+    {
+      "title": "OBS Studio official home",
+      "url": "https://obsproject.com/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Quick Start Guide",
+      "url": "https://obsproject.com/kb/quick-start-guide/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Sources Guide",
+      "url": "https://obsproject.com/kb/sources-guide",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Window Capture Sources",
+      "url": "https://obsproject.com/kb/window-capture-sources",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Audio Mixer Guide",
+      "url": "https://obsproject.com/kb/audio-mixer-guide",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Filters Guide",
+      "url": "https://obsproject.com/kb/filters-guide",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Standard Recording Output Guide",
+      "url": "https://obsproject.com/kb/standard-recording-output-guide",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Multiple Audio Track Recording Guide",
+      "url": "https://obsproject.com/kb/multiple-audio-track-recording-guide",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Hybrid MP4 & Hybrid MOV Formats",
+      "url": "https://obsproject.com/kb/hybrid-mp4",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "DaVinci Resolve overview",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "DaVinci Resolve training",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Resolve Edit overview",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/edit",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Resolve Fairlight overview",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/fairlight",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Resolve Color overview",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/color",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Resolve Studio overview",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/studio",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Clipchamp help and learning",
+      "url": "https://support.microsoft.com/en-us/clipchamp/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Professional video editing and trimming",
+      "url": "https://www.adobe.com/products/premiere/editing-and-trimming.html",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Generative Extend overview",
+      "url": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-with-generative-ai/generative-extend-overview.html",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Descript features",
+      "url": "https://www.descript.com/features",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Descript pricing",
+      "url": "https://www.descript.com/pricing",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Riverside editor",
+      "url": "https://riverside.com/video-editor",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "OpusClip official site",
+      "url": "https://www.opus.pro/",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Getting Started with Generative Video",
+      "url": "https://help.runwayml.com/hc/en-us/articles/37425232841875-Getting-Started-with-Generative-Video",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Adobe Podcast FAQ",
+      "url": "https://helpx.adobe.com/podcast/adobe-podcast-faq.html",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Adobe Podcast technical requirements",
+      "url": "https://helpx.adobe.com/podcast/technical-requirements.html",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Disclosing use of GenAI content",
+      "url": "https://support.google.com/youtube/answer/14328491",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Use music and sound effects from Audio Library",
+      "url": "https://support.google.com/youtube/answer/3376882",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Recommended upload encoding settings",
+      "url": "https://support.google.com/youtube/answer/1722171",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Measure key moments for audience retention",
+      "url": "https://support.google.com/youtube/answer/9314415",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Resolve 21.1 Reference Manual",
+      "url": "https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_21.1_Reference_Manual.pdf",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    },
+    {
+      "title": "Enhance Speech landing page",
+      "url": "https://podcast.adobe.com/en/enhance-speech",
+      "access_date": "2026-11-13",
+      "access_details": "See source ledger for inspected/partial/index/unavailable status",
+      "ledgers": [
+        "research/sources-production.md"
+      ]
+    }
+  ]
+}

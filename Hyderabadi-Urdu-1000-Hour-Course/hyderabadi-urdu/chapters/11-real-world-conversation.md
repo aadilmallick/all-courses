@@ -1,0 +1,191 @@
+# 11. Real-world conversation
+
+**Time: 90 hours. Course total after this chapter: 905 hours. Target: sustained interaction approaching B2.**
+
+A language exercise gives you a clear prompt and time to answer. A real call may begin while someone is cooking, include a changed plan, lose its connection, and end with an unexpected request. The problem is rarely one unknown verb. You must follow the purpose, take a turn, check a detail, and help the other person understand what happens next.
+
+This chapter teaches conversation as a collaborative activity. Its grammar is mostly familiar; the new challenge is using it when you do not control the next question. You will practise family calls, practical arrangements, service problems, boundaries, apologies, and relaying information. You do not need elaborate vocabulary to manage these well. You need clear signposts and a willingness to repair misunderstandings.
+
+## The four jobs of a useful turn
+
+In an extended exchange, a turn can do four jobs: connect to what was said, add useful information, invite a response, and make the next action clear. Consider **Hau, samajh gaya. Main kal do baje aa sakta hoon. Kya woh waqt aapke liye theek hai?** A male speaker says: yes, I understand. I can come tomorrow at two. Is that time suitable for you? A female speaker uses *samajh gayi* and *aa sakti hoon*.
+
+The first part acknowledges the previous speaker. The second supplies an availability. The question checks the other person's needs. You have not merely answered; you have helped the conversation progress. In practice, you will sometimes need only one or two of these jobs. The point is to know what your turn accomplishes, not to attach a formula to everything you say.
+
+When you need thinking time, use a meaningful holding phrase: **Ek minute, main soch loon**, one moment, let me think; **Isko kaise kahoon?**, how shall I put this?; **Achchha sawaal hai**, that is a good question. Then actually answer. A long sequence of fillers can make the listener unsure whether you are finished or waiting for help.
+
+To take a turn politely, **Kya main ek baat kahoon?** means may I say something? **Ek chhoti si baat** introduces a small point. To return the floor, **Aap kya kehte hain?** asks what do you think, respectfully. To include a quieter person, **Aapki kya raay hai?** asks for their opinion. These moves matter especially when several family members know each other's stories and speak quickly.
+
+## Repair is a conversational skill
+
+There are several different comprehension problems, and they need different questions. If you did not hear the sound, **Aakhri baat phir se kahenge?** asks would you repeat the last part? If the words were audible but unfamiliar, **“Munasib” ka matlab kya hai?** asks what does “suitable” mean? If the implication is unclear, **Aapka matlab hai ki hum kal nahin aayen?** asks do you mean we should not come tomorrow?
+
+Avoid responding to every difficulty with **Kya?** It provides little information and may sound abrupt. Target the missing piece: **Do baje ya teen baje?**, at two or at three? **Aap kis Khala ki baat kar rahe hain?**, which aunt are you talking about? **Main waqt samajh gaya, lekin jagah nahin samjha**, male speaker: I understood the time but not the place. A female speaker uses *samajh gayi* and *samjhi*.
+
+Confirm important information in your own words: **To hum jumme ko chaar baje aapke ghar mil rahe hain, theek?** So we are meeting at your house on Friday at four, correct? This tests the whole arrangement. A polite **ji** after every sentence does not prove you have understood it. For dates, numbers, names, and locations, read-back is a practical kindness.
+
+When you made the mistake, repair it briefly: **Maaf kijiye, mera matlab teen baje tha, do baje nahin**—excuse me, I meant three, not two. Do not bury the corrected information under a long apology. If a plan has changed, signal the change before the detail: **Waqt badal gaya hai. Ab hum paanch baje milenge.** The time has changed. Now we will meet at five.
+
+## A phone call has a beginning and an ending
+
+Start by checking availability: **Assalaam alaikum, kya abhi baat karna munasib hai?** Hello, is this a suitable time to talk? A less formal shared option is **Kya aap abhi baat kar sakte hain?** Can you talk now? If someone is busy, **Main baad mein phone kar loon?** asks shall I call later? Do not interpret a short answer as rejection before checking the circumstances.
+
+Give the purpose early: **Main kal ke programme ke baare mein poochh raha hoon**, I am calling to ask about tomorrow's plan, male speaker; *poochh rahi hoon* for female. Then ask the first specific question. With a weak connection, **Aapki aawaaz saaf nahin aa rahi** means your voice is not coming through clearly. **Thoda aahista boliye** asks please speak a little slowly. **Main dobara phone karta/karti hoon** says I'll call again.
+
+To close, summarise one action: **Theek hai, main aaj shaam tak tasdeeq kar doonga**, male speaker: all right, I will confirm by this evening. Female: *kar doongi*. Then a relational closing: **Aapse baat karke achchha laga**, it was good talking to you. **Ghar mein sabko mera salaam kahiye**, please give my greetings to everyone at home. Use the greetings and closings your family prefers.
+
+Do not say **Main rakhta hoon** before the arrangement is understood just because it is a familiar telephone closing. If someone is still giving an address, invite the rest: **Ji, aage bataaiye**, yes, please continue. The skill is coordinating attention, not performing a perfect scripted opening and exit.
+
+## Dialogue: a family call with a changed plan
+
+**Learner:** Assalaam alaikum, Khala. Kya aap abhi baat kar sakti hain? — Hello, Aunt. Can you talk now?
+
+**Khala:** Hau, bolo. Kya haal hai? — Yes, tell me. How are you?
+
+**Learner:** Sab theek hai. Main itwaar ke programme ke baare mein poochh raha hoon. Hum do baje aayen? — Everything is fine. I am asking about Sunday's plan. Should we come at two? Male speaker.
+
+**Khala:** Do baje nakko, teen baje aao. Main do baje tak baahar rahoongi. — Not at two; come at three. I will be out until two.
+
+**Learner:** Achchha, teen baje. Kya main kuchh le aaun? — All right, three. Shall I bring something?
+
+**Khala:** Bas bachchon ko le aao. Aur pehle phone kar dena. — Just bring the children. And call beforehand.
+
+**Learner:** Zaroor. To main nikalne se pehle phone karoonga. Aapko kal phir yaad dila doon? — Certainly. So I will call before leaving. Shall I remind you again tomorrow?
+
+**Khala:** Nakko, yaad hai. Aaraam se aao. — No need, I remember. Come at your ease.
+
+The local *nakko* appears naturally in refusal and “no need.” The learner maintains respectful forms while the aunt uses familiar ones. Retell the agreed plan in English, then in Roman Urdu. If you say “two” after hearing the dialogue, more grammar will not solve the problem; you need focused detail-checking.
+
+## Travel and services: say the task before the story
+
+At a service counter, begin with the desired action: **Mujhe apni booking badalni hai**, I need to change my booking. *Booking* is often treated as feminine in this usage, giving *badalni*. Then provide the necessary context: **Maine kal ke liye booking ki thi, lekin ab mujhe parson jaana hai**—I had booked for tomorrow, but now I need to go the day after tomorrow. Finally ask what is possible: **Kya waqt badal sakta hai?**
+
+When asking for directions, split the information into stages. **Pehle kahaan jaana hai?** Where do I go first? **Uske baad?** After that? **Kya main paidal ja sakta/sakti hoon?** Can I go on foot? **Taqreeban kitna waqt lagega?** Approximately how long will it take? Repeat the turning point: **Bank ke baad daayen?** Right after the bank? Do not pretend to follow a long route just to appear fluent.
+
+For delays, distinguish facts from estimates. **Gaari abhi nahin aayi** means the vehicle has not arrived yet. **Shaayad bees minute lagenge** means it may take twenty minutes. **Unhone bees minute kaha hai** means they have said twenty minutes. The last sentence attributes the estimate. This distinction helps you avoid promising certainty you do not have when relaying information to relatives.
+
+Safety and urgency depend on the real situation, not on a language exercise. Learn clear requests such as **Mujhe madad chahiye**, I need help, and **Meherbaani karke kisi zimmedaar shakhs ko bulaaiye**, please call a responsible person. This course teaches communication; follow appropriate local emergency guidance in an actual emergency rather than trying to complete a practice dialogue.
+
+## Complaints: observation, effect, and remedy
+
+A useful complaint identifies what happened, why it matters, and what would resolve it. **Maine do kamron ki booking ki thi, lekin yahaan ek kamra diya gaya hai. Hamaare saath bachche hain. Kya doosra kamra mil sakta hai?** I had booked two rooms, but only one room has been provided here. We have children with us. Could we get the second room?
+
+The grammar supports the purpose. *Ki thi* establishes the earlier booking. *Diya gaya hai* focuses on what was provided without guessing who made the error. The explanation names the effect on the group. *Mil sakta hai* asks about a remedy. You can be firm without beginning with an accusation about someone's character.
+
+If the first remedy is unavailable, ask for alternatives: **Agar doosra kamra nahin hai to aur kya intezaam ho sakta hai?** If there is no second room, what other arrangement can be made? **Kya main zimmedaar shakhs se baat kar sakta/sakti hoon?** May I speak to the person responsible? Confirm any agreement before ending: **To aap bees minute mein bata denge?** So you will let me know in twenty minutes?
+
+In practice, make the problem specific but low stakes: a wrong food order, a missed call, a changed time. Role-play both customer and service worker. The worker should have a genuine constraint, such as no available table until later. If one side can always say yes, you will not practise negotiation or attentive listening.
+
+## Dialogue: a service problem with alternatives
+
+**Guest:** Maaf kijiye, hamaari booking teen logon ke liye thi. Yahaan do kursiyaan hain. — Excuse me, our booking was for three people. There are two chairs here.
+
+**Worker:** Main dekh leta hoon. Abhi doosri mez khaali nahin hai. — I'll take a look. No other table is free at the moment.
+
+**Guest:** Koi baat nahin. Kya ek aur kursi yahaan rakhi ja sakti hai? — That's all right. Could one more chair be put here?
+
+**Worker:** Yahaan raasta band ho jaayega. Paanch minute mein woh mez khaali ho jaayegi. — It will block the passage here. That table will be free in five minutes.
+
+**Guest:** Theek hai, hum intezaar kar lenge. Meherbaani karke hamein bata dijiye. — All right, we will wait. Please let us know.
+
+**Worker:** Zaroor. — Certainly.
+
+The guest does not abandon the need; the worker explains a constraint. The solution meets the purpose with a short delay. Notice **rakhi ja sakti hai**, can be placed: feminine *kursi* controls the passive and ability forms. Practise a simpler alternative too: **Kya hamein ek aur kursi mil sakti hai?** Could we get another chair?
+
+## Boundaries without unnecessary hostility
+
+Family closeness does not remove the need to decline. **Aapki daawat ka bahut shukriya, lekin is baar main nahin aa sakta/sakti** means thank you very much for the invitation, but I cannot come this time. You can give a brief reason: **Pehle se ek zaroori kaam hai**, I already have an important commitment. You do not owe a detailed fictional story to make the sentence grammatically complete.
+
+For a topic you prefer not to discuss, **Filhaal main is baare mein baat nahin karna chaahta/chaahti** means at present I do not want to discuss this. To soften while keeping the boundary, add **Umeed hai aap samjhenge**, I hope you will understand. If someone continues, repeat the main point calmly rather than inventing increasingly complicated excuses.
+
+To decline food in a familiar local style, **Nakko, shukriya, pet bhar gaya** means no thanks, I am full. A respectful shared version is **Nahin, shukriya. Bahut mazedaar tha, lekin ab aur nahin kha sakta/sakti**—no thank you. It was delicious, but I cannot eat more now. Warmth and clarity can coexist. Match local forms to the relationship you actually have.
+
+If you can offer an alternative, make it concrete: **Aaj nahin ho paayega, lekin kal shaam baat kar sakte hain**—it will not be possible today, but we can talk tomorrow evening. An alternative is useful when sincere; it should not become another promise you cannot keep. Practise declining once, being pressed once, and repeating the boundary respectfully.
+
+## Apologies, responsibility, and repair
+
+An apology works better when it names the action. **Maaf kijiye, main der se aaya/aayi** means forgive me, I arrived late. **Mujhe pehle bata dena chahiye tha** means I should have told you earlier. This acknowledges the missed responsibility. **Agli baar main nikalne se pehle phone karoonga/karoongi** gives a concrete repair for the future.
+
+Compare **Agar aapko bura laga to maaf kijiye**, sorry if you felt bad, with **Meri baat se aapko takleef hui. Mujhe afsos hai**, my words hurt you. I am sorry. The first can sound as if the only problem was the other person's reaction. The second acknowledges an effect. There are situations for conditional apologies, but do not use the form to avoid a clear responsibility you already accept.
+
+To respond to an apology, you can acknowledge it without pretending nothing mattered: **Shukriya, aapne bata diya. Bas agli baar pehle khabar kar dijiye**—thank you for telling me. Just let me know beforehand next time. **Koi baat nahin** means no problem, but choose it only if it matches your meaning. Vocabulary should help express your actual position.
+
+Retell a small misunderstanding from two perspectives. First say what you intended. Then say what the listener could reasonably have understood. Use **Mera iraada ... tha**, my intention was ..., and **Lekin aapko shayad ... laga**, but perhaps it seemed ... to you. This is a language exercise in perspective-taking, not a requirement to share a private conflict.
+
+## Relaying information fairly
+
+Mediation means helping another person understand information or a viewpoint. Suppose a relative misses a call about a family gathering. Do not repeat every sentence. Identify the decision, reason, open question, and next step: **Programme itwaar ko hai. Waqt teen baje kar diya gaya hai kyunki Khala do baje tak baahar hongi. Hamein nikalne se pehle phone karna hai.** The event is on Sunday. The time has been moved to three because Aunt will be out until two. We need to call before leaving.
+
+Attribute uncertain or personal information: **Unke khayaal mein**, in their opinion; **Unhone kaha ki**, they said that; **Abhi tasdeeq nahin hui**, it has not been confirmed yet. Do not convert a suggestion into a decision. **Unhone kaha ki hum shayad jaldi niklen** means they suggested we might leave early, while **Unhone kaha ki hum jaldi niklenge** reports a firmer future statement.
+
+When helping two speakers, check meaning before translating: **Kya aap chaahte hain ki main yeh baat unko samjha doon?** Do you want me to explain this to them? Keep the tone and degree of certainty. If a word has no exact match, explain the practical meaning. If you are unsure, say so. Being a useful language bridge includes recognising the limits of what you understood.
+
+## Dialogue: coordinating two preferences
+
+**Dadi:** Main der tak baahar nahin reh sakti. — I cannot stay out late.
+
+**Cousin:** Lekin sab log shaam ko free hote hain. — But everyone is free in the evening.
+
+**Learner:** Dadi keh rahi hain ki unko jaldi ghar aana hai. Aap keh rahe hain ki shaam sabke liye aasaan hai. — Grandmother is saying she needs to get home early. You are saying evening is easier for everyone.
+
+**Dadi:** Hau, bas bahut der nakko ho. — Yes, just not too late.
+
+**Learner:** To agar hum paanch baje milen aur saat baje tak waapas aa jaayen to theek rahega? — So if we meet at five and return by seven, will that work?
+
+**Cousin:** Mere liye theek hai. Main baaqi logon se poochh leta hoon. — That works for me. I'll ask the others.
+
+**Learner:** Achchha, abhi yeh tajweez hai. Tasdeeq hone par main Dadi ko bata doonga. — Good, this is a proposal for now. Once confirmed, I will tell Grandmother. Male speaker.
+
+The learner represents both needs before proposing a compromise. The final line prevents a common mistake: treating a provisional plan as confirmed. Repeat the scene with new limits, such as transport or a child's bedtime, and avoid reading the same solution each time.
+
+## Translation and interaction workshop
+
+Write or speak a natural response for each situation, then compare the models.
+
+1. You heard the time but not the location. Say this respectfully.
+2. Ask whether now is a suitable time to talk.
+3. Tell someone the time has changed to five.
+4. Explain that you booked two rooms but received one.
+5. Decline an invitation this time and thank the host.
+6. Say you should have called earlier.
+7. Tell someone the plan is not confirmed yet.
+8. Ask permission to explain their point to another person.
+9. Ask for the last part to be repeated.
+10. Close a call after promising to confirm by evening.
+
+**Models and reasoning.** (1) **Waqt samajh mein aa gaya, lekin jagah nahin samjhi.** A neutral alternative is **Waqt samajh aa gaya. Jagah phir se bata dijiye.** (2) **Kya abhi baat karna munasib hai?** This checks availability before the purpose. (3) **Waqt badal gaya hai. Ab paanch baje milenge.** Name the change first. (4) **Maine do kamron ki booking ki thi, lekin ek hi kamra diya gaya hai.** *Ek hi* highlights the shortage. (5) **Daawat ka shukriya, lekin is baar main nahin aa sakta/sakti.** Gender follows the speaker. (6) **Mujhe pehle phone kar dena chahiye tha.** The past obligation expresses regret. (7) **Programme ki abhi tasdeeq nahin hui.** Feminine *tasdeeq* controls *hui*. (8) **Kya main aapki baat unko samjha doon?** This asks permission rather than assuming it. (9) **Aakhri baat phir se kahenge?** A respectful request. (10) **Main shaam tak tasdeeq kar doonga/doongi. Aapse baat karke achchha laga.** State the next action before closing.
+
+Now interpret **Unhone kaha hai ki shaayad der hogi**, **Unhone tasdeeq kar di hai**, and **Abhi sirf tajweez hai**. They mean: they have said there may be a delay; they have confirmed it; it is only a proposal for now. The contrast is certainty. Your listener must be able to distinguish these even if your accent is imperfect.
+
+## Listening and speaking beyond the script
+
+Use the companion's speaking recorder for a ninety-second voicemail. State who you are, why you are calling, two necessary details, and what response you need. Play it without reading. Could someone act on it? If not, revise the information order. A machine transcript can be useful when supported, but a recognition mismatch does not prove your pronunciation is wrong.
+
+For listening, ask a willing partner to improvise a two-minute message containing a changed plan, one reason, and an unconfirmed detail. Listen once and say the main point. Listen again and write the Roman transcript and English summary. Mark uncertainty instead of filling gaps with guesses. Then ask one targeted question. This is closer to real listening than repeatedly recognising isolated familiar words.
+
+For conversation, hold four fifteen-minute sessions with different purposes: a family catch-up, a practical arrangement, a complaint, and a difference of opinion. Give your partner a secret change to introduce halfway through. Afterward, review two successful repairs and one missed cue. Repeat the task with a new situation, not a memorised script. Your response to the unexpected turn is the evidence of growing independence.
+
+## The 90-hour practice plan
+
+| Work | Hours | Evidence |
+| --- | ---: | --- |
+| Study and rebuild interaction frames | 10 | A purpose-organised phrase bank |
+| Calls and voicemail listening | 16 | Eight checked summaries with dates and actions |
+| Services, travel, and complaint role-play | 16 | Six scenes containing genuine constraints |
+| Boundaries, apologies, and mediation practice | 14 | Paired versions with respectful alternatives |
+| Unscripted family conversations | 18 | Six conversations and short reflection notes |
+| Vocabulary and cumulative grammar repair | 10 | Personal error log with new examples |
+| Exit assessment and reattempt | 6 | Two unseen conversations with feedback |
+| **Total** | **90** | **905 cumulative hours** |
+
+The family conversations are invitations to practise, not obligations imposed on relatives. When nobody is available, record both sides of a scene, leave a gap, and answer it later without looking. Use live interaction when possible because your own recording cannot fully reproduce another person's timing and unexpected choices.
+
+## Exit performance
+
+Handle a fifteen-minute practical conversation in which the listener changes one important fact. Confirm names, numbers, and next steps; ask one targeted clarification; decline or modify one request appropriately; and close naturally. Then relay the agreed plan to a third person in under two minutes, keeping confirmed and unconfirmed details separate.
+
+Score clarity, listening accuracy, independent repair, turn-taking, and register from 0 to 4. Seek mostly 3s on two different tasks, with no critical misunderstanding left uncorrected. This is an informal readiness check. It cannot certify B2 or replace a qualified proficiency interview. Chapter twelve combines the whole course into a final set of unfamiliar conversations and a plan for continuing beyond the core thousand hours.
+
+## Source checks
+
+The interaction goals draw on the [Council of Europe CEFR descriptor framework](https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors). The University of Texas Hindi Urdu Flagship's [assessment overview](https://hindiurduflagship.org/students-alumni/huf-language-assessment-and-testing/) was inspected for its distinction between rehearsed knowledge and sustained communicative ability. Its ILR levels are not treated as interchangeable with CEFR levels. All scenes, wording, and course assessment tasks here are original.

@@ -1,0 +1,22 @@
+import assert from 'node:assert/strict';
+import {funnel,economics,pipeline,video,wilson,uncertainty,capacity} from './models.mjs';
+let checks=0;const close=(a,b)=>{assert.ok(Math.abs(a-b)<1e-9,`${a} != ${b}`);checks++;};
+const f=funnel({impressions:20000,visitRate:2,subscribeRate:10,purchaseRate:5,price:49});
+close(f.visits,400);close(f.leads,40);close(f.buyers,2);close(f.revenue,98);
+close(funnel({impressions:0,visitRate:100,subscribeRate:100,purchaseRate:100,price:49}).buyers,0);
+const e=economics({price:49,refundRate:5,feeRate:3,fixedFee:.3,deliveryCost:3,cac:20,reserve:10});
+close(e.contribution,41.78);close(e.afterCAC,21.78);close(e.targetCAC,31.78);
+assert.equal(economics({price:0,refundRate:100,feeRate:100,fixedFee:1,deliveryCost:1,cac:0,reserve:0}).breakEvenROAS,null);checks++;
+const p=pipeline({conversations:100,bookingRate:20,attendanceRate:75,qualificationRate:60,proposalRate:80,closeRate:25,dealValue:3000,hoursPerClient:10});
+close(p.clients,1.8);close(p.revenue,5400);close(p.deliveryHours,18);
+const v=video({impressions:10000,ctrA:6,durationA:3,ctrB:4,durationB:5});close(v.minutesA,1800);close(v.minutesB,2000);
+for(const n of [1,2,20,100,1000])for(const s of [0,Math.floor(n/2),n]){const w=wilson(s,n);assert.ok(w.low>=0&&w.high<=1&&w.low<=w.rate+1e-12&&w.high>=w.rate-1e-12);checks++;}
+assert.equal(wilson(0,0).rate,null);checks++;
+assert.ok(wilson(0,20).high>0);checks++;
+assert.ok(wilson(50,100).high-wilson(50,100).low > wilson(500,1000).high-wilson(500,1000).low);checks++;
+assert.throws(()=>wilson(3,2));checks++;
+assert.throws(()=>funnel({impressions:10,visitRate:101,subscribeRate:1,purchaseRate:1,price:1}));checks++;
+assert.throws(()=>uncertainty({successA:1.5,trialsA:20,successB:2,trialsB:20}));checks++;
+const c=capacity({availableHours:20,reservedHours:10,videos:1,videoHours:8,shorts:1,shortHours:1,written:2,writtenHours:1});close(c.remaining,-1);close(c.utilization,1.05);
+const z=capacity({availableHours:0,reservedHours:0,videos:0,videoHours:8,shorts:0,shortHours:1,written:0,writtenHours:1});assert.equal(z.utilization,null);checks++;
+console.log(JSON.stringify({status:'pass',checks,node:process.version}));

@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "characters": 306086
+    },
+    {
+      "path": "/companion/index.html",
+      "status": 200,
+      "characters": 34367
+    }
+  ]
+}

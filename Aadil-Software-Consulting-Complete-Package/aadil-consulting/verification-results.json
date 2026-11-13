@@ -1,0 +1,19 @@
+{
+  "chapter_words_whitespace": {
+    "01-consulting-foundations-and-your-position.md": 5051,
+    "02-cloud-native-kubernetes-and-platform-consulting.md": 5091,
+    "03-ai-workflow-consulting-and-evaluation.md": 5139,
+    "04-high-value-offers-sales-and-delivery.md": 5027
+  },
+  "total_chapter_words": 20308,
+  "minimum_words_per_chapter": 5000,
+  "tokenizer": "Unavailable; measured whitespace-word proxy, not exact token verification.",
+  "canonical_prose_assembly": "passed",
+  "internal_HTML_anchors": "passed",
+  "embedded_lab_matches_standalone": "passed",
+  "source_syntax": "passed",
+  "fixture_consistency": "passed",
+  "duplicate_substantive_paragraphs": 0,
+  "browser_visual_and_DOM_control_tests": "not available",
+  "cluster_or_provider_execution": "not performed"
+}

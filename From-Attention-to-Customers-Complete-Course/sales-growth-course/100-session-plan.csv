@@ -1,0 +1,101 @@
+session,module,module_title,task,study_hours,guided_hours,production_hours,field_hours,review_hours,total_hours,chapter
+1,1,Foundations and commercial economics,Define the commercial goal and evidence boundary,10,0,0,0,0,10,chapters/01-foundations.md
+2,1,Foundations and commercial economics,"Map guide, workshop and service journeys",2,8,0,0,0,10,chapters/01-foundations.md
+3,1,Foundations and commercial economics,Reproduce funnel and contribution arithmetic,0,4,6,0,0,10,chapters/01-foundations.md
+4,1,Foundations and commercial economics,Draft one clear offer and channel role,0,0,10,0,0,10,chapters/01-foundations.md
+5,1,Foundations and commercial economics,Build an observation and assumption log,0,0,6,4,0,10,chapters/01-foundations.md
+6,1,Foundations and commercial economics,Test the route and gather voluntary observations,0,0,0,10,0,10,chapters/01-foundations.md
+7,1,Foundations and commercial economics,Review the commercial map and next research question,0,0,0,2,8,10,chapters/01-foundations.md
+8,2,"Customer research, positioning, and offers",Specify the buyer situation and research decision,10,0,0,0,0,10,chapters/02-research-and-offers.md
+9,2,"Customer research, positioning, and offers",Map high-consequence assumptions,4,6,0,0,0,10,chapters/02-research-and-offers.md
+10,2,"Customer research, positioning, and offers",Rehearse interviews around recent episodes,0,10,0,0,0,10,chapters/02-research-and-offers.md
+11,2,"Customer research, positioning, and offers",Collect public problem evidence responsibly,0,0,10,0,0,10,chapters/02-research-and-offers.md
+12,2,"Customer research, positioning, and offers",Conduct voluntary interviews or labeled desk research,0,0,10,0,0,10,chapters/02-research-and-offers.md
+13,2,"Customer research, positioning, and offers",Compare alternatives and buying roles,0,0,8,2,0,10,chapters/02-research-and-offers.md
+14,2,"Customer research, positioning, and offers",Design a scoped offer and sample,0,0,0,10,0,10,chapters/02-research-and-offers.md
+15,2,"Customer research, positioning, and offers",Test comprehension and pilot feasibility,0,0,0,10,0,10,chapters/02-research-and-offers.md
+16,2,"Customer research, positioning, and offers",Write the research decision memo,0,0,0,2,8,10,chapters/02-research-and-offers.md
+17,3,"Content strategy, copywriting, and creative",Build pillars from real audience problems,10,0,0,0,0,10,chapters/03-content-and-copy.md
+18,3,"Content strategy, copywriting, and creative",Draft a message and claims library,4,6,0,0,0,10,chapters/03-content-and-copy.md
+19,3,"Content strategy, copywriting, and creative",Rewrite hooks through promise and evidence,0,10,0,0,0,10,chapters/03-content-and-copy.md
+20,3,"Content strategy, copywriting, and creative",Develop a complete explanation and story,0,0,10,0,0,10,chapters/03-content-and-copy.md
+21,3,"Content strategy, copywriting, and creative",Produce a visible demonstration,0,0,10,0,0,10,chapters/03-content-and-copy.md
+22,3,"Content strategy, copywriting, and creative",Adapt the idea into three native formats,0,0,10,0,0,10,chapters/03-content-and-copy.md
+23,3,"Content strategy, copywriting, and creative",Build the editorial calendar from capacity,0,0,6,4,0,10,chapters/03-content-and-copy.md
+24,3,"Content strategy, copywriting, and creative",Test comprehension and revise weak pieces,0,0,0,10,0,10,chapters/03-content-and-copy.md
+25,3,"Content strategy, copywriting, and creative",Review the original content portfolio,0,0,0,2,8,10,chapters/03-content-and-copy.md
+26,4,"Prospecting, discovery, proposals, and sales",Define pipeline stages and fit criteria,10,0,0,0,0,10,chapters/04-sales.md
+27,4,"Prospecting, discovery, proposals, and sales",Research legitimate prospecting contexts,6,4,0,0,0,10,chapters/04-sales.md
+28,4,"Prospecting, discovery, proposals, and sales",Draft contextual first messages and boundaries,0,10,0,0,0,10,chapters/04-sales.md
+29,4,"Prospecting, discovery, proposals, and sales",Rehearse discovery questions and summaries,0,6,4,0,0,10,chapters/04-sales.md
+30,4,"Prospecting, discovery, proposals, and sales",Practice qualification and disqualification,0,0,10,0,0,10,chapters/04-sales.md
+31,4,"Prospecting, discovery, proposals, and sales",Create the sample diagnostic report,0,0,10,0,0,10,chapters/04-sales.md
+32,4,"Prospecting, discovery, proposals, and sales",Write the scoped proposal and dependencies,0,0,10,0,0,10,chapters/04-sales.md
+33,4,"Prospecting, discovery, proposals, and sales",Practice price and scope negotiation,0,0,2,8,0,10,chapters/04-sales.md
+34,4,"Prospecting, discovery, proposals, and sales",Build CRM and agreed-follow-up procedures,0,0,0,10,0,10,chapters/04-sales.md
+35,4,"Prospecting, discovery, proposals, and sales",Rehearse checkout or onboarding handoff,0,0,0,10,0,10,chapters/04-sales.md
+36,4,"Prospecting, discovery, proposals, and sales",Apply the process or run labeled simulations,0,0,0,8,2,10,chapters/04-sales.md
+37,4,"Prospecting, discovery, proposals, and sales",Review one complete opportunity and economics,0,0,0,0,10,10,chapters/04-sales.md
+38,5,LinkedIn authority and demand generation,Audit the visitor route and current guidance,10,0,0,0,0,10,chapters/05-linkedin.md
+39,5,LinkedIn authority and demand generation,"Revise headline, About and proof assets",2,8,0,0,0,10,chapters/05-linkedin.md
+40,5,LinkedIn authority and demand generation,Write a professional problem explanation,0,6,4,0,0,10,chapters/05-linkedin.md
+41,5,LinkedIn authority and demand generation,Create a worked-example post,0,0,10,0,0,10,chapters/05-linkedin.md
+42,5,LinkedIn authority and demand generation,Build a document-style lesson,0,0,10,0,0,10,chapters/05-linkedin.md
+43,5,LinkedIn authority and demand generation,Record a readable native demonstration,0,0,10,0,0,10,chapters/05-linkedin.md
+44,5,LinkedIn authority and demand generation,Practice substantive discussion and welcome follow-up,0,0,8,2,0,10,chapters/05-linkedin.md
+45,5,LinkedIn authority and demand generation,Design a newsletter or live teaching concept,0,0,0,10,0,10,chapters/05-linkedin.md
+46,5,LinkedIn authority and demand generation,Publish or privately test the coherent series,0,0,0,10,0,10,chapters/05-linkedin.md
+47,5,LinkedIn authority and demand generation,Review audience fit and commercial progression,0,0,0,0,10,10,chapters/05-linkedin.md
+48,6,X/Twitter conversations and audience growth,Map relevant conversations and account promise,10,0,0,0,0,10,chapters/06-x-twitter.md
+49,6,X/Twitter conversations and audience growth,Draft complete technical micro-lessons,0,10,0,0,0,10,chapters/06-x-twitter.md
+50,6,X/Twitter conversations and audience growth,Create a demonstration and claims record,0,2,8,0,0,10,chapters/06-x-twitter.md
+51,6,X/Twitter conversations and audience growth,Write and split a coherent thread,0,0,10,0,0,10,chapters/06-x-twitter.md
+52,6,X/Twitter conversations and audience growth,Practice replies and disagreement scenarios,0,0,10,0,0,10,chapters/06-x-twitter.md
+53,6,X/Twitter conversations and audience growth,Prepare a collaboration or live-discussion plan,0,0,4,6,0,10,chapters/06-x-twitter.md
+54,6,X/Twitter conversations and audience growth,Run public participation or private comprehension tests,0,0,0,10,0,10,chapters/06-x-twitter.md
+55,6,X/Twitter conversations and audience growth,Review the conversation experiment and next decision,0,0,0,2,8,10,chapters/06-x-twitter.md
+56,7,"YouTube long-form, Shorts, and production",Define channel promise and viewer starting point,10,0,0,0,0,10,chapters/07-youtube.md
+57,7,"YouTube long-form, Shorts, and production",Compare discovery routes and shortlist ideas,8,2,0,0,0,10,chapters/07-youtube.md
+58,7,"YouTube long-form, Shorts, and production",Draft titles and thumbnail concepts,0,10,0,0,0,10,chapters/07-youtube.md
+59,7,"YouTube long-form, Shorts, and production",Test packaging comprehension,0,10,0,0,0,10,chapters/07-youtube.md
+60,7,"YouTube long-form, Shorts, and production",Write the complete beat sheet and prerequisites,0,0,10,0,0,10,chapters/07-youtube.md
+61,7,"YouTube long-form, Shorts, and production",Build a reliable synthetic demonstration,0,0,10,0,0,10,chapters/07-youtube.md
+62,7,"YouTube long-form, Shorts, and production",Rehearse audio and readable screen capture,0,0,10,0,0,10,chapters/07-youtube.md
+63,7,"YouTube long-form, Shorts, and production",Record the long-form lesson in segments,0,0,10,0,0,10,chapters/07-youtube.md
+64,7,"YouTube long-form, Shorts, and production","Edit structure, visuals and captions",0,0,10,0,0,10,chapters/07-youtube.md
+65,7,"YouTube long-form, Shorts, and production",Review exported desktop and mobile playback,0,0,10,0,0,10,chapters/07-youtube.md
+66,7,"YouTube long-form, Shorts, and production",Produce standalone Shorts and a real continuation route,0,0,4,6,0,10,chapters/07-youtube.md
+67,7,"YouTube long-form, Shorts, and production",Prepare the library and offer destination,0,0,0,10,0,10,chapters/07-youtube.md
+68,7,"YouTube long-form, Shorts, and production",Publish or run private viewer tests,0,0,0,8,2,10,chapters/07-youtube.md
+69,7,"YouTube long-form, Shorts, and production","Review viewing evidence, cost and maintenance",0,0,0,0,10,10,chapters/07-youtube.md
+70,8,"Websites, email, digital products, and launches",Map the complete customer route,10,0,0,0,0,10,chapters/08-funnels-email-launches.md
+71,8,"Websites, email, digital products, and launches",Draft a clear usable landing page,4,6,0,0,0,10,chapters/08-funnels-email-launches.md
+72,8,"Websites, email, digital products, and launches",Create a complete sample resource,0,8,2,0,0,10,chapters/08-funnels-email-launches.md
+73,8,"Websites, email, digital products, and launches",Compare selling-tool requirements and test plan,0,0,10,0,0,10,chapters/08-funnels-email-launches.md
+74,8,"Websites, email, digital products, and launches",Write the permission-based welcome sequence,0,0,10,0,0,10,chapters/08-funnels-email-launches.md
+75,8,"Websites, email, digital products, and launches",Design onboarding and support recovery,0,0,10,0,0,10,chapters/08-funnels-email-launches.md
+76,8,"Websites, email, digital products, and launches",Prepare a coherent launch and claims sheet,0,0,2,8,0,10,chapters/08-funnels-email-launches.md
+77,8,"Websites, email, digital products, and launches",Run usability and permitted transaction tests,0,0,0,10,0,10,chapters/08-funnels-email-launches.md
+78,8,"Websites, email, digital products, and launches",Reconcile launch results or labeled simulation,0,0,0,0,10,10,chapters/08-funnels-email-launches.md
+79,9,"Measurement, experimentation, and paid acquisition",Define business decisions and metric hierarchy,10,0,0,0,0,10,chapters/09-measurement-and-paid.md
+80,9,"Measurement, experimentation, and paid acquisition",Build the event dictionary and source-of-truth map,4,6,0,0,0,10,chapters/09-measurement-and-paid.md
+81,9,"Measurement, experimentation, and paid acquisition",Create consistent campaign labels,0,10,0,0,0,10,chapters/09-measurement-and-paid.md
+82,9,"Measurement, experimentation, and paid acquisition",Analyze sequential funnels and cohorts,0,0,10,0,0,10,chapters/09-measurement-and-paid.md
+83,9,"Measurement, experimentation, and paid acquisition","Calculate media costs, contribution and payback",0,0,10,0,0,10,chapters/09-measurement-and-paid.md
+84,9,"Measurement, experimentation, and paid acquisition",Explore Wilson intervals and small samples,0,0,10,0,0,10,chapters/09-measurement-and-paid.md
+85,9,"Measurement, experimentation, and paid acquisition",Analyze the aggregation-reversal dataset,0,0,8,2,0,10,chapters/09-measurement-and-paid.md
+86,9,"Measurement, experimentation, and paid acquisition",Design controlled and observational experiments,0,0,0,10,0,10,chapters/09-measurement-and-paid.md
+87,9,"Measurement, experimentation, and paid acquisition",Prepare three reviewable paid campaign plans,0,0,0,10,0,10,chapters/09-measurement-and-paid.md
+88,9,"Measurement, experimentation, and paid acquisition","Review tracking, uncertainty and the next decision",0,0,0,0,10,10,chapters/09-measurement-and-paid.md
+89,10,"Retention, operations, partnerships, and capstone",Map customer activation and useful progress,10,0,0,0,0,10,chapters/10-operations-and-capstone.md
+90,10,"Retention, operations, partnerships, and capstone",Design retention and support improvements,6,4,0,0,0,10,chapters/10-operations-and-capstone.md
+91,10,"Retention, operations, partnerships, and capstone",Write delivery and publication procedures,0,10,0,0,0,10,chapters/10-operations-and-capstone.md
+92,10,"Retention, operations, partnerships, and capstone",Model capacity and work-in-progress limits,0,4,6,0,0,10,chapters/10-operations-and-capstone.md
+93,10,"Retention, operations, partnerships, and capstone",Prepare delegation and AI review boundaries,0,0,10,0,0,10,chapters/10-operations-and-capstone.md
+94,10,"Retention, operations, partnerships, and capstone",Design a complementary partnership brief,0,0,10,0,0,10,chapters/10-operations-and-capstone.md
+95,10,"Retention, operations, partnerships, and capstone",Choose capstone track and evidence labels,0,0,10,0,0,10,chapters/10-operations-and-capstone.md
+96,10,"Retention, operations, partnerships, and capstone",Assemble coherent platform and offer assets,0,0,10,0,0,10,chapters/10-operations-and-capstone.md
+97,10,"Retention, operations, partnerships, and capstone","Test usability, delivery and measurement",0,0,2,8,0,10,chapters/10-operations-and-capstone.md
+98,10,"Retention, operations, partnerships, and capstone",Run real or labeled simulated application,0,0,0,10,0,10,chapters/10-operations-and-capstone.md
+99,10,"Retention, operations, partnerships, and capstone",Score and revise the capstone portfolio,0,0,0,8,2,10,chapters/10-operations-and-capstone.md
+100,10,"Retention, operations, partnerships, and capstone",Write the final memo and ninety-day strategy,0,0,0,0,10,10,chapters/10-operations-and-capstone.md

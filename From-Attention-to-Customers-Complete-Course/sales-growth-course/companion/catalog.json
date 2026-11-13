@@ -1,0 +1,41 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "funnel",
+      "title": "Funnel",
+      "chapter": "chapter-01",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "economics",
+      "title": "Economics",
+      "chapter": "chapter-01",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "pipeline",
+      "title": "Pipeline",
+      "chapter": "chapter-04",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "video",
+      "title": "Video",
+      "chapter": "chapter-07",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "uncertainty",
+      "title": "Uncertainty",
+      "chapter": "chapter-09",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "capacity",
+      "title": "Capacity",
+      "chapter": "chapter-03",
+      "module": "experiments.mjs"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "browser": "Google Chrome via Playwright 1.62.1",
+  "version": "156.0.8078.80",
+  "checks": 40,
+  "errors": [],
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "tested": [
+    "all9labnavigation",
+    "defaultandzeroeconomics",
+    "funnelzero",
+    "schedulecapacity",
+    "AInegativeefficiency",
+    "ideaweightszero",
+    "reset",
+    "textinputescaping",
+    "booknavigation",
+    "headingsearch",
+    "SVGload",
+    "responsiveoverflow"
+  ]
+}

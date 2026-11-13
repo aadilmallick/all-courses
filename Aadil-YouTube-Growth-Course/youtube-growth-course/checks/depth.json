@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-13",
+  "measurement": "Whitespace word proxy, not model tokens. Prose excludes fenced code.",
+  "chapters": [
+    {
+      "chapter": "chapter-01",
+      "file": "chapters/01-positioning-and-channel-choice.md",
+      "whitespace_words": 5061,
+      "prose_words": 5061
+    },
+    {
+      "chapter": "chapter-02",
+      "file": "chapters/02-demand-and-video-ideas.md",
+      "whitespace_words": 5480,
+      "prose_words": 5480
+    },
+    {
+      "chapter": "chapter-03",
+      "file": "chapters/03-titles-thumbnails-and-creators.md",
+      "whitespace_words": 5099,
+      "prose_words": 5099
+    },
+    {
+      "chapter": "chapter-04",
+      "file": "chapters/04-scripting-and-teaching.md",
+      "whitespace_words": 5573,
+      "prose_words": 5573
+    },
+    {
+      "chapter": "chapter-05",
+      "file": "chapters/05-filming-and-audio.md",
+      "whitespace_words": 5294,
+      "prose_words": 5294
+    },
+    {
+      "chapter": "chapter-06",
+      "file": "chapters/06-editing-and-ai-production.md",
+      "whitespace_words": 6155,
+      "prose_words": 6155
+    },
+    {
+      "chapter": "chapter-07",
+      "file": "chapters/07-publishing-analytics-and-growth.md",
+      "whitespace_words": 5191,
+      "prose_words": 5191
+    },
+    {
+      "chapter": "chapter-08",
+      "file": "chapters/08-funnels-products-and-community.md",
+      "whitespace_words": 6202,
+      "prose_words": 6157
+    },
+    {
+      "chapter": "chapter-09",
+      "file": "chapters/09-economics-and-sustainable-income.md",
+      "whitespace_words": 5971,
+      "prose_words": 5971
+    },
+    {
+      "chapter": "chapter-10",
+      "file": "chapters/10-daily-playbook-and-capstone.md",
+      "whitespace_words": 5110,
+      "prose_words": 5110
+    }
+  ],
+  "total_chapter_whitespace_words": 55136,
+  "total_chapter_prose_words": 55091,
+  "file_count": 49,
+  "local_markdown_links_checked": true,
+  "book_anchors_checked": 203,
+  "errors": []
+}

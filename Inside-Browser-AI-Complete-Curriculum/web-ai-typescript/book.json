@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "title": "Inside Browser AI",
+  "subtitle": "A first-principles TypeScript curriculum and companion textbook · Research edition 2026-11-13",
+  "audience": "Developers with basic variables/functions; asynchronous TypeScript, model math and browser prerequisites taught locally.",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "From text prediction to a language-model application",
+      "path": "chapters/01-models-tokens-attention.md",
+      "part": "Foundations and evidence",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "lab-1"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Build the TypeScript boundary around the model",
+      "path": "chapters/02-typescript-streaming-architecture.md",
+      "part": "Foundations and evidence",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "lab-2"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Give the application evidence: retrieval and embeddings",
+      "path": "chapters/03-retrieval-embeddings-grounding.md",
+      "part": "Foundations and evidence",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "lab-3"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Run a language model in the browser with WebLLM",
+      "path": "chapters/04-webllm-browser-compute.md",
+      "part": "Browser inference and agent interfaces",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "lab-4"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Use Chrome's browser-managed AI APIs deliberately",
+      "path": "chapters/05-chrome-built-in-ai.md",
+      "part": "Browser inference and agent interfaces",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "lab-5"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Expose meaningful application actions with WebMCP",
+      "path": "chapters/06-webmcp-agents-tools.md",
+      "part": "Browser inference and agent interfaces",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "lab-6"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Decide whether the system is dependable enough to ship",
+      "path": "chapters/07-evaluation-security-production.md",
+      "part": "Dependable applications",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "lab-7"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Assemble the document assistant and choose its next evolution",
+      "path": "chapters/08-capstone-modern-ecosystem.md",
+      "part": "Dependable applications",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "lab-8"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/architecture.svg",
+    "assets/evidence.svg"
+  ],
+  "source_listings": [],
+  "companion": {
+    "path": ".",
+    "catalog": "catalog.json",
+    "run": "npm run dev",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

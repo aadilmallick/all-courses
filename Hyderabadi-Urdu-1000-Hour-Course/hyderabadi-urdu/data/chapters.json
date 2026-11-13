@@ -1,0 +1,14 @@
+[
+ {"number":1,"file":"01-sounds-and-first-conversations.md","title":"Your first family conversation","hours":60,"level":"Pre-A1 → A1","part":"A place to begin","outcome":"Greet a relative respectfully, introduce yourself, and ask for repetition."},
+ {"number":2,"file":"02-family-and-description.md","title":"The people who make a home","hours":70,"level":"A1","part":"A place to begin","outcome":"Describe people and belongings, explain family relationships, and ask questions."},
+ {"number":3,"file":"03-home-routines-and-time.md","title":"A day in your life","hours":80,"level":"A1 → A2","part":"A place to begin","outcome":"Talk about routines, ongoing actions, locations, and time."},
+ {"number":4,"file":"04-shopping-food-and-directions.md","title":"Out in the city","hours":80,"level":"A2","part":"A place to begin","outcome":"Order food, buy things, request help politely, and find your way."},
+ {"number":5,"file":"05-past-events-and-stories.md","title":"Tell me what happened","hours":85,"level":"A2 → B1","part":"Stories we share","outcome":"Narrate completed events and past routines with controlled agreement."},
+ {"number":6,"file":"06-plans-ability-and-obligation.md","title":"Let’s make a plan","hours":85,"level":"B1","part":"Stories we share","outcome":"Discuss plans, ability, wishes, and obligations with reasons."},
+ {"number":7,"file":"07-relationships-feelings-and-health.md","title":"What’s on your mind?","hours":85,"level":"B1","part":"Stories we share","outcome":"Describe feelings, check on relatives, give advice, and clarify needs."},
+ {"number":8,"file":"08-connected-stories-and-explanations.md","title":"Connect the whole story","hours":90,"level":"B1 → B1+","part":"Stories we share","outcome":"Link events, identify people and things, and explain another person’s message."},
+ {"number":9,"file":"09-opinions-conditions-and-negotiation.md","title":"Say what you really think","hours":90,"level":"B1+ → B2","part":"A voice of your own","outcome":"Support an opinion, negotiate, and discuss real and imagined conditions."},
+ {"number":10,"file":"10-nuance-and-hyderabadi-conversation.md","title":"Find your family’s rhythm","hours":90,"level":"B2 target","part":"A voice of your own","outcome":"Interpret aspect and focus, recognize local variation, and select an appropriate register."},
+ {"number":11,"file":"11-real-world-conversation.md","title":"Keep the conversation going","hours":90,"level":"B2 target","part":"A voice of your own","outcome":"Manage calls, service problems, social events, boundaries, and mediation."},
+ {"number":12,"file":"12-b2-capstone-and-lifelong-conversation.md","title":"A seat at every conversation","hours":95,"level":"B2 target","part":"A voice of your own","outcome":"Sustain unscripted interaction, understand new stories, and independently expand vocabulary."}
+]

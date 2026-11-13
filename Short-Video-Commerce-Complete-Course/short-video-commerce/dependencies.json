@@ -1,0 +1,10 @@
+{
+  "runtime": {
+    "browser": "Modern browser; no external dependencies",
+    "node_tested": "v24.22.1"
+  },
+  "build_only": {
+    "marked": "17.0.5"
+  },
+  "rebuild": "scripts/build.mjs uses the pinned Marked installation selected by CODEX_PRIMARY_RUNTIME_NODE_MODULES"
+}

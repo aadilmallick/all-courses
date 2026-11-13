@@ -1,0 +1,13 @@
+PASS pacing counts whitespace-separated words and demonstration time
+PASS invalid speaking rate rejected
+PASS ebook full worked arithmetic
+PASS affiliate revenue is commission and excludes merchant fees
+PASS zero traffic produces no revenue
+PASS impossible rates and negative costs rejected
+PASS Wilson endpoints remain sensible
+PASS impossible count rejected
+PASS SaaS zero and full churn
+PASS SaaS sum agrees with geometric form
+PASS URL preserves query/fragment and encodes fields
+PASS non-web URLs and credentials rejected
+{"checks":12,"status":"passed"}

@@ -1,0 +1,15 @@
+This book is for a developer, educator, freelancer, or independent creator who wants to understand how useful work becomes a trustworthy commercial relationship. It assumes no marketing background. The examples emphasize software services, browser extensions, coding notes, tutoring, workshops, and courses, while the reasoning transfers to other honest offers.
+
+The course contains **1,000 active hours**, organized into ten substantial modules and one hundred ten-hour sessions. These are hours of study, guided practice, production, field application, and review. The book itself is not a thousand hours of reading. Completing the allocation does not guarantee income, followers, mastery, or access to a platform feature.
+
+Begin with Chapters 1–4 to understand economics, customer research, offers, content, and sales. Chapters 5–7 develop separate workflows for LinkedIn, X/Twitter, and YouTube. Chapters 8–10 connect those workflows to websites, email, launches, measurement, paid acquisition, retention, operations, and an integrated capstone. Each chapter ends with an exact practice allocation and a completion artifact.
+
+Use the [complete syllabus](#course-syllabus) to schedule the workload. At twenty active hours per week, the allocation takes fifty weeks. Use the HTML edition's **Interactive labs** view for the six calculators. The portable package also includes a standalone companion, source files, templates, a synthetic analysis dataset, and verification evidence. The calculations describe declared models; they do not simulate proprietary recommendation algorithms.
+
+All named customers, conversations, transaction counts, performance data, testimonials used as teaching examples, and the recurring business **Build Clearly** are fictional. Prices are illustrative USD values, not market quotations. Replace examples with evidence from your own work only when it exists and you may appropriately use it. No messages, posts, account connections, payments, or ad campaigns were performed to produce this course.
+
+Public primary-source guidance was inspected on November 13, 2026. See the [reference ledger](#reference-ledger) for exact coverage and limitations. Platform tools, metric definitions, policies, fees, and eligibility can change. The course separates durable reasoning from those implementation details and teaches you how to recheck the details before acting.
+
+There are no mandatory quizzes or active-recall gates. The practical work is the assessment: complete useful artifacts, inspect them, test where feasible, and record what the evidence supports. A private track is available throughout. Simulated work can demonstrate skill; it cannot establish real platform distribution or paid demand. Carry that distinction into the capstone.
+
+In this edition, chapter depth is measured as whitespace-separated prose words. Each chapter contains at least 5,000 words. A model tokenizer was unavailable in the authorized runtime, so exact model-token counts are not claimed. Length is a diagnostic check alongside teaching sequence, examples, sources, arithmetic, and runtime verification.

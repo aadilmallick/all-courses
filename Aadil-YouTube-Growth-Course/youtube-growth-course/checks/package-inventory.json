@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-13",
+  "files": [
+    {
+      "path": "assets/funnel-map.svg",
+      "bytes": 2087,
+      "sha256": "12cfe0ebcc11d70105892f2d0fcb0b7d41c9205208c05fe310984e92e507014c"
+    },
+    {
+      "path": "authoring-brief.md",
+      "bytes": 2933,
+      "sha256": "afb12ecbca042baacd1ca3d126e931ffb85c99d281ab7bd3073b69327024f4b2"
+    },
+    {
+      "path": "book.html",
+      "bytes": 448522,
+      "sha256": "fbf555fb44a6619d304b2cb611ceb0fccb08e81c97e1e1172714e9ef60ed7e0d"
+    },
+    {
+      "path": "book.json",
+      "bytes": 4877,
+      "sha256": "5b9c95e41c04ea049d96b5a10e4006b51f3e23e4cc13fb65f7023c2cd45aefa1"
+    },
+    {
+      "path": "book.md",
+      "bytes": 416614,
+      "sha256": "11aacb211a2572830f4918c5d567f5b5ae6abd1d556410612ea9e5520330064d"
+    },
+    {
+      "path": "chapters/01-positioning-and-channel-choice.md",
+      "bytes": 32707,
+      "sha256": "3230c21ea86124709b243a6cab5e730d7693d2035d5daf9607617f0b239bd507"
+    },
+    {
+      "path": "chapters/02-demand-and-video-ideas.md",
+      "bytes": 33083,
+      "sha256": "8f06e2eede468b2cb8c6c88feedc32bbe46e6b21badf7236726ed5851e27b863"
+    },
+    {
+      "path": "chapters/03-titles-thumbnails-and-creators.md",
+      "bytes": 33453,
+      "sha256": "56a47e29743b17770f2ae1ed6cda4c7bb5b57cd5d53e3d9268d94b16005bf30a"
+    },
+    {
+      "path": "chapters/04-scripting-and-teaching.md",
+      "bytes": 35374,
+      "sha256": "b52f10332b1bccdca6ec344b7ace7878bdeaba2ae18408ee21ddc923f2f53a7c"
+    },
+    {
+      "path": "chapters/05-filming-and-audio.md",
+      "bytes": 34082,
+      "sha256": "9fc27ffb0e38cf4ed9ebd076ec5403a77d253595283bc6c01fa31ce0e597316c"
+    },
+    {
+      "path": "chapters/06-editing-and-ai-production.md",
+      "bytes": 40523,
+      "sha256": "7fc4c641d3e3d0d7478924dcd6862027c2309d31f9ad5715b7bc1dc55ecf9e24"
+    },
+    {
+      "path": "chapters/07-publishing-analytics-and-growth.md",
+      "bytes": 33622,
+      "sha256": "3d20d57323b9f796c98a55ad8df5936da53d9102ee03c7dfd96dde5edd82dbb5"
+    },
+    {
+      "path": "chapters/08-funnels-products-and-community.md",
+      "bytes": 40428,
+      "sha256": "5d14a57d2314d82a828dde386283fac4e6a86c35e89545af208e468aca24ed7c"
+    },
+    {
+      "path": "chapters/09-economics-and-sustainable-income.md",
+      "bytes": 38985,
+      "sha256": "c0a5a3d996e3f4d962c319bf574396900d2e6bbb35b31bb24b24ecb80cf34248"
+    },
+    {
+      "path": "chapters/10-daily-playbook-and-capstone.md",
+      "bytes": 33203,
+      "sha256": "3a8b3c598f257a7ced02f43fece6cb214ef2d00c2e56d0ff0c0eb7d9ad60dcf8"
+    },
+    {
+      "path": "checks/book-desktop.png",
+      "bytes": 145192,
+      "sha256": "c9e6e6dd75eaedc34640a401420d26403ee9d70c49202421d130e67298c0fd14"
+    },
+    {
+      "path": "checks/book-mobile.png",
+      "bytes": 36565,
+      "sha256": "e8f43a88b1d113844434753ea88164e800b318e8e98f76f24ee33674affaa488"
+    },
+    {
+      "path": "checks/browser.json",
+      "bytes": 496,
+      "sha256": "545e9bbe577bc67c62cd78d050980a8e53f11d83310b4a7a6eabf1a07f2989b4"
+    },
+    {
+      "path": "checks/depth.json",
+      "bytes": 1939,
+      "sha256": "ff2c7c39e9b9f55876c7fae6cd2a5687d5229e3e1dd76f6de9531bf031430377"
+    },
+    {
+      "path": "checks/lab-desktop.png",
+      "bytes": 81851,
+      "sha256": "96f9bc363e55422c5077aa12f9959959b8cfef5b5e5b4aa8c766de0cdebac551"
+    },
+    {
+      "path": "checks/lab-mobile.png",
+      "bytes": 76819,
+      "sha256": "c2d04d4ead3632015de6d09de892a685a253308c293aa43b16673c3d00b8b4d9"
+    },
+    {
+      "path": "checks/textbook-structure.json",
+      "bytes": 916,
+      "sha256": "efd32a453e6bfa984bd25181be5f6e29c9892c7ae5c4b9e2b009f8e75b19613a"
+    },
+    {
+      "path": "companion/app.mjs",
+      "bytes": 1514,
+      "sha256": "5f53c899151eb418340010d3914a1a27c36e58114d9f786200ca24ab18f7dcd6"
+    },
+    {
+      "path": "companion/catalog.json",
+      "bytes": 1813,
+      "sha256": "7a5aa07b91c418b9e753783dea3df7e65cac5f486b0bc783730eab71e95a081a"
+    },
+    {
+      "path": "companion/check.mjs",
+      "bytes": 1543,
+      "sha256": "9ff333591bd0f161923f80a2a3676e543dd4e3303327ee6fb2038eae05d456e4"
+    },
+    {
+      "path": "companion/index.html",
+      "bytes": 1477,
+      "sha256": "bb1588bbdcacb5cd7c9b79e0a23f852cd834369d695c622d41a16786a0305d94"
+    },
+    {
+      "path": "companion/labs.mjs",
+      "bytes": 16606,
+      "sha256": "35b25bf58eb72724992b3e300dced17936914de66051a094a705b1dad88a2f32"
+    },
+    {
+      "path": "companion/model.mjs",
+      "bytes": 2411,
+      "sha256": "30be23f9ee040691cb13f3def1dcce9fcd64fc15ab9321dfd1845ed351a44e24"
+    },
+    {
+      "path": "companion/server.mjs",
+      "bytes": 1603,
+      "sha256": "a7d7e6bfdd400d66b6f51c0f86b86f6e84076f3ff28a137f28f5693902142f7f"
+    },
+    {
+      "path": "companion/style.css",
+      "bytes": 3442,
+      "sha256": "8dc4cc388952a4172af413a505e31cf474f33c4106919144dde385c1a0d4ae19"
+    },
+    {
+      "path": "coverage-matrix.md",
+      "bytes": 2601,
+      "sha256": "890d6786bcfabfd7ced0da8c0e47b8f28ea9de9d5db44d1ce28fa6c6ec851df4"
+    },
+    {
+      "path": "preface.md",
+      "bytes": 3108,
+      "sha256": "4c88f74293e9cf2c6318403da600832b3b0e8bb2028e9bf5b68d55440dd431e3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6723,
+      "sha256": "97be779f691e6e864be27d64e07debc8ecdb4719c7cef8edfdb555f800879fdb"
+    },
+    {
+      "path": "research/project-profile.md",
+      "bytes": 3613,
+      "sha256": "c465d5097f5ed1dc6c81ae4927abc5228c603fa683177bcb7d010c6c291ddd46"
+    },
+    {
+      "path": "research/sources-business.md",
+      "bytes": 7462,
+      "sha256": "0f8f733fc8dc92f50c964e501edb1c05c665583923e374a89067ff924499d1d7"
+    },
+    {
+      "path": "research/sources-growth.md",
+      "bytes": 7192,
+      "sha256": "e4eca7e42ec799d3045eebaec0c23ca2ea4c383dd1ea6120c8e7a5ffc73e8272"
+    },
+    {
+      "path": "research/sources-production.md",
+      "bytes": 12987,
+      "sha256": "12b2d2c809a0922de372afb81da12c69b700e81ced8783bcc8e79c3ef30ff6b5"
+    },
+    {
+      "path": "resource-library.md",
+      "bytes": 5810,
+      "sha256": "8efe45445aeaf856c8ef43cf1aa697bd4340bf6d9d58d014af87feb5d22be6c4"
+    },
+    {
+      "path": "scripts/browser-check.cjs",
+      "bytes": 5367,
+      "sha256": "3dff7ba88d8e8e701a2c24a9f3578f3bb0a1931d19521c15b88a22a8502eb060"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 8693,
+      "sha256": "8d1870dfbe5fd3c9e5aa22dadb86b46fa3c2fe6cd5ef272398a27809689703b8"
+    },
+    {
+      "path": "scripts/verify.mjs",
+      "bytes": 2797,
+      "sha256": "899fb018ebb75ad552195f20b0d30040a498c170786a610bc91770aabc7167ea"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 26861,
+      "sha256": "5c1d4addc79985af5eb20190df5a7a4e5cb7a38dd5592a9f4a6dfa7419914363"
+    },
+    {
+      "path": "templates/90-day-actions.json",
+      "bytes": 45523,
+      "sha256": "0e05809431256d450d2b988e96411f303878517ec7a8ef8dd21f3706428a528b"
+    },
+    {
+      "path": "templates/90-day-actions.md",
+      "bytes": 25697,
+      "sha256": "4ff9a10f551d0365fdad4bc5e84b7eb344e9a5cd39da8b750e8fd38db40283a6"
+    },
+    {
+      "path": "templates/business-templates.md",
+      "bytes": 9585,
+      "sha256": "b214e870961dcf4a3c5f244dc13650051c0f55d4eeebc19d619347ab3deae8a6"
+    },
+    {
+      "path": "templates/production-templates.md",
+      "bytes": 3888,
+      "sha256": "0f5256432fa9f9c76f22c8838c30592a0ce31ba1d1b1dbb5d467fa0cceaf82a0"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "bytes": 1072,
+      "sha256": "2f3e8a92ae6840bb34f1c5a0e3a97462bc544cdef54d1cd54abcbd036452f839"
+    },
+    {
+      "path": "vendor/marked-LICENSE.md",
+      "bytes": 2942,
+      "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c"
+    },
+    {
+      "path": "vendor/marked.esm.mjs",
+      "bytes": 41661,
+      "sha256": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc"
+    },
+    {
+      "path": "verification.md",
+      "bytes": 4721,
+      "sha256": "a3c6a33cc12e73739b607022ed9441467d28ec168f352514a91d479febf4a30b"
+    }
+  ],
+  "limits": "Inventory excludes itself; ZIP is outside course folder."
+}

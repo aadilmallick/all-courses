@@ -1,0 +1,28 @@
+{
+  "name": "web-ai-typescript-laboratory",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.18.0" },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test tests/core.test.ts",
+    "demo": "node examples/foundations.ts",
+    "server": "node examples/cloud-server.ts",
+    "book": "node scripts/assemble.ts",
+    "verify": "node scripts/verify.ts"
+  },
+  "dependencies": {
+    "@mlc-ai/web-llm": "0.2.88",
+    "@huggingface/transformers": "3.8.1",
+    "marked": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.2",
+    "gpt-tokenizer": "4.1.2",
+    "typescript": "5.9.3",
+    "vite": "8.3.8"
+  }
+}

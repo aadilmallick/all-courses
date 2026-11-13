@@ -1,0 +1,21 @@
+{
+  "name": "ghar-ki-baat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "prepare-content": "node scripts/assemble.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "astro preview --host 127.0.0.1",
+    "test": "node --test scripts/core.test.mjs scripts/audio.test.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "@astrojs/markdown-remark": "7.3.0",
+    "@astrojs/starlight": "0.42.11",
+    "astro": "7.4.11",
+    "sharp": "0.34.5"
+  },
+  "engines": {"node": ">=22.12.0"}
+}

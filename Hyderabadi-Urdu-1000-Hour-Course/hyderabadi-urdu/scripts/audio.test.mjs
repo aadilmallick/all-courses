@@ -1,0 +1,7 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {speak,stopAudio,nativeInput} from '../public/audio.mjs';
+test('missing speech APIs fail with guidance and never select an English fallback',async()=>{delete globalThis.speechSynthesis;await assert.rejects(speak('chai'),/No Urdu or Hindi system voice/);assert.doesNotThrow(stopAudio);});
+test('stop invalidates pending audio before synthesis begins',async()=>{let calls=0;globalThis.speechSynthesis={cancel(){},getVoices(){return [{lang:'ur-PK',voiceURI:'test'}];},speak(){calls++;}};const pending=speak('chai');stopAudio();assert.equal(await pending,'Playback stopped.');assert.equal(calls,0);});
+test('script-aware TTS sends mapped speech input, with synthetic labeling and real errors',async()=>{let heard;globalThis.SpeechSynthesisUtterance=class{constructor(text){this.text=text;}};globalThis.speechSynthesis={cancel(){},getVoices(){return [{lang:'ur-PK',voiceURI:'test'}];},speak(u){heard=u.text;queueMicrotask(()=>u.onend());}};const result=await speak('chai');assert.notEqual(heard,'chai');assert.match(result,/Synthetic Urdu/);globalThis.speechSynthesis.speak=u=>queueMicrotask(()=>u.onerror({error:'synthesis-failed'}));await assert.rejects(speak('chai'),/synthesis-failed/);});
+test('local particles require a family model instead of silently speaking a shared substitute',()=>{assert.deepEqual(nativeInput('hau','ur-PK').missing,['hau']);assert.deepEqual(nativeInput('idhar ich','ur-PK').missing,['ich']);assert.equal(nativeInput('soorat e haal','ur-PK').missing.length,0);});

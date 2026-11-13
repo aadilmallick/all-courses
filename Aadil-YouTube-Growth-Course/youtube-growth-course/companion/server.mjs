@@ -1,0 +1,10 @@
+import http from 'node:http';
+import {readFile,stat} from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const port=Number(process.env.COURSE_PORT||4173);
+const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.md':'text/plain; charset=utf-8','.csv':'text/csv; charset=utf-8','.svg':'image/svg+xml'};
+const server=http.createServer(async(req,res)=>{try{let pathname=decodeURIComponent(new URL(req.url,'http://127.0.0.1').pathname);if(pathname==='/')pathname='/book.html';let file=path.resolve(root,'.'+pathname);if(file!==root&&!file.startsWith(root+path.sep)){res.writeHead(403);return res.end('Outside course folder');}const info=await stat(file);if(info.isDirectory())file=path.join(file,'index.html');const data=await readFile(file);res.writeHead(200,{'Content-Type':types[path.extname(file)]||'application/octet-stream','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(data);}catch{res.writeHead(404,{'Content-Type':'text/plain'});res.end('Course file not found. Start at /book.html or /companion/.');}});
+server.listen(port,'127.0.0.1',()=>console.log(`Course: http://127.0.0.1:${port}/book.html | Labs: http://127.0.0.1:${port}/companion/`));
+server.on('error',error=>{console.error(error.code==='EADDRINUSE'?`Port ${port} is in use. Set COURSE_PORT to another port.`:error.message);process.exitCode=1;});

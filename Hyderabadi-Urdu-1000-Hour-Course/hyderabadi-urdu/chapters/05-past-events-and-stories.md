@@ -1,0 +1,189 @@
+# 05 · Yesterday, last time, and the stories families tell
+
+**85 hours · A2 toward B1 · Prerequisites:** the present, noun gender, postpositions, and ordinary requests from Chapters 1–4. The central task is to tell a relative what happened yesterday, answer follow-up questions, and distinguish an event from the background around it. This chapter teaches a shared Urdu/Hindi grammar baseline; it also shows how to listen when a Hyderabadi household uses a different local pattern.
+
+## Start with a small story
+
+**Kal main bazaar gaya. Maine sabzi khareedi. Phir main ghar aaya.** A male speaker says, “Yesterday I went to the market. I bought vegetables. Then I came home.” A female speaker changes the first and last verbs: **Kal main bazaar gayi. Maine sabzi khareedi. Phir main ghar aayi.** Notice the middle sentence stays the same. Why does the speaker’s gender affect **gaya/gayi** but not **khareedi**? Answering that question gives you control of an enormous part of ordinary conversation.
+
+English marks past time in forms such as went, bought, and came. Urdu/Hindi also distinguishes the way the speaker views an action. A **perfective** presents an event as a bounded whole: I bought it, we ate, she arrived. It does not mean the event was quick. **Humne teen ghante kaam kiya** means “We worked for three hours”; those three hours are being treated as one completed episode. **Hum teen ghante se kaam kar rahe the** means “We had been working for three hours”; the speaker puts us inside an ongoing situation instead.
+
+Do not begin by translating every English past-tense sentence with one memorized ending. First choose the picture: a whole event, an action in progress, a repeated old habit, or a state. Then choose the form. This makes a family story easier to follow because the listener hears which events move the story forward and which details provide background.
+
+## Build the perfective from a verb you know
+
+The dictionary form **karna** means “to do.” Remove **na** to find **kar**, the stem, but its perfective is irregular: **kiya**. Many other verbs behave more predictably. From **bolna**, speak, use **bola** for masculine singular, **bole** for masculine plural or polite masculine, and **boli** for feminine singular. Feminine plural is nasalized in careful speech and can be written **boleen** or **boliin** in competing Roman systems; this course usually uses the readable form with a plural auxiliary where needed, for example **vo boli theen**. Listen to a family recording rather than treating one Roman spelling as a complete sound description.
+
+| Dictionary form | Masculine singular | Masculine plural | Feminine singular | Useful meaning |
+|---|---|---|---|---|
+| aana | aaya | aaye | aayi | came |
+| jaana | gaya | gaye | gayi | went |
+| karna | kiya | kiye | ki | did |
+| lena | liya | liye | li | took |
+| dena | diya | diye | di | gave |
+| peena | piya | piye | pi | drank |
+| khaana | khaya | khaye | khayi | ate |
+| dekhna | dekha | dekhe | dekhi | saw |
+| sunna | suna | sune | suni | heard |
+| sona | soya | soye | soyi | slept |
+| hona | hua | hue | hui | happened; became |
+
+The table is a reference, not a request to recite every form before speaking. Begin with six events that actually happened to you. **Aaj main der se utha/uthi** means “Today I got up late.” **Meri behen aayi** means “My sister came.” **Bachche so gaye** means “The children fell asleep.” The last example contains **so gaye**, a verb combination that emphasizes the change into sleep; for now learn it as a useful phrase. Later chapters separate these combinations more systematically.
+
+## Two kinds of event, two agreement patterns
+
+A **transitive** use of a verb has a direct object: someone reads a book, drinks tea, or buys vegetables. An **intransitive** use does not have that kind of object: someone comes, goes, sleeps, or arrives. Ask “what did the person buy?” and you can supply **sabzi**. Asking “what did the person arrive?” does not work. A destination such as **ghar** is not automatically a direct object; it tells you where someone arrived.
+
+With ordinary intransitive perfectives, the verb follows the subject’s gender and number. Build “My sister went home” in steps: **meri behen** is the subject; **ghar** supplies destination; **jaana** supplies the action; **behen** is feminine singular; therefore say **Meri behen ghar gayi**. With two brothers, say **Mere bhai ghar gaye**. For an elder addressed respectfully, **Aap kab aaye?** means “When did you come?” to a male addressee; **Aap kab aayi theen?** can ask a woman when she had arrived, with respectful plural auxiliary. Household preferences for feminine honorific endings vary, so copy your addressee’s preferred pattern.
+
+With most transitive perfectives in the shared standard pattern, mark the doer with **ne**. **Main** becomes **maine**, **hum** becomes **humne**, **tum** becomes **tumne**, and **aap** becomes **aapne**. Names take a separate **ne**: **Sara ne**, **Ali ne**. Third-person pronouns use **usne** for he/she and **unhone** for they or respectful he/she. The two parts may be spaced differently in everyday Roman messages; what matters is recognizing the construction.
+
+Once the doer has **ne**, it no longer controls ordinary verb agreement. An unmarked direct object can control it instead. **Maine chai pi**: I drank tea. **Chai** is feminine, so **pi** is feminine even if the drinker is a man. **Maine paani piya**: I drank water. **Paani** is masculine, so **piya** is masculine even if the drinker is a woman. **Maine do kele khaye**: I ate two bananas. **Kele** is masculine plural, so use **khaye**. This is a relationship between the verb and the unmarked object, not a change in the speaker’s identity.
+
+## Work through the decision instead of guessing
+
+To say “My brother bought a book,” begin with the message rather than English word order. The doer is **mera bhai**. Because **ne** is a postposition, the masculine **aa** noun phrase changes to oblique **mere bhai ne**. The object is **kitaab**, feminine singular. **Khareedna** is transitive in this use and the episode is complete. Put those pieces together: **Mere bhai ne ek kitaab khareedi.** The **ee** sound in **khareedi** is explained by **kitaab**, not by **bhai**.
+
+Now change only the object: **Mere bhai ne do kele khareede** means “My brother bought two bananas.” Change the doer: **Meri behen ne do kele khareede** means “My sister bought two bananas.” The verb does not change because its agreement controller is still the same object. Change the viewpoint to an old habit: **Meri behen kele khareedti thi** means “My sister used to buy bananas.” Now there is no perfective **ne** construction and the habitual form follows the female subject. Minimal changes like these train a reliable mental model.
+
+Some verbs require lexical learning. **Bolna** often appears without **ne**, while **kehna**, to say, normally takes **ne** in the transitive perfective pattern: **Usne kaha** means “He/she said.” **Mujhe pata chala** means “I found out”; do not force **maine** into an expression organized around **mujhe**. Learn verbs with short example sentences and their postpositions. A rule about transitivity is a useful starting point, but a dictionary label alone does not settle every expression.
+
+## What happens when the object has ko?
+
+You already know **ko** in **Ammi ko phone karo**, “Call Ammi.” It marks many specific human direct objects as well as recipients and experiencers in other constructions. In a perfective sentence with a **ne** doer and a **ko** direct object, neither marked noun phrase normally controls agreement. Use the default masculine singular perfective: **Maine Ammi ko dekha**, “I saw Ammi.” The form is **dekha**, although Ammi is female. **Maine apni behen ko bulaya** means “I called my sister over”; the same logic gives **bulaya**.
+
+Compare **Maine ek film dekhi**, “I watched a film,” with **Maine Sara ko dekha**, “I saw Sara.” **Film** is feminine and unmarked, so **dekhi** agrees with it. **Sara ko** is marked, so **dekha** is default. Do not remove **ko** from a person merely to produce an ending you expected. Marking and meaning come first; agreement follows the structure you chose.
+
+With both a thing and a recipient, identify the direct object carefully. **Maine Ammi ko kitaab di** means “I gave Ammi a book.” Here **Ammi ko** is the recipient; **kitaab** remains an unmarked direct object, so **di** agrees with **kitaab**. Replace it with **paani**: **Maine Ammi ko paani diya**. Saying that “any ko makes the verb masculine” would therefore be wrong. The question is whether there is an eligible unmarked direct object, not whether **ko** appears anywhere in the sentence.
+
+## Yesterday and tomorrow share a word
+
+**Kal** can mean yesterday or tomorrow. Grammar and context tell the listener which: **Kal aap kahan gaye the?** means “Where did you go yesterday?” **Kal aap kahan jayenge?** means “Where will you go tomorrow?” If an appointment matters, remove uncertainty with **guzishta din**, “the previous day,” **agle din**, “the following day,” or a specific day and date. Everyday families usually rely on context rather than using formal expressions every time.
+
+Other anchors help organize a story: **pehle**, before/first; **phir**, then; **uske baad**, after that; **aakhir mein**, finally; **achanak**, suddenly; **tab**, then/at that time; **pichhle hafte**, last week; **do din pehle**, two days ago. In **pichhle hafte**, the ending reflects the time expression. Learn the whole phrase. Avoid placing **phir** before every single sentence. A few time anchors and clear verbs can carry the sequence more naturally.
+
+## Was doing, used to do, and was
+
+To move inside an action in progress in the past, use **stem + raha/rahi/rahe + tha/thi/the/theen**. **Main chai bana raha tha** is “I was making tea,” for a male speaker. A female speaker says **Main chai bana rahi thi**. **Ammi baat kar rahi theen** means “Ammi was talking,” with respectful plural auxiliary. There is no **ne** here merely because the event is in the past. The viewpoint is progressive, not perfective.
+
+To describe an old repeated pattern, replace the present auxiliary of a habitual sentence with a past auxiliary. **Main roz Nana ko phone karta tha** means “I used to call Nana every day,” for a male speaker. **Main roz Nana ko phone karti thi** is the female version. **Hum pehle yahan rehte the** means “We used to live here.” An English “would” can also describe an old habit, but do not mechanically use a future form when that is the intended meaning.
+
+For a state, use **tha/thi/the/theen** without a separate action verb: **Ghar khaali tha**, the house was empty; **Chai garam thi**, the tea was hot; **Hum thake hue the**, we were tired. Contrast **Chai garam thi** with **Chai garam hui**: the first describes its state, the second says it became hot. Stories need both kinds of information. **Ghar shaant tha. Bachche so rahe the. Tab darwaze par aawaaz aayi.** The house was quiet. The children were sleeping. Then there was a sound at the door.
+
+## Have done and had done
+
+Add a present auxiliary to connect a completed event to now: **Maine khaana khaya hai**, “I have eaten.” The agreement logic remains the same; **khaya** follows masculine **khaana**. **Vo ghar aayi hai** means “She has come home.” Add a past auxiliary to locate completion before another past reference point: **Maine khaana khaya tha**, “I had eaten”; **Vo pehle hi aa gayi thi**, “She had already arrived.” Context can also make these forms less neatly match English labels, so listen for the whole situation.
+
+**Kya aapne khaana kha liya?** is an extremely useful household question: “Have you eaten?” The combination **kha liya** presents eating as taken care of. A friendly answer is **Hau, kha liya**, “Yes, I have,” where **hau** is a local affirmative used in some Hyderabadi families. The shared alternative is **Haan, kha liya**. Do not assume every relative wants the same local pronunciation; your target is communication with actual people, not a performance of a city identity.
+
+## Three conversations to borrow and vary
+
+### At the door
+
+**Nani:** Kal tum aaye nahin? — You did not come yesterday?
+
+**Learner:** Maaf kijiye, main kaam mein phansa hua tha. — I am sorry; I was caught up with work. A woman says **phansi hui thi**.
+
+**Nani:** Achha, tumne phone bhi nahin kiya. — I see; you did not call either.
+
+**Learner:** Maine message bheja tha. Shayad aapne dekha nahin. — I had sent a message. Perhaps you did not see it.
+
+**Nani:** Hau, baad mein dekha. Aaj baitho. — Yes, I saw it later. Sit today.
+
+The learner acknowledges the complaint before explaining. **Bhi** means “also/either” according to context. Notice **message bheja** because the borrowed noun is commonly treated as masculine here. Families can assign borrowed words different genders; retain a consistent local model when you have evidence. Replace the work explanation with **main safar mein tha/thi**, “I was traveling,” without changing the respectful tone.
+
+### Reconstructing a meal
+
+**Cousin:** Kal kya banaya? — What did you make yesterday?
+
+**Learner:** Maine daal banayi aur bhai ne chaawal banaye. — I made lentils, and my brother made rice.
+
+**Cousin:** Chai kisne banayi? — Who made the tea?
+
+**Learner:** Ammi ne banayi. Phir hum sabne saath khaana khaya. — Ammi made it. Then we all ate together.
+
+**Cousin:** Mereku pehle kaiku nahin bulaya? — Why did you not call me earlier? Shared form: **Mujhe pehle kyun nahin bulaya?**
+
+**Learner:** Agli baar zaroor bulaunga/bulaungi. — Next time I will definitely invite you.
+
+The last response is a useful future phrase for now; Chapter 6 builds it systematically. The local **mereku** marks “me,” and **kaiku** asks “why.” Neither requires changing all the grammar around it. Listen for your family’s actual preference, including **merko**, **mere ko**, or shared **mujhe**.
+
+### A childhood memory
+
+**Learner:** Aap bachpan mein kahan rehte the? — Where did you live as a child? Addressing a male elder.
+
+**Nana:** Hum purane shehar mein rehte the. Shaam ko sab bahar baithte the. — We lived in the old city. In the evening everyone used to sit outside.
+
+**Learner:** Kya aap roz cricket khelte the? — Did you play cricket every day?
+
+**Nana:** Roz nahin. Ek baar gend kho gayi. Phir humne doosra khel khela. — Not every day. Once the ball got lost. Then we played another game.
+
+**Learner:** Phir kya hua? — What happened then?
+
+The repeated **the** creates a background of habits. **Kho gayi** and **khela** move to one episode. **Phir kya hua?** is a better storytelling tool than repeatedly asking unrelated vocabulary questions. Follow the event the relative has introduced.
+
+## Practice with explanations
+
+### A. Choose the form and explain its controller
+
+1. Main bazaar **gaya/gayi**. Give a version for each speaker gender.
+2. Ali ne chai **pi/piya**.
+3. Sara ne paani **pi/piya**.
+4. Humne do rotiyan **khayi/khaya**. State what controls agreement.
+5. Maine Nani ko **dekhi/dekha**.
+6. Bhai ne Ammi ko kitaab **di/diya**.
+7. Kal main khaana **bana raha tha/banaya**, meaning “was making.”
+8. Hum pehle yahan **rehte the/rahe**, meaning an old habit.
+
+**Answers:** 1. A male speaker uses **gaya**; a female speaker uses **gayi**. No direct object controls the verb. 2. **Pi**, agreeing with unmarked feminine **chai**. 3. **Piya**, agreeing with masculine **paani**. 4. Feminine plural **khayi**, with nasalized plural pronunciation in careful speech; **rotiyan** is the unmarked object. 5. **Dekha**, default agreement because the doer and direct object are marked. 6. **Di**, agreeing with **kitaab**; **Ammi ko** is the recipient. 7. **Bana raha tha** for a male speaker, **bana rahi thi** for a female speaker. 8. **Rehte the** describes a repeated state of living there.
+
+### B. Translate the message, then compare structure
+
+1. I bought vegetables yesterday.
+2. My sister came home late.
+3. We saw your brother.
+4. Ammi gave me tea.
+5. I used to drink tea in the morning. Give both gender versions.
+6. The children were playing when I arrived. Use two short sentences if needed.
+7. What happened after that?
+8. Why did you not call me? Give a shared and a family-local version.
+
+**Possible answers:** 1. **Maine kal sabzi khareedi.** The verb follows **sabzi**. 2. **Meri behen der se ghar aayi.** The subject is feminine. 3. **Humne aapke bhai ko dekha.** The person object has **ko**. 4. **Ammi ne mujhe chai di.** The recipient **mujhe** does not block agreement with unmarked **chai**. 5. **Main subah chai peeta tha/peeti thi.** Habitual agreement follows the speaker. 6. **Bachche khel rahe the. Tab main aaya/aayi.** Chapter 8 will join these with **jab**. 7. **Uske baad kya hua?** 8. **Aapne mujhe phone kyun nahin kiya?** A familiar cousin may say **Mereku phone kaiku nahin kiya?** Use the local option only where that relationship permits it.
+
+### C. Repair the meaning
+
+Explain the problem in **Maine ghar gayi**, **Ali ne chai piya**, **Maine Ammi ko dekhi**, and **Main roz chai pi thi**, if the last sentence is intended to mean “I used to drink tea every day.” Corrections are **Main ghar gayi** for a female speaker, **Ali ne chai pi**, **Maine Ammi ko dekha**, and **Main roz chai peeta tha/peeti thi**. The errors are respectively an unnecessary **ne**, the wrong object agreement, agreement with a marked direct object, and the wrong aspect for an old habit. Correcting the reason matters more than copying the corrected sentence.
+
+## Listening and speaking without depending on a transcript
+
+Ask a willing relative to record the market story naturally, then slowly, with the same meaning. Obtain their permission before saving or sharing their voice. In the companion, a native recording is preferable; synthetic speech is a practice aid and may misread Roman text. First listen with the transcript hidden and choose the event order. Second, type the Roman words you heard. Third, write the English meaning. Finally reveal the target and classify each mismatch as a sound, a word boundary, grammar, or meaning problem. A different sensible Roman spelling is not automatically a listening error.
+
+For speaking, record a forty-five-second account of yesterday with three completed events, one background detail, and one old habit. Replay it and mark only three corrections. Record again without reading. Then have a partner interrupt twice with **Kab?**, **Kisne?**, or **Phir kya hua?** A fluent memorized monologue alone does not show that you can converse. The ability to recover after a question is part of this chapter’s outcome.
+
+## The 85-hour practice plan
+
+| Work block | Hours | Concrete product |
+|---|---:|---|
+| Read, compare examples, and work the sentence decisions | 10 | Twenty annotated sentences with agreement controllers |
+| Perfective and background listening | 15 | Ten short clips with Roman dictation and meanings |
+| Controlled translation and correction | 12 | Eighty sentences, reviewed after a delay |
+| Story recording and shadowing | 12 | Twelve paired first-and-second recordings |
+| Partner or family conversation | 18 | Six conversations of increasing unpredictability |
+| Vocabulary review in past-event contexts | 8 | Fifty useful words retrieved inside sentences |
+| Childhood interview project | 6 | A respectful interview and an original retelling |
+| Exit assessment and targeted repair | 4 | A fresh story, dialogue, and correction log |
+| **Total** | **85** | |
+
+Spread the hours across days. One hour of rereading the same page is not equivalent to one hour of attentive listening or live exchange. During a partner block, include a short preparation and a review, but count the minutes actually spent. If a relative is unavailable, alternate roles into a recorder and use unpredictable question cards; schedule a real interaction later rather than pretending self-recording provides the same evidence.
+
+For the childhood interview, ask **Aap bachpan mein kya khelte the?**, **Aapke ghar mein khaana kaun banata tha?**, and **Koi yaadgaar baat batayiye**. Do not press for difficult memories. Retell one approved, ordinary episode in your own words. Preserve the difference between what the relative actually said and what you inferred. A family language course should make people feel heard.
+
+## Exit evidence and the next connection
+
+You are ready to move on when you can tell a two-minute story with understandable sequence; answer five unscripted questions; use several common perfectives accurately; distinguish **kiya**, **kar raha tha**, and **karta tha** in meaning; and repair a misunderstanding with **Mera matlab tha…**, “I meant…”. Aim for at least eight correct meaning choices out of ten and roughly four correct agreement choices out of five on familiar vocabulary, then repeat the task with new events. These are course checkpoints, not a certified proficiency result.
+
+Keep one personal page of verbs you actually used, each with a present, completed, and background sentence. Do not turn a local family variant into a correction target merely because it differs from the shared baseline. Ask which form belongs in your household and which would be clearer to an unfamiliar Urdu/Hindi speaker. The next chapter uses this ability to move between plans, possibilities, and obligations: what will happen, what might happen, and what someone needs to do.
+
+### Source note
+
+The University of Texas at Austin’s [Hindi Grammar](https://hindi.la.utexas.edu/resources/grammar/) was inspected to check the shared tense/aspect framework and terminology. Rupert Snell’s [Hindi-Urdu verb resources](https://hindi.la.utexas.edu/resources/the-hindi-verb/) are an additional reading link: the index description was available, but the full guide did not load during this edition’s research. Examples and activities here are original. The linked university materials are broader Hindi/Urdu resources rather than a validation of every Hyderabadi household form. The **ne** discussion deliberately separates the shared teaching baseline from local usage that should be checked with your own speakers.

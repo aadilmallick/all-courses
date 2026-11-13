@@ -1,0 +1,11 @@
+{
+  "status": "blocked",
+  "observed_failure": "Chromium startup failed while creating its process-singleton socket: Operation not permitted.",
+  "executed_browser_tests": 0,
+  "visual_inspection": false,
+  "fallback": "Actual calculation and interface modules executed separately in Node with a deterministic DOM harness.",
+  "limits": [
+    "No desktop/mobile visual or browser layout certification",
+    "No live account workflows or campaigns executed"
+  ]
+}

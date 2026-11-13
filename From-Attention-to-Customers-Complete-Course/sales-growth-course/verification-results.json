@@ -1,0 +1,100 @@
+{
+  "status": "pass",
+  "chapters": [
+    {
+      "file": "chapters/01-foundations.md",
+      "whitespace_prose_words": 5014,
+      "sha256": "622123ba26aeaa23dc3d91d30e99e00560fdc7d290749f50ca15101ce4aa3959"
+    },
+    {
+      "file": "chapters/02-research-and-offers.md",
+      "whitespace_prose_words": 5046,
+      "sha256": "ba276b8a9e4f21fc34b93143bceabab9176635e7306db72b885c8e8f6679df45"
+    },
+    {
+      "file": "chapters/03-content-and-copy.md",
+      "whitespace_prose_words": 5018,
+      "sha256": "bf3f11a3a629b45ffebfeecf7137bb51c6abc9b05952b8624e047e5444a081e4"
+    },
+    {
+      "file": "chapters/04-sales.md",
+      "whitespace_prose_words": 5016,
+      "sha256": "3fae29316640116f613115c0455d7184baf7b99f57df8a3e462be9fe6d0a1393"
+    },
+    {
+      "file": "chapters/05-linkedin.md",
+      "whitespace_prose_words": 5010,
+      "sha256": "6dee4dc476570f7545829bb5ced46e7a60c08e7a65c0db79a281a8e2281245a8"
+    },
+    {
+      "file": "chapters/06-x-twitter.md",
+      "whitespace_prose_words": 5058,
+      "sha256": "5c6a74decb67a8022cf9f498607f5356750bd506343fe149691dfb230e4550c8"
+    },
+    {
+      "file": "chapters/07-youtube.md",
+      "whitespace_prose_words": 5012,
+      "sha256": "36d59ef69bea77242ad5226348c25ee9302a66ef2d3b57ebfcf01aacb85974d7"
+    },
+    {
+      "file": "chapters/08-funnels-email-launches.md",
+      "whitespace_prose_words": 5004,
+      "sha256": "04745122dbc788c4163e30571a51fb337327b4aee939a5e44ed9e2aeaf7561d1"
+    },
+    {
+      "file": "chapters/09-measurement-and-paid.md",
+      "whitespace_prose_words": 5002,
+      "sha256": "250f5c59253a03b1596a1cd73bafdc9e6375c7cfc8338182cea274ec87427417"
+    },
+    {
+      "file": "chapters/10-operations-and-capstone.md",
+      "whitespace_prose_words": 5024,
+      "sha256": "bbe3de3e4fb1f26e13d376c7fabb4cf120b0da82bc1ae7b1f6968fdc6e81ee75"
+    }
+  ],
+  "chapter_words": 50204,
+  "sessions": 100,
+  "hours": 1000,
+  "category_hours": {
+    "study_hours": 140,
+    "guided_hours": 160,
+    "production_hours": 380,
+    "field_hours": 222,
+    "review_hours": 98
+  },
+  "primary_sources": 26,
+  "synthetic_aggregate_rates": {
+    "A": 0.05,
+    "B": 0.035
+  },
+  "errors": [],
+  "length_method": "Whitespace-separated prose words; model-token counts unverified.",
+  "numerical": {
+    "status": "pass",
+    "checks": 38,
+    "node": "v24.22.1"
+  },
+  "interactions": {
+    "status": "pass",
+    "checks": 63,
+    "method": "Actual source modules and built inline output with deterministic DOM harness; real-browser rendering unverified."
+  },
+  "html": {
+    "status": "pass",
+    "unique_reader_ids": 203,
+    "reader_fragment_links": 215,
+    "embedded_lab_matches_standalone": true,
+    "remote_runtime_assets": []
+  },
+  "browser": {
+    "status": "blocked",
+    "observed_failure": "Chromium startup failed while creating its process-singleton socket: Operation not permitted.",
+    "executed_browser_tests": 0,
+    "visual_inspection": false,
+    "fallback": "Actual calculation and interface modules executed separately in Node with a deterministic DOM harness.",
+    "limits": [
+      "No desktop/mobile visual or browser layout certification",
+      "No live account workflows or campaigns executed"
+    ]
+  }
+}

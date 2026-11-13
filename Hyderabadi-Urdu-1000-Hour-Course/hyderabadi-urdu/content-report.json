@@ -1,0 +1,80 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "file": "01-sounds-and-first-conversations.md",
+      "hours": 60,
+      "words": 3620
+    },
+    {
+      "number": 2,
+      "file": "02-family-and-description.md",
+      "hours": 70,
+      "words": 3526
+    },
+    {
+      "number": 3,
+      "file": "03-home-routines-and-time.md",
+      "hours": 80,
+      "words": 3319
+    },
+    {
+      "number": 4,
+      "file": "04-shopping-food-and-directions.md",
+      "hours": 80,
+      "words": 3205
+    },
+    {
+      "number": 5,
+      "file": "05-past-events-and-stories.md",
+      "hours": 85,
+      "words": 3592
+    },
+    {
+      "number": 6,
+      "file": "06-plans-ability-and-obligation.md",
+      "hours": 85,
+      "words": 3617
+    },
+    {
+      "number": 7,
+      "file": "07-relationships-feelings-and-health.md",
+      "hours": 85,
+      "words": 3612
+    },
+    {
+      "number": 8,
+      "file": "08-connected-stories-and-explanations.md",
+      "hours": 90,
+      "words": 3810
+    },
+    {
+      "number": 9,
+      "file": "09-opinions-conditions-and-negotiation.md",
+      "hours": 90,
+      "words": 3519
+    },
+    {
+      "number": 10,
+      "file": "10-nuance-and-hyderabadi-conversation.md",
+      "hours": 90,
+      "words": 3557
+    },
+    {
+      "number": 11,
+      "file": "11-real-world-conversation.md",
+      "hours": 90,
+      "words": 3659
+    },
+    {
+      "number": 12,
+      "file": "12-b2-capstone-and-lifelong-conversation.md",
+      "hours": 95,
+      "words": 3934
+    }
+  ],
+  "hours": 1000,
+  "vocabulary": 1000,
+  "authoredPractice": 360,
+  "derivedVocabularyPrompts": 2000
+}

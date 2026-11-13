@@ -1,0 +1,50 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: consulting-lab
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sample-web
+  namespace: consulting-lab
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: sample-web
+  template:
+    metadata:
+      labels:
+        app: sample-web
+    spec:
+      containers:
+        - name: web
+          image: nginx:1.28.0
+          ports:
+            - name: http
+              containerPort: 80
+          resources:
+            requests:
+              cpu: 100m
+              memory: 64Mi
+            limits:
+              cpu: 500m
+              memory: 128Mi
+          readinessProbe:
+            httpGet:
+              path: /
+              port: http
+            periodSeconds: 5
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sample-web
+  namespace: consulting-lab
+spec:
+  selector:
+    app: sample-web
+  ports:
+    - port: 80
+      targetPort: http
