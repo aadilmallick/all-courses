@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "devin",
+    "title": "Devin",
+    "description": "Delegate a verifiable bug fix, prepare the environment and review a focused patch with evidence.",
+    "category": "factories",
+    "kind": "Managed coding agent",
+    "level": "Intermediate",
+    "hours": "4–6 hours",
+    "homepage": "https://devin.ai/",
+    "docs": "https://docs.devin.ai/get-started/devin-intro",
+    "status": "Documented; Skills recommended for new reusable work",
+    "sources": [
+      {"title": "Introducing Devin", "url": "https://docs.devin.ai/get-started/devin-intro", "accessed": "2026-11-13", "supports": "Product surfaces and development-tool context; vendor task-success claims not presented as independent benchmarks."},
+      {"title": "Your First Session", "url": "https://docs.devin.ai/get-started/first-run", "accessed": "2026-11-13", "supports": "Ask/Agent distinction, repository setup and account-dependent agent options."},
+      {"title": "Instructing Devin Effectively", "url": "https://docs.devin.ai/essential-guidelines/instructing-devin-effectively", "accessed": "2026-11-13", "supports": "Task context, explicit criteria and verification principles."},
+      {"title": "Hand off to Devin Cloud from Any Agent", "url": "https://docs.devin.ai/work-with-devin/devin-handoff", "accessed": "2026-11-13", "supports": "Devin CLI /handoff and API-based cloud handoff paths."},
+      {"title": "Devin Skills", "url": "https://docs.devin.ai/product-guides/skills", "accessed": "2026-11-13", "supports": "Current SKILL.md procedure mechanism and recommended repository location."},
+      {"title": "Creating Playbooks", "url": "https://docs.devin.ai/product-guides/creating-playbooks", "accessed": "2026-11-13", "supports": "Explicit migration note: new accounts start with Skills rather than Playbooks from October 24, 2026."},
+      {"title": "Python csv library", "url": "https://docs.python.org/3/library/csv.html", "accessed": "2026-11-13", "supports": "Independent sample's DictReader and parser-error semantics."},
+      {"title": "Python io library", "url": "https://docs.python.org/3/library/io.html", "accessed": "2026-11-13", "supports": "Independent sample's in-memory text stream."}
+    ]
+  }
+]

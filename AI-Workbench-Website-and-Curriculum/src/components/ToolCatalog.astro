@@ -1,0 +1,39 @@
+---
+import {loadTools} from '../../scripts/catalog.mjs';
+const tools=loadTools();
+const names={factories:'Software factories',sandboxes:'Agent sandboxes',voice:'Voice agents',video:'Video & avatars'};
+---
+<section class="tool-explorer" aria-label="Tool directory">
+  <div class="catalog-controls">
+    <label class="directory-search"><span aria-hidden="true">⌕</span><span class="sr-only">Filter tools by name or description</span><input type="search" placeholder="Find a tool, capability, or workflow…" id="tool-query" /></label>
+    <label class="level-filter"><span class="sr-only">Experience level</span><select id="tool-level"><option value="all">All levels</option><option>Beginner</option><option>Intermediate</option><option>Advanced</option></select></label>
+  </div>
+  <div class="category-filters" role="group" aria-label="Tool category">
+    <button type="button" data-category="all" aria-pressed="true">All tools <span>{tools.length}</span></button>
+    {Object.entries(names).map(([key,value])=><button type="button" data-category={key} aria-pressed="false">{value}</button>)}
+  </div>
+  <p class="result-count" aria-live="polite" id="tool-count">{tools.length} tools · Choose a guide to begin</p>
+  <div class="tool-grid">
+    {tools.map((tool,i)=><a class="tool-card" href={`/${tool.category}/${tool.slug}/`} data-tool data-category={tool.category} data-level={tool.level||'Intermediate'} data-search={`${tool.title} ${tool.description} ${tool.kind||''} ${names[tool.category]}`.toLowerCase()}>
+      <div class="tool-card-top"><span class={`tool-symbol symbol-${tool.category}`} aria-hidden="true">{tool.title.slice(0,2)}</span><span class="tool-kind">{tool.kind||names[tool.category]}</span><span class="card-arrow" aria-hidden="true">↗</span></div>
+      <h3>{tool.title}</h3><p>{tool.description}</p>
+      <div class="tool-card-bottom"><span>{tool.level||'Intermediate'}</span><span title={tool.status}>{(tool.status||'Documented').length>30?'Check current availability':tool.status||'Documented'}</span></div>
+    </a>)}
+  </div>
+  <div id="tool-empty" hidden><strong>No tools match those filters.</strong><p>Try another search or select All tools.</p><button type="button" id="reset-filters">Reset filters</button></div>
+</section>
+<script>
+function initCatalog(){
+ const input=document.querySelector<HTMLInputElement>('#tool-query');
+ const level=document.querySelector<HTMLSelectElement>('#tool-level');
+ const buttons=Array.from(document.querySelectorAll<HTMLButtonElement>('.category-filters button'));
+ const cards=Array.from(document.querySelectorAll<HTMLElement>('[data-tool]'));
+ if(!input||!level)return;
+ let category='all';
+ function update(){let total=0;const query=input!.value.trim().toLowerCase();for(const card of cards){const show=(category==='all'||card.dataset.category===category)&&(level!.value==='all'||card.dataset.level===level!.value)&&(card.dataset.search||'').includes(query);card.hidden=!show;if(show)total++;}document.querySelector('#tool-count')!.textContent=`${total} ${total===1?'tool':'tools'} · Choose a guide to begin`;document.querySelector<HTMLElement>('#tool-empty')!.hidden=total>0;}
+ buttons.forEach(button=>button.addEventListener('click',()=>{category=button.dataset.category||'all';buttons.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));update();}));
+ input.addEventListener('input',update);level.addEventListener('change',update);
+ document.querySelector('#reset-filters')?.addEventListener('click',()=>{input.value='';level.value='all';buttons[0].click();input.focus();});
+}
+initCatalog();
+</script>

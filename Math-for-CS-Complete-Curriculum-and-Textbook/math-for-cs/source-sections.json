@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "1.1",
+    "title": "Propositions",
+    "printed_page": 5
+  },
+  {
+    "id": "1.2",
+    "title": "Predicates",
+    "printed_page": 8
+  },
+  {
+    "id": "1.3",
+    "title": "The Axiomatic Method",
+    "printed_page": 8
+  },
+  {
+    "id": "1.4",
+    "title": "Our Axioms",
+    "printed_page": 9
+  },
+  {
+    "id": "1.5",
+    "title": "Proving an Implication",
+    "printed_page": 11
+  },
+  {
+    "id": "1.6",
+    "title": "Proving an “If and Only If”",
+    "printed_page": 13
+  },
+  {
+    "id": "1.7",
+    "title": "Proof by Cases",
+    "printed_page": 15
+  },
+  {
+    "id": "1.8",
+    "title": "Proof by Contradiction",
+    "printed_page": 16
+  },
+  {
+    "id": "1.9",
+    "title": "Good Proofs in Practice",
+    "printed_page": 17
+  },
+  {
+    "id": "1.10",
+    "title": "References",
+    "printed_page": 19
+  },
+  {
+    "id": "2.1",
+    "title": "Well Ordering Proofs",
+    "printed_page": 29
+  },
+  {
+    "id": "2.2",
+    "title": "Template for Well Ordering Proofs",
+    "printed_page": 30
+  },
+  {
+    "id": "2.3",
+    "title": "Factoring into Primes",
+    "printed_page": 32
+  },
+  {
+    "id": "2.4",
+    "title": "Well Ordered Sets",
+    "printed_page": 33
+  },
+  {
+    "id": "3.1",
+    "title": "Propositions from Propositions",
+    "printed_page": 46
+  },
+  {
+    "id": "3.2",
+    "title": "Propositional Logic in Computer Programs",
+    "printed_page": 50
+  },
+  {
+    "id": "3.3",
+    "title": "Equivalence and Validity",
+    "printed_page": 52
+  },
+  {
+    "id": "3.4",
+    "title": "The Algebra of Propositions",
+    "printed_page": 55
+  },
+  {
+    "id": "3.5",
+    "title": "The SAT Problem",
+    "printed_page": 60
+  },
+  {
+    "id": "3.6",
+    "title": "Predicate Formulas",
+    "printed_page": 61
+  },
+  {
+    "id": "3.7",
+    "title": "References",
+    "printed_page": 66
+  },
+  {
+    "id": "4.1",
+    "title": "Sets",
+    "printed_page": 91
+  },
+  {
+    "id": "4.2",
+    "title": "Sequences",
+    "printed_page": 96
+  },
+  {
+    "id": "4.3",
+    "title": "Functions",
+    "printed_page": 97
+  },
+  {
+    "id": "4.4",
+    "title": "Binary Relations",
+    "printed_page": 99
+  },
+  {
+    "id": "4.5",
+    "title": "Finite Cardinality",
+    "printed_page": 103
+  },
+  {
+    "id": "5.1",
+    "title": "Ordinary Induction",
+    "printed_page": 123
+  },
+  {
+    "id": "5.2",
+    "title": "Strong Induction",
+    "printed_page": 132
+  },
+  {
+    "id": "5.3",
+    "title": "Strong Induction vs. Induction vs. Well Ordering",
+    "printed_page": 139
+  },
+  {
+    "id": "6.1",
+    "title": "States and Transitions",
+    "printed_page": 159
+  },
+  {
+    "id": "6.2",
+    "title": "The Invariant Principle",
+    "printed_page": 160
+  },
+  {
+    "id": "6.3",
+    "title": "Partial Correctness & Termination",
+    "printed_page": 168
+  },
+  {
+    "id": "6.4",
+    "title": "The Stable Marriage Problem",
+    "printed_page": 173
+  },
+  {
+    "id": "7.1",
+    "title": "Recursive Definitions and Structural Induction",
+    "printed_page": 203
+  },
+  {
+    "id": "7.2",
+    "title": "Strings of Matched Brackets",
+    "printed_page": 207
+  },
+  {
+    "id": "7.3",
+    "title": "Recursive Functions on Nonnegative Integers",
+    "printed_page": 211
+  },
+  {
+    "id": "7.4",
+    "title": "Arithmetic Expressions",
+    "printed_page": 213
+  },
+  {
+    "id": "7.5",
+    "title": "Induction in Computer Science",
+    "printed_page": 218
+  },
+  {
+    "id": "8.1",
+    "title": "Infinite Cardinality",
+    "printed_page": 246
+  },
+  {
+    "id": "8.2",
+    "title": "The Halting Problem",
+    "printed_page": 255
+  },
+  {
+    "id": "8.3",
+    "title": "The Logic of Sets",
+    "printed_page": 259
+  },
+  {
+    "id": "8.4",
+    "title": "Does All This Really Work?",
+    "printed_page": 262
+  },
+  {
+    "id": "9.1",
+    "title": "Divisibility",
+    "printed_page": 289
+  },
+  {
+    "id": "9.2",
+    "title": "The Greatest Common Divisor",
+    "printed_page": 294
+  },
+  {
+    "id": "9.3",
+    "title": "Prime Mysteries",
+    "printed_page": 301
+  },
+  {
+    "id": "9.4",
+    "title": "The Fundamental Theorem of Arithmetic",
+    "printed_page": 304
+  },
+  {
+    "id": "9.5",
+    "title": "Alan Turing",
+    "printed_page": 306
+  },
+  {
+    "id": "9.6",
+    "title": "Modular Arithmetic",
+    "printed_page": 310
+  },
+  {
+    "id": "9.7",
+    "title": "Remainder Arithmetic",
+    "printed_page": 312
+  },
+  {
+    "id": "9.8",
+    "title": "Turing’s Code (Version 2.0)",
+    "printed_page": 315
+  },
+  {
+    "id": "9.9",
+    "title": "Multiplicative Inverses and Cancelling",
+    "printed_page": 317
+  },
+  {
+    "id": "9.10",
+    "title": "Euler’s Theorem",
+    "printed_page": 321
+  },
+  {
+    "id": "9.11",
+    "title": "RSA Public Key Encryption",
+    "printed_page": 326
+  },
+  {
+    "id": "9.12",
+    "title": "What has SAT got to do with it?",
+    "printed_page": 328
+  },
+  {
+    "id": "9.13",
+    "title": "References",
+    "printed_page": 329
+  },
+  {
+    "id": "10.1",
+    "title": "Vertex Degrees",
+    "printed_page": 369
+  },
+  {
+    "id": "10.2",
+    "title": "Walks and Paths",
+    "printed_page": 370
+  },
+  {
+    "id": "10.3",
+    "title": "Adjacency Matrices",
+    "printed_page": 373
+  },
+  {
+    "id": "10.4",
+    "title": "Walk Relations",
+    "printed_page": 376
+  },
+  {
+    "id": "10.5",
+    "title": "Directed Acyclic Graphs & Scheduling",
+    "printed_page": 377
+  },
+  {
+    "id": "10.6",
+    "title": "Partial Orders",
+    "printed_page": 385
+  },
+  {
+    "id": "10.7",
+    "title": "Representing Partial Orders by Set Containment",
+    "printed_page": 388
+  },
+  {
+    "id": "10.8",
+    "title": "Linear Orders",
+    "printed_page": 390
+  },
+  {
+    "id": "10.9",
+    "title": "Product Orders",
+    "printed_page": 390
+  },
+  {
+    "id": "10.10",
+    "title": "Equivalence Relations",
+    "printed_page": 391
+  },
+  {
+    "id": "10.11",
+    "title": "Summary of Relational Properties",
+    "printed_page": 393
+  },
+  {
+    "id": "11.1",
+    "title": "Routing",
+    "printed_page": 425
+  },
+  {
+    "id": "11.2",
+    "title": "Routing Measures",
+    "printed_page": 426
+  },
+  {
+    "id": "11.3",
+    "title": "Network Designs",
+    "printed_page": 429
+  },
+  {
+    "id": "12.1",
+    "title": "Vertex Adjacency and Degrees",
+    "printed_page": 445
+  },
+  {
+    "id": "12.2",
+    "title": "Sexual Demographics in America",
+    "printed_page": 447
+  },
+  {
+    "id": "12.3",
+    "title": "Some Common Graphs",
+    "printed_page": 449
+  },
+  {
+    "id": "12.4",
+    "title": "Isomorphism",
+    "printed_page": 451
+  },
+  {
+    "id": "12.5",
+    "title": "Bipartite Graphs & Matchings",
+    "printed_page": 453
+  },
+  {
+    "id": "12.6",
+    "title": "Coloring",
+    "printed_page": 458
+  },
+  {
+    "id": "12.7",
+    "title": "Simple Walks",
+    "printed_page": 463
+  },
+  {
+    "id": "12.8",
+    "title": "Connectivity",
+    "printed_page": 465
+  },
+  {
+    "id": "12.9",
+    "title": "Forests & Trees",
+    "printed_page": 470
+  },
+  {
+    "id": "12.10",
+    "title": "References",
+    "printed_page": 478
+  },
+  {
+    "id": "13.1",
+    "title": "Drawing Graphs in the Plane",
+    "printed_page": 517
+  },
+  {
+    "id": "13.2",
+    "title": "Definitions of Planar Graphs",
+    "printed_page": 517
+  },
+  {
+    "id": "13.3",
+    "title": "Euler’s Formula",
+    "printed_page": 528
+  },
+  {
+    "id": "13.4",
+    "title": "Bounding the Number of Edges in a Planar Graph",
+    "printed_page": 529
+  },
+  {
+    "id": "13.5",
+    "title": "Returning to K5 andK3;3",
+    "printed_page": 530
+  },
+  {
+    "id": "13.6",
+    "title": "Coloring Planar Graphs",
+    "printed_page": 531
+  },
+  {
+    "id": "13.7",
+    "title": "Classifying Polyhedra",
+    "printed_page": 533
+  },
+  {
+    "id": "13.8",
+    "title": "Another Characterization for Planar Graphs",
+    "printed_page": 536
+  },
+  {
+    "id": "14.1",
+    "title": "The Value of an Annuity",
+    "printed_page": 548
+  },
+  {
+    "id": "14.2",
+    "title": "Sums of Powers",
+    "printed_page": 554
+  },
+  {
+    "id": "14.3",
+    "title": "Approximating Sums",
+    "printed_page": 556
+  },
+  {
+    "id": "14.4",
+    "title": "Hanging Out Over the Edge",
+    "printed_page": 560
+  },
+  {
+    "id": "14.5",
+    "title": "Products",
+    "printed_page": 566
+  },
+  {
+    "id": "14.6",
+    "title": "Double Trouble",
+    "printed_page": 569
+  },
+  {
+    "id": "14.7",
+    "title": "Asymptotic Notation",
+    "printed_page": 572
+  },
+  {
+    "id": "15.1",
+    "title": "Counting One Thing by Counting Another",
+    "printed_page": 597
+  },
+  {
+    "id": "15.2",
+    "title": "Counting Sequences",
+    "printed_page": 598
+  },
+  {
+    "id": "15.3",
+    "title": "The Generalized Product Rule",
+    "printed_page": 601
+  },
+  {
+    "id": "15.4",
+    "title": "The Division Rule",
+    "printed_page": 605
+  },
+  {
+    "id": "15.5",
+    "title": "Counting Subsets",
+    "printed_page": 608
+  },
+  {
+    "id": "15.6",
+    "title": "Sequences with Repetitions",
+    "printed_page": 610
+  },
+  {
+    "id": "15.7",
+    "title": "Counting Practice: Poker Hands",
+    "printed_page": 613
+  },
+  {
+    "id": "15.8",
+    "title": "The Pigeonhole Principle",
+    "printed_page": 618
+  },
+  {
+    "id": "15.9",
+    "title": "Inclusion-Exclusion",
+    "printed_page": 627
+  },
+  {
+    "id": "15.10",
+    "title": "Combinatorial Proofs",
+    "printed_page": 633
+  },
+  {
+    "id": "15.11",
+    "title": "References",
+    "printed_page": 637
+  },
+  {
+    "id": "16.1",
+    "title": "Infinite Series",
+    "printed_page": 675
+  },
+  {
+    "id": "16.2",
+    "title": "Counting with Generating Functions",
+    "printed_page": 677
+  },
+  {
+    "id": "16.3",
+    "title": "Partial Fractions",
+    "printed_page": 683
+  },
+  {
+    "id": "16.4",
+    "title": "Solving Linear Recurrences",
+    "printed_page": 686
+  },
+  {
+    "id": "16.5",
+    "title": "Formal Power Series",
+    "printed_page": 691
+  },
+  {
+    "id": "16.6",
+    "title": "References",
+    "printed_page": 694
+  },
+  {
+    "id": "17.1",
+    "title": "Let’s Make a Deal",
+    "printed_page": 715
+  },
+  {
+    "id": "17.2",
+    "title": "The Four Step Method",
+    "printed_page": 716
+  },
+  {
+    "id": "17.3",
+    "title": "Strange Dice",
+    "printed_page": 725
+  },
+  {
+    "id": "17.4",
+    "title": "The Birthday Principle",
+    "printed_page": 732
+  },
+  {
+    "id": "17.5",
+    "title": "Set Theory and Probability",
+    "printed_page": 734
+  },
+  {
+    "id": "17.6",
+    "title": "References",
+    "printed_page": 738
+  },
+  {
+    "id": "18.1",
+    "title": "Monty Hall Confusion",
+    "printed_page": 747
+  },
+  {
+    "id": "18.2",
+    "title": "Definition and Notation",
+    "printed_page": 748
+  },
+  {
+    "id": "18.3",
+    "title": "The Four-Step Method for Conditional Probability",
+    "printed_page": 750
+  },
+  {
+    "id": "18.4",
+    "title": "Why Tree Diagrams Work",
+    "printed_page": 752
+  },
+  {
+    "id": "18.5",
+    "title": "The Law of Total Probability",
+    "printed_page": 760
+  },
+  {
+    "id": "18.6",
+    "title": "Simpson’s Paradox",
+    "printed_page": 762
+  },
+  {
+    "id": "18.7",
+    "title": "Independence",
+    "printed_page": 764
+  },
+  {
+    "id": "18.8",
+    "title": "Mutual Independence",
+    "printed_page": 766
+  },
+  {
+    "id": "18.9",
+    "title": "Probability versus Confidence",
+    "printed_page": 770
+  },
+  {
+    "id": "19.1",
+    "title": "Random Variable Examples",
+    "printed_page": 799
+  },
+  {
+    "id": "19.2",
+    "title": "Independence",
+    "printed_page": 801
+  },
+  {
+    "id": "19.3",
+    "title": "Distribution Functions",
+    "printed_page": 802
+  },
+  {
+    "id": "19.4",
+    "title": "Great Expectations",
+    "printed_page": 811
+  },
+  {
+    "id": "19.5",
+    "title": "Linearity of Expectation",
+    "printed_page": 822
+  },
+  {
+    "id": "20.1",
+    "title": "Markov’s Theorem",
+    "printed_page": 853
+  },
+  {
+    "id": "20.2",
+    "title": "Chebyshev’s Theorem",
+    "printed_page": 856
+  },
+  {
+    "id": "20.3",
+    "title": "Properties of Variance",
+    "printed_page": 860
+  },
+  {
+    "id": "20.4",
+    "title": "Estimation by Random Sampling",
+    "printed_page": 866
+  },
+  {
+    "id": "20.5",
+    "title": "Confidence in an Estimation",
+    "printed_page": 869
+  },
+  {
+    "id": "20.6",
+    "title": "Sums of Random Variables",
+    "printed_page": 871
+  },
+  {
+    "id": "20.7",
+    "title": "Really Great Expectations",
+    "printed_page": 880
+  },
+  {
+    "id": "21.1",
+    "title": "Gambler’s Ruin",
+    "printed_page": 905
+  },
+  {
+    "id": "21.2",
+    "title": "Random Walks on Graphs",
+    "printed_page": 915
+  },
+  {
+    "id": "22.1",
+    "title": "The Towers of Hanoi",
+    "printed_page": 935
+  },
+  {
+    "id": "22.2",
+    "title": "Merge Sort",
+    "printed_page": 938
+  },
+  {
+    "id": "22.3",
+    "title": "Linear Recurrences",
+    "printed_page": 942
+  },
+  {
+    "id": "22.4",
+    "title": "Divide-and-Conquer Recurrences",
+    "printed_page": 949
+  },
+  {
+    "id": "22.5",
+    "title": "A Feel for Recurrences",
+    "printed_page": 956
+  },
+  {
+    "id": "1.4.1",
+    "title": "Logical Deductions",
+    "printed_page": 10
+  },
+  {
+    "id": "1.4.2",
+    "title": "Patterns of Proof",
+    "printed_page": 11
+  },
+  {
+    "id": "1.5.1",
+    "title": "Method #1",
+    "printed_page": 11
+  },
+  {
+    "id": "1.5.2",
+    "title": "Method #2 - Prove the Contrapositive",
+    "printed_page": 13
+  },
+  {
+    "id": "1.6.1",
+    "title": "Method #1: Prove Each Statement Implies the Other",
+    "printed_page": 14
+  },
+  {
+    "id": "1.6.2",
+    "title": "Method #2: Construct a Chain of Iffs",
+    "printed_page": 14
+  },
+  {
+    "id": "2.2.1",
+    "title": "Summing the Integers",
+    "printed_page": 30
+  },
+  {
+    "id": "2.4.1",
+    "title": "A Different Well Ordered Set (Optional)",
+    "printed_page": 34
+  },
+  {
+    "id": "3.1.1",
+    "title": "NOT, AND, and OR",
+    "printed_page": 46
+  },
+  {
+    "id": "3.1.2",
+    "title": "If and Only If",
+    "printed_page": 47
+  },
+  {
+    "id": "3.1.3",
+    "title": "IMPLIES",
+    "printed_page": 48
+  },
+  {
+    "id": "3.2.1",
+    "title": "Truth Table Calculation",
+    "printed_page": 50
+  },
+  {
+    "id": "3.2.2",
+    "title": "Cryptic Notation",
+    "printed_page": 52
+  },
+  {
+    "id": "3.3.1",
+    "title": "Implications and Contrapositives",
+    "printed_page": 52
+  },
+  {
+    "id": "3.3.2",
+    "title": "Validity and Satisfiability",
+    "printed_page": 54
+  },
+  {
+    "id": "3.4.1",
+    "title": "Propositions in Normal Form",
+    "printed_page": 55
+  },
+  {
+    "id": "3.4.2",
+    "title": "Proving Equivalences",
+    "printed_page": 56
+  },
+  {
+    "id": "3.6.1",
+    "title": "Quantifiers",
+    "printed_page": 61
+  },
+  {
+    "id": "3.6.2",
+    "title": "Mixing Quantifiers",
+    "printed_page": 62
+  },
+  {
+    "id": "3.6.3",
+    "title": "Order of Quantifiers",
+    "printed_page": 63
+  },
+  {
+    "id": "3.6.4",
+    "title": "Variables Over One Domain",
+    "printed_page": 63
+  },
+  {
+    "id": "3.6.5",
+    "title": "Negating Quantifiers",
+    "printed_page": 64
+  },
+  {
+    "id": "3.6.6",
+    "title": "Validity for Predicate Formulas",
+    "printed_page": 65
+  },
+  {
+    "id": "4.1.1",
+    "title": "Some Popular Sets",
+    "printed_page": 92
+  },
+  {
+    "id": "4.1.2",
+    "title": "Comparing and Combining Sets",
+    "printed_page": 92
+  },
+  {
+    "id": "4.1.3",
+    "title": "Power Set",
+    "printed_page": 93
+  },
+  {
+    "id": "4.1.4",
+    "title": "Set Builder Notation",
+    "printed_page": 94
+  },
+  {
+    "id": "4.1.5",
+    "title": "Proving Set Equalities",
+    "printed_page": 94
+  },
+  {
+    "id": "4.3.1",
+    "title": "Domains and Images",
+    "printed_page": 97
+  },
+  {
+    "id": "4.3.2",
+    "title": "Function Composition",
+    "printed_page": 98
+  },
+  {
+    "id": "4.4.1",
+    "title": "Relation Diagrams",
+    "printed_page": 100
+  },
+  {
+    "id": "4.4.2",
+    "title": "Relational Images",
+    "printed_page": 102
+  },
+  {
+    "id": "4.5.1",
+    "title": "How Many Subsets of a Finite Set?",
+    "printed_page": 105
+  },
+  {
+    "id": "5.1.1",
+    "title": "A Rule for Ordinary Induction",
+    "printed_page": 124
+  },
+  {
+    "id": "5.1.2",
+    "title": "A Familiar Example",
+    "printed_page": 125
+  },
+  {
+    "id": "5.1.3",
+    "title": "A Template for Induction Proofs",
+    "printed_page": 126
+  },
+  {
+    "id": "5.1.4",
+    "title": "A Clean Writeup",
+    "printed_page": 127
+  },
+  {
+    "id": "5.1.5",
+    "title": "A More Challenging Example",
+    "printed_page": 127
+  },
+  {
+    "id": "5.1.6",
+    "title": "A Faulty Induction Proof",
+    "printed_page": 131
+  },
+  {
+    "id": "5.2.1",
+    "title": "A Rule for Strong Induction",
+    "printed_page": 133
+  },
+  {
+    "id": "5.2.2",
+    "title": "Fibonacci numbers",
+    "printed_page": 133
+  },
+  {
+    "id": "5.2.3",
+    "title": "Products of Primes",
+    "printed_page": 135
+  },
+  {
+    "id": "5.2.4",
+    "title": "Making Change",
+    "printed_page": 136
+  },
+  {
+    "id": "5.2.5",
+    "title": "The Stacking Game",
+    "printed_page": 137
+  },
+  {
+    "id": "6.2.1",
+    "title": "A Diagonally-Moving Robot",
+    "printed_page": 160
+  },
+  {
+    "id": "6.2.2",
+    "title": "Statement of the Invariant Principle",
+    "printed_page": 163
+  },
+  {
+    "id": "6.2.3",
+    "title": "The Die Hard Example",
+    "printed_page": 166
+  },
+  {
+    "id": "6.3.1",
+    "title": "Fast Exponentiation",
+    "printed_page": 169
+  },
+  {
+    "id": "6.3.2",
+    "title": "Derived Variables",
+    "printed_page": 171
+  },
+  {
+    "id": "6.3.3",
+    "title": "Termination with Well ordered Sets (Optional)",
+    "printed_page": 172
+  },
+  {
+    "id": "6.3.4",
+    "title": "A Southeast Jumping Robot (Optional)",
+    "printed_page": 172
+  },
+  {
+    "id": "6.4.1",
+    "title": "The Mating Ritual",
+    "printed_page": 174
+  },
+  {
+    "id": "6.4.2",
+    "title": "There is a Marriage Day",
+    "printed_page": 176
+  },
+  {
+    "id": "6.4.3",
+    "title": "They All Live Happily Ever After. . .",
+    "printed_page": 176
+  },
+  {
+    "id": "6.4.4",
+    "title": ". . . Especially the Men",
+    "printed_page": 177
+  },
+  {
+    "id": "6.4.5",
+    "title": "Applications",
+    "printed_page": 179
+  },
+  {
+    "id": "7.1.1",
+    "title": "Structural Induction",
+    "printed_page": 205
+  },
+  {
+    "id": "7.3.1",
+    "title": "Some Standard Recursive Functions on N",
+    "printed_page": 211
+  },
+  {
+    "id": "7.3.2",
+    "title": "Ill-formed Function Definitions",
+    "printed_page": 212
+  },
+  {
+    "id": "7.4.1",
+    "title": "Evaluation and Substitution with Aexp’s",
+    "printed_page": 214
+  },
+  {
+    "id": "8.1.1",
+    "title": "Infinity is different",
+    "printed_page": 248
+  },
+  {
+    "id": "8.1.2",
+    "title": "Countable Sets",
+    "printed_page": 249
+  },
+  {
+    "id": "8.1.3",
+    "title": "Power sets are strictly bigger",
+    "printed_page": 251
+  },
+  {
+    "id": "8.1.4",
+    "title": "Diagonal Argument",
+    "printed_page": 254
+  },
+  {
+    "id": "8.3.1",
+    "title": "Russell’s Paradox",
+    "printed_page": 259
+  },
+  {
+    "id": "8.3.2",
+    "title": "The ZFC Axioms for Sets",
+    "printed_page": 260
+  },
+  {
+    "id": "8.3.3",
+    "title": "Avoiding Russell’s Paradox",
+    "printed_page": 262
+  },
+  {
+    "id": "8.4.1",
+    "title": "Large Infinities in Computer Science",
+    "printed_page": 263
+  },
+  {
+    "id": "9.1.1",
+    "title": "Facts about Divisibility",
+    "printed_page": 290
+  },
+  {
+    "id": "9.1.2",
+    "title": "When Divisibility Goes Bad",
+    "printed_page": 291
+  },
+  {
+    "id": "9.1.3",
+    "title": "Die Hard",
+    "printed_page": 292
+  },
+  {
+    "id": "9.2.1",
+    "title": "Euclid’s Algorithm",
+    "printed_page": 295
+  },
+  {
+    "id": "9.2.2",
+    "title": "The Pulverizer",
+    "printed_page": 297
+  },
+  {
+    "id": "9.2.3",
+    "title": "One Solution for All Water Jug Problems",
+    "printed_page": 298
+  },
+  {
+    "id": "9.2.4",
+    "title": "Properties of the Greatest Common Divisor",
+    "printed_page": 301
+  },
+  {
+    "id": "9.4.1",
+    "title": "Proving Unique Factorization",
+    "printed_page": 305
+  },
+  {
+    "id": "9.5.1",
+    "title": "Turing’s Code (Version 1.0)",
+    "printed_page": 307
+  },
+  {
+    "id": "9.5.2",
+    "title": "Breaking Turing’s Code (Version 1.0)",
+    "printed_page": 310
+  },
+  {
+    "id": "9.7.1",
+    "title": "The ring Zn",
+    "printed_page": 314
+  },
+  {
+    "id": "9.9.1",
+    "title": "Relative Primality",
+    "printed_page": 318
+  },
+  {
+    "id": "9.9.2",
+    "title": "Cancellation",
+    "printed_page": 319
+  },
+  {
+    "id": "9.9.3",
+    "title": "Decrypting (Version 2.0)",
+    "printed_page": 319
+  },
+  {
+    "id": "9.9.4",
+    "title": "Breaking Turing’s Code (Version 2.0)",
+    "printed_page": 320
+  },
+  {
+    "id": "9.9.5",
+    "title": "Turing Postscript",
+    "printed_page": 320
+  },
+  {
+    "id": "9.10.1",
+    "title": "Computing Euler’s ",
+    "printed_page": 324
+  },
+  {
+    "id": "10.2.1",
+    "title": "Finding a Path",
+    "printed_page": 372
+  },
+  {
+    "id": "10.3.1",
+    "title": "Shortest Paths",
+    "printed_page": 375
+  },
+  {
+    "id": "10.4.1",
+    "title": "Composition of Relations",
+    "printed_page": 376
+  },
+  {
+    "id": "10.5.1",
+    "title": "Scheduling",
+    "printed_page": 379
+  },
+  {
+    "id": "10.5.2",
+    "title": "Parallel Task Scheduling",
+    "printed_page": 381
+  },
+  {
+    "id": "10.5.3",
+    "title": "Dilworth’s Lemma",
+    "printed_page": 384
+  },
+  {
+    "id": "10.6.1",
+    "title": "The Properties of the Walk Relation in DAGs",
+    "printed_page": 385
+  },
+  {
+    "id": "10.6.2",
+    "title": "Strict Partial Orders",
+    "printed_page": 386
+  },
+  {
+    "id": "10.6.3",
+    "title": "Weak Partial Orders",
+    "printed_page": 387
+  },
+  {
+    "id": "10.10.1",
+    "title": "Equivalence Classes",
+    "printed_page": 392
+  },
+  {
+    "id": "11.1.1",
+    "title": "Complete Binary Tree",
+    "printed_page": 425
+  },
+  {
+    "id": "11.1.2",
+    "title": "Routing Problems",
+    "printed_page": 425
+  },
+  {
+    "id": "11.2.1",
+    "title": "Network Diameter",
+    "printed_page": 426
+  },
+  {
+    "id": "11.2.2",
+    "title": "Switch Count",
+    "printed_page": 427
+  },
+  {
+    "id": "11.2.3",
+    "title": "Network Latency",
+    "printed_page": 427
+  },
+  {
+    "id": "11.2.4",
+    "title": "Congestion",
+    "printed_page": 428
+  },
+  {
+    "id": "11.3.1",
+    "title": "2-D Array",
+    "printed_page": 429
+  },
+  {
+    "id": "11.3.2",
+    "title": "Butterfly",
+    "printed_page": 430
+  },
+  {
+    "id": "11.3.3",
+    "title": "Bene ˇs Network",
+    "printed_page": 432
+  },
+  {
+    "id": "12.2.1",
+    "title": "Handshaking Lemma",
+    "printed_page": 449
+  },
+  {
+    "id": "12.5.1",
+    "title": "The Bipartite Matching Problem",
+    "printed_page": 453
+  },
+  {
+    "id": "12.5.2",
+    "title": "The Matching Condition",
+    "printed_page": 454
+  },
+  {
+    "id": "12.6.1",
+    "title": "An Exam Scheduling Problem",
+    "printed_page": 458
+  },
+  {
+    "id": "12.6.2",
+    "title": "Some Coloring Bounds",
+    "printed_page": 460
+  },
+  {
+    "id": "12.6.3",
+    "title": "Why coloring?",
+    "printed_page": 462
+  },
+  {
+    "id": "12.7.1",
+    "title": "Walks, Paths, Cycles in Simple Graphs",
+    "printed_page": 463
+  },
+  {
+    "id": "12.7.2",
+    "title": "Cycles as Subgraphs",
+    "printed_page": 464
+  },
+  {
+    "id": "12.8.1",
+    "title": "Connected Components",
+    "printed_page": 465
+  },
+  {
+    "id": "12.8.2",
+    "title": "Odd Cycles and 2-Colorability",
+    "printed_page": 466
+  },
+  {
+    "id": "12.8.3",
+    "title": "k-connected Graphs",
+    "printed_page": 468
+  },
+  {
+    "id": "12.8.4",
+    "title": "The Minimum Number of Edges in a Connected Graph",
+    "printed_page": 469
+  },
+  {
+    "id": "12.9.1",
+    "title": "Leaves, Parents & Children",
+    "printed_page": 470
+  },
+  {
+    "id": "12.9.2",
+    "title": "Properties",
+    "printed_page": 471
+  },
+  {
+    "id": "12.9.3",
+    "title": "Spanning Trees",
+    "printed_page": 473
+  },
+  {
+    "id": "12.9.4",
+    "title": "Minimum Weight Spanning Trees",
+    "printed_page": 474
+  },
+  {
+    "id": "13.2.1",
+    "title": "Faces",
+    "printed_page": 521
+  },
+  {
+    "id": "13.2.2",
+    "title": "A Recursive Definition for Planar Embeddings",
+    "printed_page": 523
+  },
+  {
+    "id": "13.2.3",
+    "title": "Does It Work?",
+    "printed_page": 526
+  },
+  {
+    "id": "13.2.4",
+    "title": "Where Did the Outer Face Go?",
+    "printed_page": 527
+  },
+  {
+    "id": "14.1.1",
+    "title": "The Future Value of Money",
+    "printed_page": 548
+  },
+  {
+    "id": "14.1.2",
+    "title": "The Perturbation Method",
+    "printed_page": 549
+  },
+  {
+    "id": "14.1.3",
+    "title": "A Closed Form for the Annuity Value",
+    "printed_page": 550
+  },
+  {
+    "id": "14.1.4",
+    "title": "Infinite Geometric Series",
+    "printed_page": 550
+  },
+  {
+    "id": "14.1.5",
+    "title": "Examples",
+    "printed_page": 551
+  },
+  {
+    "id": "14.1.6",
+    "title": "Variations of Geometric Sums",
+    "printed_page": 552
+  },
+  {
+    "id": "14.4.1",
+    "title": "Formalizing the Problem",
+    "printed_page": 560
+  },
+  {
+    "id": "14.4.2",
+    "title": "Harmonic Numbers",
+    "printed_page": 563
+  },
+  {
+    "id": "14.4.3",
+    "title": "Asymptotic Equality",
+    "printed_page": 564
+  },
+  {
+    "id": "14.5.1",
+    "title": "Stirling’s Formula",
+    "printed_page": 567
+  },
+  {
+    "id": "14.7.1",
+    "title": "Little O",
+    "printed_page": 572
+  },
+  {
+    "id": "14.7.2",
+    "title": "Big O",
+    "printed_page": 573
+  },
+  {
+    "id": "14.7.3",
+    "title": "Theta",
+    "printed_page": 575
+  },
+  {
+    "id": "14.7.4",
+    "title": "Pitfalls with Asymptotic Notation",
+    "printed_page": 576
+  },
+  {
+    "id": "14.7.5",
+    "title": "Omega (Optional)",
+    "printed_page": 577
+  },
+  {
+    "id": "15.1.1",
+    "title": "The Bijection Rule",
+    "printed_page": 597
+  },
+  {
+    "id": "15.2.1",
+    "title": "The Product Rule",
+    "printed_page": 599
+  },
+  {
+    "id": "15.2.2",
+    "title": "Subsets of an n-element Set",
+    "printed_page": 599
+  },
+  {
+    "id": "15.2.3",
+    "title": "The Sum Rule",
+    "printed_page": 600
+  },
+  {
+    "id": "15.2.4",
+    "title": "Counting Passwords",
+    "printed_page": 600
+  },
+  {
+    "id": "15.3.1",
+    "title": "Defective Dollar Bills",
+    "printed_page": 603
+  },
+  {
+    "id": "15.3.2",
+    "title": "A Chess Problem",
+    "printed_page": 603
+  },
+  {
+    "id": "15.3.3",
+    "title": "Permutations",
+    "printed_page": 604
+  },
+  {
+    "id": "15.4.1",
+    "title": "Another Chess Problem",
+    "printed_page": 605
+  },
+  {
+    "id": "15.4.2",
+    "title": "Knights of the Round Table",
+    "printed_page": 606
+  },
+  {
+    "id": "15.5.1",
+    "title": "The Subset Rule",
+    "printed_page": 608
+  },
+  {
+    "id": "15.5.2",
+    "title": "Bit Sequences",
+    "printed_page": 609
+  },
+  {
+    "id": "15.6.1",
+    "title": "Sequences of Subsets",
+    "printed_page": 610
+  },
+  {
+    "id": "15.6.2",
+    "title": "The Bookkeeper Rule",
+    "printed_page": 610
+  },
+  {
+    "id": "15.6.3",
+    "title": "The Binomial Theorem",
+    "printed_page": 612
+  },
+  {
+    "id": "15.7.1",
+    "title": "Hands with a Four-of-a-Kind",
+    "printed_page": 614
+  },
+  {
+    "id": "15.7.2",
+    "title": "Hands with a Full House",
+    "printed_page": 615
+  },
+  {
+    "id": "15.7.3",
+    "title": "Hands with Two Pairs",
+    "printed_page": 615
+  },
+  {
+    "id": "15.7.4",
+    "title": "Hands with Every Suit",
+    "printed_page": 617
+  },
+  {
+    "id": "15.8.1",
+    "title": "Hairs on Heads",
+    "printed_page": 620
+  },
+  {
+    "id": "15.8.2",
+    "title": "Subsets with the Same Sum",
+    "printed_page": 620
+  },
+  {
+    "id": "15.8.3",
+    "title": "A Magic Trick",
+    "printed_page": 623
+  },
+  {
+    "id": "15.8.4",
+    "title": "The Secret",
+    "printed_page": 623
+  },
+  {
+    "id": "15.8.5",
+    "title": "The Real Secret",
+    "printed_page": 625
+  },
+  {
+    "id": "15.8.6",
+    "title": "The Same Trick with Four Cards?",
+    "printed_page": 627
+  },
+  {
+    "id": "15.9.1",
+    "title": "Union of Two Sets",
+    "printed_page": 628
+  },
+  {
+    "id": "15.9.2",
+    "title": "Union of Three Sets",
+    "printed_page": 628
+  },
+  {
+    "id": "15.9.3",
+    "title": "Sequences with 42, 04, or 60",
+    "printed_page": 629
+  },
+  {
+    "id": "15.9.4",
+    "title": "Union of n Sets",
+    "printed_page": 630
+  },
+  {
+    "id": "15.9.5",
+    "title": "Computing Euler’s Function",
+    "printed_page": 632
+  },
+  {
+    "id": "15.10.1",
+    "title": "Pascal’s Triangle Identity",
+    "printed_page": 634
+  },
+  {
+    "id": "15.10.2",
+    "title": "Giving a Combinatorial Proof",
+    "printed_page": 635
+  },
+  {
+    "id": "15.10.3",
+    "title": "A Colorful Combinatorial Proof",
+    "printed_page": 636
+  },
+  {
+    "id": "16.1.1",
+    "title": "Never Mind Convergence",
+    "printed_page": 676
+  },
+  {
+    "id": "16.2.1",
+    "title": "Apples and Bananas too",
+    "printed_page": 677
+  },
+  {
+    "id": "16.2.2",
+    "title": "Products of Generating Functions",
+    "printed_page": 678
+  },
+  {
+    "id": "16.2.3",
+    "title": "The Convolution Rule",
+    "printed_page": 679
+  },
+  {
+    "id": "16.2.4",
+    "title": "Counting Donuts with the Convolution Rule",
+    "printed_page": 680
+  },
+  {
+    "id": "16.2.5",
+    "title": "The Binomial Theorem from the Convolution Rule",
+    "printed_page": 681
+  },
+  {
+    "id": "16.2.6",
+    "title": "An Absurd Counting Problem",
+    "printed_page": 682
+  },
+  {
+    "id": "16.3.1",
+    "title": "Partial Fractions with Repeated Roots",
+    "printed_page": 685
+  },
+  {
+    "id": "16.4.1",
+    "title": "A Generating Function for the Fibonacci Numbers",
+    "printed_page": 686
+  },
+  {
+    "id": "16.4.2",
+    "title": "The Towers of Hanoi",
+    "printed_page": 687
+  },
+  {
+    "id": "16.4.3",
+    "title": "Solving General Linear Recurrences",
+    "printed_page": 690
+  },
+  {
+    "id": "16.5.1",
+    "title": "Divergent Generating Functions",
+    "printed_page": 691
+  },
+  {
+    "id": "16.5.2",
+    "title": "The Ring of Power Series",
+    "printed_page": 692
+  },
+  {
+    "id": "17.1.1",
+    "title": "Clarifying the Problem",
+    "printed_page": 715
+  },
+  {
+    "id": "17.2.1",
+    "title": "Step 1: Find the Sample Space",
+    "printed_page": 716
+  },
+  {
+    "id": "17.2.2",
+    "title": "Step 2: Define Events of Interest",
+    "printed_page": 719
+  },
+  {
+    "id": "17.2.3",
+    "title": "Step 3: Determine Outcome Probabilities",
+    "printed_page": 722
+  },
+  {
+    "id": "17.2.4",
+    "title": "Step 4: Compute Event Probabilities",
+    "printed_page": 723
+  },
+  {
+    "id": "17.2.5",
+    "title": "An Alternative Interpretation of the Monty Hall Problem",
+    "printed_page": 725
+  },
+  {
+    "id": "17.3.1",
+    "title": "Die A versus DieB",
+    "printed_page": 726
+  },
+  {
+    "id": "17.3.2",
+    "title": "Die A versus DieC",
+    "printed_page": 728
+  },
+  {
+    "id": "17.3.3",
+    "title": "Die B versus DieC",
+    "printed_page": 728
+  },
+  {
+    "id": "17.3.4",
+    "title": "Rolling Twice",
+    "printed_page": 730
+  },
+  {
+    "id": "17.4.1",
+    "title": "Exact Formula for Match Probability",
+    "printed_page": 733
+  },
+  {
+    "id": "17.5.1",
+    "title": "Probability Spaces",
+    "printed_page": 734
+  },
+  {
+    "id": "17.5.2",
+    "title": "Probability Rules from Set Theory",
+    "printed_page": 735
+  },
+  {
+    "id": "17.5.3",
+    "title": "Uniform Probability Spaces",
+    "printed_page": 736
+  },
+  {
+    "id": "17.5.4",
+    "title": "Infinite Probability Spaces",
+    "printed_page": 737
+  },
+  {
+    "id": "18.1.1",
+    "title": "Behind the Curtain",
+    "printed_page": 747
+  },
+  {
+    "id": "18.2.1",
+    "title": "What went wrong",
+    "printed_page": 749
+  },
+  {
+    "id": "18.4.1",
+    "title": "Probability of Size- k Subsets",
+    "printed_page": 753
+  },
+  {
+    "id": "18.4.2",
+    "title": "Medical Testing",
+    "printed_page": 754
+  },
+  {
+    "id": "18.4.3",
+    "title": "Four Steps Again",
+    "printed_page": 755
+  },
+  {
+    "id": "18.4.4",
+    "title": "Natural Frequencies",
+    "printed_page": 757
+  },
+  {
+    "id": "18.4.5",
+    "title": "A Posteriori Probabilities",
+    "printed_page": 757
+  },
+  {
+    "id": "18.4.6",
+    "title": "Philosphy of Probability",
+    "printed_page": 759
+  },
+  {
+    "id": "18.5.1",
+    "title": "Conditioning on a Single Event",
+    "printed_page": 761
+  },
+  {
+    "id": "18.7.1",
+    "title": "Alternative Formulation",
+    "printed_page": 765
+  },
+  {
+    "id": "18.7.2",
+    "title": "Independence Is an Assumption",
+    "printed_page": 765
+  },
+  {
+    "id": "18.8.1",
+    "title": "DNA Testing",
+    "printed_page": 766
+  },
+  {
+    "id": "18.8.2",
+    "title": "Pairwise Independence",
+    "printed_page": 768
+  },
+  {
+    "id": "18.9.1",
+    "title": "Testing for Tuberculosis",
+    "printed_page": 770
+  },
+  {
+    "id": "18.9.2",
+    "title": "Updating the Odds",
+    "printed_page": 771
+  },
+  {
+    "id": "18.9.3",
+    "title": "Facts that are Probably True",
+    "printed_page": 773
+  },
+  {
+    "id": "18.9.4",
+    "title": "Extreme events",
+    "printed_page": 774
+  },
+  {
+    "id": "18.9.5",
+    "title": "Confidence in the Next Flip",
+    "printed_page": 775
+  },
+  {
+    "id": "19.1.1",
+    "title": "Indicator Random Variables",
+    "printed_page": 800
+  },
+  {
+    "id": "19.1.2",
+    "title": "Random Variables and Events",
+    "printed_page": 800
+  },
+  {
+    "id": "19.3.1",
+    "title": "Bernoulli Distributions",
+    "printed_page": 805
+  },
+  {
+    "id": "19.3.2",
+    "title": "Uniform Distributions",
+    "printed_page": 805
+  },
+  {
+    "id": "19.3.3",
+    "title": "The Numbers Game",
+    "printed_page": 806
+  },
+  {
+    "id": "19.3.4",
+    "title": "Binomial Distributions",
+    "printed_page": 809
+  },
+  {
+    "id": "19.4.1",
+    "title": "The Expected Value of a Uniform Random Variable",
+    "printed_page": 812
+  },
+  {
+    "id": "19.4.2",
+    "title": "The Expected Value of a Reciprocal Random Variable",
+    "printed_page": 812
+  },
+  {
+    "id": "19.4.3",
+    "title": "The Expected Value of an Indicator Random Variable",
+    "printed_page": 812
+  },
+  {
+    "id": "19.4.4",
+    "title": "Alternate Definition of Expectation",
+    "printed_page": 813
+  },
+  {
+    "id": "19.4.5",
+    "title": "Conditional Expectation",
+    "printed_page": 813
+  },
+  {
+    "id": "19.4.6",
+    "title": "Mean Time to Failure",
+    "printed_page": 815
+  },
+  {
+    "id": "19.4.7",
+    "title": "Expected Returns in Gambling Games",
+    "printed_page": 817
+  },
+  {
+    "id": "19.5.1",
+    "title": "Expected Value of Two Dice",
+    "printed_page": 823
+  },
+  {
+    "id": "19.5.2",
+    "title": "Sums of Indicator Random Variables",
+    "printed_page": 823
+  },
+  {
+    "id": "19.5.3",
+    "title": "Expectation of a Binomial Distribution",
+    "printed_page": 825
+  },
+  {
+    "id": "19.5.4",
+    "title": "The Coupon Collector Problem",
+    "printed_page": 826
+  },
+  {
+    "id": "19.5.5",
+    "title": "Infinite Sums",
+    "printed_page": 828
+  },
+  {
+    "id": "19.5.6",
+    "title": "A Gambling Paradox",
+    "printed_page": 829
+  },
+  {
+    "id": "19.5.7",
+    "title": "Solution to the Paradox",
+    "printed_page": 829
+  },
+  {
+    "id": "19.5.8",
+    "title": "Expectations of Products",
+    "printed_page": 831
+  },
+  {
+    "id": "20.1.1",
+    "title": "Applying Markov’s Theorem",
+    "printed_page": 855
+  },
+  {
+    "id": "20.1.2",
+    "title": "Markov’s Theorem for Bounded Variables",
+    "printed_page": 855
+  },
+  {
+    "id": "20.2.1",
+    "title": "Variance in Two Gambling Games",
+    "printed_page": 857
+  },
+  {
+    "id": "20.2.2",
+    "title": "Standard Deviation",
+    "printed_page": 858
+  },
+  {
+    "id": "20.3.1",
+    "title": "A Formula for Variance",
+    "printed_page": 860
+  },
+  {
+    "id": "20.3.2",
+    "title": "Variance of Time to Failure",
+    "printed_page": 861
+  },
+  {
+    "id": "20.3.3",
+    "title": "Dealing with Constants",
+    "printed_page": 862
+  },
+  {
+    "id": "20.3.4",
+    "title": "Variance of a Sum",
+    "printed_page": 863
+  },
+  {
+    "id": "20.3.5",
+    "title": "Matching Birthdays",
+    "printed_page": 864
+  },
+  {
+    "id": "20.4.1",
+    "title": "A Voter Poll",
+    "printed_page": 866
+  },
+  {
+    "id": "20.4.2",
+    "title": "Pairwise Independent Sampling",
+    "printed_page": 868
+  },
+  {
+    "id": "20.6.1",
+    "title": "A Motivating Example",
+    "printed_page": 871
+  },
+  {
+    "id": "20.6.2",
+    "title": "The Chernoff Bound",
+    "printed_page": 872
+  },
+  {
+    "id": "20.6.3",
+    "title": "Chernoff Bound for Binomial Tails",
+    "printed_page": 873
+  },
+  {
+    "id": "20.6.4",
+    "title": "Chernoff Bound for a Lottery Game",
+    "printed_page": 874
+  },
+  {
+    "id": "20.6.5",
+    "title": "Randomized Load Balancing",
+    "printed_page": 875
+  },
+  {
+    "id": "20.6.6",
+    "title": "Proof of the Chernoff Bound",
+    "printed_page": 876
+  },
+  {
+    "id": "20.6.7",
+    "title": "Comparing the Bounds",
+    "printed_page": 878
+  },
+  {
+    "id": "20.6.8",
+    "title": "Murphy’s Law",
+    "printed_page": 879
+  },
+  {
+    "id": "20.7.1",
+    "title": "Repeating Yourself",
+    "printed_page": 881
+  },
+  {
+    "id": "21.1.1",
+    "title": "The Probability of Avoiding Ruin",
+    "printed_page": 907
+  },
+  {
+    "id": "21.1.2",
+    "title": "A Recurrence for the Probability of Winning",
+    "printed_page": 909
+  },
+  {
+    "id": "21.1.3",
+    "title": "A simpler expression for the biased case",
+    "printed_page": 910
+  },
+  {
+    "id": "21.1.4",
+    "title": "How Long a Walk?",
+    "printed_page": 912
+  },
+  {
+    "id": "21.1.5",
+    "title": "Quit While You Are Ahead",
+    "printed_page": 914
+  },
+  {
+    "id": "21.2.1",
+    "title": "A First Crack at Page Rank",
+    "printed_page": 917
+  },
+  {
+    "id": "21.2.2",
+    "title": "Random Walk on the Web Graph",
+    "printed_page": 918
+  },
+  {
+    "id": "21.2.3",
+    "title": "Stationary Distribution & Page Rank",
+    "printed_page": 919
+  },
+  {
+    "id": "22.1.1",
+    "title": "The Upper Bound Trap",
+    "printed_page": 936
+  },
+  {
+    "id": "22.1.2",
+    "title": "Plug and Chug",
+    "printed_page": 936
+  },
+  {
+    "id": "22.2.1",
+    "title": "Finding a Recurrence",
+    "printed_page": 939
+  },
+  {
+    "id": "22.2.2",
+    "title": "Solving the Recurrence",
+    "printed_page": 940
+  },
+  {
+    "id": "22.3.1",
+    "title": "Climbing Stairs",
+    "printed_page": 942
+  },
+  {
+    "id": "22.3.2",
+    "title": "Solving Homogeneous Linear Recurrences",
+    "printed_page": 946
+  },
+  {
+    "id": "22.3.3",
+    "title": "Solving General Linear Recurrences",
+    "printed_page": 947
+  },
+  {
+    "id": "22.3.4",
+    "title": "How to Guess a Particular Solution",
+    "printed_page": 949
+  },
+  {
+    "id": "22.4.1",
+    "title": "The Akra-Bazzi Formula",
+    "printed_page": 951
+  },
+  {
+    "id": "22.4.2",
+    "title": "Two Technical Issues",
+    "printed_page": 952
+  },
+  {
+    "id": "22.4.3",
+    "title": "The Akra-Bazzi Theorem",
+    "printed_page": 953
+  },
+  {
+    "id": "22.4.4",
+    "title": "The Master Theorem",
+    "printed_page": 955
+  }
+]

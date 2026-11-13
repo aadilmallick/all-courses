@@ -1,0 +1,83 @@
+{
+  "chapter_count": 18,
+  "chapter_words_outside_code": 45485,
+  "counts": [
+    {
+      "id": "chapter-01",
+      "words_outside_code": 2510
+    },
+    {
+      "id": "chapter-02",
+      "words_outside_code": 2540
+    },
+    {
+      "id": "chapter-03",
+      "words_outside_code": 2518
+    },
+    {
+      "id": "chapter-04",
+      "words_outside_code": 2514
+    },
+    {
+      "id": "chapter-05",
+      "words_outside_code": 2519
+    },
+    {
+      "id": "chapter-06",
+      "words_outside_code": 2515
+    },
+    {
+      "id": "chapter-07",
+      "words_outside_code": 2515
+    },
+    {
+      "id": "chapter-08",
+      "words_outside_code": 2516
+    },
+    {
+      "id": "chapter-09",
+      "words_outside_code": 2536
+    },
+    {
+      "id": "chapter-10",
+      "words_outside_code": 2644
+    },
+    {
+      "id": "chapter-11",
+      "words_outside_code": 2508
+    },
+    {
+      "id": "chapter-12",
+      "words_outside_code": 2517
+    },
+    {
+      "id": "chapter-13",
+      "words_outside_code": 2555
+    },
+    {
+      "id": "chapter-14",
+      "words_outside_code": 2512
+    },
+    {
+      "id": "chapter-15",
+      "words_outside_code": 2523
+    },
+    {
+      "id": "chapter-16",
+      "words_outside_code": 2514
+    },
+    {
+      "id": "chapter-17",
+      "words_outside_code": 2520
+    },
+    {
+      "id": "chapter-18",
+      "words_outside_code": 2509
+    }
+  ],
+  "practice_problems_with_solutions": 101,
+  "indexed_source_sections_including_subsections": 417,
+  "explicit_book_anchors": 290,
+  "errors": [],
+  "word_count_note": "Whitespace-separated words outside code fences; includes equations, headings, and problem statements; not a tokenizer count."
+}

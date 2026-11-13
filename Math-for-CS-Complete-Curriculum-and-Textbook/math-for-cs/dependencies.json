@@ -1,0 +1,17 @@
+{
+  "runtime": "Node.js >=22; no npm installation required",
+  "bundled": [
+    {
+      "name": "katex",
+      "version": "0.16.22",
+      "origin": "https://registry.npmjs.org/katex/-/katex-0.16.22.tgz",
+      "archive_sha256": "e9e0d167db3175481cbadaff38e8d90b130f6a3ddb451a47e43c577fd511f365"
+    },
+    {
+      "name": "marked",
+      "version": "17.0.5",
+      "origin": "Codex bundled runtime; copied ESM distribution and license",
+      "sha256": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc"
+    }
+  ]
+}

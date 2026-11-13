@@ -1,0 +1,1440 @@
+{
+  "researched": "2026-11-13",
+  "tools": [
+    {
+      "slug": "codex",
+      "title": "Codex",
+      "description": "Local and cloud coding tasks with reusable environments and evidence-based review.",
+      "category": "factories",
+      "kind": "Coding agent",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://learn.chatgpt.com/docs/cloud",
+      "docs": "https://learn.chatgpt.com/docs/cli",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Codex CLI",
+          "url": "https://learn.chatgpt.com/docs/cli",
+          "accessed": "2026-11-13",
+          "supports": "Local interactive workflow, documented commands, noninteractive entry point"
+        },
+        {
+          "title": "Codex Cloud",
+          "url": "https://learn.chatgpt.com/docs/cloud",
+          "accessed": "2026-11-13",
+          "supports": "Cloud workspaces, laptop-independent execution, reusable environments"
+        },
+        {
+          "title": "Agents API overview",
+          "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+          "accessed": "2026-11-13",
+          "supports": "Separate managed-harness API product boundary"
+        }
+      ]
+    },
+    {
+      "slug": "claude-code",
+      "title": "Claude Code",
+      "description": "Terminal and editor agent workflows with project instructions, skills, tool connections, checkpoints, and worktrees.",
+      "category": "factories",
+      "kind": "Coding agent",
+      "level": "Beginner",
+      "hours": "4–6 hours",
+      "homepage": "https://code.claude.com/",
+      "docs": "https://code.claude.com/docs/en/overview",
+      "status": "Documented; Remote Control eligibility applies",
+      "sources": [
+        {
+          "title": "Claude Code overview",
+          "url": "https://code.claude.com/docs/en/overview",
+          "accessed": "2026-11-13",
+          "supports": "Current installation, native Windows support, terminal/IDE/desktop/browser surfaces; page opened."
+        },
+        {
+          "title": "CLI reference",
+          "url": "https://code.claude.com/docs/en/cli-reference",
+          "accessed": "2026-11-13",
+          "supports": "Interactive and print mode, continue/resume commands; page opened."
+        },
+        {
+          "title": "Project memory",
+          "url": "https://code.claude.com/docs/en/memory",
+          "accessed": "2026-11-13",
+          "supports": "CLAUDE.md, auto memory, instruction auditing and /memory; page opened."
+        },
+        {
+          "title": "Settings precedence",
+          "url": "https://code.claude.com/docs/en/settings",
+          "accessed": "2026-11-13",
+          "supports": "User/shared/local/managed scope, command-line settings, list merge distinctions and per-key environment interactions; page opened."
+        },
+        {
+          "title": "Skills",
+          "url": "https://code.claude.com/docs/en/skills",
+          "accessed": "2026-11-13",
+          "supports": "SKILL.md directory, manual invocation, disable-model-invocation and reusable procedures; page opened."
+        },
+        {
+          "title": "MCP tools",
+          "url": "https://code.claude.com/docs/en/mcp",
+          "accessed": "2026-11-13",
+          "supports": "Tool integration and local-process versus remote server distinction; page opened."
+        },
+        {
+          "title": "Checkpointing",
+          "url": "https://code.claude.com/docs/en/checkpointing",
+          "accessed": "2026-11-13",
+          "supports": "/rewind, tracked edit/conversation recovery and nuanced shell/subagent limitations; page opened."
+        },
+        {
+          "title": "Common workflows",
+          "url": "https://code.claude.com/docs/en/common-workflows",
+          "accessed": "2026-11-13",
+          "supports": "--worktree, independent branches and initial commit prerequisite, plan and session flow; page opened."
+        },
+        {
+          "title": "Remote Control",
+          "url": "https://code.claude.com/docs/en/remote-control",
+          "accessed": "2026-11-13",
+          "supports": "Local execution versus hosted cloud sessions, cli and in-session commands, eligible subscription login and policy constraints; page opened."
+        }
+      ]
+    },
+    {
+      "slug": "cursor",
+      "title": "Cursor",
+      "description": "Interactive coding agents, isolated cloud development environments, and event-driven automations.",
+      "category": "factories",
+      "kind": "Coding-agent platform",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://cursor.com/",
+      "docs": "https://cursor.com/docs/cloud-agent",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Agent overview",
+          "url": "https://cursor.com/docs/agent/overview",
+          "accessed": "2026-11-13",
+          "supports": "Interactive agent entry point and current agent-oriented product structure."
+        },
+        {
+          "title": "Cloud Agents",
+          "url": "https://cursor.com/docs/cloud-agent",
+          "accessed": "2026-11-13",
+          "supports": "Isolated cloud VM execution and development-environment role."
+        },
+        {
+          "title": "Cloud Environment Setup",
+          "url": "https://cursor.com/docs/cloud-agent/setup",
+          "accessed": "2026-11-13",
+          "supports": "Ubuntu environments, guided/manual configuration, multi-repo setup, saved-environment resolution."
+        },
+        {
+          "title": "Cloud Agent Builds",
+          "url": "https://cursor.com/docs/cloud-agent/builds",
+          "accessed": "2026-11-13",
+          "supports": "Environment preparation/build lifecycle distinct from application build."
+        },
+        {
+          "title": "Rules",
+          "url": "https://cursor.com/docs/rules",
+          "accessed": "2026-11-13",
+          "supports": "Persistent project guidance and current rule system."
+        },
+        {
+          "title": "Automations",
+          "url": "https://cursor.com/docs/cloud-agent/automations",
+          "accessed": "2026-11-13",
+          "supports": "Scheduled/event-driven cloud agents, repository scope and optional tools."
+        }
+      ]
+    },
+    {
+      "slug": "github-copilot",
+      "title": "GitHub Copilot",
+      "description": "Repository-native agent sessions, cloud execution choices, pull-request review, and automations.",
+      "category": "factories",
+      "kind": "Coding-agent platform",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://github.com/features/copilot",
+      "docs": "https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-on-github",
+      "status": "Documented · new cloud experience",
+      "sources": [
+        {
+          "title": "GitHub Copilot on GitHub.com and GitHub Mobile",
+          "url": "https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-on-github",
+          "accessed": "2026-11-13",
+          "supports": "October 28 2026 cloud experience availability, client/session/environment concepts, new versus older workflow and environment-specific repository scope."
+        },
+        {
+          "title": "About cloud sandboxes for GitHub Copilot",
+          "url": "https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/about-cloud-sandboxes",
+          "accessed": "2026-11-13",
+          "supports": "Hosted isolated Linux sessions, Cloud versus Actions, local sandbox distinction and custom environment route."
+        },
+        {
+          "title": "Configure the development environment for agents on GitHub Actions",
+          "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/customize-the-agent-environment",
+          "accessed": "2026-11-13",
+          "supports": "Setup-step workflow applies only to Actions-based sessions; environment customization boundaries."
+        },
+        {
+          "title": "Starting GitHub Copilot sessions",
+          "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/start-copilot-sessions",
+          "accessed": "2026-11-13",
+          "supports": "Current session entry points and varying pull-request creation routes."
+        },
+        {
+          "title": "Managing agent sessions",
+          "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents",
+          "accessed": "2026-11-13",
+          "supports": "Following session activity and evidence."
+        },
+        {
+          "title": "Customize Copilot",
+          "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot",
+          "accessed": "2026-11-13",
+          "supports": "Current customization documentation entry point."
+        },
+        {
+          "title": "GitHub Copilot code review",
+          "url": "https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review",
+          "accessed": "2026-11-13",
+          "supports": "Separate review capability, availability and review workflow."
+        },
+        {
+          "title": "Copilot automations",
+          "url": "https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automations",
+          "accessed": "2026-11-13",
+          "supports": "Recurring/event-driven automation concepts and distinction from related agentic workflows."
+        }
+      ]
+    },
+    {
+      "slug": "devin",
+      "title": "Devin",
+      "description": "Delegate a verifiable bug fix, prepare the environment and review a focused patch with evidence.",
+      "category": "factories",
+      "kind": "Managed coding agent",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://devin.ai/",
+      "docs": "https://docs.devin.ai/get-started/devin-intro",
+      "status": "Documented; Skills recommended for new reusable work",
+      "sources": [
+        {
+          "title": "Introducing Devin",
+          "url": "https://docs.devin.ai/get-started/devin-intro",
+          "accessed": "2026-11-13",
+          "supports": "Product surfaces and development-tool context; vendor task-success claims not presented as independent benchmarks."
+        },
+        {
+          "title": "Your First Session",
+          "url": "https://docs.devin.ai/get-started/first-run",
+          "accessed": "2026-11-13",
+          "supports": "Ask/Agent distinction, repository setup and account-dependent agent options."
+        },
+        {
+          "title": "Instructing Devin Effectively",
+          "url": "https://docs.devin.ai/essential-guidelines/instructing-devin-effectively",
+          "accessed": "2026-11-13",
+          "supports": "Task context, explicit criteria and verification principles."
+        },
+        {
+          "title": "Hand off to Devin Cloud from Any Agent",
+          "url": "https://docs.devin.ai/work-with-devin/devin-handoff",
+          "accessed": "2026-11-13",
+          "supports": "Devin CLI /handoff and API-based cloud handoff paths."
+        },
+        {
+          "title": "Devin Skills",
+          "url": "https://docs.devin.ai/product-guides/skills",
+          "accessed": "2026-11-13",
+          "supports": "Current SKILL.md procedure mechanism and recommended repository location."
+        },
+        {
+          "title": "Creating Playbooks",
+          "url": "https://docs.devin.ai/product-guides/creating-playbooks",
+          "accessed": "2026-11-13",
+          "supports": "Explicit migration note: new accounts start with Skills rather than Playbooks from October 24, 2026."
+        },
+        {
+          "title": "Python csv library",
+          "url": "https://docs.python.org/3/library/csv.html",
+          "accessed": "2026-11-13",
+          "supports": "Independent sample's DictReader and parser-error semantics."
+        },
+        {
+          "title": "Python io library",
+          "url": "https://docs.python.org/3/library/io.html",
+          "accessed": "2026-11-13",
+          "supports": "Independent sample's in-memory text stream."
+        }
+      ]
+    },
+    {
+      "slug": "factory",
+      "title": "Factory Droid & Missions",
+      "description": "Plan, coordinate, and validate bounded multi-feature agent work with milestone evidence.",
+      "category": "factories",
+      "kind": "Software factory",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://factory.com/",
+      "docs": "https://docs.factory.com/missions/overview",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Droid CLI quickstart",
+          "url": "https://docs.factory.com/droid-cli/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "First interactive coding session and review"
+        },
+        {
+          "title": "Droid CLI overview",
+          "url": "https://docs.factory.com/droid-cli/overview",
+          "accessed": "2026-11-13",
+          "supports": "Missions, reusable skills, MCP, and headless concepts"
+        },
+        {
+          "title": "Factory Missions",
+          "url": "https://docs.factory.com/missions/overview",
+          "accessed": "2026-11-13",
+          "supports": "Planning, milestones, orchestration, readiness and validation"
+        },
+        {
+          "title": "Running Missions in the CLI",
+          "url": "https://docs.factory.com/missions/running-cli",
+          "accessed": "2026-11-13",
+          "supports": "Monitoring and intervention"
+        }
+      ]
+    },
+    {
+      "slug": "openhands",
+      "title": "OpenHands",
+      "description": "Compose an agent control surface, model access, and local or remote execution backends.",
+      "category": "factories",
+      "kind": "Open agent platform",
+      "level": "Advanced",
+      "hours": "4–6 hours",
+      "homepage": "https://openhands.dev/",
+      "docs": "https://docs.openhands.dev/overview/introduction",
+      "status": "Current architecture",
+      "sources": [
+        {
+          "title": "OpenHands introduction",
+          "url": "https://docs.openhands.dev/overview/introduction",
+          "accessed": "2026-11-13",
+          "supports": "Ecosystem components, legacy CLI and GUI status"
+        },
+        {
+          "title": "Agent Canvas overview",
+          "url": "https://docs.openhands.dev/openhands/usage/agent-canvas/overview",
+          "accessed": "2026-11-13",
+          "supports": "Client, backend, workspace, model and execution boundaries"
+        },
+        {
+          "title": "Install Agent Canvas",
+          "url": "https://docs.openhands.dev/openhands/usage/agent-canvas/setup",
+          "accessed": "2026-11-13",
+          "supports": "Current npm package, Node and uv prerequisites"
+        },
+        {
+          "title": "Backends",
+          "url": "https://docs.openhands.dev/openhands/usage/agent-canvas/backends",
+          "accessed": "2026-11-13",
+          "supports": "Backend configuration entry point"
+        },
+        {
+          "title": "Issue to PR automation",
+          "url": "https://docs.openhands.dev/openhands/usage/agent-canvas/prebuilt/issue-to-pr",
+          "accessed": "2026-11-13",
+          "supports": "Supported issue automation documentation entry point"
+        }
+      ]
+    },
+    {
+      "slug": "paradev",
+      "title": "Paradev (formerly Superset)",
+      "description": "A task board and workspace layer for launching and reviewing parallel coding agents.",
+      "category": "factories",
+      "kind": "Agent kanban & workspaces",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://paradev.com/",
+      "docs": "https://docs.paradev.com/tasks",
+      "status": "Platform-limited",
+      "sources": [
+        {
+          "title": "Paradev website",
+          "url": "https://paradev.com/",
+          "accessed": "2026-11-13",
+          "supports": "Superset rebrand and workspace positioning"
+        },
+        {
+          "title": "Install",
+          "url": "https://docs.paradev.com/install",
+          "accessed": "2026-11-13",
+          "supports": "macOS, experimental Linux, Windows unavailable; agent subscriptions separate"
+        },
+        {
+          "title": "Tasks",
+          "url": "https://docs.paradev.com/tasks",
+          "accessed": "2026-11-13",
+          "supports": "Kanban/list, Linear and GitHub task sources, task-to-agent prompts and staged execution"
+        },
+        {
+          "title": "Workspaces",
+          "url": "https://docs.paradev.com/workspaces",
+          "accessed": "2026-11-13",
+          "supports": "Local worktrees versus cloud clones, workspace identities and lifecycle"
+        }
+      ]
+    },
+    {
+      "slug": "e2b",
+      "title": "E2B",
+      "description": "An execution SDK for agent code, analysis programs, and task-scoped Linux sessions.",
+      "category": "sandboxes",
+      "kind": "Execution SDK",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://e2b.dev/",
+      "docs": "https://docs.e2b.dev/quickstart",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Running your first Sandbox",
+          "url": "https://docs.e2b.dev/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Code Interpreter versus core SDK distinction, Python installation, create and run_code pattern; page opened."
+        },
+        {
+          "title": "Sandbox lifecycle",
+          "url": "https://docs.e2b.dev/sandbox",
+          "accessed": "2026-11-13",
+          "supports": "Explicit timeout, sandbox information, and kill method; page opened."
+        },
+        {
+          "title": "Sandbox persistence",
+          "url": "https://docs.e2b.dev/sandbox/persistence",
+          "accessed": "2026-11-13",
+          "supports": "Pause/resume state distinctions, filesystem-only alternative, terminal kill; page opened. Recheck version and rollout-specific behavior."
+        }
+      ]
+    },
+    {
+      "slug": "daytona",
+      "title": "Daytona",
+      "description": "Programmable agent workspaces with process execution, sessions, reusable environments, and lifecycle controls.",
+      "category": "sandboxes",
+      "kind": "Workspace infrastructure",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://www.daytona.io/",
+      "docs": "https://www.daytona.io/docs/en/python-sdk/",
+      "status": "Documented; separate v2 alpha",
+      "sources": [
+        {
+          "title": "Python SDK Reference",
+          "url": "https://www.daytona.io/docs/en/python-sdk/",
+          "accessed": "2026-11-13",
+          "supports": "Documented v0.231 line, separate v2.0 Alpha link, installation, environment configuration, create pattern; page opened."
+        },
+        {
+          "title": "Process reference",
+          "url": "https://www.daytona.io/docs/en/python-sdk/sync/process/",
+          "accessed": "2026-11-13",
+          "supports": "exec and code_run signatures, result and exit_code fields, cwd, timeout, sessions and PTY; page opened."
+        },
+        {
+          "title": "Daytona lifecycle methods",
+          "url": "https://www.daytona.io/docs/en/python-sdk/sync/daytona/",
+          "accessed": "2026-11-13",
+          "supports": "delete with wait flag, start/get, lifecycle parameters and differing zero meanings; page opened."
+        },
+        {
+          "title": "Snapshots",
+          "url": "https://www.daytona.io/docs/en/snapshots/",
+          "accessed": "2026-11-13",
+          "supports": "Reusable environment preparation; page opened. No assumption of cross-provider snapshot compatibility."
+        }
+      ]
+    },
+    {
+      "slug": "modal",
+      "title": "Modal Sandboxes",
+      "description": "Programmable isolated processes within a broader cloud-compute platform, with Python supervision and explicit networking.",
+      "category": "sandboxes",
+      "kind": "Cloud compute",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://modal.com/",
+      "docs": "https://modal.com/docs/guide/sandboxes",
+      "status": "Documented; some advanced features beta",
+      "sources": [
+        {
+          "title": "Getting started with Modal",
+          "url": "https://modal.com/docs/guide/getting-started",
+          "accessed": "2026-11-13",
+          "supports": "modal package and CLI setup authentication; page opened."
+        },
+        {
+          "title": "Sandboxes",
+          "url": "https://modal.com/docs/guide/sandboxes",
+          "accessed": "2026-11-13",
+          "supports": "App.lookup, Sandbox.create, exec, stdout, terminate, direct Python script pattern, current runtime alternatives; page opened."
+        },
+        {
+          "title": "Running commands in Sandboxes",
+          "url": "https://modal.com/docs/guide/sandbox-spawn",
+          "accessed": "2026-11-13",
+          "supports": "Process command and stream semantics; page opened."
+        },
+        {
+          "title": "Networking and security",
+          "url": "https://modal.com/docs/guide/sandbox-networking",
+          "accessed": "2026-11-13",
+          "supports": "block_network, CIDR and beta domain allowlist distinctions and interactions; page opened."
+        }
+      ]
+    },
+    {
+      "slug": "freestyle",
+      "title": "Freestyle",
+      "description": "Durable Linux VMs for long-running agent work, with deliberate pause/resume, snapshots, and network policy.",
+      "category": "sandboxes",
+      "kind": "Persistent VMs",
+      "level": "Advanced",
+      "hours": "4–6 hours",
+      "homepage": "https://www.freestyle.sh/",
+      "docs": "https://www.freestyle.sh/docs/quickstart",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Freestyle quickstart",
+          "url": "https://www.freestyle.sh/docs/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "freestyle package, CLI login/token setup, FREESTYLE_API_KEY, create and exec pattern; page opened."
+        },
+        {
+          "title": "Freestyle VMs",
+          "url": "https://www.freestyle.sh/docs/vms",
+          "accessed": "2026-11-13",
+          "supports": "create return shape, vmId, stdout/statusCode, text file methods, common lifecycle calls; page opened."
+        },
+        {
+          "title": "VM Lifecycle",
+          "url": "https://www.freestyle.sh/docs/vms/lifecycle",
+          "accessed": "2026-11-13",
+          "supports": "Memory-preserving pause versus stop, start, deletion, policy distinctions; page opened."
+        },
+        {
+          "title": "Firewall",
+          "url": "https://www.freestyle.sh/docs/vms/network/firewall",
+          "accessed": "2026-11-13",
+          "supports": "Explicit allow rules, identity/address matchers, public network scope, deny-by-absence model; page opened."
+        },
+        {
+          "title": "Runloop transition notice",
+          "url": "https://docs.runloop.ai/docs/transitions/overview",
+          "accessed": "2026-11-13",
+          "supports": "Runloop service wind-down; existing-customer transition support through November 13, 2026 11:59 PM PT. Reason Freestyle replaced Runloop as an adoption chapter; page opened."
+        },
+        {
+          "title": "Runloop to Freestyle transition",
+          "url": "https://docs.runloop.ai/docs/transitions/runloop-to-freestyle",
+          "accessed": "2026-11-13",
+          "supports": "Migration is not certified; IDs, blueprints, snapshots and Axon state do not transfer automatically; page opened."
+        }
+      ],
+      "watchlist": [
+        "Runloop: migration-only coverage; official service wind-down notice checked 2026-11-13."
+      ]
+    },
+    {
+      "slug": "codesandbox",
+      "title": "CodeSandbox SDK",
+      "description": "Programmatically create inspectable project environments with file operations, commands, and application previews.",
+      "category": "sandboxes",
+      "kind": "App workspaces",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://codesandbox.io/",
+      "docs": "https://github.com/codesandbox/codesandbox-sdk",
+      "status": "Documented; official source used",
+      "sources": [
+        {
+          "title": "CodeSandbox SDK repository",
+          "url": "https://github.com/codesandbox/codesandbox-sdk",
+          "accessed": "2026-11-13",
+          "supports": "Official README package installation, CSB_API_KEY, create/connect/commands.run pattern. Main codesandbox.io/docs/sdk endpoint returned 403, so source was used."
+        },
+        {
+          "title": "Sandbox management source",
+          "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/Sandboxes.ts",
+          "accessed": "2026-11-13",
+          "supports": "Explicit private option, default preview nuance, delete, hibernate, shutdown, resume behavior; raw official source opened."
+        },
+        {
+          "title": "Sandbox client source",
+          "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/SandboxClient/index.ts",
+          "accessed": "2026-11-13",
+          "supports": "workspacePath, fs and commands namespaces, connection/disposal distinction; raw official source opened."
+        },
+        {
+          "title": "Filesystem source",
+          "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/SandboxClient/filesystem.ts",
+          "accessed": "2026-11-13",
+          "supports": "writeTextFile signature; raw official source opened."
+        },
+        {
+          "title": "Command source",
+          "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/SandboxClient/commands.ts",
+          "accessed": "2026-11-13",
+          "supports": "commands.run return string, cwd option, shell composition, background command support and failures; raw official source opened."
+        },
+        {
+          "title": "Sandpack introduction",
+          "url": "https://sandpack.codesandbox.io/docs",
+          "accessed": "2026-11-13",
+          "supports": "Sandpack is a separate embedded coding toolkit; page opened."
+        }
+      ]
+    },
+    {
+      "slug": "cloudflare-sandbox",
+      "title": "Cloudflare Sandboxes",
+      "description": "Worker-controlled execution using Linux Containers or Dynamic Workers, with a current 1.0 versus legacy SDK distinction.",
+      "category": "sandboxes",
+      "kind": "Workers infrastructure",
+      "level": "Advanced",
+      "hours": "5–7 hours",
+      "homepage": "https://developers.cloudflare.com/sandbox/",
+      "docs": "https://developers.cloudflare.com/sandbox/get-started/",
+      "status": "Public beta scheduling; 1.0 transition",
+      "sources": [
+        {
+          "title": "Sandboxes overview",
+          "url": "https://developers.cloudflare.com/sandbox/",
+          "accessed": "2026-11-13",
+          "supports": "Two environments, Workers Paid availability, current Linux microVM model and public-beta Durable Object scheduling; page opened."
+        },
+        {
+          "title": "Run a Linux command",
+          "url": "https://developers.cloudflare.com/sandbox/get-started/",
+          "accessed": "2026-11-13",
+          "supports": "Current wrangler config shape, DurableObject container start/exec/output pattern, image, type generation, Docker and Wrangler prerequisites; page opened."
+        },
+        {
+          "title": "Current SDK reference",
+          "url": "https://developers.cloudflare.com/sandbox/reference/",
+          "accessed": "2026-11-13",
+          "supports": "1.0 helper classes use caller-started container, Files constructor and lifecycle boundary; page opened."
+        },
+        {
+          "title": "Sandbox SDK 0.x",
+          "url": "https://developers.cloudflare.com/sandbox/sdk/",
+          "accessed": "2026-11-13",
+          "supports": "Legacy documentation explicitly for existing applications and different 1.0 library; page opened."
+        },
+        {
+          "title": "Sandbox security",
+          "url": "https://developers.cloudflare.com/sandbox/concepts/security/",
+          "accessed": "2026-11-13",
+          "supports": "Sandbox unit of trust, task identity, credentials, output validation and separate preview-origin boundary; page opened."
+        }
+      ]
+    },
+    {
+      "slug": "github-codespaces",
+      "title": "GitHub Codespaces",
+      "description": "Repository-centered development environments for reproducible human and agent collaboration.",
+      "category": "sandboxes",
+      "kind": "Developer workspaces",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://github.com/features/codespaces",
+      "docs": "https://docs.github.com/en/codespaces/quickstart",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Codespaces quickstart",
+          "url": "https://docs.github.com/en/codespaces/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Browser editor, template, run, preview port, commit and publish workflow; page opened."
+        },
+        {
+          "title": "Introduction to dev containers",
+          "url": "https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers",
+          "accessed": "2026-11-13",
+          "supports": "Configuration location, image/build patterns, shared customization versus personalization, rebuild preservation boundaries; page opened."
+        },
+        {
+          "title": "Official Python development image",
+          "url": "https://github.com/devcontainers/images/blob/main/src/python/README.md",
+          "accessed": "2026-11-13",
+          "supports": "Current official image README lists mcr.microsoft.com/devcontainers/python:3.12-bookworm; page opened. Image pull and organization approval remain unrun."
+        },
+        {
+          "title": "Codespace lifecycle",
+          "url": "https://docs.github.com/en/codespaces/about-codespaces/understanding-the-codespace-lifecycle",
+          "accessed": "2026-11-13",
+          "supports": "Disconnect, stop, rebuild, deletion distinctions; page opened."
+        },
+        {
+          "title": "GitHub CLI guide",
+          "url": "https://docs.github.com/en/codespaces/developing-in-a-codespace/using-github-codespaces-with-github-cli",
+          "accessed": "2026-11-13",
+          "supports": "Authentication and singular gh codespace command workflow; page opened."
+        },
+        {
+          "title": "CLI create manual",
+          "url": "https://cli.github.com/manual/gh_codespace_create",
+          "accessed": "2026-11-13",
+          "supports": "Creation command reference; page opened."
+        },
+        {
+          "title": "CLI SSH manual",
+          "url": "https://cli.github.com/manual/gh_codespace_ssh",
+          "accessed": "2026-11-13",
+          "supports": "Remote shell command reference; page opened."
+        },
+        {
+          "title": "CLI stop manual",
+          "url": "https://cli.github.com/manual/gh_codespace_stop",
+          "accessed": "2026-11-13",
+          "supports": "Stop command reference; page opened."
+        }
+      ]
+    },
+    {
+      "slug": "coder",
+      "title": "Coder",
+      "description": "Self-hosted workspace infrastructure with templates and multiple native or third-party agent execution paths.",
+      "category": "sandboxes",
+      "kind": "Self-hosted platform",
+      "level": "Advanced",
+      "hours": "5–7 hours",
+      "homepage": "https://coder.com/",
+      "docs": "https://coder.com/docs/ai-coder",
+      "status": "Documented; Relay beta",
+      "sources": [
+        {
+          "title": "Run AI coding agents in Coder",
+          "url": "https://coder.com/docs/ai-coder",
+          "accessed": "2026-11-13",
+          "supports": "Native agents, Relay beta, IDE and template CLI paths; AI Governance licensing; page opened, v2.39 Mainline."
+        },
+        {
+          "title": "Coder Agents",
+          "url": "https://coder.com/docs/ai-coder/agents/",
+          "accessed": "2026-11-13",
+          "supports": "Native self-hosted control-plane loop, workspace tool access and distinction from third-party wrappers; page opened."
+        },
+        {
+          "title": "Getting started",
+          "url": "https://coder.com/docs/ai-coder/agents/getting-started/",
+          "accessed": "2026-11-13",
+          "supports": "Deployment, provider, template and administrative prerequisites; page opened."
+        },
+        {
+          "title": "Manage workspaces",
+          "url": "https://coder.com/docs/user-guides/workspace-management/",
+          "accessed": "2026-11-13",
+          "supports": "User create-from-template workflow and lifecycle entry points; page opened."
+        },
+        {
+          "title": "Work with templates",
+          "url": "https://coder.com/docs/admin/templates/managing-templates/",
+          "accessed": "2026-11-13",
+          "supports": "Terraform templates, template builder and administrative role boundary; page opened."
+        },
+        {
+          "title": "Template optimization",
+          "url": "https://coder.com/docs/ai-coder/agents/platform-controls/template-optimization",
+          "accessed": "2026-11-13",
+          "supports": "Agent template discoverability, descriptions, and eligibility controls; page opened."
+        }
+      ]
+    },
+    {
+      "slug": "livekit",
+      "title": "LiveKit Agents",
+      "description": "Code-centered voice agents with room/session abstractions and cloud deployment.",
+      "category": "voice",
+      "kind": "Agent framework",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://livekit.io/",
+      "docs": "https://docs.livekit.io/agents/start/voice-ai/",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Voice AI quickstart",
+          "url": "https://docs.livekit.io/agents/start/voice-ai/",
+          "accessed": "2026-11-13",
+          "supports": "Python/Node starters, current prerequisites, CLI install and initialization."
+        },
+        {
+          "title": "Agent Builder",
+          "url": "https://docs.livekit.io/agents/start/builder/",
+          "accessed": "2026-11-13",
+          "supports": "Browser prototyping route and relationship to SDK code."
+        },
+        {
+          "title": "Coding agent support and tools",
+          "url": "https://docs.livekit.io/intro/coding-agents/",
+          "accessed": "2026-11-13",
+          "supports": "Current coding-agent resources, debugger and text/audio testing distinction."
+        },
+        {
+          "title": "Agent deployment quickstart",
+          "url": "https://docs.livekit.io/deploy/agents/quickstart/",
+          "accessed": "2026-11-13",
+          "supports": "Initial cloud registration, deployment configuration, status and logs."
+        }
+      ]
+    },
+    {
+      "slug": "pipecat",
+      "title": "Pipecat",
+      "description": "Compose realtime voice applications through pipelines, processors, and frames.",
+      "category": "voice",
+      "kind": "Agent framework",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://pipecat.ai/",
+      "docs": "https://docs.pipecat.ai/pipecat/get-started/quickstart",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Pipecat quickstart",
+          "url": "https://docs.pipecat.ai/pipecat/get-started/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Python/uv setup, CLI scaffolding, local browser client, provider keys and cloud entry point."
+        },
+        {
+          "title": "Pipeline and Frame Processing",
+          "url": "https://docs.pipecat.ai/pipecat/learn/pipeline",
+          "accessed": "2026-11-13",
+          "supports": "Core pipeline/frame composition model and current learning navigation."
+        }
+      ]
+    },
+    {
+      "slug": "vapi",
+      "title": "Vapi",
+      "description": "Managed voice orchestration with configurable providers, web calling, and server tools.",
+      "category": "voice",
+      "kind": "Managed platform",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://vapi.ai/",
+      "docs": "https://docs.vapi.ai/assistants/quickstart",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Core Models",
+          "url": "https://docs.vapi.ai/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Transcriber/model/voice orchestration role."
+        },
+        {
+          "title": "Assistants quickstart",
+          "url": "https://docs.vapi.ai/assistants/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Assistant creation/configuration entry point."
+        },
+        {
+          "title": "Web calls",
+          "url": "https://docs.vapi.ai/quickstart/web",
+          "accessed": "2026-11-13",
+          "supports": "Web SDK package, public key constructor, start/stop and call events."
+        },
+        {
+          "title": "Function tools",
+          "url": "https://docs.vapi.ai/tools/custom-tools",
+          "accessed": "2026-11-13",
+          "supports": "Custom server function setup and request/response contract."
+        },
+        {
+          "title": "Vapi CLI",
+          "url": "https://docs.vapi.ai/cli",
+          "accessed": "2026-11-13",
+          "supports": "Documented CLI login, init and assistant create commands."
+        },
+        {
+          "title": "Official Vapi Web SDK source",
+          "url": "https://raw.githubusercontent.com/VapiAI/client-sdk-web/main/vapi.ts",
+          "accessed": "2026-11-13",
+          "supports": "Asynchronous error and call-start-failed event signatures, audio failure emission, and asynchronous stop cleanup"
+        }
+      ]
+    },
+    {
+      "slug": "retell",
+      "title": "Retell AI",
+      "description": "Managed voice agents with prompt and flow designs, custom functions, and testing workflows.",
+      "category": "voice",
+      "kind": "Managed platform",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://www.retellai.com/",
+      "docs": "https://docs.retellai.com/get-started/quick-start",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Retell documentation index",
+          "url": "https://docs.retellai.com/llms.txt",
+          "accessed": "2026-11-13",
+          "supports": "Current feature naming/navigation including Conductor and testing routes; not an API schema."
+        },
+        {
+          "title": "Build your first phone agent",
+          "url": "https://docs.retellai.com/get-started/quick-start",
+          "accessed": "2026-11-13",
+          "supports": "Account, agent setup and first testing workflow."
+        },
+        {
+          "title": "Single prompt vs conversation flow",
+          "url": "https://docs.retellai.com/build/choose-agent-type",
+          "accessed": "2026-11-13",
+          "supports": "Current agent design choices and single-prompt starting guidance."
+        },
+        {
+          "title": "Custom functions",
+          "url": "https://docs.retellai.com/build/single-multi-prompt/custom-function",
+          "accessed": "2026-11-13",
+          "supports": "Calling own APIs during conversation."
+        },
+        {
+          "title": "Website widget",
+          "url": "https://docs.retellai.com/deploy/chat-widget",
+          "accessed": "2026-11-13",
+          "supports": "Chat/voice and callback modes, public-key configuration, agent identifiers."
+        }
+      ]
+    },
+    {
+      "slug": "elevenlabs",
+      "title": "ElevenLabs Agents · ElevenAgents",
+      "description": "Voice-oriented agent platform with knowledge, tools, client embedding, and evaluation.",
+      "category": "voice",
+      "kind": "Managed platform",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://elevenlabs.io/agents",
+      "docs": "https://elevenlabs.io/docs/eleven-agents/quickstart",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "ElevenAgents overview",
+          "url": "https://elevenlabs.io/docs/eleven-agents/overview",
+          "accessed": "2026-11-13",
+          "supports": "Current ElevenAgents naming and platform role."
+        },
+        {
+          "title": "Quickstart",
+          "url": "https://elevenlabs.io/docs/eleven-agents/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Dashboard setup, knowledge/voice test flow, widget HTML and evaluation entry point."
+        },
+        {
+          "title": "Knowledge base",
+          "url": "https://elevenlabs.io/docs/eleven-agents/customization/knowledge-base",
+          "accessed": "2026-11-13",
+          "supports": "Source ingestion and full-context versus retrieval usage."
+        },
+        {
+          "title": "Tools",
+          "url": "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+          "accessed": "2026-11-13",
+          "supports": "Client, webhook, code, MCP and system tool types."
+        },
+        {
+          "title": "Agent authentication",
+          "url": "https://elevenlabs.io/docs/eleven-agents/customization/authentication",
+          "accessed": "2026-11-13",
+          "supports": "Protected conversation access guidance."
+        },
+        {
+          "title": "Success evaluation",
+          "url": "https://elevenlabs.io/docs/eleven-agents/customization/agent-analysis/success-evaluation",
+          "accessed": "2026-11-13",
+          "supports": "Conversation evaluation capabilities and criteria."
+        }
+      ]
+    },
+    {
+      "slug": "openai-realtime",
+      "title": "OpenAI Realtime API",
+      "description": "Speech-to-speech sessions with tools, turn detection, and browser/server transports.",
+      "category": "voice",
+      "kind": "Model API",
+      "level": "Advanced",
+      "hours": "4–6 hours",
+      "homepage": "https://developers.openai.com/api/docs/guides/realtime",
+      "docs": "https://developers.openai.com/api/docs/guides/realtime",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Getting started with Realtime",
+          "url": "https://developers.openai.com/api/docs/guides/realtime",
+          "accessed": "2026-11-13",
+          "supports": "Current SDK session pattern, documented model example and GA migration routes."
+        },
+        {
+          "title": "WebRTC",
+          "url": "https://developers.openai.com/api/docs/guides/voice-webrtc?api=realtime",
+          "accessed": "2026-11-13",
+          "supports": "Media/control transport and ephemeral credential server flow."
+        },
+        {
+          "title": "Voice activity detection",
+          "url": "https://developers.openai.com/api/docs/guides/realtime-vad",
+          "accessed": "2026-11-13",
+          "supports": "Current turn-detection configuration guide."
+        },
+        {
+          "title": "Realtime conversations",
+          "url": "https://developers.openai.com/api/docs/guides/realtime-conversations",
+          "accessed": "2026-11-13",
+          "supports": "Conversation state, audio and interruption mechanisms."
+        },
+        {
+          "title": "Realtime with tools",
+          "url": "https://developers.openai.com/api/docs/guides/realtime-mcp",
+          "accessed": "2026-11-13",
+          "supports": "Tools and external integration entry point."
+        },
+        {
+          "title": "Getting started with GPT-Live",
+          "url": "https://developers.openai.com/api/docs/guides/live",
+          "accessed": "2026-11-13",
+          "supports": "Separate full-duplex/delegated-backend architecture, distinguished from Realtime."
+        }
+      ]
+    },
+    {
+      "slug": "deepgram",
+      "title": "Deepgram Voice Agent API",
+      "description": "Managed listening, reasoning integration, and speech over a WebSocket conversation.",
+      "category": "voice",
+      "kind": "Voice API",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://deepgram.com/",
+      "docs": "https://developers.deepgram.com/docs/voice-agent",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "Voice Agent getting started",
+          "url": "https://developers.deepgram.com/docs/voice-agent",
+          "accessed": "2026-11-13",
+          "supports": "Combined speech pipeline role."
+        },
+        {
+          "title": "Build a Voice Agent",
+          "url": "https://developers.deepgram.com/docs/build-a-voice-agent",
+          "accessed": "2026-11-13",
+          "supports": "Endpoint, lifecycle, regional routes and connection-time usage accounting."
+        },
+        {
+          "title": "JavaScript guide",
+          "url": "https://developers.deepgram.com/docs/build-a-voice-agent-javascript",
+          "accessed": "2026-11-13",
+          "supports": "Official JavaScript implementation path."
+        },
+        {
+          "title": "Configure the Voice Agent",
+          "url": "https://developers.deepgram.com/docs/configure-voice-agent",
+          "accessed": "2026-11-13",
+          "supports": "Settings and audio configuration fields."
+        },
+        {
+          "title": "Voice Agent API reference",
+          "url": "https://developers.deepgram.com/reference/voice-agent/voice-agent",
+          "accessed": "2026-11-13",
+          "supports": "Current WebSocket protocol reference."
+        }
+      ]
+    },
+    {
+      "slug": "twilio-conversationrelay",
+      "title": "Twilio ConversationRelay",
+      "description": "Telephone speech handling connected to your own text-oriented agent server.",
+      "category": "voice",
+      "kind": "Telephony infrastructure",
+      "level": "Advanced",
+      "hours": "4–6 hours",
+      "homepage": "https://www.twilio.com/en-us/products/conversational-ai/conversationrelay",
+      "docs": "https://www.twilio.com/docs/voice/conversationrelay",
+      "status": "Documented",
+      "sources": [
+        {
+          "title": "ConversationRelay overview",
+          "url": "https://www.twilio.com/docs/voice/conversationrelay",
+          "accessed": "2026-11-13",
+          "supports": "Voice application role and documentation routes."
+        },
+        {
+          "title": "Product overview",
+          "url": "https://www.twilio.com/en-us/products/conversational-ai/conversationrelay",
+          "accessed": "2026-11-13",
+          "supports": "Speech handling and own-model architecture."
+        },
+        {
+          "title": "ConversationRelay TwiML noun",
+          "url": "https://www.twilio.com/docs/voice/conversationrelay/conversationrelay-noun",
+          "accessed": "2026-11-13",
+          "supports": "Connect/ConversationRelay XML structure and endpoint configuration."
+        },
+        {
+          "title": "WebSocket messages",
+          "url": "https://www.twilio.com/docs/voice/conversationrelay/websocket-messages",
+          "accessed": "2026-11-13",
+          "supports": "Prompt/text/interrupt fields, final markers and token-spacing guidance."
+        },
+        {
+          "title": "Onboarding",
+          "url": "https://www.twilio.com/docs/voice/conversationrelay/onboarding",
+          "accessed": "2026-11-13",
+          "supports": "Current application setup entry point."
+        }
+      ]
+    },
+    {
+      "slug": "runway",
+      "title": "Runway",
+      "description": "Direct short generated shots and assemble reliable release-video assets.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://runwayml.com/",
+      "docs": "https://help.runwayml.com/hc/en-us/articles/37425232841875-Getting-Started-with-Generative-Video",
+      "status": "Documented; model and account availability varies",
+      "sources": [
+        {
+          "title": "Getting Started with Generative Video",
+          "url": "https://help.runwayml.com/hc/en-us/articles/37425232841875-Getting-Started-with-Generative-Video",
+          "accessed": "2026-11-13",
+          "supports": "Creation surfaces, text/image modes, model selection and iteration concepts."
+        },
+        {
+          "title": "Text to Video Prompting Guide",
+          "url": "https://help.runwayml.com/hc/en-us/articles/47313737321107-Text-to-Video-Prompting-Guide",
+          "accessed": "2026-11-13",
+          "supports": "Gen-4.5-oriented visual and motion prompting guidance."
+        },
+        {
+          "title": "Creating with Gen-4 Video",
+          "url": "https://help.runwayml.com/hc/en-us/articles/37327109429011-Creating-with-Gen-4-Video",
+          "accessed": "2026-11-13",
+          "supports": "Older-model status and explicit links to newer workflows; old rates not generalized."
+        }
+      ]
+    },
+    {
+      "slug": "google-veo-flow",
+      "title": "Google Flow, Veo and Gemini video",
+      "description": "Learn the filmmaking application and distinguish current Google video API routes.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://labs.google/flow/",
+      "docs": "https://support.google.com/flow/answer/16353334",
+      "status": "Flow documented; Gemini Veo Preview retired; current API alternatives documented",
+      "sources": [
+        {
+          "title": "Create videos in Google Flow",
+          "url": "https://support.google.com/flow/answer/16353334",
+          "accessed": "2026-11-13",
+          "supports": "Text, references, frames and model-setting concepts."
+        },
+        {
+          "title": "Get started with Google Flow",
+          "url": "https://support.google.com/flow/answer/16353333",
+          "accessed": "2026-11-13",
+          "supports": "Age, region, browser and subscription eligibility conditions."
+        },
+        {
+          "title": "Video generation in the Gemini API",
+          "url": "https://aistudio.google.com/docs/video",
+          "accessed": "2026-11-13",
+          "supports": "Direct-open current page supersedes stale search result: Veo 3.1 Preview aliases shut down October 22, 2026; Gemini Omni Flash or enterprise GA Veo routes recommended."
+        },
+        {
+          "title": "Generate and edit videos with Gemini Omni Flash",
+          "url": "https://aistudio.google.com/docs/omni",
+          "accessed": "2026-11-13",
+          "supports": "Current gemini-omni-1.2-flash Interactions SDK example and output_video SDK convenience field."
+        },
+        {
+          "title": "Veo 3.1 enterprise documentation",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/veo/3-1-generate",
+          "accessed": "2026-11-13",
+          "supports": "Separate enterprise route for generally available Veo-specific work."
+        },
+        {
+          "title": "Google Flow models and supported features",
+          "url": "https://support.google.com/flow/answer/16352836",
+          "accessed": "2026-11-13",
+          "supports": "Current product-specific feature-matrix reference."
+        }
+      ]
+    },
+    {
+      "slug": "kling",
+      "title": "Kling AI",
+      "description": "Direct reference-driven clips and control key moments with a clear asset-role plan.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://kling.ai/",
+      "docs": "https://kling.ai/quickstart/kling-4-model-user-guide",
+      "status": "Kling 4.0 documented; launch limits and coming-soon labels require account checks",
+      "sources": [
+        {
+          "title": "Kling AI Quickstart and User Guide",
+          "url": "https://kling.ai/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Official current model-guide index."
+        },
+        {
+          "title": "Kling 4.0 User Guide",
+          "url": "https://kling.ai/quickstart/kling-4-model-user-guide",
+          "accessed": "2026-11-13",
+          "supports": "November 4, 2026 guide; Omni Reference versus Keyframes; actual-interface caveat and future-feature labels."
+        },
+        {
+          "title": "Kling VIDEO 3.0 Omni Guide",
+          "url": "https://kling.ai/quickstart/klingai-video-3-omni-model-user-guide",
+          "accessed": "2026-11-13",
+          "supports": "Adjacent older-generation reference, not a source of assumed 4.0 limits."
+        }
+      ]
+    },
+    {
+      "slug": "luma",
+      "title": "Luma and Dream Machine",
+      "description": "Organize boards and compare still animation, keyframes and source-footage transformation.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://lumalabs.ai/",
+      "docs": "https://lumalabs.ai/learning-hub",
+      "status": "Documented; workspace and individual model capabilities differ",
+      "sources": [
+        {
+          "title": "The New Luma app",
+          "url": "https://lumalabs.ai/learning-hub/the-new-luma-app-creative-multimodal-agent",
+          "accessed": "2026-11-13",
+          "supports": "Board and creative-agent workspace concepts. Broad model lists can lag provider deprecations and are not treated as guaranteed active routes."
+        },
+        {
+          "title": "Ray3.14 User Guide",
+          "url": "https://lumalabs.ai/learning-hub/ray314-user-guide",
+          "accessed": "2026-11-13",
+          "supports": "Model-specific workflow distinctions and stated reference/character/Reframe limitations."
+        },
+        {
+          "title": "Dream Machine Modify Video",
+          "url": "https://lumalabs.ai/learning-hub/modify-video-dream-machine",
+          "accessed": "2026-11-13",
+          "supports": "Transformation concepts and source-motion stability considerations."
+        },
+        {
+          "title": "How to use Keyframes",
+          "url": "https://lumalabs.ai/learning-hub/how-to-use-keyframes",
+          "accessed": "2026-11-13",
+          "supports": "Start/end image roles; older defaults not generalized to every model."
+        },
+        {
+          "title": "How to use Extend",
+          "url": "https://lumalabs.ai/learning-hub/how-to-use-extend",
+          "accessed": "2026-11-13",
+          "supports": "Continuation and optional visual destination concepts."
+        }
+      ]
+    },
+    {
+      "slug": "heygen",
+      "title": "HeyGen",
+      "description": "Build scripted avatar lessons and learn the current v3 developer workflow.",
+      "category": "video",
+      "kind": "Avatar generation",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://www.heygen.com/",
+      "docs": "https://developers.heygen.com/docs/quick-start",
+      "status": "Current v3 documented; v1/v2 sunset passed October 31, 2026",
+      "sources": [
+        {
+          "title": "HeyGen Developer Quick Start",
+          "url": "https://developers.heygen.com/docs/quick-start",
+          "accessed": "2026-11-13",
+          "supports": "Direct model versus application APIs, v3 workflow and explicit v1/v2 sunset notice."
+        },
+        {
+          "title": "Avatar 6",
+          "url": "https://developers.heygen.com/docs/models/avatar-6",
+          "accessed": "2026-11-13",
+          "supports": "Current direct model avatar route and image/audio input concepts."
+        },
+        {
+          "title": "API Key",
+          "url": "https://developers.heygen.com/docs/api-key",
+          "accessed": "2026-11-13",
+          "supports": "Current credential setup reference."
+        },
+        {
+          "title": "Quick Avatar Video",
+          "url": "https://help.heygen.com/en/articles/12903996-quick-avatar-video",
+          "accessed": "2026-11-13",
+          "supports": "Simple application workflow. Older named app engines not generalized to latest model API."
+        }
+      ]
+    },
+    {
+      "slug": "synthesia",
+      "title": "Synthesia",
+      "description": "Create maintainable avatar training from approved scripts and reusable templates.",
+      "category": "video",
+      "kind": "Avatar generation",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://www.synthesia.io/",
+      "docs": "https://docs.synthesia.io/docs/video-creation",
+      "status": "Documented; plan-specific creation routes vary",
+      "sources": [
+        {
+          "title": "Video Creation",
+          "url": "https://docs.synthesia.io/docs/video-creation",
+          "accessed": "2026-11-13",
+          "supports": "Starting routes and exact-script versus source-file transformation distinction."
+        },
+        {
+          "title": "Assistant",
+          "url": "https://docs.synthesia.io/docs/assistant",
+          "accessed": "2026-11-13",
+          "supports": "Editable outlines, storyboard flow and current versus legacy script-import route distinctions."
+        },
+        {
+          "title": "Script box",
+          "url": "https://docs.synthesia.io/docs/script",
+          "accessed": "2026-11-13",
+          "supports": "Voice, pacing, pronunciation and variable speech takes."
+        },
+        {
+          "title": "Templates",
+          "url": "https://docs.synthesia.io/docs/synthesia-templates",
+          "accessed": "2026-11-13",
+          "supports": "Reusable scene designs and variable concepts."
+        },
+        {
+          "title": "Bulk personalization",
+          "url": "https://docs.synthesia.io/docs/bulk-personalization",
+          "accessed": "2026-11-13",
+          "supports": "Tabular field mapping and batch production reference."
+        }
+      ]
+    },
+    {
+      "slug": "tavus",
+      "title": "Tavus",
+      "description": "Build and evaluate a narrow interactive video tutor using current PAL terminology.",
+      "category": "video",
+      "kind": "Interactive avatars",
+      "level": "Advanced",
+      "hours": "4–6 hours",
+      "homepage": "https://www.tavus.io/",
+      "docs": "https://docs.tavus.io/sections/introduction",
+      "status": "Documented; current PAL/Face/Voice terminology with legacy compatibility",
+      "sources": [
+        {
+          "title": "Introduction",
+          "url": "https://docs.tavus.io/sections/introduction",
+          "accessed": "2026-11-13",
+          "supports": "CVI, PAL, Face, Voice and legacy persona/replica compatibility."
+        },
+        {
+          "title": "What Is a PAL?",
+          "url": "https://docs.tavus.io/sections/conversational-video-interface/pal/what-is-a-pal",
+          "accessed": "2026-11-13",
+          "supports": "Conceptual configuration of the conversational entity."
+        },
+        {
+          "title": "API Conversation Quickstart",
+          "url": "https://docs.tavus.io/sections/conversational-video-interface/quickstart/cvi-quickstart",
+          "accessed": "2026-11-13",
+          "supports": "PAL creation, POST /v2/conversations using pal_id and returned join URL."
+        },
+        {
+          "title": "Models",
+          "url": "https://docs.tavus.io/sections/models",
+          "accessed": "2026-11-13",
+          "supports": "Current pipeline-model context; no benchmark claims inferred."
+        }
+      ]
+    },
+    {
+      "slug": "d-id",
+      "title": "D-ID",
+      "description": "Learn asynchronous avatar rendering and the separate lifecycle of real-time agents.",
+      "category": "video",
+      "kind": "Avatar generation",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://www.d-id.com/",
+      "docs": "https://docs.d-id.com/docs/quickstart",
+      "status": "Documented; new live integrations should use Agents SDK/Streams",
+      "sources": [
+        {
+          "title": "Quickstart",
+          "url": "https://docs.d-id.com/docs/quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Current asynchronous video and real-time product paths."
+        },
+        {
+          "title": "V2 Photo Avatar Quickstart",
+          "url": "https://docs.d-id.com/docs/v2-photo-avatar-quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Documented asynchronous Talks route, status, result URL and limited result-URL lifetime."
+        },
+        {
+          "title": "V4 Expressive Avatar Quickstart",
+          "url": "https://docs.d-id.com/docs/v4-expressive-avatar-quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Avatar/sentiment discovery and render concepts."
+        },
+        {
+          "title": "Agents",
+          "url": "https://docs.d-id.com/docs/agent-quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Current agent configuration path, separate from fixed video."
+        },
+        {
+          "title": "Agent Sessions",
+          "url": "https://docs.d-id.com/docs/agent-session-quickstart",
+          "accessed": "2026-11-13",
+          "supports": "Current live-session route."
+        },
+        {
+          "title": "Talks Streams Overview",
+          "url": "https://docs.d-id.com/reference/talks-streams-overview",
+          "accessed": "2026-11-13",
+          "supports": "Explicit legacy live-streaming notice and recommendation for new integrations."
+        }
+      ]
+    }
+  ]
+}

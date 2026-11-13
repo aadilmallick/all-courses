@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+runs/
+training_checkpoints/
+*.keras
+*.tflite
+*_savedmodel/
+inference_savedmodel/
+explicit_export/
+demo_images/
+tiny.tfrecord
+sentences.txt
+tags.txt

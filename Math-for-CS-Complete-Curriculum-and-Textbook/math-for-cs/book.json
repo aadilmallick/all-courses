@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "title": "Math for CS: From First Principles to Confident Reasoning",
+  "subtitle": "A beginner-oriented college curriculum and companion textbook",
+  "audience": "Beginners with whole-number arithmetic; algebra is rebuilt locally",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Algebra and mathematical language",
+      "path": "chapters/01-algebra-and-mathematical-language.md",
+      "part": "Language and proof",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "growth"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Logic: saying exactly what you mean",
+      "path": "chapters/02-logic-and-quantifiers.md",
+      "part": "Language and proof",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "logic"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Building and checking proofs",
+      "path": "chapters/03-proof-methods.md",
+      "part": "Language and proof",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "logic"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Well ordering and induction",
+      "path": "chapters/04-well-ordering-and-induction.md",
+      "part": "Language and proof",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "recurrence"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Sets, functions, relations, and finite size",
+      "path": "chapters/05-sets-functions-and-relations.md",
+      "part": "Language and proof",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "sets"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "State machines, invariants, and recursive objects",
+      "path": "chapters/06-state-machines-and-recursive-objects.md",
+      "part": "Language and proof",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "euclid",
+        "brackets"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Infinity, diagonal arguments, and limits of computation",
+      "path": "chapters/07-infinity-and-computability.md",
+      "part": "Language and proof",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "sets"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Number theory and modular arithmetic",
+      "path": "chapters/08-number-theory-and-modular-arithmetic.md",
+      "part": "Discrete structures",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "euclid",
+        "modular"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Directed graphs, orders, and scheduling",
+      "path": "chapters/09-digraphs-orders-and-scheduling.md",
+      "part": "Discrete structures",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "graph"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Simple graphs and communication networks",
+      "path": "chapters/10-simple-graphs-and-communication-networks.md",
+      "part": "Discrete structures",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "graph",
+        "matching",
+        "spanning",
+        "network"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Planarity, faces, and polyhedra",
+      "path": "chapters/11-planarity-and-polyhedra.md",
+      "part": "Discrete structures",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-10"
+      ],
+      "experiments": [
+        "planar"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Sums, products, and growth rates",
+      "path": "chapters/12-sums-products-and-growth.md",
+      "part": "Counting and recurrences",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-11"
+      ],
+      "experiments": [
+        "growth",
+        "sums"
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "title": "Counting without overcounting",
+      "path": "chapters/13-counting-and-combinatorial-proofs.md",
+      "part": "Counting and recurrences",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-12"
+      ],
+      "experiments": [
+        "counting"
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "title": "Recurrences and generating functions",
+      "path": "chapters/14-recurrences-and-generating-functions.md",
+      "part": "Counting and recurrences",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-13"
+      ],
+      "experiments": [
+        "recurrence",
+        "convolution"
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "title": "Probability spaces and conditional reasoning",
+      "path": "chapters/15-probability-and-conditioning.md",
+      "part": "Probability and stochastic models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-14"
+      ],
+      "experiments": [
+        "birthday",
+        "bayes",
+        "monty"
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "title": "Random variables and expectation",
+      "path": "chapters/16-random-variables-and-expectation.md",
+      "part": "Probability and stochastic models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-15"
+      ],
+      "experiments": [
+        "distribution",
+        "coupon"
+      ]
+    },
+    {
+      "id": "chapter-17",
+      "title": "Variance, sampling, and tail bounds",
+      "path": "chapters/17-variance-sampling-and-tail-bounds.md",
+      "part": "Probability and stochastic models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-16"
+      ],
+      "experiments": [
+        "tails",
+        "sampling"
+      ]
+    },
+    {
+      "id": "chapter-18",
+      "title": "Random walks and stationary distributions",
+      "path": "chapters/18-random-walks-and-stationary-distributions.md",
+      "part": "Probability and stochastic models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-17"
+      ],
+      "experiments": [
+        "walk",
+        "rank"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/dependencies.svg",
+    "assets/diamond.svg",
+    "assets/probability-tree.svg"
+  ],
+  "source_listings": [],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

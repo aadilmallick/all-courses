@@ -1,0 +1,35 @@
+{
+  "access_date": "2026-11-12",
+  "source_pdf": {
+    "title": "Mathematics for Computer Science",
+    "authors": [
+      "Eric Lehman",
+      "F. Thomson Leighton",
+      "Albert R. Meyer"
+    ],
+    "revision": "2017-03-03 11:21",
+    "copyright_notice": "2016",
+    "pages": 987,
+    "file_name": "MathForCS.pdf",
+    "sha256": "9583434199730cdeb47ec360e7fce66c11dab4d2b48ae28cc7ed98a654dc446e",
+    "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
+    "license_as_stated": "CC BY-SA 3.0",
+    "access": "partially-inspected",
+    "inspection": "All pages machine-extracted for indexing; full front matter inspected; instructional headings indexed; selected main exposition, theorem passages, and examples inspected. Not a manual reading of every page or every exercise.",
+    "redistributed": false
+  },
+  "web_sources": [
+    {
+      "title": "MIT OCW 6.042J Spring 2015 readings",
+      "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/readings/",
+      "access": "inspected",
+      "use": "Verified official related course/textbook provenance; its different edition numbering does not replace the supplied 2017 PDF."
+    },
+    {
+      "title": "2017 source URL",
+      "url": "https://courses.csail.mit.edu/6.042/spring17/mcs.pdf",
+      "access": "unavailable via web tool",
+      "use": "Local user-provided PDF is authoritative for this package."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "e2b",
+    "title": "E2B",
+    "description": "An execution SDK for agent code, analysis programs, and task-scoped Linux sessions.",
+    "category": "sandboxes",
+    "kind": "Execution SDK",
+    "level": "Intermediate",
+    "hours": "3–5 hours",
+    "homepage": "https://e2b.dev/",
+    "docs": "https://docs.e2b.dev/quickstart",
+    "status": "Documented",
+    "sources": [
+      { "title": "Running your first Sandbox", "url": "https://docs.e2b.dev/quickstart", "accessed": "2026-11-13", "supports": "Code Interpreter versus core SDK distinction, Python installation, create and run_code pattern; page opened." },
+      { "title": "Sandbox lifecycle", "url": "https://docs.e2b.dev/sandbox", "accessed": "2026-11-13", "supports": "Explicit timeout, sandbox information, and kill method; page opened." },
+      { "title": "Sandbox persistence", "url": "https://docs.e2b.dev/sandbox/persistence", "accessed": "2026-11-13", "supports": "Pause/resume state distinctions, filesystem-only alternative, terminal kill; page opened. Recheck version and rollout-specific behavior." }
+    ]
+  },
+  {
+    "slug": "daytona",
+    "title": "Daytona",
+    "description": "Programmable agent workspaces with process execution, sessions, reusable environments, and lifecycle controls.",
+    "category": "sandboxes",
+    "kind": "Workspace infrastructure",
+    "level": "Intermediate",
+    "hours": "4–6 hours",
+    "homepage": "https://www.daytona.io/",
+    "docs": "https://www.daytona.io/docs/en/python-sdk/",
+    "status": "Documented; separate v2 alpha",
+    "sources": [
+      { "title": "Python SDK Reference", "url": "https://www.daytona.io/docs/en/python-sdk/", "accessed": "2026-11-13", "supports": "Documented v0.231 line, separate v2.0 Alpha link, installation, environment configuration, create pattern; page opened." },
+      { "title": "Process reference", "url": "https://www.daytona.io/docs/en/python-sdk/sync/process/", "accessed": "2026-11-13", "supports": "exec and code_run signatures, result and exit_code fields, cwd, timeout, sessions and PTY; page opened." },
+      { "title": "Daytona lifecycle methods", "url": "https://www.daytona.io/docs/en/python-sdk/sync/daytona/", "accessed": "2026-11-13", "supports": "delete with wait flag, start/get, lifecycle parameters and differing zero meanings; page opened." },
+      { "title": "Snapshots", "url": "https://www.daytona.io/docs/en/snapshots/", "accessed": "2026-11-13", "supports": "Reusable environment preparation; page opened. No assumption of cross-provider snapshot compatibility." }
+    ]
+  },
+  {
+    "slug": "modal",
+    "title": "Modal Sandboxes",
+    "description": "Programmable isolated processes within a broader cloud-compute platform, with Python supervision and explicit networking.",
+    "category": "sandboxes",
+    "kind": "Cloud compute",
+    "level": "Intermediate",
+    "hours": "4–6 hours",
+    "homepage": "https://modal.com/",
+    "docs": "https://modal.com/docs/guide/sandboxes",
+    "status": "Documented; some advanced features beta",
+    "sources": [
+      { "title": "Getting started with Modal", "url": "https://modal.com/docs/guide/getting-started", "accessed": "2026-11-13", "supports": "modal package and CLI setup authentication; page opened." },
+      { "title": "Sandboxes", "url": "https://modal.com/docs/guide/sandboxes", "accessed": "2026-11-13", "supports": "App.lookup, Sandbox.create, exec, stdout, terminate, direct Python script pattern, current runtime alternatives; page opened." },
+      { "title": "Running commands in Sandboxes", "url": "https://modal.com/docs/guide/sandbox-spawn", "accessed": "2026-11-13", "supports": "Process command and stream semantics; page opened." },
+      { "title": "Networking and security", "url": "https://modal.com/docs/guide/sandbox-networking", "accessed": "2026-11-13", "supports": "block_network, CIDR and beta domain allowlist distinctions and interactions; page opened." }
+    ]
+  },
+  {
+    "slug": "freestyle",
+    "title": "Freestyle",
+    "description": "Durable Linux VMs for long-running agent work, with deliberate pause/resume, snapshots, and network policy.",
+    "category": "sandboxes",
+    "kind": "Persistent VMs",
+    "level": "Advanced",
+    "hours": "4–6 hours",
+    "homepage": "https://www.freestyle.sh/",
+    "docs": "https://www.freestyle.sh/docs/quickstart",
+    "status": "Documented",
+    "sources": [
+      { "title": "Freestyle quickstart", "url": "https://www.freestyle.sh/docs/quickstart", "accessed": "2026-11-13", "supports": "freestyle package, CLI login/token setup, FREESTYLE_API_KEY, create and exec pattern; page opened." },
+      { "title": "Freestyle VMs", "url": "https://www.freestyle.sh/docs/vms", "accessed": "2026-11-13", "supports": "create return shape, vmId, stdout/statusCode, text file methods, common lifecycle calls; page opened." },
+      { "title": "VM Lifecycle", "url": "https://www.freestyle.sh/docs/vms/lifecycle", "accessed": "2026-11-13", "supports": "Memory-preserving pause versus stop, start, deletion, policy distinctions; page opened." },
+      { "title": "Firewall", "url": "https://www.freestyle.sh/docs/vms/network/firewall", "accessed": "2026-11-13", "supports": "Explicit allow rules, identity/address matchers, public network scope, deny-by-absence model; page opened." },
+      { "title": "Runloop transition notice", "url": "https://docs.runloop.ai/docs/transitions/overview", "accessed": "2026-11-13", "supports": "Runloop service wind-down; existing-customer transition support through November 13, 2026 11:59 PM PT. Reason Freestyle replaced Runloop as an adoption chapter; page opened." },
+      { "title": "Runloop to Freestyle transition", "url": "https://docs.runloop.ai/docs/transitions/runloop-to-freestyle", "accessed": "2026-11-13", "supports": "Migration is not certified; IDs, blueprints, snapshots and Axon state do not transfer automatically; page opened." }
+    ],
+    "watchlist": ["Runloop: migration-only coverage; official service wind-down notice checked 2026-11-13."]
+  },
+  {
+    "slug": "codesandbox",
+    "title": "CodeSandbox SDK",
+    "description": "Programmatically create inspectable project environments with file operations, commands, and application previews.",
+    "category": "sandboxes",
+    "kind": "App workspaces",
+    "level": "Intermediate",
+    "hours": "4–6 hours",
+    "homepage": "https://codesandbox.io/",
+    "docs": "https://github.com/codesandbox/codesandbox-sdk",
+    "status": "Documented; official source used",
+    "sources": [
+      { "title": "CodeSandbox SDK repository", "url": "https://github.com/codesandbox/codesandbox-sdk", "accessed": "2026-11-13", "supports": "Official README package installation, CSB_API_KEY, create/connect/commands.run pattern. Main codesandbox.io/docs/sdk endpoint returned 403, so source was used." },
+      { "title": "Sandbox management source", "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/Sandboxes.ts", "accessed": "2026-11-13", "supports": "Explicit private option, default preview nuance, delete, hibernate, shutdown, resume behavior; raw official source opened." },
+      { "title": "Sandbox client source", "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/SandboxClient/index.ts", "accessed": "2026-11-13", "supports": "workspacePath, fs and commands namespaces, connection/disposal distinction; raw official source opened." },
+      { "title": "Filesystem source", "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/SandboxClient/filesystem.ts", "accessed": "2026-11-13", "supports": "writeTextFile signature; raw official source opened." },
+      { "title": "Command source", "url": "https://github.com/codesandbox/codesandbox-sdk/blob/main/src/SandboxClient/commands.ts", "accessed": "2026-11-13", "supports": "commands.run return string, cwd option, shell composition, background command support and failures; raw official source opened." },
+      { "title": "Sandpack introduction", "url": "https://sandpack.codesandbox.io/docs", "accessed": "2026-11-13", "supports": "Sandpack is a separate embedded coding toolkit; page opened." }
+    ]
+  },
+  {
+    "slug": "cloudflare-sandbox",
+    "title": "Cloudflare Sandboxes",
+    "description": "Worker-controlled execution using Linux Containers or Dynamic Workers, with a current 1.0 versus legacy SDK distinction.",
+    "category": "sandboxes",
+    "kind": "Workers infrastructure",
+    "level": "Advanced",
+    "hours": "5–7 hours",
+    "homepage": "https://developers.cloudflare.com/sandbox/",
+    "docs": "https://developers.cloudflare.com/sandbox/get-started/",
+    "status": "Public beta scheduling; 1.0 transition",
+    "sources": [
+      { "title": "Sandboxes overview", "url": "https://developers.cloudflare.com/sandbox/", "accessed": "2026-11-13", "supports": "Two environments, Workers Paid availability, current Linux microVM model and public-beta Durable Object scheduling; page opened." },
+      { "title": "Run a Linux command", "url": "https://developers.cloudflare.com/sandbox/get-started/", "accessed": "2026-11-13", "supports": "Current wrangler config shape, DurableObject container start/exec/output pattern, image, type generation, Docker and Wrangler prerequisites; page opened." },
+      { "title": "Current SDK reference", "url": "https://developers.cloudflare.com/sandbox/reference/", "accessed": "2026-11-13", "supports": "1.0 helper classes use caller-started container, Files constructor and lifecycle boundary; page opened." },
+      { "title": "Sandbox SDK 0.x", "url": "https://developers.cloudflare.com/sandbox/sdk/", "accessed": "2026-11-13", "supports": "Legacy documentation explicitly for existing applications and different 1.0 library; page opened." },
+      { "title": "Sandbox security", "url": "https://developers.cloudflare.com/sandbox/concepts/security/", "accessed": "2026-11-13", "supports": "Sandbox unit of trust, task identity, credentials, output validation and separate preview-origin boundary; page opened." }
+    ]
+  },
+  {
+    "slug": "github-codespaces",
+    "title": "GitHub Codespaces",
+    "description": "Repository-centered development environments for reproducible human and agent collaboration.",
+    "category": "sandboxes",
+    "kind": "Developer workspaces",
+    "level": "Beginner",
+    "hours": "3–5 hours",
+    "homepage": "https://github.com/features/codespaces",
+    "docs": "https://docs.github.com/en/codespaces/quickstart",
+    "status": "Documented",
+    "sources": [
+      { "title": "Codespaces quickstart", "url": "https://docs.github.com/en/codespaces/quickstart", "accessed": "2026-11-13", "supports": "Browser editor, template, run, preview port, commit and publish workflow; page opened." },
+      { "title": "Introduction to dev containers", "url": "https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers", "accessed": "2026-11-13", "supports": "Configuration location, image/build patterns, shared customization versus personalization, rebuild preservation boundaries; page opened." },
+      { "title": "Official Python development image", "url": "https://github.com/devcontainers/images/blob/main/src/python/README.md", "accessed": "2026-11-13", "supports": "Current official image README lists mcr.microsoft.com/devcontainers/python:3.12-bookworm; page opened. Image pull and organization approval remain unrun." },
+      { "title": "Codespace lifecycle", "url": "https://docs.github.com/en/codespaces/about-codespaces/understanding-the-codespace-lifecycle", "accessed": "2026-11-13", "supports": "Disconnect, stop, rebuild, deletion distinctions; page opened." },
+      { "title": "GitHub CLI guide", "url": "https://docs.github.com/en/codespaces/developing-in-a-codespace/using-github-codespaces-with-github-cli", "accessed": "2026-11-13", "supports": "Authentication and singular gh codespace command workflow; page opened." },
+      { "title": "CLI create manual", "url": "https://cli.github.com/manual/gh_codespace_create", "accessed": "2026-11-13", "supports": "Creation command reference; page opened." },
+      { "title": "CLI SSH manual", "url": "https://cli.github.com/manual/gh_codespace_ssh", "accessed": "2026-11-13", "supports": "Remote shell command reference; page opened." },
+      { "title": "CLI stop manual", "url": "https://cli.github.com/manual/gh_codespace_stop", "accessed": "2026-11-13", "supports": "Stop command reference; page opened." }
+    ]
+  },
+  {
+    "slug": "coder",
+    "title": "Coder",
+    "description": "Self-hosted workspace infrastructure with templates and multiple native or third-party agent execution paths.",
+    "category": "sandboxes",
+    "kind": "Self-hosted platform",
+    "level": "Advanced",
+    "hours": "5–7 hours",
+    "homepage": "https://coder.com/",
+    "docs": "https://coder.com/docs/ai-coder",
+    "status": "Documented; Relay beta",
+    "sources": [
+      { "title": "Run AI coding agents in Coder", "url": "https://coder.com/docs/ai-coder", "accessed": "2026-11-13", "supports": "Native agents, Relay beta, IDE and template CLI paths; AI Governance licensing; page opened, v2.39 Mainline." },
+      { "title": "Coder Agents", "url": "https://coder.com/docs/ai-coder/agents/", "accessed": "2026-11-13", "supports": "Native self-hosted control-plane loop, workspace tool access and distinction from third-party wrappers; page opened." },
+      { "title": "Getting started", "url": "https://coder.com/docs/ai-coder/agents/getting-started/", "accessed": "2026-11-13", "supports": "Deployment, provider, template and administrative prerequisites; page opened." },
+      { "title": "Manage workspaces", "url": "https://coder.com/docs/user-guides/workspace-management/", "accessed": "2026-11-13", "supports": "User create-from-template workflow and lifecycle entry points; page opened." },
+      { "title": "Work with templates", "url": "https://coder.com/docs/admin/templates/managing-templates/", "accessed": "2026-11-13", "supports": "Terraform templates, template builder and administrative role boundary; page opened." },
+      { "title": "Template optimization", "url": "https://coder.com/docs/ai-coder/agents/platform-controls/template-optimization", "accessed": "2026-11-13", "supports": "Agent template discoverability, descriptions, and eligibility controls; page opened." }
+    ]
+  }
+]

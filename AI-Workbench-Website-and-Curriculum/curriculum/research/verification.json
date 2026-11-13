@@ -1,0 +1,248 @@
+{
+  "checked": "2026-11-13",
+  "tokenizer": {
+    "package": "gpt-tokenizer",
+    "version": "4.1.2",
+    "encoding": "cl100k_base",
+    "scope": "Chapter body, frontmatter excluded"
+  },
+  "coreTools": 32,
+  "uniquePrimarySources": 164,
+  "chapters": [
+    {
+      "tool": "Codex",
+      "file": "src/content/docs/factories/codex.md",
+      "tokens": 5006,
+      "words": 3979,
+      "sources": 3
+    },
+    {
+      "tool": "Claude Code",
+      "file": "src/content/docs/factories/claude-code.md",
+      "tokens": 5048,
+      "words": 3614,
+      "sources": 9
+    },
+    {
+      "tool": "Cursor",
+      "file": "src/content/docs/factories/cursor.md",
+      "tokens": 5005,
+      "words": 3865,
+      "sources": 6
+    },
+    {
+      "tool": "GitHub Copilot",
+      "file": "src/content/docs/factories/github-copilot.md",
+      "tokens": 5398,
+      "words": 3863,
+      "sources": 8
+    },
+    {
+      "tool": "Devin",
+      "file": "src/content/docs/factories/devin.md",
+      "tokens": 5106,
+      "words": 3679,
+      "sources": 8
+    },
+    {
+      "tool": "Factory Droid & Missions",
+      "file": "src/content/docs/factories/factory.md",
+      "tokens": 5047,
+      "words": 3829,
+      "sources": 4
+    },
+    {
+      "tool": "OpenHands",
+      "file": "src/content/docs/factories/openhands.md",
+      "tokens": 5035,
+      "words": 3938,
+      "sources": 5
+    },
+    {
+      "tool": "Paradev (formerly Superset)",
+      "file": "src/content/docs/factories/paradev.md",
+      "tokens": 5003,
+      "words": 3906,
+      "sources": 4
+    },
+    {
+      "tool": "E2B",
+      "file": "src/content/docs/sandboxes/e2b.md",
+      "tokens": 5279,
+      "words": 3940,
+      "sources": 3
+    },
+    {
+      "tool": "Daytona",
+      "file": "src/content/docs/sandboxes/daytona.md",
+      "tokens": 5030,
+      "words": 3750,
+      "sources": 4
+    },
+    {
+      "tool": "Modal Sandboxes",
+      "file": "src/content/docs/sandboxes/modal.md",
+      "tokens": 5002,
+      "words": 3691,
+      "sources": 4
+    },
+    {
+      "tool": "Freestyle",
+      "file": "src/content/docs/sandboxes/freestyle.md",
+      "tokens": 5064,
+      "words": 3591,
+      "sources": 6
+    },
+    {
+      "tool": "CodeSandbox SDK",
+      "file": "src/content/docs/sandboxes/codesandbox.md",
+      "tokens": 5027,
+      "words": 3592,
+      "sources": 6
+    },
+    {
+      "tool": "Cloudflare Sandboxes",
+      "file": "src/content/docs/sandboxes/cloudflare-sandbox.md",
+      "tokens": 5065,
+      "words": 3750,
+      "sources": 5
+    },
+    {
+      "tool": "GitHub Codespaces",
+      "file": "src/content/docs/sandboxes/github-codespaces.md",
+      "tokens": 5070,
+      "words": 3600,
+      "sources": 8
+    },
+    {
+      "tool": "Coder",
+      "file": "src/content/docs/sandboxes/coder.md",
+      "tokens": 5025,
+      "words": 3684,
+      "sources": 6
+    },
+    {
+      "tool": "LiveKit Agents",
+      "file": "src/content/docs/voice/livekit.md",
+      "tokens": 5020,
+      "words": 3827,
+      "sources": 4
+    },
+    {
+      "tool": "Pipecat",
+      "file": "src/content/docs/voice/pipecat.md",
+      "tokens": 5006,
+      "words": 3799,
+      "sources": 2
+    },
+    {
+      "tool": "Vapi",
+      "file": "src/content/docs/voice/vapi.md",
+      "tokens": 5567,
+      "words": 4057,
+      "sources": 6
+    },
+    {
+      "tool": "Retell AI",
+      "file": "src/content/docs/voice/retell.md",
+      "tokens": 5020,
+      "words": 3768,
+      "sources": 5
+    },
+    {
+      "tool": "ElevenLabs Agents · ElevenAgents",
+      "file": "src/content/docs/voice/elevenlabs.md",
+      "tokens": 5027,
+      "words": 3636,
+      "sources": 6
+    },
+    {
+      "tool": "OpenAI Realtime API",
+      "file": "src/content/docs/voice/openai-realtime.md",
+      "tokens": 5013,
+      "words": 3450,
+      "sources": 6
+    },
+    {
+      "tool": "Deepgram Voice Agent API",
+      "file": "src/content/docs/voice/deepgram.md",
+      "tokens": 5010,
+      "words": 3646,
+      "sources": 5
+    },
+    {
+      "tool": "Twilio ConversationRelay",
+      "file": "src/content/docs/voice/twilio-conversationrelay.md",
+      "tokens": 5007,
+      "words": 3589,
+      "sources": 5
+    },
+    {
+      "tool": "Runway",
+      "file": "src/content/docs/video/runway.md",
+      "tokens": 5011,
+      "words": 3974,
+      "sources": 3
+    },
+    {
+      "tool": "Google Flow, Veo and Gemini video",
+      "file": "src/content/docs/video/google-veo-flow.md",
+      "tokens": 5014,
+      "words": 3996,
+      "sources": 6
+    },
+    {
+      "tool": "Kling AI",
+      "file": "src/content/docs/video/kling.md",
+      "tokens": 5044,
+      "words": 4104,
+      "sources": 3
+    },
+    {
+      "tool": "Luma and Dream Machine",
+      "file": "src/content/docs/video/luma.md",
+      "tokens": 5063,
+      "words": 4027,
+      "sources": 5
+    },
+    {
+      "tool": "HeyGen",
+      "file": "src/content/docs/video/heygen.md",
+      "tokens": 5024,
+      "words": 3896,
+      "sources": 4
+    },
+    {
+      "tool": "Synthesia",
+      "file": "src/content/docs/video/synthesia.md",
+      "tokens": 5039,
+      "words": 4032,
+      "sources": 5
+    },
+    {
+      "tool": "Tavus",
+      "file": "src/content/docs/video/tavus.md",
+      "tokens": 5021,
+      "words": 3934,
+      "sources": 4
+    },
+    {
+      "tool": "D-ID",
+      "file": "src/content/docs/video/d-id.md",
+      "tokens": 5174,
+      "words": 3974,
+      "sources": 6
+    }
+  ],
+  "totalBodyTokens": 162270,
+  "totalWhitespaceWords": 121980,
+  "minimumBodyTokens": 5002,
+  "contentRoutes": 45,
+  "internalLinksChecked": 291,
+  "errors": [],
+  "limits": [
+    "Live SaaS accounts, paid model calls, cloud sessions, video exports, audio and telephone calls were not executed.",
+    "Source research verifies documented interfaces, not account-specific access.",
+    "Only explicitly recorded offline examples were executed."
+  ]
+}

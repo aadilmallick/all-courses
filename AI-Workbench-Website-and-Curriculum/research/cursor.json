@@ -1,0 +1,13 @@
+[
+  {
+    "slug":"cursor","title":"Cursor","description":"Interactive coding agents, isolated cloud development environments, and event-driven automations.","category":"factories","kind":"Coding-agent platform","level":"Intermediate","hours":"4–6 hours","homepage":"https://cursor.com/","docs":"https://cursor.com/docs/cloud-agent","status":"Documented",
+    "sources":[
+      {"title":"Agent overview","url":"https://cursor.com/docs/agent/overview","accessed":"2026-11-13","supports":"Interactive agent entry point and current agent-oriented product structure."},
+      {"title":"Cloud Agents","url":"https://cursor.com/docs/cloud-agent","accessed":"2026-11-13","supports":"Isolated cloud VM execution and development-environment role."},
+      {"title":"Cloud Environment Setup","url":"https://cursor.com/docs/cloud-agent/setup","accessed":"2026-11-13","supports":"Ubuntu environments, guided/manual configuration, multi-repo setup, saved-environment resolution."},
+      {"title":"Cloud Agent Builds","url":"https://cursor.com/docs/cloud-agent/builds","accessed":"2026-11-13","supports":"Environment preparation/build lifecycle distinct from application build."},
+      {"title":"Rules","url":"https://cursor.com/docs/rules","accessed":"2026-11-13","supports":"Persistent project guidance and current rule system."},
+      {"title":"Automations","url":"https://cursor.com/docs/cloud-agent/automations","accessed":"2026-11-13","supports":"Scheduled/event-driven cloud agents, repository scope and optional tools."}
+    ]
+  }
+]

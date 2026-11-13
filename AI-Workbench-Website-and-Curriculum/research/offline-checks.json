@@ -1,0 +1,191 @@
+{
+  "checked": "2026-11-13",
+  "javascriptSyntax": [
+    {
+      "file": "src/content/docs/factories/codex.md",
+      "block": 2,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/factories/codex.md",
+      "block": 3,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/factories/cursor.md",
+      "block": 2,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/factories/github-copilot.md",
+      "block": 2,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/factories/factory.md",
+      "block": 3,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/factories/openhands.md",
+      "block": 5,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/factories/paradev.md",
+      "block": 3,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/sandboxes/freestyle.md",
+      "block": 2,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/sandboxes/freestyle.md",
+      "block": 3,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/sandboxes/freestyle.md",
+      "block": 4,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/sandboxes/codesandbox.md",
+      "block": 2,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/sandboxes/codesandbox.md",
+      "block": 3,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/sandboxes/codesandbox.md",
+      "block": 4,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/vapi.md",
+      "block": 4,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/vapi.md",
+      "block": 6,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/elevenlabs.md",
+      "block": 5,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/elevenlabs.md",
+      "block": 6,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/openai-realtime.md",
+      "block": 2,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/openai-realtime.md",
+      "block": 4,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/openai-realtime.md",
+      "block": 5,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/deepgram.md",
+      "block": 2,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/deepgram.md",
+      "block": 3,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/twilio-conversationrelay.md",
+      "block": 5,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    },
+    {
+      "file": "src/content/docs/voice/twilio-conversationrelay.md",
+      "block": 6,
+      "kind": "JavaScript syntax only",
+      "passed": true
+    }
+  ],
+  "executedOffline": [
+    {
+      "label": "Codex baseline tests",
+      "passed": true,
+      "exit": 0,
+      "stdout": "✔ renders each title on its own line (0.4423ms)\n✔ empty input produces an empty document (0.0791ms)\nℹ tests 2\nℹ suites 0\nℹ pass 2\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 102.2274",
+      "stderr": ""
+    },
+    {
+      "label": "Factory valid release",
+      "passed": true,
+      "exit": 0,
+      "stdout": "{\n  \"valid\": true,\n  \"errors\": []\n}",
+      "stderr": ""
+    },
+    {
+      "label": "Factory duplicate release",
+      "passed": true,
+      "exit": 1,
+      "stdout": "{\n  \"valid\": false,\n  \"errors\": [\n    \"changes[1].id duplicates RD-21\"\n  ]\n}",
+      "stderr": ""
+    },
+    {
+      "label": "OpenHands issue readiness",
+      "passed": true,
+      "exit": 0,
+      "stdout": "[\n  {\n    \"id\": \"DOC-12\",\n    \"ready\": true,\n    \"missing\": [],\n    \"gated\": false\n  },\n  {\n    \"id\": \"DOC-13\",\n    \"ready\": false,\n    \"missing\": [\n      \"file\",\n      \"example\",\n      \"acceptance\"\n    ],\n    \"gated\": true\n  }\n]",
+      "stderr": ""
+    },
+    {
+      "label": "Paradev dependency dispatch",
+      "passed": true,
+      "exit": 0,
+      "stdout": "[ 'RD-31', 'RD-32' ]\n[ 'INTEGRATE' ]",
+      "stderr": ""
+    }
+  ],
+  "limits": [
+    "Syntax checks do not validate imported SDK availability or vendor runtime behavior.",
+    "Only the explicitly listed local examples and agent-reported checks were executed.",
+    "Python and all account-backed service examples were not executed."
+  ]
+}

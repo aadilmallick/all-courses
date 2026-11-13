@@ -1,0 +1,19 @@
+{
+  "name": "ai-tools-field-guide",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/astro.mjs dev",
+    "build": "node scripts/astro.mjs build",
+    "preview": "node scripts/astro.mjs preview",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "astro": "latest",
+    "@astrojs/starlight": "latest"
+  },
+  "devDependencies": {
+    "gpt-tokenizer": "latest",
+    "yaml": "latest"
+  }
+}

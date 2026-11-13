@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "claude-code",
+    "title": "Claude Code",
+    "description": "Terminal and editor agent workflows with project instructions, skills, tool connections, checkpoints, and worktrees.",
+    "category": "factories",
+    "kind": "Coding agent",
+    "level": "Beginner",
+    "hours": "4–6 hours",
+    "homepage": "https://code.claude.com/",
+    "docs": "https://code.claude.com/docs/en/overview",
+    "status": "Documented; Remote Control eligibility applies",
+    "sources": [
+      { "title": "Claude Code overview", "url": "https://code.claude.com/docs/en/overview", "accessed": "2026-11-13", "supports": "Current installation, native Windows support, terminal/IDE/desktop/browser surfaces; page opened." },
+      { "title": "CLI reference", "url": "https://code.claude.com/docs/en/cli-reference", "accessed": "2026-11-13", "supports": "Interactive and print mode, continue/resume commands; page opened." },
+      { "title": "Project memory", "url": "https://code.claude.com/docs/en/memory", "accessed": "2026-11-13", "supports": "CLAUDE.md, auto memory, instruction auditing and /memory; page opened." },
+      { "title": "Settings precedence", "url": "https://code.claude.com/docs/en/settings", "accessed": "2026-11-13", "supports": "User/shared/local/managed scope, command-line settings, list merge distinctions and per-key environment interactions; page opened." },
+      { "title": "Skills", "url": "https://code.claude.com/docs/en/skills", "accessed": "2026-11-13", "supports": "SKILL.md directory, manual invocation, disable-model-invocation and reusable procedures; page opened." },
+      { "title": "MCP tools", "url": "https://code.claude.com/docs/en/mcp", "accessed": "2026-11-13", "supports": "Tool integration and local-process versus remote server distinction; page opened." },
+      { "title": "Checkpointing", "url": "https://code.claude.com/docs/en/checkpointing", "accessed": "2026-11-13", "supports": "/rewind, tracked edit/conversation recovery and nuanced shell/subagent limitations; page opened." },
+      { "title": "Common workflows", "url": "https://code.claude.com/docs/en/common-workflows", "accessed": "2026-11-13", "supports": "--worktree, independent branches and initial commit prerequisite, plan and session flow; page opened." },
+      { "title": "Remote Control", "url": "https://code.claude.com/docs/en/remote-control", "accessed": "2026-11-13", "supports": "Local execution versus hosted cloud sessions, cli and in-session commands, eligible subscription login and policy constraints; page opened." }
+    ]
+  }
+]

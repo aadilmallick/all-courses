@@ -1,0 +1,348 @@
+[
+  {
+    "slug": "livekit",
+    "title": "LiveKit Agents",
+    "description": "Code-centered voice agents with room/session abstractions and cloud deployment.",
+    "category": "voice",
+    "kind": "Agent framework",
+    "level": "Intermediate",
+    "hours": "3–5 hours",
+    "homepage": "https://livekit.io/",
+    "docs": "https://docs.livekit.io/agents/start/voice-ai/",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "Voice AI quickstart",
+        "url": "https://docs.livekit.io/agents/start/voice-ai/",
+        "accessed": "2026-11-13",
+        "supports": "Python/Node starters, current prerequisites, CLI install and initialization."
+      },
+      {
+        "title": "Agent Builder",
+        "url": "https://docs.livekit.io/agents/start/builder/",
+        "accessed": "2026-11-13",
+        "supports": "Browser prototyping route and relationship to SDK code."
+      },
+      {
+        "title": "Coding agent support and tools",
+        "url": "https://docs.livekit.io/intro/coding-agents/",
+        "accessed": "2026-11-13",
+        "supports": "Current coding-agent resources, debugger and text/audio testing distinction."
+      },
+      {
+        "title": "Agent deployment quickstart",
+        "url": "https://docs.livekit.io/deploy/agents/quickstart/",
+        "accessed": "2026-11-13",
+        "supports": "Initial cloud registration, deployment configuration, status and logs."
+      }
+    ]
+  },
+  {
+    "slug": "pipecat",
+    "title": "Pipecat",
+    "description": "Compose realtime voice applications through pipelines, processors, and frames.",
+    "category": "voice",
+    "kind": "Agent framework",
+    "level": "Intermediate",
+    "hours": "3–5 hours",
+    "homepage": "https://pipecat.ai/",
+    "docs": "https://docs.pipecat.ai/pipecat/get-started/quickstart",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "Pipecat quickstart",
+        "url": "https://docs.pipecat.ai/pipecat/get-started/quickstart",
+        "accessed": "2026-11-13",
+        "supports": "Python/uv setup, CLI scaffolding, local browser client, provider keys and cloud entry point."
+      },
+      {
+        "title": "Pipeline and Frame Processing",
+        "url": "https://docs.pipecat.ai/pipecat/learn/pipeline",
+        "accessed": "2026-11-13",
+        "supports": "Core pipeline/frame composition model and current learning navigation."
+      }
+    ]
+  },
+  {
+    "slug": "vapi",
+    "title": "Vapi",
+    "description": "Managed voice orchestration with configurable providers, web calling, and server tools.",
+    "category": "voice",
+    "kind": "Managed platform",
+    "level": "Intermediate",
+    "hours": "3–5 hours",
+    "homepage": "https://vapi.ai/",
+    "docs": "https://docs.vapi.ai/assistants/quickstart",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "Core Models",
+        "url": "https://docs.vapi.ai/quickstart",
+        "accessed": "2026-11-13",
+        "supports": "Transcriber/model/voice orchestration role."
+      },
+      {
+        "title": "Assistants quickstart",
+        "url": "https://docs.vapi.ai/assistants/quickstart",
+        "accessed": "2026-11-13",
+        "supports": "Assistant creation/configuration entry point."
+      },
+      {
+        "title": "Web calls",
+        "url": "https://docs.vapi.ai/quickstart/web",
+        "accessed": "2026-11-13",
+        "supports": "Web SDK package, public key constructor, start/stop and call events."
+      },
+      {
+        "title": "Function tools",
+        "url": "https://docs.vapi.ai/tools/custom-tools",
+        "accessed": "2026-11-13",
+        "supports": "Custom server function setup and request/response contract."
+      },
+      {
+        "title": "Vapi CLI",
+        "url": "https://docs.vapi.ai/cli",
+        "accessed": "2026-11-13",
+        "supports": "Documented CLI login, init and assistant create commands."
+      },
+      {
+        "title": "Official Vapi Web SDK source",
+        "url": "https://raw.githubusercontent.com/VapiAI/client-sdk-web/main/vapi.ts",
+        "accessed": "2026-11-13",
+        "supports": "Asynchronous error and call-start-failed event signatures, audio failure emission, and asynchronous stop cleanup"
+      }
+    ]
+  },
+  {
+    "slug": "retell",
+    "title": "Retell AI",
+    "description": "Managed voice agents with prompt and flow designs, custom functions, and testing workflows.",
+    "category": "voice",
+    "kind": "Managed platform",
+    "level": "Beginner",
+    "hours": "3–5 hours",
+    "homepage": "https://www.retellai.com/",
+    "docs": "https://docs.retellai.com/get-started/quick-start",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "Retell documentation index",
+        "url": "https://docs.retellai.com/llms.txt",
+        "accessed": "2026-11-13",
+        "supports": "Current feature naming/navigation including Conductor and testing routes; not an API schema."
+      },
+      {
+        "title": "Build your first phone agent",
+        "url": "https://docs.retellai.com/get-started/quick-start",
+        "accessed": "2026-11-13",
+        "supports": "Account, agent setup and first testing workflow."
+      },
+      {
+        "title": "Single prompt vs conversation flow",
+        "url": "https://docs.retellai.com/build/choose-agent-type",
+        "accessed": "2026-11-13",
+        "supports": "Current agent design choices and single-prompt starting guidance."
+      },
+      {
+        "title": "Custom functions",
+        "url": "https://docs.retellai.com/build/single-multi-prompt/custom-function",
+        "accessed": "2026-11-13",
+        "supports": "Calling own APIs during conversation."
+      },
+      {
+        "title": "Website widget",
+        "url": "https://docs.retellai.com/deploy/chat-widget",
+        "accessed": "2026-11-13",
+        "supports": "Chat/voice and callback modes, public-key configuration, agent identifiers."
+      }
+    ]
+  },
+  {
+    "slug": "elevenlabs",
+    "title": "ElevenLabs Agents · ElevenAgents",
+    "description": "Voice-oriented agent platform with knowledge, tools, client embedding, and evaluation.",
+    "category": "voice",
+    "kind": "Managed platform",
+    "level": "Beginner",
+    "hours": "3–5 hours",
+    "homepage": "https://elevenlabs.io/agents",
+    "docs": "https://elevenlabs.io/docs/eleven-agents/quickstart",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "ElevenAgents overview",
+        "url": "https://elevenlabs.io/docs/eleven-agents/overview",
+        "accessed": "2026-11-13",
+        "supports": "Current ElevenAgents naming and platform role."
+      },
+      {
+        "title": "Quickstart",
+        "url": "https://elevenlabs.io/docs/eleven-agents/quickstart",
+        "accessed": "2026-11-13",
+        "supports": "Dashboard setup, knowledge/voice test flow, widget HTML and evaluation entry point."
+      },
+      {
+        "title": "Knowledge base",
+        "url": "https://elevenlabs.io/docs/eleven-agents/customization/knowledge-base",
+        "accessed": "2026-11-13",
+        "supports": "Source ingestion and full-context versus retrieval usage."
+      },
+      {
+        "title": "Tools",
+        "url": "https://elevenlabs.io/docs/eleven-agents/customization/tools",
+        "accessed": "2026-11-13",
+        "supports": "Client, webhook, code, MCP and system tool types."
+      },
+      {
+        "title": "Agent authentication",
+        "url": "https://elevenlabs.io/docs/eleven-agents/customization/authentication",
+        "accessed": "2026-11-13",
+        "supports": "Protected conversation access guidance."
+      },
+      {
+        "title": "Success evaluation",
+        "url": "https://elevenlabs.io/docs/eleven-agents/customization/agent-analysis/success-evaluation",
+        "accessed": "2026-11-13",
+        "supports": "Conversation evaluation capabilities and criteria."
+      }
+    ]
+  },
+  {
+    "slug": "openai-realtime",
+    "title": "OpenAI Realtime API",
+    "description": "Speech-to-speech sessions with tools, turn detection, and browser/server transports.",
+    "category": "voice",
+    "kind": "Model API",
+    "level": "Advanced",
+    "hours": "4–6 hours",
+    "homepage": "https://developers.openai.com/api/docs/guides/realtime",
+    "docs": "https://developers.openai.com/api/docs/guides/realtime",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "Getting started with Realtime",
+        "url": "https://developers.openai.com/api/docs/guides/realtime",
+        "accessed": "2026-11-13",
+        "supports": "Current SDK session pattern, documented model example and GA migration routes."
+      },
+      {
+        "title": "WebRTC",
+        "url": "https://developers.openai.com/api/docs/guides/voice-webrtc?api=realtime",
+        "accessed": "2026-11-13",
+        "supports": "Media/control transport and ephemeral credential server flow."
+      },
+      {
+        "title": "Voice activity detection",
+        "url": "https://developers.openai.com/api/docs/guides/realtime-vad",
+        "accessed": "2026-11-13",
+        "supports": "Current turn-detection configuration guide."
+      },
+      {
+        "title": "Realtime conversations",
+        "url": "https://developers.openai.com/api/docs/guides/realtime-conversations",
+        "accessed": "2026-11-13",
+        "supports": "Conversation state, audio and interruption mechanisms."
+      },
+      {
+        "title": "Realtime with tools",
+        "url": "https://developers.openai.com/api/docs/guides/realtime-mcp",
+        "accessed": "2026-11-13",
+        "supports": "Tools and external integration entry point."
+      },
+      {
+        "title": "Getting started with GPT-Live",
+        "url": "https://developers.openai.com/api/docs/guides/live",
+        "accessed": "2026-11-13",
+        "supports": "Separate full-duplex/delegated-backend architecture, distinguished from Realtime."
+      }
+    ]
+  },
+  {
+    "slug": "deepgram",
+    "title": "Deepgram Voice Agent API",
+    "description": "Managed listening, reasoning integration, and speech over a WebSocket conversation.",
+    "category": "voice",
+    "kind": "Voice API",
+    "level": "Intermediate",
+    "hours": "3–5 hours",
+    "homepage": "https://deepgram.com/",
+    "docs": "https://developers.deepgram.com/docs/voice-agent",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "Voice Agent getting started",
+        "url": "https://developers.deepgram.com/docs/voice-agent",
+        "accessed": "2026-11-13",
+        "supports": "Combined speech pipeline role."
+      },
+      {
+        "title": "Build a Voice Agent",
+        "url": "https://developers.deepgram.com/docs/build-a-voice-agent",
+        "accessed": "2026-11-13",
+        "supports": "Endpoint, lifecycle, regional routes and connection-time usage accounting."
+      },
+      {
+        "title": "JavaScript guide",
+        "url": "https://developers.deepgram.com/docs/build-a-voice-agent-javascript",
+        "accessed": "2026-11-13",
+        "supports": "Official JavaScript implementation path."
+      },
+      {
+        "title": "Configure the Voice Agent",
+        "url": "https://developers.deepgram.com/docs/configure-voice-agent",
+        "accessed": "2026-11-13",
+        "supports": "Settings and audio configuration fields."
+      },
+      {
+        "title": "Voice Agent API reference",
+        "url": "https://developers.deepgram.com/reference/voice-agent/voice-agent",
+        "accessed": "2026-11-13",
+        "supports": "Current WebSocket protocol reference."
+      }
+    ]
+  },
+  {
+    "slug": "twilio-conversationrelay",
+    "title": "Twilio ConversationRelay",
+    "description": "Telephone speech handling connected to your own text-oriented agent server.",
+    "category": "voice",
+    "kind": "Telephony infrastructure",
+    "level": "Advanced",
+    "hours": "4–6 hours",
+    "homepage": "https://www.twilio.com/en-us/products/conversational-ai/conversationrelay",
+    "docs": "https://www.twilio.com/docs/voice/conversationrelay",
+    "status": "Documented",
+    "sources": [
+      {
+        "title": "ConversationRelay overview",
+        "url": "https://www.twilio.com/docs/voice/conversationrelay",
+        "accessed": "2026-11-13",
+        "supports": "Voice application role and documentation routes."
+      },
+      {
+        "title": "Product overview",
+        "url": "https://www.twilio.com/en-us/products/conversational-ai/conversationrelay",
+        "accessed": "2026-11-13",
+        "supports": "Speech handling and own-model architecture."
+      },
+      {
+        "title": "ConversationRelay TwiML noun",
+        "url": "https://www.twilio.com/docs/voice/conversationrelay/conversationrelay-noun",
+        "accessed": "2026-11-13",
+        "supports": "Connect/ConversationRelay XML structure and endpoint configuration."
+      },
+      {
+        "title": "WebSocket messages",
+        "url": "https://www.twilio.com/docs/voice/conversationrelay/websocket-messages",
+        "accessed": "2026-11-13",
+        "supports": "Prompt/text/interrupt fields, final markers and token-spacing guidance."
+      },
+      {
+        "title": "Onboarding",
+        "url": "https://www.twilio.com/docs/voice/conversationrelay/onboarding",
+        "accessed": "2026-11-13",
+        "supports": "Current application setup entry point."
+      }
+    ]
+  }
+]

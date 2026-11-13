@@ -1,0 +1,173 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "growth",
+      "title": "Growth and harmonic bounds",
+      "chapter": "chapter-01",
+      "description": "Compare finite values and the proved logarithmic sandwich for harmonic sums.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "logic",
+      "title": "Truth-table explorer",
+      "chapter": "chapter-02",
+      "description": "Exhaust every assignment for a finite propositional formula.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "sets",
+      "title": "Subsets and membership bits",
+      "chapter": "chapter-05",
+      "description": "Enumerate the actual power set of a small labeled universe.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "euclid",
+      "title": "Euclid invariant trace",
+      "chapter": "chapter-06",
+      "description": "Trace every quotient and remainder, then check the preserved gcd.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "brackets",
+      "title": "Bracket prefix balances",
+      "chapter": "chapter-06",
+      "description": "Check every prefix and distinguish a final-zero count from a valid balanced string.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "modular",
+      "title": "Modular inverses and toy RSA",
+      "chapter": "chapter-08",
+      "description": "Compute exact residue arithmetic; the fixed tiny RSA example is for learning.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "graph",
+      "title": "Graphs, walks, and schedules",
+      "chapter": "chapter-09",
+      "description": "Change edges to compute walk counts, reachability, and a DAG schedule.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "matching",
+      "title": "Bipartite assignment",
+      "chapter": "chapter-10",
+      "description": "Compare a successful matching with a Hall-condition obstruction.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "spanning",
+      "title": "Minimum spanning tree",
+      "chapter": "chapter-10",
+      "description": "Edit weighted edges and inspect the selected safe connections.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "network",
+      "title": "Switching-network tradeoffs",
+      "chapter": "chapter-10",
+      "description": "Source-specific formulas count both terminal edges in diameters.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "planar",
+      "title": "Planar necessary-condition checker",
+      "chapter": "chapter-11",
+      "description": "Euler arithmetic and edge bounds can refute a count pattern, but passing cannot prove planarity.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "sums",
+      "title": "Geometric and harmonic sums",
+      "chapter": "chapter-12",
+      "description": "Compare a finite sum with its derived closed form, including the exceptional ratio.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "counting",
+      "title": "Ordered and unordered selections",
+      "chapter": "chapter-13",
+      "description": "Compute exact integer counts and explain the multiplicity removed by division.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "recurrence",
+      "title": "Recurrence sequences",
+      "chapter": "chapter-14",
+      "description": "Compute Fibonacci and Hanoi terms, showing the initial values.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "convolution",
+      "title": "Generating-function coefficients",
+      "chapter": "chapter-14",
+      "description": "Multiply actual finite coefficient arrays by the convolution rule.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "birthday",
+      "title": "Birthday collision model",
+      "chapter": "chapter-15",
+      "description": "Exact finite product under independent uniform sampling.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "bayes",
+      "title": "Bayes and natural frequencies",
+      "chapter": "chapter-15",
+      "description": "Synthetic detector example, with the two routes to a positive flag visible.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "monty",
+      "title": "Monty Hall host models",
+      "chapter": "chapter-15",
+      "description": "A seeded simulation contrasts mandatory informed reveals with conditioning on a random losing reveal.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "distribution",
+      "title": "Binomial distribution",
+      "chapter": "chapter-16",
+      "description": "Exact model probabilities evaluated numerically, with mean and variance.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "coupon",
+      "title": "Coupon collection",
+      "chapter": "chapter-16",
+      "description": "Seeded trials compared with the derived n H_n mean; capped trials are reported.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "tails",
+      "title": "Exact tail versus inequalities",
+      "chapter": "chapter-17",
+      "description": "Compare an exact binomial tail with bounds whose assumptions are stated in Chapter 17.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "sampling",
+      "title": "Sufficient sampling sizes",
+      "chapter": "chapter-17",
+      "description": "Compare conservative Chebyshev and additive bounded-independent sampling guarantees.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "walk",
+      "title": "Gambler’s ruin and duration",
+      "chapter": "chapter-18",
+      "description": "Exact finite-boundary formulas beside seeded trials. Censored runs are explicit.",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "rank",
+      "title": "Damped graph ranking",
+      "chapter": "chapter-18",
+      "description": "A visible directed graph, dangling-row repair, and actual power iteration with a stationarity residual.",
+      "module": "labs.mjs"
+    }
+  ]
+}

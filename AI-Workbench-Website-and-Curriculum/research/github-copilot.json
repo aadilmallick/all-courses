@@ -1,0 +1,15 @@
+[
+  {
+    "slug":"github-copilot","title":"GitHub Copilot","description":"Repository-native agent sessions, cloud execution choices, pull-request review, and automations.","category":"factories","kind":"Coding-agent platform","level":"Intermediate","hours":"4–6 hours","homepage":"https://github.com/features/copilot","docs":"https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-on-github","status":"Documented · new cloud experience",
+    "sources":[
+      {"title":"GitHub Copilot on GitHub.com and GitHub Mobile","url":"https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-on-github","accessed":"2026-11-13","supports":"October 28 2026 cloud experience availability, client/session/environment concepts, new versus older workflow and environment-specific repository scope."},
+      {"title":"About cloud sandboxes for GitHub Copilot","url":"https://docs.github.com/en/copilot/concepts/security-governance-and-network-settings/about-cloud-sandboxes","accessed":"2026-11-13","supports":"Hosted isolated Linux sessions, Cloud versus Actions, local sandbox distinction and custom environment route."},
+      {"title":"Configure the development environment for agents on GitHub Actions","url":"https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/customize-the-agent-environment","accessed":"2026-11-13","supports":"Setup-step workflow applies only to Actions-based sessions; environment customization boundaries."},
+      {"title":"Starting GitHub Copilot sessions","url":"https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/start-copilot-sessions","accessed":"2026-11-13","supports":"Current session entry points and varying pull-request creation routes."},
+      {"title":"Managing agent sessions","url":"https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/manage-and-track-agents","accessed":"2026-11-13","supports":"Following session activity and evidence."},
+      {"title":"Customize Copilot","url":"https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot","accessed":"2026-11-13","supports":"Current customization documentation entry point."},
+      {"title":"GitHub Copilot code review","url":"https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/code-review","accessed":"2026-11-13","supports":"Separate review capability, availability and review workflow."},
+      {"title":"Copilot automations","url":"https://docs.github.com/en/copilot/concepts/agent-capabilities/agent-powered-workflows-and-operations/about-automations","accessed":"2026-11-13","supports":"Recurring/event-driven automation concepts and distinction from related agentic workflows."}
+    ]
+  }
+]

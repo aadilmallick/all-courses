@@ -1,0 +1,161 @@
+{
+  "tools": [
+    {
+      "slug": "runway",
+      "title": "Runway",
+      "description": "Direct short generated shots and assemble reliable release-video assets.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://runwayml.com/",
+      "docs": "https://help.runwayml.com/hc/en-us/articles/37425232841875-Getting-Started-with-Generative-Video",
+      "status": "Documented; model and account availability varies",
+      "sources": [
+        {"title": "Getting Started with Generative Video", "url": "https://help.runwayml.com/hc/en-us/articles/37425232841875-Getting-Started-with-Generative-Video", "accessed": "2026-11-13", "supports": "Creation surfaces, text/image modes, model selection and iteration concepts."},
+        {"title": "Text to Video Prompting Guide", "url": "https://help.runwayml.com/hc/en-us/articles/47313737321107-Text-to-Video-Prompting-Guide", "accessed": "2026-11-13", "supports": "Gen-4.5-oriented visual and motion prompting guidance."},
+        {"title": "Creating with Gen-4 Video", "url": "https://help.runwayml.com/hc/en-us/articles/37327109429011-Creating-with-Gen-4-Video", "accessed": "2026-11-13", "supports": "Older-model status and explicit links to newer workflows; old rates not generalized."}
+      ]
+    },
+    {
+      "slug": "google-veo-flow",
+      "title": "Google Flow, Veo and Gemini video",
+      "description": "Learn the filmmaking application and distinguish current Google video API routes.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://labs.google/flow/",
+      "docs": "https://support.google.com/flow/answer/16353334",
+      "status": "Flow documented; Gemini Veo Preview retired; current API alternatives documented",
+      "sources": [
+        {"title": "Create videos in Google Flow", "url": "https://support.google.com/flow/answer/16353334", "accessed": "2026-11-13", "supports": "Text, references, frames and model-setting concepts."},
+        {"title": "Get started with Google Flow", "url": "https://support.google.com/flow/answer/16353333", "accessed": "2026-11-13", "supports": "Age, region, browser and subscription eligibility conditions."},
+        {"title": "Video generation in the Gemini API", "url": "https://aistudio.google.com/docs/video", "accessed": "2026-11-13", "supports": "Direct-open current page supersedes stale search result: Veo 3.1 Preview aliases shut down October 22, 2026; Gemini Omni Flash or enterprise GA Veo routes recommended."},
+        {"title": "Generate and edit videos with Gemini Omni Flash", "url": "https://aistudio.google.com/docs/omni", "accessed": "2026-11-13", "supports": "Current gemini-omni-1.2-flash Interactions SDK example and output_video SDK convenience field."},
+        {"title": "Veo 3.1 enterprise documentation", "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/veo/3-1-generate", "accessed": "2026-11-13", "supports": "Separate enterprise route for generally available Veo-specific work."},
+        {"title": "Google Flow models and supported features", "url": "https://support.google.com/flow/answer/16352836", "accessed": "2026-11-13", "supports": "Current product-specific feature-matrix reference."}
+      ]
+    },
+    {
+      "slug": "kling",
+      "title": "Kling AI",
+      "description": "Direct reference-driven clips and control key moments with a clear asset-role plan.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://kling.ai/",
+      "docs": "https://kling.ai/quickstart/kling-4-model-user-guide",
+      "status": "Kling 4.0 documented; launch limits and coming-soon labels require account checks",
+      "sources": [
+        {"title": "Kling AI Quickstart and User Guide", "url": "https://kling.ai/quickstart", "accessed": "2026-11-13", "supports": "Official current model-guide index."},
+        {"title": "Kling 4.0 User Guide", "url": "https://kling.ai/quickstart/kling-4-model-user-guide", "accessed": "2026-11-13", "supports": "November 4, 2026 guide; Omni Reference versus Keyframes; actual-interface caveat and future-feature labels."},
+        {"title": "Kling VIDEO 3.0 Omni Guide", "url": "https://kling.ai/quickstart/klingai-video-3-omni-model-user-guide", "accessed": "2026-11-13", "supports": "Adjacent older-generation reference, not a source of assumed 4.0 limits."}
+      ]
+    },
+    {
+      "slug": "luma",
+      "title": "Luma and Dream Machine",
+      "description": "Organize boards and compare still animation, keyframes and source-footage transformation.",
+      "category": "video",
+      "kind": "Video generation",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://lumalabs.ai/",
+      "docs": "https://lumalabs.ai/learning-hub",
+      "status": "Documented; workspace and individual model capabilities differ",
+      "sources": [
+        {"title": "The New Luma app", "url": "https://lumalabs.ai/learning-hub/the-new-luma-app-creative-multimodal-agent", "accessed": "2026-11-13", "supports": "Board and creative-agent workspace concepts. Broad model lists can lag provider deprecations and are not treated as guaranteed active routes."},
+        {"title": "Ray3.14 User Guide", "url": "https://lumalabs.ai/learning-hub/ray314-user-guide", "accessed": "2026-11-13", "supports": "Model-specific workflow distinctions and stated reference/character/Reframe limitations."},
+        {"title": "Dream Machine Modify Video", "url": "https://lumalabs.ai/learning-hub/modify-video-dream-machine", "accessed": "2026-11-13", "supports": "Transformation concepts and source-motion stability considerations."},
+        {"title": "How to use Keyframes", "url": "https://lumalabs.ai/learning-hub/how-to-use-keyframes", "accessed": "2026-11-13", "supports": "Start/end image roles; older defaults not generalized to every model."},
+        {"title": "How to use Extend", "url": "https://lumalabs.ai/learning-hub/how-to-use-extend", "accessed": "2026-11-13", "supports": "Continuation and optional visual destination concepts."}
+      ]
+    },
+    {
+      "slug": "heygen",
+      "title": "HeyGen",
+      "description": "Build scripted avatar lessons and learn the current v3 developer workflow.",
+      "category": "video",
+      "kind": "Avatar generation",
+      "level": "Intermediate",
+      "hours": "3–5 hours",
+      "homepage": "https://www.heygen.com/",
+      "docs": "https://developers.heygen.com/docs/quick-start",
+      "status": "Current v3 documented; v1/v2 sunset passed October 31, 2026",
+      "sources": [
+        {"title": "HeyGen Developer Quick Start", "url": "https://developers.heygen.com/docs/quick-start", "accessed": "2026-11-13", "supports": "Direct model versus application APIs, v3 workflow and explicit v1/v2 sunset notice."},
+        {"title": "Avatar 6", "url": "https://developers.heygen.com/docs/models/avatar-6", "accessed": "2026-11-13", "supports": "Current direct model avatar route and image/audio input concepts."},
+        {"title": "API Key", "url": "https://developers.heygen.com/docs/api-key", "accessed": "2026-11-13", "supports": "Current credential setup reference."},
+        {"title": "Quick Avatar Video", "url": "https://help.heygen.com/en/articles/12903996-quick-avatar-video", "accessed": "2026-11-13", "supports": "Simple application workflow. Older named app engines not generalized to latest model API."}
+      ]
+    },
+    {
+      "slug": "synthesia",
+      "title": "Synthesia",
+      "description": "Create maintainable avatar training from approved scripts and reusable templates.",
+      "category": "video",
+      "kind": "Avatar generation",
+      "level": "Beginner",
+      "hours": "3–5 hours",
+      "homepage": "https://www.synthesia.io/",
+      "docs": "https://docs.synthesia.io/docs/video-creation",
+      "status": "Documented; plan-specific creation routes vary",
+      "sources": [
+        {"title": "Video Creation", "url": "https://docs.synthesia.io/docs/video-creation", "accessed": "2026-11-13", "supports": "Starting routes and exact-script versus source-file transformation distinction."},
+        {"title": "Assistant", "url": "https://docs.synthesia.io/docs/assistant", "accessed": "2026-11-13", "supports": "Editable outlines, storyboard flow and current versus legacy script-import route distinctions."},
+        {"title": "Script box", "url": "https://docs.synthesia.io/docs/script", "accessed": "2026-11-13", "supports": "Voice, pacing, pronunciation and variable speech takes."},
+        {"title": "Templates", "url": "https://docs.synthesia.io/docs/synthesia-templates", "accessed": "2026-11-13", "supports": "Reusable scene designs and variable concepts."},
+        {"title": "Bulk personalization", "url": "https://docs.synthesia.io/docs/bulk-personalization", "accessed": "2026-11-13", "supports": "Tabular field mapping and batch production reference."}
+      ]
+    },
+    {
+      "slug": "tavus",
+      "title": "Tavus",
+      "description": "Build and evaluate a narrow interactive video tutor using current PAL terminology.",
+      "category": "video",
+      "kind": "Interactive avatars",
+      "level": "Advanced",
+      "hours": "4–6 hours",
+      "homepage": "https://www.tavus.io/",
+      "docs": "https://docs.tavus.io/sections/introduction",
+      "status": "Documented; current PAL/Face/Voice terminology with legacy compatibility",
+      "sources": [
+        {"title": "Introduction", "url": "https://docs.tavus.io/sections/introduction", "accessed": "2026-11-13", "supports": "CVI, PAL, Face, Voice and legacy persona/replica compatibility."},
+        {"title": "What Is a PAL?", "url": "https://docs.tavus.io/sections/conversational-video-interface/pal/what-is-a-pal", "accessed": "2026-11-13", "supports": "Conceptual configuration of the conversational entity."},
+        {"title": "API Conversation Quickstart", "url": "https://docs.tavus.io/sections/conversational-video-interface/quickstart/cvi-quickstart", "accessed": "2026-11-13", "supports": "PAL creation, POST /v2/conversations using pal_id and returned join URL."},
+        {"title": "Models", "url": "https://docs.tavus.io/sections/models", "accessed": "2026-11-13", "supports": "Current pipeline-model context; no benchmark claims inferred."}
+      ]
+    },
+    {
+      "slug": "d-id",
+      "title": "D-ID",
+      "description": "Learn asynchronous avatar rendering and the separate lifecycle of real-time agents.",
+      "category": "video",
+      "kind": "Avatar generation",
+      "level": "Intermediate",
+      "hours": "4–6 hours",
+      "homepage": "https://www.d-id.com/",
+      "docs": "https://docs.d-id.com/docs/quickstart",
+      "status": "Documented; new live integrations should use Agents SDK/Streams",
+      "sources": [
+        {"title": "Quickstart", "url": "https://docs.d-id.com/docs/quickstart", "accessed": "2026-11-13", "supports": "Current asynchronous video and real-time product paths."},
+        {"title": "V2 Photo Avatar Quickstart", "url": "https://docs.d-id.com/docs/v2-photo-avatar-quickstart", "accessed": "2026-11-13", "supports": "Documented asynchronous Talks route, status, result URL and limited result-URL lifetime."},
+        {"title": "V4 Expressive Avatar Quickstart", "url": "https://docs.d-id.com/docs/v4-expressive-avatar-quickstart", "accessed": "2026-11-13", "supports": "Avatar/sentiment discovery and render concepts."},
+        {"title": "Agents", "url": "https://docs.d-id.com/docs/agent-quickstart", "accessed": "2026-11-13", "supports": "Current agent configuration path, separate from fixed video."},
+        {"title": "Agent Sessions", "url": "https://docs.d-id.com/docs/agent-session-quickstart", "accessed": "2026-11-13", "supports": "Current live-session route."},
+        {"title": "Talks Streams Overview", "url": "https://docs.d-id.com/reference/talks-streams-overview", "accessed": "2026-11-13", "supports": "Explicit legacy live-streaming notice and recommendation for new integrations."}
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "OpenAI Sora 2 and Videos API",
+      "url": "https://developers.openai.com/api/docs/deprecations",
+      "reason": "Official Past deprecations table lists Videos API, sora-2, sora-2-pro and snapshots with shutdown date Sep 24, 2026 and no one-to-one replacement. Excluded from active API lessons. This evidence concerns the API; consumer Sora application status and account access were not independently established by the allowed developer documentation.",
+      "status": "Retired API",
+      "accessed": "2026-11-13"
+    }
+  ]
+}
