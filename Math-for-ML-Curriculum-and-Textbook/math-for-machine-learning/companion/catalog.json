@@ -1,0 +1,96 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "model",
+      "title": "A prediction rule and its loss",
+      "chapter": "chapter-01",
+      "description": "Move parameters while observations stay fixed. Blue points are observations; the green line is the current prediction.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "projection",
+      "title": "Projection and an orthogonal residual",
+      "chapter": "chapter-02",
+      "description": "The allowed approximations lie on the green direction. The blue target splits into projection and residual.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "least",
+      "title": "Least squares as a projection",
+      "chapter": "chapter-03",
+      "description": "Change one target, then refit the intercept and slope. The residual sum and distance-weighted sum should remain near zero.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "matrix",
+      "title": "A matrix transforms the unit circle",
+      "chapter": "chapter-04",
+      "description": "A blue unit circle becomes a green ellipse. Singular values are its principal semiaxis lengths.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "pca",
+      "title": "PCA and rank-one reconstruction",
+      "chapter": "chapter-04",
+      "description": "Blue points are centered data; green points are their closest reconstructions along the leading principal direction.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "derivative",
+      "title": "Tangent and finite differences",
+      "chapter": "chapter-05",
+      "description": "The quadratic curve, tangent at x, and secant from x to x+h are computed from the controls.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "integral",
+      "title": "From rectangles to an integral",
+      "chapter": "chapter-06",
+      "description": "Accumulate exp(x) on [0,1]. Left rectangles and trapezoids approximate the exact integral e − 1.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "backprop",
+      "title": "A scalar neural forward and backward pass",
+      "chapter": "chapter-07",
+      "description": "z = wx + b; a = tanh(z); loss = (a − y)² / 2. Compare the analytic weight derivative with central differences.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "descent",
+      "title": "Step size and curvature",
+      "chapter": "chapter-08",
+      "description": "Run 40 actual gradient steps on (x² + curvature × y²) / 2. The graph shows log10(1 + loss), preserving large-value visibility.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "bayes",
+      "title": "Bayes and the reference population",
+      "chapter": "chapter-09",
+      "description": "Compute P(distant | late) from the distant-route prior and conditional late rates. This is a conditional probability, not a causal claim.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "sampling",
+      "title": "The distribution of sample means",
+      "chapter": "chapter-10",
+      "description": "Generate 1,000 batches of independent Bernoulli trials with the same reset seed. The histogram is over batch averages, not individual binary outcomes.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "posterior",
+      "title": "A beta prior meets Bernoulli data",
+      "chapter": "chapter-11",
+      "description": "Update prior shapes by successes and failures. A separate simulation uses independent N(0,1) observations, n=20, and 500 repeated datasets to show known-variance 95% interval coverage.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "classifier",
+      "title": "Stable binary probability and loss",
+      "chapter": "chapter-12",
+      "description": "Change a logit score over an extreme range. Probability, loss, and gradient are evaluated using stable formulas.",
+      "module": "experiments.mjs"
+    }
+  ]
+}

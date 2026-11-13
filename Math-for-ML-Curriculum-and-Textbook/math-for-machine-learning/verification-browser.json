@@ -1,0 +1,15 @@
+{
+  "status": "blocked",
+  "actual_browser_execution": false,
+  "cause": "The installed Chromium process aborts because the runtime denies a required socket call. The supported managed-browser execution tool is not exposed in this session.",
+  "attempted": "Playwright launch of installed Chromium; aborted before page creation.",
+  "not_verified": [
+    "Actual browser control interactions",
+    "Canvas rendering",
+    "Responsive desktop/mobile layout",
+    "Keyboard and assistive-technology behavior",
+    "GitHub/Library math rendering"
+  ],
+  "available_evidence": "Independent numerical tests and the in-memory DOM control/reset/disposal tests pass; these are not claimed as browser execution.",
+  "verification_date": "2026-11-12"
+}

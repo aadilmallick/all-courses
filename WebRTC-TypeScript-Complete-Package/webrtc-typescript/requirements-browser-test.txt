@@ -1,0 +1,2 @@
+# Optional smoke runner only; not required to build or run the core lab.
+playwright==1.62.0

@@ -1,0 +1,22 @@
+import assert from 'node:assert/strict';
+import * as M from './core.mjs';
+const close=(x,y,t=1e-8)=>assert.ok(Math.abs(x-y)<t,`${x} differs from ${y}`);
+close(M.mse([1,2,4],[8,11,18],3,5),1/3);
+const p=M.projection([3,1],[1,1]);close(M.dot(p.r,[1,1]),0);
+assert.throws(()=>M.projection([1,1],[0,0]));
+const fit=M.lineFit([1,2,4],[8,11,18]);close(fit.w,47/14);close(fit.b,4.5);
+const singular=M.singular2(3,0,0,1);close(singular[0],3);close(singular[1],1);
+const pc=M.pca([[2,0],[0,1],[-2,0],[0,-1]]);close(pc.fraction,.8);close(pc.error,2);
+close(M.derivative(1,.1).central,2);
+assert.ok(Math.abs(M.quadrature(1000).trap-(Math.E-1))<2e-7);
+const back=M.backprop(2,.3,.1,1);close(back.dw,back.numeric);
+const descent=M.descent(20,.05);assert.ok(descent.at(-1).loss<descent[0].loss);
+assert.ok(M.descent(20,.11).at(-1).loss>M.descent(20,.11)[0].loss);
+close(M.bayes(.1,.3,.05).posterior,.4);assert.throws(()=>M.bayes(.5,0,0));
+const samples=M.sampleMeans(.2,100);assert.deepEqual(samples,M.sampleMeans(.2,100));
+assert.ok(Math.abs(samples.mean-.2)<.01);close(samples.theory,.04);
+close(M.posterior(1,1,7,3).mean,2/3);
+for(const z of [-1000,0,1000])for(const y of [0,1]){const q=M.logistic(z,y);assert.ok(Number.isFinite(q.loss));assert.ok(q.p>=0&&q.p<=1);}
+close(M.logistic(0,1).loss,Math.log(2));
+const c=M.coverage(20);assert.ok(c.frequency>.88&&c.frequency<.99);
+console.log('Companion mathematical checks passed; 13 experiment families covered.');

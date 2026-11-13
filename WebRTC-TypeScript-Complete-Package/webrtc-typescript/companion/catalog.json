@@ -1,0 +1,68 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "local-peer",
+      "title": "Local real peer pair",
+      "chapter": "chapter-03",
+      "description": "Generated video and data across two RTCPeerConnections.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "capture",
+      "title": "Capture and cancellation",
+      "chapter": "chapter-02",
+      "description": "Camera, screen, restoration and release of owned sources.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "two-tab",
+      "title": "Two-tab perfect negotiation",
+      "chapter": "chapter-04",
+      "description": "Complementary roles, same-origin signaling and simultaneous changes.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "ice-restart",
+      "title": "ICE restart",
+      "chapter": "chapter-05",
+      "description": "Trigger restart negotiation; observe states and selected path.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "media-control",
+      "title": "Sender controls",
+      "chapter": "chapter-06",
+      "description": "Replace the source, toggle enabled and set an encoding ceiling.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "transfer",
+      "title": "Bounded data protocol",
+      "chapter": "chapter-07",
+      "description": "Text, binary chunks, backpressure, receiver SHA-256 and acknowledgment.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "stats",
+      "title": "Connection evidence",
+      "chapter": "chapter-08",
+      "description": "Counter-delta rates, frame counters and selected candidate pair.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "topology",
+      "title": "Mesh/SFU model",
+      "chapter": "chapter-09",
+      "description": "Explicit one-encoding all-to-all model with participant and rate controls.",
+      "module": "src/app.ts"
+    },
+    {
+      "id": "lifecycle",
+      "title": "Reset ownership",
+      "chapter": "chapter-10",
+      "description": "End session, abort transfer waits, stop tracks, clear timers and stale results.",
+      "module": "src/app.ts"
+    }
+  ]
+}

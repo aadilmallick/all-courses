@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "title": "From Equations to Learning",
+  "subtitle": "A guided mathematics textbook for machine learning: 48 sessions in 12 complete chapters",
+  "audience": "A returning learner with arithmetic and elementary algebra; calculus and linear algebra are rebuilt. Python is optional for the mathematics.",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Mathematical language: turning a prediction problem into an equation",
+      "path": "chapters/01-mathematical-language.md",
+      "part": "I. Language and linear structure",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "model"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Vectors and geometry: describing many features at once",
+      "path": "chapters/02-vectors-and-geometry.md",
+      "part": "I. Language and linear structure",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "projection"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Matrices, information, and least squares",
+      "path": "chapters/03-matrices-and-least-squares.md",
+      "part": "I. Language and linear structure",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "least"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Matrix structure: eigenvectors, singular values, and PCA",
+      "path": "chapters/04-matrix-structure-and-pca.md",
+      "part": "I. Language and linear structure",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "matrix",
+        "pca"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Calculus from first principles: limits and local models",
+      "path": "chapters/05-calculus-from-first-principles.md",
+      "part": "II. Change, accumulation, and optimization",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "derivative"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Integration: accumulated change and transformed quantities",
+      "path": "chapters/06-integration-and-change-of-variables.md",
+      "part": "II. Change, accumulation, and optimization",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "integral"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Multivariable calculus: gradients, Jacobians, and backpropagation",
+      "path": "chapters/07-multivariable-calculus-and-backpropagation.md",
+      "part": "II. Change, accumulation, and optimization",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "backprop"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Optimization: when a parameter update improves a model",
+      "path": "chapters/08-optimization.md",
+      "part": "II. Change, accumulation, and optimization",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "descent"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Probability: reasoning about uncertain outcomes",
+      "path": "chapters/09-probability-foundations.md",
+      "part": "III. Uncertainty and inference",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "bayes"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Distribution families and the behavior of repeated samples",
+      "path": "chapters/10-distributions-and-sampling-limits.md",
+      "part": "III. Uncertainty and inference",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "sampling"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Statistical inference: learning from a finite dataset",
+      "path": "chapters/11-statistical-inference.md",
+      "part": "III. Uncertainty and inference",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-10"
+      ],
+      "experiments": [
+        "posterior"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Putting the mathematics together: models, training, and generalization",
+      "path": "chapters/12-machine-learning-synthesis.md",
+      "part": "IV. Mathematical machine learning",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-11"
+      ],
+      "experiments": [
+        "classifier"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/projection.png",
+    "assets/curvature.png",
+    "assets/densities.png"
+  ],
+  "source_listings": [
+    {
+      "id": "neural-source",
+      "path": "examples/neural_network.py",
+      "title": "Complete neural computation and gradient check",
+      "language": "python"
+    },
+    {
+      "id": "capstone-source",
+      "path": "examples/end_to_end.py",
+      "title": "Complete end-to-end project",
+      "language": "python"
+    },
+    {
+      "id": "laboratory-source",
+      "path": "companion/core.mjs",
+      "title": "Interactive laboratory calculation source",
+      "language": "javascript"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

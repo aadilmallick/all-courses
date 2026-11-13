@@ -1,0 +1,120 @@
+[
+  {
+    "lesson": "lessons/17-linear-regression.md",
+    "program": "code/classical/lesson_17.py",
+    "definitions": [
+      "least_squares"
+    ]
+  },
+  {
+    "lesson": "lessons/18-regularized-regression.md",
+    "program": "code/classical/lesson_18.py",
+    "definitions": [
+      "soft_threshold",
+      "lasso"
+    ]
+  },
+  {
+    "lesson": "lessons/19-logistic-softmax.md",
+    "program": "code/classical/lesson_19.py",
+    "definitions": [
+      "_supervised",
+      "softmax",
+      "sigmoid",
+      "binary_objective",
+      "fit_logistic",
+      "multiclass_objective"
+    ]
+  },
+  {
+    "lesson": "lessons/21-nearest-neighbors.md",
+    "program": "code/classical/lesson_21.py",
+    "definitions": [
+      "knn_predict"
+    ]
+  },
+  {
+    "lesson": "lessons/22-generative-classifiers.md",
+    "program": "code/classical/lesson_22.py",
+    "definitions": [
+      "softmax",
+      "MultinomialNB"
+    ]
+  },
+  {
+    "lesson": "lessons/23-svm-kernels-gaussian-processes.md",
+    "program": "code/classical/lesson_23.py",
+    "definitions": [
+      "_supervised",
+      "hinge_objective",
+      "fit_linear_svm",
+      "rbf",
+      "gaussian_process"
+    ]
+  },
+  {
+    "lesson": "lessons/24-decision-trees.md",
+    "program": "code/classical/lesson_24.py",
+    "definitions": [
+      "_supervised",
+      "Tree"
+    ]
+  },
+  {
+    "lesson": "lessons/25-bagging-random-forests.md",
+    "program": "code/classical/lesson_25.py",
+    "definitions": [
+      "_supervised",
+      "Tree",
+      "Forest"
+    ]
+  },
+  {
+    "lesson": "lessons/26-boosting.md",
+    "program": "code/classical/lesson_26.py",
+    "definitions": [
+      "_supervised",
+      "Tree",
+      "GradientBoosting"
+    ]
+  },
+  {
+    "lesson": "lessons/28-pca-factorization.md",
+    "program": "code/classical/lesson_28.py",
+    "definitions": [
+      "pca"
+    ]
+  },
+  {
+    "lesson": "lessons/29-partition-clustering.md",
+    "program": "code/classical/lesson_29.py",
+    "definitions": [
+      "kmeans",
+      "kmedoids",
+      "fuzzy_cmeans"
+    ]
+  },
+  {
+    "lesson": "lessons/30-density-hierarchical-spectral.md",
+    "program": "code/classical/lesson_30.py",
+    "definitions": [
+      "dbscan"
+    ]
+  },
+  {
+    "lesson": "lessons/31-mixtures-latent-variables.md",
+    "program": "code/classical/lesson_31.py",
+    "definitions": [
+      "gaussian_mixture_1d"
+    ]
+  },
+  {
+    "lesson": "lessons/32-hmm-time-series.md",
+    "program": "code/classical/lesson_32.py",
+    "definitions": [
+      "_hmm_inputs",
+      "hmm_forward",
+      "hmm_viterbi"
+    ]
+  }
+]

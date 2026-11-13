@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "method": "pdflatex full mathematical typesetting in draft mode",
+  "expressions": 1526,
+  "chapter_hashes": {
+    "chapters/01-mathematical-language.md": "2d4cf4cb0412a1c935b231cc84c288600d7f7bdb9ef608b18d52e294d9d82be5",
+    "chapters/02-vectors-and-geometry.md": "d2c41f1731218961b8ccda5f9aafcc766b8919081669fd4b5757e04f110df0f8",
+    "chapters/03-matrices-and-least-squares.md": "6c1ae5258352e2dcc581050ec569c0baf1a1a421ae13ed2cbfbbde2d8ddcbd6a",
+    "chapters/04-matrix-structure-and-pca.md": "1238cd26322fd3de346bc1461720758f699e0e9a4bd216366cbe356c3a3e0b2c",
+    "chapters/05-calculus-from-first-principles.md": "87d59405803d719e9b56fc0fdc04ac5d91dc466f8c82085ec2f44b6cb764c484",
+    "chapters/06-integration-and-change-of-variables.md": "b73acf0570c45fada8ccb2ce7d373e7bc26202cd26f3c6dd48d4e8294957bece",
+    "chapters/07-multivariable-calculus-and-backpropagation.md": "f6f1b89a942d624b339e71d57d8e241d66b0b2acf2cb6ec3891d809d49adce33",
+    "chapters/08-optimization.md": "338d29b42ae7fbfdfbab629888231c41850cd63fdd6393a98a2e1c5771b099c0",
+    "chapters/09-probability-foundations.md": "ec0473156dd2b8356fb15698757ad93e9c897b2f252dd5071a2a5028fc6cd714",
+    "chapters/10-distributions-and-sampling-limits.md": "e7909175beb4777cefb0d103cd2d2e9692b70c806f552d3b0e900e1f188e8861",
+    "chapters/11-statistical-inference.md": "3e3a3a6d0f14dd8a26e1b6eafcc771efc40de59c3b1a96ceee67b561bc17a298",
+    "chapters/12-machine-learning-synthesis.md": "bf3c615636a438e8041d5c07956d3a562e3994a5b31bbe72146fc15c3156bade"
+  },
+  "missing_glyph_warnings": [],
+  "overfull_box_warnings": [],
+  "visual_inspection": {
+    "sampled_pages": [
+      1,
+      17,
+      43,
+      49,
+      53,
+      72,
+      85
+    ],
+    "observed": "Representative scalars, fractions, matrices, cases, multivariable Taylor expression and Gaussian density render legibly without missing glyphs. This is an equation audit, not the book layout."
+  },
+  "scope": "All chapter math expressions; this is not a GitHub/MathJax or browser-layout verification.",
+  "actual_pdf_compilation": {
+    "status": "passed",
+    "pages": 85,
+    "expressions": 1526,
+    "missing_glyph_warnings": 0,
+    "overfull_box_warnings": 0
+  },
+  "notes": [
+    "The host lacked a prebuilt pdflatex format. A private format was built from its installed TeX source files; system files were not changed.",
+    "A missing default pdftex.map warning was addressed by explicitly loading the installed Computer Modern/AMS maps. Actual PDF fonts were embedded and sampled pages were inspected."
+  ],
+  "verification_date": "2026-11-12"
+}

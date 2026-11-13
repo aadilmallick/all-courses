@@ -1,0 +1,350 @@
+{
+  "title": "Transformers, LLMs, Reinforcement Learning, and Intelligent Systems",
+  "created": "2026-11-12",
+  "lesson_count": 54,
+  "numbered_examples": 54,
+  "additional_alignment_programs": [
+    "alignment_training.py",
+    "sequence_alignment.py"
+  ],
+  "runtime": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "device": "CPU"
+  },
+  "length_measurement": "Python str.split whitespace-separated words; includes code and equations; not model tokens",
+  "lesson_word_total": 120838,
+  "model_token_minimum_verified": false,
+  "tests": {
+    "numbered_examples_passed": 54,
+    "additional_alignment_programs_passed": 2,
+    "unittest_passed": 10,
+    "scalar_derivative_checks_passed": 54
+  },
+  "lessons": [
+    {
+      "file": "lessons/01-tensors-shapes.md",
+      "words": 2253,
+      "bytes": 15550,
+      "sha256": "30ecb4381ee7eaf71992cf288d67311b3909cf6362b7f5bd0d3c4433ff1a2681"
+    },
+    {
+      "file": "lessons/02-linear-algebra.md",
+      "words": 2272,
+      "bytes": 16171,
+      "sha256": "1b1ccfa1ad6cceac69a2930e5bb73780afd1479044a9d2ff4ba532f96a698b30"
+    },
+    {
+      "file": "lessons/03-calculus-chain-rule.md",
+      "words": 2204,
+      "bytes": 16601,
+      "sha256": "3c882c1b4d2b2b2eab0e56a8c2de06045743277656aa8ddcc232242c2cb5950d"
+    },
+    {
+      "file": "lessons/04-probability-conditioning.md",
+      "words": 2126,
+      "bytes": 15250,
+      "sha256": "345d79392d30b43d722088a9f480b34b6708faacb207ac451435697ff1829e65"
+    },
+    {
+      "file": "lessons/05-entropy-softmax.md",
+      "words": 2063,
+      "bytes": 15109,
+      "sha256": "c8ae9f9df5ad22f5b6c4b16590edad625866b01b18c23dd1a716561e0620c9ed"
+    },
+    {
+      "file": "lessons/06-neural-networks-autodiff.md",
+      "words": 2170,
+      "bytes": 15342,
+      "sha256": "7a38e1461f421b4b4e149279c8d9a5f9a248597edda6d7de1b15b7bfcf580934"
+    },
+    {
+      "file": "lessons/07-language-modeling.md",
+      "words": 2161,
+      "bytes": 15417,
+      "sha256": "a87f5354b3b503007d8f100f531d635b7a4702bec2463936a89546846e03232a"
+    },
+    {
+      "file": "lessons/08-tokenization-bpe.md",
+      "words": 2289,
+      "bytes": 15785,
+      "sha256": "411413df44481d2da498908faf7ed03e62f6575866fbde3b1b6522c2732bfad5"
+    },
+    {
+      "file": "lessons/09-embeddings.md",
+      "words": 2225,
+      "bytes": 15933,
+      "sha256": "bf8ad23813f9c99b9c178c8439f73479cc2d34109398e4e755c5886564643dab"
+    },
+    {
+      "file": "lessons/10-rnn-seq2seq.md",
+      "words": 2364,
+      "bytes": 17811,
+      "sha256": "645a2093dca2c7e21d79db72790d50ad7feb5f254f6912a033de7611fa1afbf9"
+    },
+    {
+      "file": "lessons/11-attention-weighted-retrieval.md",
+      "words": 2113,
+      "bytes": 14981,
+      "sha256": "e6bbbc16cd03e843ff82903011b6065a9e91c388649fbdbafcc51b47bb976ecc"
+    },
+    {
+      "file": "lessons/12-scaled-dot-product-attention.md",
+      "words": 2199,
+      "bytes": 16195,
+      "sha256": "0a58cee90b0d63d16596fd67a6a9f07e5464d5d6cf21f09728383e55595cef3b"
+    },
+    {
+      "file": "lessons/13-attention-backpropagation.md",
+      "words": 2512,
+      "bytes": 18325,
+      "sha256": "46bd31fd4add7ed731429e2027873d227a6acfad16497aba6da03c8f0e1fac27"
+    },
+    {
+      "file": "lessons/14-attention-masks.md",
+      "words": 2504,
+      "bytes": 17844,
+      "sha256": "f441ba843544af26d1852ec5fd823832fc58cacad900e23cb30198a39df76824"
+    },
+    {
+      "file": "lessons/15-multihead-gqa.md",
+      "words": 2389,
+      "bytes": 17833,
+      "sha256": "054b53ae08d948109b9ceaf8e41eb30657cf9e95b09e6faf64b79ded5af5b522"
+    },
+    {
+      "file": "lessons/16-position-rope.md",
+      "words": 2089,
+      "bytes": 15451,
+      "sha256": "0ceb34c125ae1341867d2a63c13736b1c0997f04d6e477ad0988d861446b5e87"
+    },
+    {
+      "file": "lessons/17-transformer-blocks.md",
+      "words": 2188,
+      "bytes": 16328,
+      "sha256": "ab4b24de957b39b300e4a2008a839dc67935d9a1fbbde71ee191c8c2be562def"
+    },
+    {
+      "file": "lessons/18-encoder-decoder-architectures.md",
+      "words": 2321,
+      "bytes": 17178,
+      "sha256": "a016768586db89e740452ce80602468d2eb022a8aa558f5a3037c2c88b60ee9b"
+    },
+    {
+      "file": "lessons/19-implement-gpt.md",
+      "words": 2574,
+      "bytes": 19427,
+      "sha256": "0b8e10ce9104ef2cd3aa0aab60e41e8dbbfbe47115921680bd91ab056dc5abac"
+    },
+    {
+      "file": "lessons/20-train-gpt.md",
+      "words": 2241,
+      "bytes": 15827,
+      "sha256": "c2f70510c85ede4cbdc9742532345fbe6b15c6a5d72aa54a38abc6f1c3b69ed6"
+    },
+    {
+      "file": "lessons/21-pretraining-systems.md",
+      "words": 2176,
+      "bytes": 15371,
+      "sha256": "de458125ac6e47c0890e7bda7fe0d8b6d344a07c5d791d07eaf93ab649aa5c2b"
+    },
+    {
+      "file": "lessons/22-decoding-kv-cache.md",
+      "words": 2338,
+      "bytes": 16978,
+      "sha256": "53948a21cdff8b4ea2230ef6271438c0451e0c141094b89b1388b650a5c23853"
+    },
+    {
+      "file": "lessons/23-efficient-attention.md",
+      "words": 2213,
+      "bytes": 16223,
+      "sha256": "a587e818744f1ee22a135618bc8448336898dad8c6be95e6f030ae862b8e4eef"
+    },
+    {
+      "file": "lessons/24-long-context.md",
+      "words": 2179,
+      "bytes": 15929,
+      "sha256": "1b826a60e5269da43f1941d4e323101eb859b0a2ac16f4aaf47b73781209246d"
+    },
+    {
+      "file": "lessons/25-evaluation-interpretability.md",
+      "words": 2196,
+      "bytes": 15204,
+      "sha256": "24a8a927320c6999469c010a6140fa4a082fdfa7426863a51930864b79d39b86"
+    },
+    {
+      "file": "lessons/26-instruction-sft.md",
+      "words": 2263,
+      "bytes": 16340,
+      "sha256": "4867001d8f05f69db9cb84056f46bf32f77c224024bdf6196579b69d412ea796"
+    },
+    {
+      "file": "lessons/27-lora-peft.md",
+      "words": 2305,
+      "bytes": 16135,
+      "sha256": "40592f8c9edcaca8635a9002f307d10f431583934f9e14322b7e95d1418636c3"
+    },
+    {
+      "file": "lessons/28-quantization-qlora.md",
+      "words": 2209,
+      "bytes": 15923,
+      "sha256": "6397f57d9ca0b822840fd777a35e1dc870ca3748916d1957c00f9fe9468d7ed1"
+    },
+    {
+      "file": "lessons/29-mixture-of-experts.md",
+      "words": 2299,
+      "bytes": 16616,
+      "sha256": "7445f89dde0601c33bbd5a2ed4e16ab4315ddbb54ecede7f7ef07093c4190f36"
+    },
+    {
+      "file": "lessons/30-knowledge-distillation.md",
+      "words": 2089,
+      "bytes": 15800,
+      "sha256": "8a9a5169190de0970176a5fa5fd79a71fdb4381cec1f56050c480fdb108d5a8f"
+    },
+    {
+      "file": "lessons/31-rl-foundations.md",
+      "words": 2195,
+      "bytes": 15676,
+      "sha256": "196363b10d5dbcd5668ed08c47bf007bd5a1acfaeb7214b424b611d58314b12f"
+    },
+    {
+      "file": "lessons/32-bellman-dynamic-programming.md",
+      "words": 2011,
+      "bytes": 14397,
+      "sha256": "d014663fe05a5e6fc8fbc5511b4ab6cc61c240553a3debcf40e50662487c8d51"
+    },
+    {
+      "file": "lessons/33-td-q-learning.md",
+      "words": 2100,
+      "bytes": 14812,
+      "sha256": "5960c6338d90e5efe03469e6732e1c68d674ed01fc1a606d461edc6a76305257"
+    },
+    {
+      "file": "lessons/34-policy-gradients.md",
+      "words": 2151,
+      "bytes": 15892,
+      "sha256": "4ed1c9ade8544b528000245a96aca476d11c0a202f59bd1cc91c6c6eea01add4"
+    },
+    {
+      "file": "lessons/35-actor-critic-gae.md",
+      "words": 2109,
+      "bytes": 14978,
+      "sha256": "12200cbfca2de7c4c9d0504756c09546b392441df4cc8d3df07351300a557495"
+    },
+    {
+      "file": "lessons/36-ppo.md",
+      "words": 2034,
+      "bytes": 14855,
+      "sha256": "09adc65bc953efd404751bd18cfbae30f78e7bcdbfaebd1b097d227f0857f929"
+    },
+    {
+      "file": "lessons/37-reward-modeling-rlhf.md",
+      "words": 2073,
+      "bytes": 15502,
+      "sha256": "be0d14ee0ccf5b109b373326189efc6c82cbec22a687fc602f8a33549e695f69"
+    },
+    {
+      "file": "lessons/38-dpo-preference-optimization.md",
+      "words": 2137,
+      "bytes": 16152,
+      "sha256": "15408d36c58222d46d27d00c594e0900a286d2ecaf47c3df4b2c7f135436c215"
+    },
+    {
+      "file": "lessons/39-grpo-verifiable-rewards.md",
+      "words": 2055,
+      "bytes": 14901,
+      "sha256": "f31b24e0033511095a1bf77806d1a1220a993ba065d33bccfc87ab13740d9676"
+    },
+    {
+      "file": "lessons/40-prompting-search.md",
+      "words": 2145,
+      "bytes": 15941,
+      "sha256": "2a63e115d78c252ee1af43d98334312310475498fd9ec9f8632849b9302de1ef"
+    },
+    {
+      "file": "lessons/41-context-memory.md",
+      "words": 2212,
+      "bytes": 15742,
+      "sha256": "ad6feed930a0df58dcb944cdc902e98900aa439c909916e8816174ce8297203e"
+    },
+    {
+      "file": "lessons/42-dense-retrieval.md",
+      "words": 2367,
+      "bytes": 16314,
+      "sha256": "c120a867811b2cfca1537fea53db017c2d76efe662a86e28bda7a003a11988db"
+    },
+    {
+      "file": "lessons/43-rag-hybrid-ranking.md",
+      "words": 2287,
+      "bytes": 16657,
+      "sha256": "12fcb26b72d2b3827d2b5436f44edb37f35e8c503dfd62257b28fe730ebb3a32"
+    },
+    {
+      "file": "lessons/44-advanced-rag-evaluation.md",
+      "words": 2366,
+      "bytes": 17421,
+      "sha256": "250842c3667e71fc5dbd041fb0e34faf2b7d6c837ca829b750bc5c33b4f78014"
+    },
+    {
+      "file": "lessons/45-agent-loops-graphs.md",
+      "words": 2193,
+      "bytes": 16159,
+      "sha256": "51481c15567ffa42a3ae679fc8c900d2406a2344e4b33d1a3accdbe2d48cfcec"
+    },
+    {
+      "file": "lessons/46-llm-judges.md",
+      "words": 2183,
+      "bytes": 15422,
+      "sha256": "cd07dd42a617f914540b00df232811c851589fa9ab841a010e3c3ad534468be9"
+    },
+    {
+      "file": "lessons/47-vision-clip.md",
+      "words": 2283,
+      "bytes": 15991,
+      "sha256": "ca98aeaf4bb850cb3e926f1b1d7d1e1faa0cf169304c495005761ba20fa9989b"
+    },
+    {
+      "file": "lessons/48-generative-vlm.md",
+      "words": 2461,
+      "bytes": 19657,
+      "sha256": "4547eb8621a3a044e6b9ed0315c6fb1da1123e652956a0e522d802153cf268bb"
+    },
+    {
+      "file": "lessons/49-recursive-transformers.md",
+      "words": 2547,
+      "bytes": 20762,
+      "sha256": "d4f62327e32dde0f3c8c5acd64d2385c2fa8e263668d80900d4772c21c30af43"
+    },
+    {
+      "file": "lessons/50-recursive-self-improvement.md",
+      "words": 2115,
+      "bytes": 15736,
+      "sha256": "a9de46c02ddad87b9c9d9d86fad13acffb314e3b6aa665b51a3451f45fb521cd"
+    },
+    {
+      "file": "lessons/51-physical-ai-control.md",
+      "words": 2031,
+      "bytes": 14619,
+      "sha256": "a21bf02aa0936f2896b8cee7a6653c9de9bb1fb3ca54bcb8fb58c4b60da13555"
+    },
+    {
+      "file": "lessons/52-generative-actions-world-models.md",
+      "words": 2142,
+      "bytes": 15634,
+      "sha256": "e35611b39ec29565ddb71a777996018faf5de6492387adbccabf7b5c0c394afd"
+    },
+    {
+      "file": "lessons/53-capstone-local-system.md",
+      "words": 2806,
+      "bytes": 20573,
+      "sha256": "1d69ce5b12493438d5f7a7f23066afa5189c88feb504e9565993c1f748912588"
+    },
+    {
+      "file": "lessons/54-research-reproducibility.md",
+      "words": 2311,
+      "bytes": 16932,
+      "sha256": "77b41eee6ae9c33686b7bd4f7f140e1264147219d034b22e7b4591ea221c8fab"
+    }
+  ]
+}

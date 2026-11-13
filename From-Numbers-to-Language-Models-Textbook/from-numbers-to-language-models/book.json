@@ -1,0 +1,673 @@
+{
+  "schema_version": 1,
+  "title": "From Numbers to Language Models",
+  "subtitle": "A patient mathematical and computational journey through attention, transformers, alignment, retrieval, and intelligent systems",
+  "audience": "A programmer rebuilding the mathematics of modern AI from explicit examples. No prior transformer or reinforcement-learning knowledge is assumed.",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Giving numbers a meaning: tensors, coordinates, and learned maps",
+      "path": "chapters/01-coordinates.md",
+      "part": "I. Mathematical language",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "lab-01"
+      ],
+      "source_lessons": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Following a change backward: calculus, computation graphs, and learning",
+      "path": "chapters/02-gradients.md",
+      "part": "I. Mathematical language",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "lab-02"
+      ],
+      "source_lessons": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Predicting uncertainty: probability, information, and language likelihood",
+      "path": "chapters/03-probability.md",
+      "part": "I. Mathematical language",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "lab-03"
+      ],
+      "source_lessons": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "From text to representations: tokenization, embeddings, and sequence memory",
+      "path": "chapters/04-representations.md",
+      "part": "II. Representations and attention",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "lab-04"
+      ],
+      "source_lessons": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Attention from the first weighted read to the full backward pass",
+      "path": "chapters/05-attention.md",
+      "part": "II. Representations and attention",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "lab-05"
+      ],
+      "source_lessons": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Building a transformer block: visibility, heads, position, and residual paths",
+      "path": "chapters/06-transformer-blocks.md",
+      "part": "II. Representations and attention",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "lab-06"
+      ],
+      "source_lessons": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "A language model you can train: objectives, the decoder, and a complete run",
+      "path": "chapters/07-train-a-transformer.md",
+      "part": "III. Building and adapting models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "lab-07"
+      ],
+      "source_lessons": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Making training and inference practical: data, memory, caches, and context",
+      "path": "chapters/08-efficient-execution.md",
+      "part": "III. Building and adapting models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "lab-08"
+      ],
+      "source_lessons": [
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Adapting a model while measuring what changes",
+      "path": "chapters/09-adaptation.md",
+      "part": "III. Building and adapting models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "lab-09"
+      ],
+      "source_lessons": [
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Allocating capacity: mixtures of experts and knowledge distillation",
+      "path": "chapters/10-experts-and-teachers.md",
+      "part": "III. Building and adapting models",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "lab-10"
+      ],
+      "source_lessons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Learning to act: bandits, Markov decisions, and Bellman reasoning",
+      "path": "chapters/11-bellman-reasoning.md",
+      "part": "IV. Decisions and alignment",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-10"
+      ],
+      "experiments": [
+        "lab-11"
+      ],
+      "source_lessons": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Optimizing a policy: likelihood ratios, critics, GAE, and PPO",
+      "path": "chapters/12-policy-gradients.md",
+      "part": "IV. Decisions and alignment",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-11"
+      ],
+      "experiments": [
+        "lab-12"
+      ],
+      "source_lessons": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "title": "Aligning responses: reward models, DPO, and verifiable feedback",
+      "path": "chapters/13-alignment.md",
+      "part": "IV. Decisions and alignment",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-12"
+      ],
+      "experiments": [
+        "lab-13"
+      ],
+      "source_lessons": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "title": "Supplying the right information: prompts, context, embeddings, and RAG",
+      "path": "chapters/14-retrieval-and-context.md",
+      "part": "V. Evidence and reliable systems",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-13"
+      ],
+      "experiments": [
+        "lab-14"
+      ],
+      "source_lessons": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "title": "Reliable iteration: tools, agent graphs, and improvement loops",
+      "path": "chapters/15-reliable-loops.md",
+      "part": "V. Evidence and reliable systems",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-14"
+      ],
+      "experiments": [
+        "lab-15"
+      ],
+      "source_lessons": [
+        45,
+        50
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "title": "Measuring what matters: judges, uncertainty, and reproducible research",
+      "path": "chapters/16-measurement.md",
+      "part": "V. Evidence and reliable systems",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-15"
+      ],
+      "experiments": [
+        "lab-16"
+      ],
+      "source_lessons": [
+        46,
+        54
+      ]
+    },
+    {
+      "id": "chapter-17",
+      "title": "Beyond text: visual representations, cross-modal generation, and recurrent depth",
+      "path": "chapters/17-vision-and-recurrence.md",
+      "part": "VI. Beyond text",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-16"
+      ],
+      "experiments": [
+        "lab-17"
+      ],
+      "source_lessons": [
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "id": "chapter-18",
+      "title": "Closing the loop: physical actions, generative policies, and a final synthesis",
+      "path": "chapters/18-actions-and-synthesis.md",
+      "part": "VI. Beyond text",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-17"
+      ],
+      "experiments": [
+        "lab-18"
+      ],
+      "source_lessons": [
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "id": "appendix-notation",
+      "title": "Notation and conventions",
+      "path": "chapters/appendix-notation.md",
+      "part": "Reference appendices",
+      "status": "complete",
+      "minimum_prose_words": 0,
+      "prerequisites": [],
+      "experiments": []
+    },
+    {
+      "id": "appendix-implementation",
+      "title": "Reconstructing autodiff and the decoder",
+      "path": "chapters/appendix-implementation.md",
+      "part": "Reference appendices",
+      "status": "complete",
+      "minimum_prose_words": 0,
+      "prerequisites": [],
+      "experiments": []
+    },
+    {
+      "id": "appendix-projects",
+      "title": "Optional synthesis projects with solutions",
+      "path": "chapters/appendix-projects.md",
+      "part": "Reference appendices",
+      "status": "complete",
+      "minimum_prose_words": 0,
+      "prerequisites": [],
+      "experiments": []
+    },
+    {
+      "id": "appendix-references",
+      "title": "References and provenance",
+      "path": "chapters/appendix-references.md",
+      "part": "Reference appendices",
+      "status": "complete",
+      "minimum_prose_words": 0,
+      "prerequisites": [],
+      "experiments": []
+    }
+  ],
+  "assets": [
+    {
+      "source": "examples/49_recursive_transformers.py",
+      "target": "examples/49_recursive_transformers.py"
+    },
+    {
+      "source": "examples/36_ppo.py",
+      "target": "examples/36_ppo.py"
+    },
+    {
+      "source": "examples/50_recursive_self_improvement.py",
+      "target": "examples/50_recursive_self_improvement.py"
+    },
+    {
+      "source": "examples/12_scaled_dot_product_attention.py",
+      "target": "examples/12_scaled_dot_product_attention.py"
+    },
+    {
+      "source": "examples/21_pretraining_systems.py",
+      "target": "examples/21_pretraining_systems.py"
+    },
+    {
+      "source": "examples/01_tensors_shapes.py",
+      "target": "examples/01_tensors_shapes.py"
+    },
+    {
+      "source": "examples/53_capstone_local_system.py",
+      "target": "examples/53_capstone_local_system.py"
+    },
+    {
+      "source": "examples/46_llm_judges.py",
+      "target": "examples/46_llm_judges.py"
+    },
+    {
+      "source": "examples/40_prompting_search.py",
+      "target": "examples/40_prompting_search.py"
+    },
+    {
+      "source": "examples/28_quantization_qlora.py",
+      "target": "examples/28_quantization_qlora.py"
+    },
+    {
+      "source": "examples/07_language_modeling.py",
+      "target": "examples/07_language_modeling.py"
+    },
+    {
+      "source": "examples/04_probability_conditioning.py",
+      "target": "examples/04_probability_conditioning.py"
+    },
+    {
+      "source": "examples/13_attention_backpropagation.py",
+      "target": "examples/13_attention_backpropagation.py"
+    },
+    {
+      "source": "examples/48_generative_vlm.py",
+      "target": "examples/48_generative_vlm.py"
+    },
+    {
+      "source": "examples/23_efficient_attention.py",
+      "target": "examples/23_efficient_attention.py"
+    },
+    {
+      "source": "examples/45_agent_loops_graphs.py",
+      "target": "examples/45_agent_loops_graphs.py"
+    },
+    {
+      "source": "examples/alignment_training.py",
+      "target": "examples/alignment_training.py"
+    },
+    {
+      "source": "examples/35_actor_critic_gae.py",
+      "target": "examples/35_actor_critic_gae.py"
+    },
+    {
+      "source": "examples/17_transformer_blocks.py",
+      "target": "examples/17_transformer_blocks.py"
+    },
+    {
+      "source": "examples/52_generative_actions_world_models.py",
+      "target": "examples/52_generative_actions_world_models.py"
+    },
+    {
+      "source": "examples/19_implement_gpt.py",
+      "target": "examples/19_implement_gpt.py"
+    },
+    {
+      "source": "examples/10_rnn_seq2seq.py",
+      "target": "examples/10_rnn_seq2seq.py"
+    },
+    {
+      "source": "examples/47_vision_clip.py",
+      "target": "examples/47_vision_clip.py"
+    },
+    {
+      "source": "examples/54_research_reproducibility.py",
+      "target": "examples/54_research_reproducibility.py"
+    },
+    {
+      "source": "examples/27_lora_peft.py",
+      "target": "examples/27_lora_peft.py"
+    },
+    {
+      "source": "examples/26_instruction_sft.py",
+      "target": "examples/26_instruction_sft.py"
+    },
+    {
+      "source": "examples/42_dense_retrieval.py",
+      "target": "examples/42_dense_retrieval.py"
+    },
+    {
+      "source": "examples/11_attention_weighted_retrieval.py",
+      "target": "examples/11_attention_weighted_retrieval.py"
+    },
+    {
+      "source": "examples/44_advanced_rag_evaluation.py",
+      "target": "examples/44_advanced_rag_evaluation.py"
+    },
+    {
+      "source": "examples/sequence_alignment.py",
+      "target": "examples/sequence_alignment.py"
+    },
+    {
+      "source": "examples/18_encoder_decoder_architectures.py",
+      "target": "examples/18_encoder_decoder_architectures.py"
+    },
+    {
+      "source": "examples/run_all.py",
+      "target": "examples/run_all.py"
+    },
+    {
+      "source": "examples/20_train_gpt.py",
+      "target": "examples/20_train_gpt.py"
+    },
+    {
+      "source": "examples/30_knowledge_distillation.py",
+      "target": "examples/30_knowledge_distillation.py"
+    },
+    {
+      "source": "examples/09_embeddings.py",
+      "target": "examples/09_embeddings.py"
+    },
+    {
+      "source": "examples/02_linear_algebra.py",
+      "target": "examples/02_linear_algebra.py"
+    },
+    {
+      "source": "examples/24_long_context.py",
+      "target": "examples/24_long_context.py"
+    },
+    {
+      "source": "examples/03_calculus_chain_rule.py",
+      "target": "examples/03_calculus_chain_rule.py"
+    },
+    {
+      "source": "examples/05_entropy_softmax.py",
+      "target": "examples/05_entropy_softmax.py"
+    },
+    {
+      "source": "examples/16_position_rope.py",
+      "target": "examples/16_position_rope.py"
+    },
+    {
+      "source": "examples/39_grpo_verifiable_rewards.py",
+      "target": "examples/39_grpo_verifiable_rewards.py"
+    },
+    {
+      "source": "examples/29_mixture_of_experts.py",
+      "target": "examples/29_mixture_of_experts.py"
+    },
+    {
+      "source": "examples/41_context_memory.py",
+      "target": "examples/41_context_memory.py"
+    },
+    {
+      "source": "examples/25_evaluation_interpretability.py",
+      "target": "examples/25_evaluation_interpretability.py"
+    },
+    {
+      "source": "examples/51_physical_ai_control.py",
+      "target": "examples/51_physical_ai_control.py"
+    },
+    {
+      "source": "examples/34_policy_gradients.py",
+      "target": "examples/34_policy_gradients.py"
+    },
+    {
+      "source": "examples/08_tokenization_bpe.py",
+      "target": "examples/08_tokenization_bpe.py"
+    },
+    {
+      "source": "examples/core.py",
+      "target": "examples/core.py"
+    },
+    {
+      "source": "examples/14_attention_masks.py",
+      "target": "examples/14_attention_masks.py"
+    },
+    {
+      "source": "examples/31_rl_foundations.py",
+      "target": "examples/31_rl_foundations.py"
+    },
+    {
+      "source": "examples/15_multihead_gqa.py",
+      "target": "examples/15_multihead_gqa.py"
+    },
+    {
+      "source": "examples/32_bellman_dynamic_programming.py",
+      "target": "examples/32_bellman_dynamic_programming.py"
+    },
+    {
+      "source": "examples/43_rag_hybrid_ranking.py",
+      "target": "examples/43_rag_hybrid_ranking.py"
+    },
+    {
+      "source": "examples/37_reward_modeling_rlhf.py",
+      "target": "examples/37_reward_modeling_rlhf.py"
+    },
+    {
+      "source": "examples/38_dpo_preference_optimization.py",
+      "target": "examples/38_dpo_preference_optimization.py"
+    },
+    {
+      "source": "examples/06_neural_networks_autodiff.py",
+      "target": "examples/06_neural_networks_autodiff.py"
+    },
+    {
+      "source": "examples/33_td_q_learning.py",
+      "target": "examples/33_td_q_learning.py"
+    },
+    {
+      "source": "examples/22_decoding_kv_cache.py",
+      "target": "examples/22_decoding_kv_cache.py"
+    },
+    {
+      "source": "COVERAGE.md",
+      "target": "COVERAGE.md"
+    },
+    {
+      "source": "companion/index.html",
+      "target": "companion/index.html"
+    },
+    {
+      "source": "figures/attention.svg",
+      "target": "figures/attention.svg"
+    },
+    {
+      "source": "figures/alignment.svg",
+      "target": "figures/alignment.svg"
+    },
+    {
+      "source": "figures/evidence.svg",
+      "target": "figures/evidence.svg"
+    }
+  ],
+  "source_listings": [
+    {
+      "id": "source-core",
+      "title": "core.py",
+      "path": "examples/core.py",
+      "language": "python"
+    },
+    {
+      "id": "source-alignment-training",
+      "title": "alignment_training.py",
+      "path": "examples/alignment_training.py",
+      "language": "python"
+    },
+    {
+      "id": "source-sequence-alignment",
+      "title": "sequence_alignment.py",
+      "path": "examples/sequence_alignment.py",
+      "language": "python"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

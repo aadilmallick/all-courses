@@ -1,0 +1,15 @@
+import numpy as np
+from core import softmax
+rng = np.random.default_rng(29)
+x = rng.normal(size=(8, 3))
+router = rng.normal(size=(3, 4))
+experts = rng.normal(size=(4, 3, 3))
+probability = softmax(x @ router)
+chosen = probability.argmax(axis=1)
+output = np.stack([probability[t, e]*(x[t] @ experts[e]) for t, e in enumerate(chosen)])
+counts = np.bincount(chosen, minlength=4)
+capacity = int(np.ceil(len(x)/4))
+overflow = np.maximum(counts-capacity, 0).sum()
+fraction = counts/len(x)
+balance = 4*np.sum(fraction*probability.mean(axis=0))
+print('assignments', counts, 'overflow', overflow, 'balance', balance, 'shape', output.shape)

@@ -1,0 +1,19 @@
+{
+  "edition_date": "2026-11-12",
+  "primary_input": {
+    "title": "LLM-Transformers-RL-Curriculum.zip",
+    "library_file_id": "libfile_95982d2076c48191b5a5105bc1ef5cfa",
+    "sha256": "630de0c2fd66c93c8aa5bb9da9280becdf41d7b89e2bd88386dc97300e87cb84",
+    "access_state": "inspected",
+    "inspected": "All 54 lesson files, code files used in the text, source and validation records. Repetitive scalar scaffolding was removed from the narrative."
+  },
+  "external_sources": "References and original access limits retained in chapters/appendix-references.md. No new claim of exhaustive reading is made.",
+  "api_baseline": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "sympy_optional": "1.14.0",
+    "node": "24.22.1",
+    "pandoc_authoring": "3.1.11.1"
+  },
+  "redistribution": "Original authored curriculum and examples transformed; linked external primer and paper content is not redistributed as full source extractions."
+}

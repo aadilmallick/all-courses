@@ -1,0 +1,665 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "lab-01",
+      "title": "Coordinates and projections",
+      "chapter": "chapter-01",
+      "description": "Change an input coordinate and inspect each contribution to a learned linear map.",
+      "module": "labs/01.js",
+      "controls": [
+        {
+          "name": "first",
+          "label": "First input coordinate",
+          "value": 1,
+          "type": "range",
+          "min": -3,
+          "max": 3,
+          "step": 0.1
+        },
+        {
+          "name": "second",
+          "label": "Second input coordinate",
+          "value": 2,
+          "type": "range",
+          "min": -3,
+          "max": 3,
+          "step": 0.1
+        }
+      ]
+    },
+    {
+      "id": "lab-02",
+      "title": "Gradient microscope",
+      "chapter": "chapter-02",
+      "description": "Compare an exact chain-rule derivative with a central difference and a descent step.",
+      "module": "labs/02.js",
+      "controls": [
+        {
+          "name": "weight",
+          "label": "Neuron weight",
+          "value": 0.3,
+          "type": "range",
+          "min": -2,
+          "max": 2,
+          "step": 0.01
+        },
+        {
+          "name": "step",
+          "label": "Finite-difference step",
+          "value": 0.001,
+          "type": "range",
+          "min": 0.0001,
+          "max": 0.1,
+          "step": 0.0001
+        },
+        {
+          "name": "rate",
+          "label": "Descent learning rate",
+          "value": 0.1,
+          "type": "range",
+          "min": 0.01,
+          "max": 2,
+          "step": 0.01
+        }
+      ]
+    },
+    {
+      "id": "lab-03",
+      "title": "Probability and information",
+      "chapter": "chapter-03",
+      "description": "Inspect softmax, entropy, target loss, and logit gradients.",
+      "module": "labs/03.js",
+      "controls": [
+        {
+          "name": "logit",
+          "label": "First-class logit",
+          "value": 0.7,
+          "type": "range",
+          "min": -8,
+          "max": 8,
+          "step": 0.1
+        },
+        {
+          "name": "target",
+          "label": "Target class",
+          "value": 0,
+          "type": "select",
+          "options": [
+            0,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lab-04",
+      "title": "Tokens and representations",
+      "chapter": "chapter-04",
+      "description": "Execute character byte-pair merges and retrieve a supplied embedding row.",
+      "module": "labs/04.js",
+      "controls": [
+        {
+          "name": "merges",
+          "label": "Merge steps",
+          "value": 4,
+          "type": "range",
+          "min": 0,
+          "max": 8,
+          "step": 1
+        },
+        {
+          "name": "token",
+          "label": "Embedding row ID",
+          "value": 1,
+          "type": "select",
+          "options": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lab-05",
+      "title": "Attention workbench",
+      "chapter": "chapter-05",
+      "description": "Follow scores, normalization, weighted values, and a readout derivative.",
+      "module": "labs/05.js",
+      "controls": [
+        {
+          "name": "qx",
+          "label": "Query coordinate 0",
+          "value": 1,
+          "type": "range",
+          "min": -3,
+          "max": 3,
+          "step": 0.1
+        },
+        {
+          "name": "qy",
+          "label": "Query coordinate 1",
+          "value": 0,
+          "type": "range",
+          "min": -3,
+          "max": 3,
+          "step": 0.1
+        },
+        {
+          "name": "temperature",
+          "label": "Additional score temperature",
+          "value": 1,
+          "type": "range",
+          "min": 0.1,
+          "max": 3,
+          "step": 0.1
+        }
+      ]
+    },
+    {
+      "id": "lab-06",
+      "title": "Masks, position, and heads",
+      "chapter": "chapter-06",
+      "description": "Inspect causal visibility, rotary position, and grouped head sharing.",
+      "module": "labs/06.js",
+      "controls": [
+        {
+          "name": "distance",
+          "label": "Rotary position distance",
+          "value": 3,
+          "type": "range",
+          "min": 0,
+          "max": 30,
+          "step": 1
+        },
+        {
+          "name": "causal",
+          "label": "Causal visibility",
+          "value": 1,
+          "type": "select",
+          "options": [
+            0,
+            1
+          ]
+        },
+        {
+          "name": "groups",
+          "label": "Key/value groups for four query heads",
+          "value": 2,
+          "type": "select",
+          "options": [
+            1,
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lab-07",
+      "title": "Train a conditional language table",
+      "chapter": "chapter-07",
+      "description": "Run real gradient descent on a small next-token model; full transformer code is supplied in Python.",
+      "module": "labs/07.js",
+      "controls": [
+        {
+          "name": "steps",
+          "label": "Training updates",
+          "value": 60,
+          "type": "range",
+          "min": 0,
+          "max": 200,
+          "step": 1
+        },
+        {
+          "name": "rate",
+          "label": "Learning rate",
+          "value": 1,
+          "type": "range",
+          "min": 0.05,
+          "max": 5,
+          "step": 0.05
+        }
+      ]
+    },
+    {
+      "id": "lab-08",
+      "title": "Inference and context costs",
+      "chapter": "chapter-08",
+      "description": "Calculate cache memory, dense attention size, temperature, and cache equality.",
+      "module": "labs/08.js",
+      "controls": [
+        {
+          "name": "tokens",
+          "label": "Context tokens",
+          "value": 1024,
+          "type": "range",
+          "min": 128,
+          "max": 8192,
+          "step": 128
+        },
+        {
+          "name": "batch",
+          "label": "Batch size",
+          "value": 1,
+          "type": "range",
+          "min": 1,
+          "max": 8,
+          "step": 1
+        },
+        {
+          "name": "groups",
+          "label": "KV heads (query heads = 8)",
+          "value": 2,
+          "type": "select",
+          "options": [
+            1,
+            2,
+            4,
+            8
+          ]
+        },
+        {
+          "name": "temperature",
+          "label": "Sampling temperature",
+          "value": 1,
+          "type": "range",
+          "min": 0.1,
+          "max": 3,
+          "step": 0.1
+        }
+      ]
+    },
+    {
+      "id": "lab-09",
+      "title": "Adapters and precision",
+      "chapter": "chapter-09",
+      "description": "Compare LoRA factor paths, merged weights, and uniform quantization.",
+      "module": "labs/09.js",
+      "controls": [
+        {
+          "name": "factor",
+          "label": "First low-rank factor coordinate",
+          "value": 0.2,
+          "type": "range",
+          "min": -2,
+          "max": 2,
+          "step": 0.05
+        },
+        {
+          "name": "alpha",
+          "label": "Rank-one adapter scale",
+          "value": 1,
+          "type": "range",
+          "min": 0.1,
+          "max": 4,
+          "step": 0.1
+        },
+        {
+          "name": "bits",
+          "label": "Signed symmetric quantizer bits",
+          "value": 4,
+          "type": "range",
+          "min": 2,
+          "max": 8,
+          "step": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-10",
+      "title": "Experts and teachers",
+      "chapter": "chapter-10",
+      "description": "Inspect router assignments, capacity overflow, and a distillation gradient.",
+      "module": "labs/10.js",
+      "controls": [
+        {
+          "name": "bias",
+          "label": "Expert-zero routing bias",
+          "value": 0,
+          "type": "range",
+          "min": -2,
+          "max": 2,
+          "step": 0.1
+        },
+        {
+          "name": "capacity",
+          "label": "Capacity factor",
+          "value": 1,
+          "type": "range",
+          "min": 0.5,
+          "max": 2,
+          "step": 0.25
+        },
+        {
+          "name": "temperature",
+          "label": "Distillation temperature",
+          "value": 2,
+          "type": "range",
+          "min": 0.5,
+          "max": 4,
+          "step": 0.1
+        }
+      ]
+    },
+    {
+      "id": "lab-11",
+      "title": "Bellman laboratory",
+      "chapter": "chapter-11",
+      "description": "Compare iterated policy values with a linear solve and a residual bound.",
+      "module": "labs/11.js",
+      "controls": [
+        {
+          "name": "gamma",
+          "label": "Discount gamma",
+          "value": 0.9,
+          "type": "range",
+          "min": 0,
+          "max": 0.98,
+          "step": 0.01
+        },
+        {
+          "name": "reward",
+          "label": "State-zero reward",
+          "value": 1,
+          "type": "range",
+          "min": -1,
+          "max": 2,
+          "step": 0.1
+        },
+        {
+          "name": "steps",
+          "label": "Bellman updates",
+          "value": 40,
+          "type": "range",
+          "min": 1,
+          "max": 150,
+          "step": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-12",
+      "title": "Policy updates",
+      "chapter": "chapter-12",
+      "description": "Inspect an exact bandit gradient, GAE, and both PPO clipping signs.",
+      "module": "labs/12.js",
+      "controls": [
+        {
+          "name": "theta",
+          "label": "Bandit policy logit",
+          "value": 0.3,
+          "type": "range",
+          "min": -4,
+          "max": 4,
+          "step": 0.1
+        },
+        {
+          "name": "ratio",
+          "label": "PPO probability ratio",
+          "value": 1.3,
+          "type": "range",
+          "min": 0.3,
+          "max": 1.7,
+          "step": 0.01
+        },
+        {
+          "name": "advantage",
+          "label": "PPO fixed advantage",
+          "value": 2,
+          "type": "range",
+          "min": -3,
+          "max": 3,
+          "step": 0.1
+        },
+        {
+          "name": "lambda",
+          "label": "GAE lambda",
+          "value": 0.95,
+          "type": "range",
+          "min": 0,
+          "max": 1,
+          "step": 0.01
+        }
+      ]
+    },
+    {
+      "id": "lab-13",
+      "title": "Preferences and alignment",
+      "chapter": "chapter-13",
+      "description": "Compute reference-adjusted DPO loss and group-normalized rewards.",
+      "module": "labs/13.js",
+      "controls": [
+        {
+          "name": "gap",
+          "label": "Policy response log-probability gap",
+          "value": 1,
+          "type": "range",
+          "min": -6,
+          "max": 6,
+          "step": 0.1
+        },
+        {
+          "name": "reference",
+          "label": "Reference gap",
+          "value": 0.5,
+          "type": "range",
+          "min": -6,
+          "max": 6,
+          "step": 0.1
+        },
+        {
+          "name": "beta",
+          "label": "DPO beta",
+          "value": 0.5,
+          "type": "range",
+          "min": 0.1,
+          "max": 2,
+          "step": 0.1
+        },
+        {
+          "name": "successes",
+          "label": "Successful responses in group of four",
+          "value": 2,
+          "type": "range",
+          "min": 0,
+          "max": 4,
+          "step": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-14",
+      "title": "Retrieval and context",
+      "chapter": "chapter-14",
+      "description": "Execute BM25, reciprocal rank fusion, and exhaustive budget selection.",
+      "module": "labs/14.js",
+      "controls": [
+        {
+          "name": "query",
+          "label": "Retrieval query",
+          "value": "current service port",
+          "type": "text"
+        },
+        {
+          "name": "budget",
+          "label": "Evidence word budget",
+          "value": 8,
+          "type": "range",
+          "min": 0,
+          "max": 12,
+          "step": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-15",
+      "title": "Loops and improvement",
+      "chapter": "chapter-15",
+      "description": "Execute a bounded local loop and expose noisy winner selection.",
+      "module": "labs/15.js",
+      "controls": [
+        {
+          "name": "budget",
+          "label": "Maximum loop steps",
+          "value": 3,
+          "type": "range",
+          "min": 0,
+          "max": 5,
+          "step": 1
+        },
+        {
+          "name": "evidence",
+          "label": "Current evidence available",
+          "value": 1,
+          "type": "select",
+          "options": [
+            0,
+            1
+          ]
+        },
+        {
+          "name": "candidates",
+          "label": "Equally good candidates",
+          "value": 20,
+          "type": "range",
+          "min": 1,
+          "max": 60,
+          "step": 1
+        },
+        {
+          "name": "seed",
+          "label": "Selection experiment seed",
+          "value": 5,
+          "type": "range",
+          "min": 1,
+          "max": 100,
+          "step": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-16",
+      "title": "Judges and evidence",
+      "chapter": "chapter-16",
+      "description": "Compare raw agreement, kappa, Brier loss, and simulated position bias.",
+      "module": "labs/16.js",
+      "controls": [
+        {
+          "name": "flips",
+          "label": "Reference labels the judge flips",
+          "value": 2,
+          "type": "range",
+          "min": 0,
+          "max": 8,
+          "step": 1
+        },
+        {
+          "name": "confidence",
+          "label": "Constant probability of positive label",
+          "value": 0.7,
+          "type": "range",
+          "min": 0.01,
+          "max": 0.99,
+          "step": 0.01
+        },
+        {
+          "name": "bias",
+          "label": "Always favor first position",
+          "value": 0,
+          "type": "select",
+          "options": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lab-17",
+      "title": "Vision and recurrence",
+      "chapter": "chapter-17",
+      "description": "Extract real numeric patches, calculate contrastive loss, and iterate shared state.",
+      "module": "labs/17.js",
+      "controls": [
+        {
+          "name": "patch",
+          "label": "Square patch side",
+          "value": 2,
+          "type": "select",
+          "options": [
+            1,
+            2,
+            4
+          ]
+        },
+        {
+          "name": "temperature",
+          "label": "Contrastive temperature",
+          "value": 0.2,
+          "type": "range",
+          "min": 0.1,
+          "max": 2,
+          "step": 0.1
+        },
+        {
+          "name": "gain",
+          "label": "Shared recurrent gain",
+          "value": 0.6,
+          "type": "range",
+          "min": -1.5,
+          "max": 1.5,
+          "step": 0.1
+        },
+        {
+          "name": "steps",
+          "label": "Recurrent updates",
+          "value": 10,
+          "type": "range",
+          "min": 0,
+          "max": 30,
+          "step": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-18",
+      "title": "Actions and feedback",
+      "chapter": "chapter-18",
+      "description": "Simulate feedback stability and action reconstruction with explicit oracle noise.",
+      "module": "labs/18.js",
+      "controls": [
+        {
+          "name": "gain",
+          "label": "Proportional-control gain",
+          "value": 5,
+          "type": "range",
+          "min": 0,
+          "max": 30,
+          "step": 0.5
+        },
+        {
+          "name": "alpha",
+          "label": "Diffusion cumulative alpha",
+          "value": 0.4,
+          "type": "range",
+          "min": 0.01,
+          "max": 0.99,
+          "step": 0.01
+        },
+        {
+          "name": "error",
+          "label": "Noise-prediction error",
+          "value": 0,
+          "type": "range",
+          "min": -0.5,
+          "max": 0.5,
+          "step": 0.01
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "output": "source",
+    "root_redirect": true,
+    "linked_http_resources_passed": 89,
+    "missing_module_404": true
+  },
+  {
+    "output": "built",
+    "root_redirect": true,
+    "linked_http_resources_passed": 89,
+    "missing_module_404": true
+  }
+]

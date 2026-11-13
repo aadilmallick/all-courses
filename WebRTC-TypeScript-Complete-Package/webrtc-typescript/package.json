@@ -1,0 +1,8 @@
+{
+  "name": "webrtc-typescript-learning-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=24.22.1 <25"},
+  "scripts": {"build": "node scripts/build.mjs", "start": "node companion/server.mjs", "test": "node --test examples/core.test.ts"}
+}

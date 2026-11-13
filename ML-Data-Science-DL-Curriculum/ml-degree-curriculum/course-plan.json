@@ -1,0 +1,302 @@
+[
+  {
+    "number": 1,
+    "slug": "scientific-python",
+    "title": "The scientific learning process and Python laboratory"
+  },
+  {
+    "number": 2,
+    "slug": "algebra-notation-proofs",
+    "title": "Algebra, functions, notation, and proof habits"
+  },
+  {
+    "number": 3,
+    "slug": "vectors-matrices",
+    "title": "Vectors, matrices, geometry, and computational shapes"
+  },
+  {
+    "number": 4,
+    "slug": "spectral-linear-algebra",
+    "title": "Eigenvectors, SVD, least squares, and numerical conditioning"
+  },
+  {
+    "number": 5,
+    "slug": "single-variable-calculus",
+    "title": "Limits, derivatives, integrals, and local approximation"
+  },
+  {
+    "number": 6,
+    "slug": "multivariable-calculus",
+    "title": "Partial derivatives, Jacobians, Hessians, and matrix calculus"
+  },
+  {
+    "number": 7,
+    "slug": "probability-conditioning",
+    "title": "Probability, conditional reasoning, and Bayes theorem"
+  },
+  {
+    "number": 8,
+    "slug": "random-variables-distributions",
+    "title": "Random variables, distributions, expectation, and covariance"
+  },
+  {
+    "number": 9,
+    "slug": "statistical-inference",
+    "title": "Estimation, likelihood, Bayesian inference, and uncertainty"
+  },
+  {
+    "number": 10,
+    "slug": "information-losses",
+    "title": "Entropy, divergence, likelihood, and loss functions"
+  },
+  {
+    "number": 11,
+    "slug": "optimization",
+    "title": "Convexity, gradient descent, stochastic optimization, and Adam"
+  },
+  {
+    "number": 12,
+    "slug": "learning-theory",
+    "title": "Generalization, inductive bias, bias variance, and double descent"
+  },
+  {
+    "number": 13,
+    "slug": "splits-cross-validation",
+    "title": "Dataset splits, cross validation, leakage, and model selection"
+  },
+  {
+    "number": 14,
+    "slug": "data-preparation",
+    "title": "Data exploration, missing values, features, and scaling"
+  },
+  {
+    "number": 15,
+    "slug": "sampling-imbalance",
+    "title": "Sampling, class imbalance, weighting, and decision thresholds"
+  },
+  {
+    "number": 16,
+    "slug": "data-quality-privacy",
+    "title": "Filtering, annotation agreement, privacy, and data provenance"
+  },
+  {
+    "number": 17,
+    "slug": "linear-regression",
+    "title": "Linear regression from geometry to a tested implementation"
+  },
+  {
+    "number": 18,
+    "slug": "regularized-regression",
+    "title": "Ridge, lasso, elastic net, and regularization geometry"
+  },
+  {
+    "number": 19,
+    "slug": "logistic-softmax",
+    "title": "Logistic regression and multiclass softmax regression"
+  },
+  {
+    "number": 20,
+    "slug": "metrics-calibration",
+    "title": "Evaluation metrics, calibration, costs, and uncertainty"
+  },
+  {
+    "number": 21,
+    "slug": "nearest-neighbors",
+    "title": "Nearest neighbors, distances, and high dimensional geometry"
+  },
+  {
+    "number": 22,
+    "slug": "generative-classifiers",
+    "title": "Naive Bayes, discriminant analysis, and generative classification"
+  },
+  {
+    "number": 23,
+    "slug": "svm-kernels-gaussian-processes",
+    "title": "Margins, support vector machines, kernels, and Gaussian processes"
+  },
+  {
+    "number": 24,
+    "slug": "decision-trees",
+    "title": "Decision trees, impurity, recursive partitioning, and pruning"
+  },
+  {
+    "number": 25,
+    "slug": "bagging-random-forests",
+    "title": "Bootstrap aggregation, random forests, and ensemble variance"
+  },
+  {
+    "number": 26,
+    "slug": "boosting",
+    "title": "AdaBoost, gradient boosting, and second order tree boosting"
+  },
+  {
+    "number": 27,
+    "slug": "classical-ml-project",
+    "title": "A complete classical ML experiment and model comparison"
+  },
+  {
+    "number": 28,
+    "slug": "pca-factorization",
+    "title": "PCA, low rank approximation, and matrix factorization"
+  },
+  {
+    "number": 29,
+    "slug": "partition-clustering",
+    "title": "K means, medoids, fuzzy clustering, and objective descent"
+  },
+  {
+    "number": 30,
+    "slug": "density-hierarchical-spectral",
+    "title": "Hierarchical, density, and spectral clustering"
+  },
+  {
+    "number": 31,
+    "slug": "mixtures-latent-variables",
+    "title": "Gaussian mixtures, EM, and probabilistic topic models"
+  },
+  {
+    "number": 32,
+    "slug": "hmm-time-series",
+    "title": "Hidden Markov models, sequence inference, and time series"
+  },
+  {
+    "number": 33,
+    "slug": "neural-networks-backprop",
+    "title": "Neural networks and reverse mode differentiation"
+  },
+  {
+    "number": 34,
+    "slug": "activations-initialization",
+    "title": "Activation functions and variance preserving initialization"
+  },
+  {
+    "number": 35,
+    "slug": "dropout-normalization-residuals",
+    "title": "Dropout, normalization, residuals, and neural regularization"
+  },
+  {
+    "number": 36,
+    "slug": "pytorch-training",
+    "title": "A complete PyTorch data, training, evaluation, and checkpoint workflow"
+  },
+  {
+    "number": 37,
+    "slug": "convolutional-networks",
+    "title": "Convolutional networks, separable filters, and visual learning"
+  },
+  {
+    "number": 38,
+    "slug": "recurrent-networks",
+    "title": "Recurrent networks, LSTMs, GRUs, and packed sequences"
+  },
+  {
+    "number": 39,
+    "slug": "nlp-tasks-preprocessing",
+    "title": "NLP tasks, linguistic preprocessing, and text baselines"
+  },
+  {
+    "number": 40,
+    "slug": "tokenization-embeddings",
+    "title": "Subword tokenization, embeddings, and representation geometry"
+  },
+  {
+    "number": 41,
+    "slug": "attention-derivation",
+    "title": "Attention from weighted retrieval through full backpropagation"
+  },
+  {
+    "number": 42,
+    "slug": "masks-position-multihead",
+    "title": "Attention masks, positions, multihead attention, and GQA"
+  },
+  {
+    "number": 43,
+    "slug": "transformer-architectures",
+    "title": "Transformer blocks and encoder decoder architecture choices"
+  },
+  {
+    "number": 44,
+    "slug": "build-train-transformer",
+    "title": "Implement and train a tiny transformer with a numerical autodiff engine"
+  },
+  {
+    "number": 45,
+    "slug": "translation-decoding-evaluation",
+    "title": "Translation, generation, caching, and language model evaluation"
+  },
+  {
+    "number": 46,
+    "slug": "finetuning-hypernetworks",
+    "title": "Transfer learning, fine tuning, LoRA, and hypernetworks"
+  },
+  {
+    "number": 47,
+    "slug": "efficient-attention-memory",
+    "title": "FlashAttention, accumulation, checkpointing, and memory budgets"
+  },
+  {
+    "number": 48,
+    "slug": "distributed-deployment",
+    "title": "Distributed training, mixed precision, quantization, and deployment"
+  },
+  {
+    "number": 49,
+    "slug": "graphs-knowledge-gnn",
+    "title": "Graph theory, knowledge graphs, and graph neural networks"
+  },
+  {
+    "number": 50,
+    "slug": "self-supervised-representations",
+    "title": "Self supervised, contrastive, and multimodal representation learning"
+  },
+  {
+    "number": 51,
+    "slug": "vae-gan",
+    "title": "Autoencoders, variational inference, and adversarial generation"
+  },
+  {
+    "number": 52,
+    "slug": "continuous-diffusion",
+    "title": "Continuous diffusion, denoising objectives, and reverse sampling"
+  },
+  {
+    "number": 53,
+    "slug": "discrete-diffusion-language",
+    "title": "Discrete diffusion and masked language generation"
+  },
+  {
+    "number": 54,
+    "slug": "rl-values",
+    "title": "Reinforcement learning, Bellman equations, and value based methods"
+  },
+  {
+    "number": 55,
+    "slug": "rl-policy-gradients",
+    "title": "Policy gradients, actor critic, advantage estimation, and PPO"
+  },
+  {
+    "number": 56,
+    "slug": "reinforcement-finetuning",
+    "title": "Reward modeling, preference optimization, and reinforcement fine tuning"
+  },
+  {
+    "number": 57,
+    "slug": "recommendation-anomaly-semisupervised",
+    "title": "Recommendation, anomaly detection, and semi supervised learning"
+  },
+  {
+    "number": 58,
+    "slug": "interpretability-causality-fairness",
+    "title": "Interpretability, causal reasoning, fairness, and reliable decisions"
+  },
+  {
+    "number": 59,
+    "slug": "capstone",
+    "title": "The integrated undergraduate ML capstone"
+  },
+  {
+    "number": 60,
+    "slug": "research-synthesis",
+    "title": "Research literacy, reproducibility, and a degree scale study plan"
+  }
+]

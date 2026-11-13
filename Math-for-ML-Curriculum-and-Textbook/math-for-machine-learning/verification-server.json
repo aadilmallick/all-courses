@@ -1,0 +1,59 @@
+{
+  "status": "passed",
+  "responses": [
+    {
+      "path": "/companion/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 986
+    },
+    {
+      "path": "/companion/app.mjs",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 745
+    },
+    {
+      "path": "/companion/core.mjs",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 3891
+    },
+    {
+      "path": "/companion/experiments.mjs",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 13097
+    },
+    {
+      "path": "/companion/style.css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "bytes": 2012
+    },
+    {
+      "path": "/assets/projection.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 69661
+    },
+    {
+      "path": "/book.md",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 287165
+    }
+  ],
+  "failure_paths": 2,
+  "scope": "Real localhost HTTP serving and MIME types; not browser execution.",
+  "source_hashes": {
+    "companion/index.html": "afc47be5091c9b1552df7a338a3b4343b9a9bd435e249957d006b3ad036120d3",
+    "companion/app.mjs": "1f054966267d0efd7efa6b034eadbd38e694a073baa4822633a3a0581d8894d9",
+    "companion/core.mjs": "82d99a2a5d8957d56c45b30cdd000598fdbac8470164994a7a0acbf46947a479",
+    "companion/experiments.mjs": "6128f41f7268d7edb4f2df031a94091b084060d82abc47fa1e5d97b30a04d574",
+    "companion/style.css": "0feda77c85e13be3e9b1fb71b792d815df7323cb97fa62bb39dbec7dc759fe57",
+    "companion/server.mjs": "d46490633dbd1e736aae2f85e3e4256feb97917509e04fda3df14d2f4799679d",
+    "book.md": "6d7a799f67a45845dc2f84dcb538842cd04b660fe3ad72d0153401a850a9a34f"
+  },
+  "verification_date": "2026-11-12"
+}

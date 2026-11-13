@@ -1,0 +1,318 @@
+{
+  "lesson_count": 60,
+  "mapped_primer_urls": 47,
+  "core_words": 93969,
+  "python_files_syntax_checked": 104,
+  "local_links_checked": 442,
+  "command_script_paths_checked": 65,
+  "math_delimiters_checked": true,
+  "python_blocks_syntax_checked": 611,
+  "snippet_syntax_notes": [],
+  "problems": [],
+  "length_inventory": [
+    {
+      "file": "lessons/01-scientific-python.md",
+      "whitespace_words": 703,
+      "utf8_bytes": 4691
+    },
+    {
+      "file": "lessons/02-algebra-notation-proofs.md",
+      "whitespace_words": 647,
+      "utf8_bytes": 4531
+    },
+    {
+      "file": "lessons/03-vectors-matrices.md",
+      "whitespace_words": 2020,
+      "utf8_bytes": 14019
+    },
+    {
+      "file": "lessons/04-spectral-linear-algebra.md",
+      "whitespace_words": 1617,
+      "utf8_bytes": 12016
+    },
+    {
+      "file": "lessons/05-single-variable-calculus.md",
+      "whitespace_words": 1286,
+      "utf8_bytes": 9271
+    },
+    {
+      "file": "lessons/06-multivariable-calculus.md",
+      "whitespace_words": 545,
+      "utf8_bytes": 4446
+    },
+    {
+      "file": "lessons/07-probability-conditioning.md",
+      "whitespace_words": 1273,
+      "utf8_bytes": 9036
+    },
+    {
+      "file": "lessons/08-random-variables-distributions.md",
+      "whitespace_words": 641,
+      "utf8_bytes": 4831
+    },
+    {
+      "file": "lessons/09-statistical-inference.md",
+      "whitespace_words": 715,
+      "utf8_bytes": 5439
+    },
+    {
+      "file": "lessons/10-information-losses.md",
+      "whitespace_words": 1181,
+      "utf8_bytes": 8779
+    },
+    {
+      "file": "lessons/11-optimization.md",
+      "whitespace_words": 681,
+      "utf8_bytes": 5282
+    },
+    {
+      "file": "lessons/12-learning-theory.md",
+      "whitespace_words": 673,
+      "utf8_bytes": 5049
+    },
+    {
+      "file": "lessons/13-splits-cross-validation.md",
+      "whitespace_words": 546,
+      "utf8_bytes": 4291
+    },
+    {
+      "file": "lessons/14-data-preparation.md",
+      "whitespace_words": 480,
+      "utf8_bytes": 3611
+    },
+    {
+      "file": "lessons/15-sampling-imbalance.md",
+      "whitespace_words": 499,
+      "utf8_bytes": 3823
+    },
+    {
+      "file": "lessons/16-data-quality-privacy.md",
+      "whitespace_words": 557,
+      "utf8_bytes": 4149
+    },
+    {
+      "file": "lessons/17-linear-regression.md",
+      "whitespace_words": 792,
+      "utf8_bytes": 6309
+    },
+    {
+      "file": "lessons/18-regularized-regression.md",
+      "whitespace_words": 792,
+      "utf8_bytes": 6310
+    },
+    {
+      "file": "lessons/19-logistic-softmax.md",
+      "whitespace_words": 909,
+      "utf8_bytes": 7633
+    },
+    {
+      "file": "lessons/20-metrics-calibration.md",
+      "whitespace_words": 553,
+      "utf8_bytes": 4117
+    },
+    {
+      "file": "lessons/21-nearest-neighbors.md",
+      "whitespace_words": 583,
+      "utf8_bytes": 4480
+    },
+    {
+      "file": "lessons/22-generative-classifiers.md",
+      "whitespace_words": 805,
+      "utf8_bytes": 6850
+    },
+    {
+      "file": "lessons/23-svm-kernels-gaussian-processes.md",
+      "whitespace_words": 900,
+      "utf8_bytes": 7830
+    },
+    {
+      "file": "lessons/24-decision-trees.md",
+      "whitespace_words": 873,
+      "utf8_bytes": 7474
+    },
+    {
+      "file": "lessons/25-bagging-random-forests.md",
+      "whitespace_words": 791,
+      "utf8_bytes": 7750
+    },
+    {
+      "file": "lessons/26-boosting.md",
+      "whitespace_words": 901,
+      "utf8_bytes": 8589
+    },
+    {
+      "file": "lessons/27-classical-ml-project.md",
+      "whitespace_words": 591,
+      "utf8_bytes": 4050
+    },
+    {
+      "file": "lessons/28-pca-factorization.md",
+      "whitespace_words": 601,
+      "utf8_bytes": 4903
+    },
+    {
+      "file": "lessons/29-partition-clustering.md",
+      "whitespace_words": 806,
+      "utf8_bytes": 7608
+    },
+    {
+      "file": "lessons/30-density-hierarchical-spectral.md",
+      "whitespace_words": 577,
+      "utf8_bytes": 4967
+    },
+    {
+      "file": "lessons/31-mixtures-latent-variables.md",
+      "whitespace_words": 948,
+      "utf8_bytes": 8442
+    },
+    {
+      "file": "lessons/32-hmm-time-series.md",
+      "whitespace_words": 890,
+      "utf8_bytes": 8737
+    },
+    {
+      "file": "lessons/33-neural-networks-backprop.md",
+      "whitespace_words": 5952,
+      "utf8_bytes": 43084
+    },
+    {
+      "file": "lessons/34-activations-initialization.md",
+      "whitespace_words": 479,
+      "utf8_bytes": 3838
+    },
+    {
+      "file": "lessons/35-dropout-normalization-residuals.md",
+      "whitespace_words": 945,
+      "utf8_bytes": 7698
+    },
+    {
+      "file": "lessons/36-pytorch-training.md",
+      "whitespace_words": 5293,
+      "utf8_bytes": 40913
+    },
+    {
+      "file": "lessons/37-convolutional-networks.md",
+      "whitespace_words": 5054,
+      "utf8_bytes": 37679
+    },
+    {
+      "file": "lessons/38-recurrent-networks.md",
+      "whitespace_words": 2461,
+      "utf8_bytes": 18117
+    },
+    {
+      "file": "lessons/39-nlp-tasks-preprocessing.md",
+      "whitespace_words": 525,
+      "utf8_bytes": 4026
+    },
+    {
+      "file": "lessons/40-tokenization-embeddings.md",
+      "whitespace_words": 2401,
+      "utf8_bytes": 17230
+    },
+    {
+      "file": "lessons/41-attention-derivation.md",
+      "whitespace_words": 2889,
+      "utf8_bytes": 21021
+    },
+    {
+      "file": "lessons/42-masks-position-multihead.md",
+      "whitespace_words": 3334,
+      "utf8_bytes": 23761
+    },
+    {
+      "file": "lessons/43-transformer-architectures.md",
+      "whitespace_words": 2418,
+      "utf8_bytes": 18395
+    },
+    {
+      "file": "lessons/44-build-train-transformer.md",
+      "whitespace_words": 3499,
+      "utf8_bytes": 25009
+    },
+    {
+      "file": "lessons/45-translation-decoding-evaluation.md",
+      "whitespace_words": 2144,
+      "utf8_bytes": 15148
+    },
+    {
+      "file": "lessons/46-finetuning-hypernetworks.md",
+      "whitespace_words": 2991,
+      "utf8_bytes": 21810
+    },
+    {
+      "file": "lessons/47-efficient-attention-memory.md",
+      "whitespace_words": 2740,
+      "utf8_bytes": 20391
+    },
+    {
+      "file": "lessons/48-distributed-deployment.md",
+      "whitespace_words": 5953,
+      "utf8_bytes": 47145
+    },
+    {
+      "file": "lessons/49-graphs-knowledge-gnn.md",
+      "whitespace_words": 620,
+      "utf8_bytes": 5350
+    },
+    {
+      "file": "lessons/50-self-supervised-representations.md",
+      "whitespace_words": 1365,
+      "utf8_bytes": 9791
+    },
+    {
+      "file": "lessons/51-vae-gan.md",
+      "whitespace_words": 5060,
+      "utf8_bytes": 39429
+    },
+    {
+      "file": "lessons/52-continuous-diffusion.md",
+      "whitespace_words": 727,
+      "utf8_bytes": 6700
+    },
+    {
+      "file": "lessons/53-discrete-diffusion-language.md",
+      "whitespace_words": 738,
+      "utf8_bytes": 6644
+    },
+    {
+      "file": "lessons/54-rl-values.md",
+      "whitespace_words": 2518,
+      "utf8_bytes": 18315
+    },
+    {
+      "file": "lessons/55-rl-policy-gradients.md",
+      "whitespace_words": 2543,
+      "utf8_bytes": 19091
+    },
+    {
+      "file": "lessons/56-reinforcement-finetuning.md",
+      "whitespace_words": 2494,
+      "utf8_bytes": 19291
+    },
+    {
+      "file": "lessons/57-recommendation-anomaly-semisupervised.md",
+      "whitespace_words": 568,
+      "utf8_bytes": 5392
+    },
+    {
+      "file": "lessons/58-interpretability-causality-fairness.md",
+      "whitespace_words": 560,
+      "utf8_bytes": 4291
+    },
+    {
+      "file": "lessons/59-capstone.md",
+      "whitespace_words": 707,
+      "utf8_bytes": 5105
+    },
+    {
+      "file": "lessons/60-research-synthesis.md",
+      "whitespace_words": 615,
+      "utf8_bytes": 4343
+    }
+  ],
+  "model_token_count_verified": false,
+  "whitespace_proxy_target": 5000,
+  "lessons_below_whitespace_proxy": 55,
+  "length_method": "Python str.split whitespace words; not model tokens"
+}

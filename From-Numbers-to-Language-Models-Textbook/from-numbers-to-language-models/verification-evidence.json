@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-12",
+  "timezone": "America/New_York",
+  "available_checks": [
+    {
+      "name": "python_examples",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "unit_tests",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "math_audits",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "javascript_structure",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "javascript_numerics",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "interaction_harness",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "source_output_consistency",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "static_package",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "worked_arithmetic",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "name": "cross_runtime",
+      "passed": true,
+      "exit_code": 0
+    }
+  ],
+  "source_archive_baseline": {
+    "archive_sha256": "6720c9bb84baa98df6ce7e79076dfbba94c9b8d4b5540f31ca7a26169999b5d3",
+    "source_matches_saved_archive": true
+  },
+  "browser": {
+    "status": "blocked",
+    "reason": "Required local process-singleton socket denied (EPERM)",
+    "browser_checks_completed": false
+  },
+  "worked_arithmetic": 33,
+  "cross_runtime_fixtures": 36,
+  "joint_control_corners": 200,
+  "http_outputs": [
+    {
+      "output": "source",
+      "root_redirect": true,
+      "linked_http_resources_passed": 89,
+      "missing_module_404": true
+    },
+    {
+      "output": "built",
+      "root_redirect": true,
+      "linked_http_resources_passed": 89,
+      "missing_module_404": true
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "title": "WebRTC in TypeScript: From First Packets to Production",
+  "subtitle": "A guided textbook from browser fundamentals to expert real-time system engineering",
+  "audience": "Developers with basic programming knowledge; prerequisites introduced locally",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "A real-time system you can reason about",
+      "path": "chapters/01-foundations.md",
+      "part": "I. Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "local-peer"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Capture, permissions, and the lifetime of media",
+      "path": "chapters/02-capture-and-lifecycle.md",
+      "part": "I. Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "capture"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Two peers, one negotiated conversation",
+      "path": "chapters/03-peer-connections-and-sdp.md",
+      "part": "II. Negotiation and connectivity",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "local-peer"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Signaling that survives real users",
+      "path": "chapters/04-signaling-and-perfect-negotiation.md",
+      "part": "II. Negotiation and connectivity",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "two-tab"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Reachability, relays, and recovery",
+      "path": "chapters/05-ice-stun-turn-and-recovery.md",
+      "part": "II. Negotiation and connectivity",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "ice-restart"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Control media without breaking the session",
+      "path": "chapters/06-tracks-codecs-and-media-control.md",
+      "part": "III. Media and application data",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "media-control"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Data channels and bounded application protocols",
+      "path": "chapters/07-data-channels-and-protocols.md",
+      "part": "III. Media and application data",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "transfer"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Turn statistics into useful evidence",
+      "path": "chapters/08-stats-performance-and-debugging.md",
+      "part": "IV. Evidence and scale",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "stats"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "From two people to a room",
+      "path": "chapters/09-group-calls-and-sfu-architecture.md",
+      "part": "IV. Evidence and scale",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "topology"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Production engineering and the path to expertise",
+      "path": "chapters/10-production-security-and-expert-practice.md",
+      "part": "V. Expert engineering",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "lifecycle"
+      ]
+    }
+  ],
+  "assets": [],
+  "source_listings": [
+    {
+      "id": "source-core",
+      "title": "Unit-aware calculations",
+      "path": "companion/src/core.ts",
+      "language": "ts"
+    },
+    {
+      "id": "source-negotiation",
+      "title": "Negotiation controller",
+      "path": "companion/src/peer.ts",
+      "language": "ts"
+    },
+    {
+      "id": "source-transfer",
+      "title": "Bounded transfer helpers",
+      "path": "companion/src/transfer.ts",
+      "language": "ts"
+    },
+    {
+      "id": "source-app",
+      "title": "Complete browser experiment controller",
+      "path": "companion/src/app.ts",
+      "language": "ts"
+    },
+    {
+      "id": "source-html",
+      "title": "Browser interface",
+      "path": "companion/public/index.html",
+      "language": "html"
+    },
+    {
+      "id": "source-css",
+      "title": "Responsive presentation",
+      "path": "companion/public/style.css",
+      "language": "css"
+    },
+    {
+      "id": "source-server",
+      "title": "Local static server",
+      "path": "companion/server.mjs",
+      "language": "js"
+    },
+    {
+      "id": "source-build",
+      "title": "Dependency-free TypeScript build",
+      "path": "scripts/build.mjs",
+      "language": "js"
+    },
+    {
+      "id": "source-turn",
+      "title": "Backend credential helper",
+      "path": "examples/turn-credentials.mjs",
+      "language": "js"
+    },
+    {
+      "id": "source-transform",
+      "title": "Optional pass-through worker",
+      "path": "examples/passthrough-worker.js",
+      "language": "js"
+    },
+    {
+      "id": "source-tests",
+      "title": "Executed pure and mocked contracts",
+      "path": "examples/core.test.ts",
+      "language": "ts"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

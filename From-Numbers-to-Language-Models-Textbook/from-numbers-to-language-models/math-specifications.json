@@ -1,0 +1,380 @@
+[
+  {
+    "lesson": 1,
+    "title": "Tensors, Python, and the meaning of a shape",
+    "expression": "(3*x+4)**2",
+    "point": 0.5,
+    "meaning": "Squared size of one projected feature as its first input coordinate changes."
+  },
+  {
+    "lesson": 2,
+    "title": "Linear algebra for representations and projections",
+    "expression": "(x-2)**2+1",
+    "point": 0.5,
+    "meaning": "Squared distance along one singular direction, plus irreducible error."
+  },
+  {
+    "lesson": 3,
+    "title": "Derivatives, Jacobians, and the chain rule",
+    "expression": "(tanh(1.4*x-0.1)+0.2)**2/2",
+    "point": 0.3,
+    "meaning": "Loss of the one-neuron model as its weight changes; the bias is held fixed."
+  },
+  {
+    "lesson": 4,
+    "title": "Probability, conditioning, and statistical estimation",
+    "expression": "log(1+exp(x))-0.75*x",
+    "point": 0.7,
+    "meaning": "Average Bernoulli negative log-likelihood for three successes in four trials."
+  },
+  {
+    "lesson": 5,
+    "title": "Entropy, KL divergence, softmax, and cross-entropy",
+    "expression": "log(1+exp(x))-0.7*x",
+    "point": 0.2,
+    "meaning": "Binary cross-entropy with a soft target of 0.7; its derivative is sigmoid minus target."
+  },
+  {
+    "lesson": 6,
+    "title": "Neural networks, backpropagation, and optimization",
+    "expression": "(2*x-1)**2/2",
+    "point": 0.0,
+    "meaning": "A quadratic training loss whose curvature gives an exact learning-rate stability bound."
+  },
+  {
+    "lesson": 7,
+    "title": "Language modeling from counts to autoregression",
+    "expression": "log(1+exp(x))-0.8*x",
+    "point": 0.0,
+    "meaning": "A row of a learned transition model: its binary next-token loss."
+  },
+  {
+    "lesson": 8,
+    "title": "Tokenization, byte pairs, and text boundaries",
+    "expression": "(x-3)**2+2*x",
+    "point": 2.0,
+    "meaning": "A deliberately simplified smooth tradeoff between sequence compression and vocabulary cost; real BPE is discrete."
+  },
+  {
+    "lesson": 9,
+    "title": "Embeddings, distributional learning, and similarity",
+    "expression": "log(exp(x)+exp(-x)+1)-x",
+    "point": 0.2,
+    "meaning": "Contrastive loss for a query coordinate and three candidates with scores x, -x, and zero."
+  },
+  {
+    "lesson": 10,
+    "title": "Recurrent networks, sequence-to-sequence, and alignment",
+    "expression": "tanh(0.5*tanh(x))",
+    "point": 0.3,
+    "meaning": "Two recurrent transitions along one scalar path; their derivatives multiply."
+  },
+  {
+    "lesson": 11,
+    "title": "Attention as differentiable weighted retrieval",
+    "expression": "2+8/(1+exp(-x))",
+    "point": 1.0,
+    "meaning": "An exact two-slot attention output with values 2 and 10 and relative score x."
+  },
+  {
+    "lesson": 12,
+    "title": "Queries, keys, values, and scaled dot-product attention",
+    "expression": "log(exp(x/sqrt(2))+1)",
+    "point": 0.7,
+    "meaning": "The log-normalizer of a scaled two-key attention row, exposing its sensitivity."
+  },
+  {
+    "lesson": 13,
+    "title": "Backpropagating through attention by hand",
+    "expression": "(2+8/(1+exp(-x)))**2/2",
+    "point": 0.5,
+    "meaning": "A scalar squared loss through a two-slot attention read, requiring both outer and softmax derivatives."
+  },
+  {
+    "lesson": 14,
+    "title": "Causal masks, padding, packed sequences, and batches",
+    "expression": "log(1+exp(x))-x",
+    "point": 0.4,
+    "meaning": "A supervised binary target after unwanted positions have been excluded; masks are held fixed."
+  },
+  {
+    "lesson": 15,
+    "title": "Multi-head, multi-query, and grouped-query attention",
+    "expression": "log(exp(x/sqrt(2))+exp(-x/sqrt(2)))",
+    "point": 0.3,
+    "meaning": "One head log-normalizer; separate heads normalize separately before recombination."
+  },
+  {
+    "lesson": 16,
+    "title": "Position, sinusoidal features, relative biases, and RoPE",
+    "expression": "cos(0.2*x)",
+    "point": 3.0,
+    "meaning": "An exact RoPE dot product for unit content vectors as relative position varies continuously for analysis."
+  },
+  {
+    "lesson": 17,
+    "title": "Residual streams, normalization, and feed-forward blocks",
+    "expression": "x+(tanh(x))**2",
+    "point": 0.3,
+    "meaning": "A scalar residual map with a nonlinear branch; its derivative includes an identity contribution."
+  },
+  {
+    "lesson": 18,
+    "title": "Encoders, decoders, and cross-attention objectives",
+    "expression": "log(1+exp(x))-0.6*x",
+    "point": 0.1,
+    "meaning": "One target-token conditional loss; visibility determines which evidence may set its logit."
+  },
+  {
+    "lesson": 19,
+    "title": "Build a complete tiny GPT from tensor operations",
+    "expression": "log(1+exp(tanh(x)))-tanh(x)",
+    "point": 0.2,
+    "meaning": "A tiny composed language-model logit loss, demonstrating gradients through nonlinear hidden features."
+  },
+  {
+    "lesson": 20,
+    "title": "Train, validate, checkpoint, and sample a tiny language model",
+    "expression": "(x-1)**2/2",
+    "point": 0.0,
+    "meaning": "A training-loss slice used to analyze learning-rate choices independently of the full nonconvex network."
+  },
+  {
+    "lesson": 21,
+    "title": "Pretraining data, scaling, distributed execution, and memory",
+    "expression": "(x-1)**2+2*(2*x-1)**2",
+    "point": 0.2,
+    "meaning": "A summed loss with unequal contributions, illustrating why reduction weights matter."
+  },
+  {
+    "lesson": 22,
+    "title": "Decoding, temperature, KV caches, and serving",
+    "expression": "log(1+exp(x/0.7))",
+    "point": 0.3,
+    "meaning": "A temperature-scaled binary log-normalizer; temperature changes both probabilities and sensitivity."
+  },
+  {
+    "lesson": 23,
+    "title": "Exact online attention, sparse patterns, and linear alternatives",
+    "expression": "log(exp(x)+exp(1)+exp(-1))",
+    "point": 0.4,
+    "meaning": "A softmax log-normalizer whose exact value is independent of the tiling order in real arithmetic."
+  },
+  {
+    "lesson": 24,
+    "title": "Long-context modeling and position extrapolation",
+    "expression": "cos(0.05*x)+sin(0.2*x)",
+    "point": 5.0,
+    "meaning": "A two-frequency positional score slice; changing the frequency schedule changes its geometry."
+  },
+  {
+    "lesson": 25,
+    "title": "Evaluation, calibration, and mechanistic investigation",
+    "expression": "0.7*(x-1)**2+0.3*x**2",
+    "point": 0.4,
+    "meaning": "Expected Brier score when true binary success probability is 0.7."
+  },
+  {
+    "lesson": 26,
+    "title": "Instruction tuning and supervised response losses",
+    "expression": "log(1+exp(x))-x",
+    "point": 0.0,
+    "meaning": "A single included assistant-token loss; excluded targets contribute no direct objective term."
+  },
+  {
+    "lesson": 27,
+    "title": "Parameter-efficient tuning, adapters, and LoRA derivatives",
+    "expression": "(0.3+0.5*x*0.7-1)**2/2",
+    "point": 0.2,
+    "meaning": "A LoRA factor coordinate loss with the other factor and base held fixed."
+  },
+  {
+    "lesson": 28,
+    "title": "Quantization, numerical error, and QLoRA",
+    "expression": "(x-0.4)**2",
+    "point": 0.31,
+    "meaning": "Smooth reconstruction-error slice around a fixed quantization bin; bin changes are discrete."
+  },
+  {
+    "lesson": 29,
+    "title": "Mixture-of-experts routing, capacity, and balancing",
+    "expression": "(1/(1+exp(-x)))*(x+1)",
+    "point": 0.2,
+    "meaning": "A two-expert original-probability weighted top-one branch within a fixed routing region."
+  },
+  {
+    "lesson": 30,
+    "title": "Knowledge distillation, temperature, and prefix distributions",
+    "expression": "4*(log(1+exp(x/2))-0.8*x/2)",
+    "point": 0.2,
+    "meaning": "Temperature-two binary distillation loss up to a teacher-only constant."
+  },
+  {
+    "lesson": 31,
+    "title": "Bandits, policies, returns, and Markov decision processes",
+    "expression": "0.2+(0.8-0.2)/(1+exp(-x))",
+    "point": 0.0,
+    "meaning": "Expected bandit reward for a sigmoid policy choosing between arms of means 0.2 and 0.8."
+  },
+  {
+    "lesson": 32,
+    "title": "Bellman equations, policy evaluation, and dynamic programming",
+    "expression": "(x-(1+0.9*2))**2/2",
+    "point": 0.0,
+    "meaning": "A squared Bellman-target regression loss with the bootstrap target held fixed."
+  },
+  {
+    "lesson": 33,
+    "title": "Temporal differences, Q-learning, and exploration",
+    "expression": "(x-0.9)**2/2",
+    "point": 0.2,
+    "meaning": "One tabular action-value regression step toward a fixed sampled TD target."
+  },
+  {
+    "lesson": 34,
+    "title": "Policy gradients and REINFORCE from the likelihood ratio",
+    "expression": "0.2+0.6/(1+exp(-x))",
+    "point": 0.3,
+    "meaning": "Exact expected bandit return; maximizing this function is the policy-gradient objective."
+  },
+  {
+    "lesson": 35,
+    "title": "Actor-critic learning and generalized advantage estimation",
+    "expression": "(x-0.81)**2/2",
+    "point": 0.2,
+    "meaning": "A critic regression loss toward the start-state return of a three-step terminal episode."
+  },
+  {
+    "lesson": 36,
+    "title": "PPO, importance ratios, clipping, and KL monitoring",
+    "expression": "2*exp(x)",
+    "point": 0.0,
+    "meaning": "The unclipped positive-advantage PPO branch in log-ratio coordinates; outside its region use the piecewise objective."
+  },
+  {
+    "lesson": 37,
+    "title": "Reward modeling, RLHF, and constrained policy optimization",
+    "expression": "log(1+exp(-x))",
+    "point": 0.2,
+    "meaning": "Pairwise reward-model negative log-likelihood as the chosen-minus-rejected score gap changes."
+  },
+  {
+    "lesson": 38,
+    "title": "DPO and the derivation from rewards to policy ratios",
+    "expression": "log(1+exp(-0.4*x))",
+    "point": -0.4,
+    "meaning": "The exact scalar DPO loss for beta 0.4 and reference-adjusted response log-probability gap x."
+  },
+  {
+    "lesson": 39,
+    "title": "GRPO, group baselines, and verifiable rewards",
+    "expression": "exp(x)",
+    "point": 0.0,
+    "meaning": "An importance-ratio slice before clipping, with old log-probability fixed and a group advantage held constant."
+  },
+  {
+    "lesson": 40,
+    "title": "Prompting, structured output, search, and test-time computation",
+    "expression": "1-(1-0.3)**x",
+    "point": 3.0,
+    "meaning": "Independent-candidate at-least-one success probability, extended continuously only for sensitivity analysis."
+  },
+  {
+    "lesson": 41,
+    "title": "Context engineering, persistent memory, and information budgets",
+    "expression": "10*(1-exp(-x/5))-0.2*x",
+    "point": 4.0,
+    "meaning": "A smooth illustrative utility-versus-context-cost curve; actual item selection is discrete."
+  },
+  {
+    "lesson": 42,
+    "title": "Dense retrieval, contrastive encoders, and vector search",
+    "expression": "log(exp(x/0.5)+exp(-x/0.5)+1)-x/0.5",
+    "point": 0.2,
+    "meaning": "One contrastive retrieval row with a positive and two negatives at temperature 0.5."
+  },
+  {
+    "lesson": 43,
+    "title": "RAG ingestion, BM25, hybrid fusion, and reranking",
+    "expression": "2.2*x/(x+1.2)",
+    "point": 2.0,
+    "meaning": "BM25 term-frequency saturation with a fixed length-normalization factor of one."
+  },
+  {
+    "lesson": 44,
+    "title": "Advanced RAG, graph retrieval, and failure diagnosis",
+    "expression": "-log(0.2+0.6/(1+exp(-x)))",
+    "point": 0.5,
+    "meaning": "Negative log marginal answer probability when a sigmoid retriever mixes two fixed document-conditioned answers."
+  },
+  {
+    "lesson": 45,
+    "title": "Tools, bounded agent loops, graphs, and external state",
+    "expression": "1-(1-0.6)**x",
+    "point": 2.0,
+    "meaning": "Illustrative independent retry success probability; real retries can be correlated and side-effectful."
+  },
+  {
+    "lesson": 46,
+    "title": "LLM judges, ranking, agreement, and controlled experiments",
+    "expression": "log(1+exp(-x))",
+    "point": 0.0,
+    "meaning": "Pairwise judge-ranking loss for one preferred response; a statistical model of ratings, not proof of truth."
+  },
+  {
+    "lesson": 47,
+    "title": "Vision transformers, image patches, and CLIP",
+    "expression": "log(1+exp(-x/0.2))",
+    "point": 0.3,
+    "meaning": "One two-candidate image-text contrastive loss at temperature 0.2."
+  },
+  {
+    "lesson": 48,
+    "title": "Generative vision-language models and cross-modal fusion",
+    "expression": "log(1+exp(tanh(0.5*x)))-tanh(0.5*x)",
+    "point": 0.4,
+    "meaning": "An answer-token loss through a scalar visual connector, showing how supervision reaches the connector."
+  },
+  {
+    "lesson": 49,
+    "title": "Recurrent depth, recursive transformers, and latent computation",
+    "expression": "tanh(x*tanh(0.2*x+0.1)+0.1)**2",
+    "point": 0.6,
+    "meaning": "A two-step shared-weight recurrent loss, with both parameter-use paths differentiated."
+  },
+  {
+    "lesson": 50,
+    "title": "Recursive improvement, self-training, self-play, and evidence",
+    "expression": "sqrt(0.6*0.4/x)",
+    "point": 100.0,
+    "meaning": "Binomial standard-error approximation as independent evaluation sample count changes; x must be positive."
+  },
+  {
+    "lesson": 51,
+    "title": "Physical AI, partial observability, imitation, and control",
+    "expression": "(1-0.1*x)**2",
+    "point": 5.0,
+    "meaning": "Squared one-step state contraction factor as proportional gain changes in the specified scalar dynamics."
+  },
+  {
+    "lesson": 52,
+    "title": "Action diffusion, flow matching, and learned world models",
+    "expression": "(x-0.8)**2",
+    "point": 0.1,
+    "meaning": "A single noise-prediction coordinate squared loss with a fixed sampled target."
+  },
+  {
+    "lesson": 53,
+    "title": "Capstone: train, adapt, retrieve, and verify one local system",
+    "expression": "log(1+exp(x))-0.8*x",
+    "point": 0.0,
+    "meaning": "A response-format learning loss slice; retrieval and verification remain separate deterministic components."
+  },
+  {
+    "lesson": 54,
+    "title": "Read papers, reproduce claims, and design the next experiment",
+    "expression": "x-0.7*(x*log(x/0.4)+(1-x)*log((1-x)/0.6))",
+    "point": 0.5,
+    "meaning": "Two-action KL-regularized reward objective; domain is strictly between zero and one."
+  }
+]

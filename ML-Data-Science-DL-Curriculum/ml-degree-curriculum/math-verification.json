@@ -1,0 +1,174 @@
+{
+  "sympy_version": "1.14.0",
+  "checks": [
+    {
+      "name": "sigmoid derivative",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "tanh derivative",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "quadratic chain rule",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "binary logit loss gradient",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "binary logit loss curvature",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 0,0",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 0,1",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 0,2",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 1,0",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 1,1",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 1,2",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 2,0",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 2,1",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax Jacobian 2,2",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "softmax cross entropy gradient",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "least squares slope gradient",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "least squares intercept gradient",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "ridge penalty gradient",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "lasso positive branch stationarity",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "lasso negative branch stationarity",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "cross entropy minus entropy equals KL",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "rank one quadratic form",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "degree two polynomial kernel feature map",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "AdaBoost optimal weight",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "second order boosting leaf optimum",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "diffusion forward variance recursion",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "Gaussian forward posterior variance",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "noise to conditional score conversion",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "gradient descent quadratic contraction",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "two state policy gradient",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "cost threshold equality",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "stationary AR1 variance",
+      "passed": true,
+      "residual": "0"
+    },
+    {
+      "name": "inverted dropout variance",
+      "passed": true,
+      "residual": "0"
+    }
+  ],
+  "passed": 33,
+  "total": 33,
+  "all_passed": true,
+  "scope": "Selected scalar identities and low dimensional derivative formulas; not every equation or theorem."
+}

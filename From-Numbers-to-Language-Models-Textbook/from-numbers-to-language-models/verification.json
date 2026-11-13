@@ -1,0 +1,175 @@
+{
+  "edition": "2026-11-12",
+  "main_chapters": 18,
+  "appendices": 4,
+  "source_lessons_covered": 54,
+  "outside_code_words": 50415,
+  "narrative_word_proxy": 44416,
+  "chapter_counts": [
+    {
+      "id": "chapter-01",
+      "outside_code_words": 2526,
+      "narrative_word_proxy": 2264
+    },
+    {
+      "id": "chapter-02",
+      "outside_code_words": 2516,
+      "narrative_word_proxy": 2194
+    },
+    {
+      "id": "chapter-03",
+      "outside_code_words": 2521,
+      "narrative_word_proxy": 2187
+    },
+    {
+      "id": "chapter-04",
+      "outside_code_words": 2527,
+      "narrative_word_proxy": 2254
+    },
+    {
+      "id": "chapter-05",
+      "outside_code_words": 2540,
+      "narrative_word_proxy": 2192
+    },
+    {
+      "id": "chapter-06",
+      "outside_code_words": 2820,
+      "narrative_word_proxy": 2504
+    },
+    {
+      "id": "chapter-07",
+      "outside_code_words": 2552,
+      "narrative_word_proxy": 2301
+    },
+    {
+      "id": "chapter-08",
+      "outside_code_words": 2828,
+      "narrative_word_proxy": 2553
+    },
+    {
+      "id": "chapter-09",
+      "outside_code_words": 2697,
+      "narrative_word_proxy": 2411
+    },
+    {
+      "id": "chapter-10",
+      "outside_code_words": 2508,
+      "narrative_word_proxy": 2294
+    },
+    {
+      "id": "chapter-11",
+      "outside_code_words": 2512,
+      "narrative_word_proxy": 2222
+    },
+    {
+      "id": "chapter-12",
+      "outside_code_words": 2506,
+      "narrative_word_proxy": 2223
+    },
+    {
+      "id": "chapter-13",
+      "outside_code_words": 2543,
+      "narrative_word_proxy": 2263
+    },
+    {
+      "id": "chapter-14",
+      "outside_code_words": 3229,
+      "narrative_word_proxy": 2893
+    },
+    {
+      "id": "chapter-15",
+      "outside_code_words": 2506,
+      "narrative_word_proxy": 2336
+    },
+    {
+      "id": "chapter-16",
+      "outside_code_words": 2521,
+      "narrative_word_proxy": 2328
+    },
+    {
+      "id": "chapter-17",
+      "outside_code_words": 2520,
+      "narrative_word_proxy": 2246
+    },
+    {
+      "id": "chapter-18",
+      "outside_code_words": 2548,
+      "narrative_word_proxy": 2296
+    },
+    {
+      "id": "appendix-notation",
+      "outside_code_words": 619,
+      "narrative_word_proxy": 286
+    },
+    {
+      "id": "appendix-implementation",
+      "outside_code_words": 1330,
+      "narrative_word_proxy": 1115
+    },
+    {
+      "id": "appendix-projects",
+      "outside_code_words": 880,
+      "narrative_word_proxy": 751
+    },
+    {
+      "id": "appendix-references",
+      "outside_code_words": 666,
+      "narrative_word_proxy": 303
+    }
+  ],
+  "checks": {
+    "textbook_structural_validator": "pass, final mode",
+    "python_examples": "56 passed",
+    "python_unit_tests": "10 passed",
+    "retained_scalar_derivative_audits": "54 passed; maximum absolute error 3.61126e-10",
+    "browser_numerical_engine": "18 defaults, individual control extremes, known results and derivatives passed",
+    "dom_test_double": "18 mounts, recalculations, resets, numeric error recovery, disposal passed",
+    "static_html_mathml": {
+      "expressions": 1084,
+      "raw_tex_fallbacks": 0
+    },
+    "local_http": {
+      "source_linked_resources": 89,
+      "built_linked_resources": 89,
+      "root_redirect": true,
+      "missing_module_404": true
+    },
+    "python_listings_match_source": 57,
+    "recorded_outputs_reproduced": 54,
+    "independent_worked_arithmetic": 33,
+    "numpy_javascript_reference_fixtures": 36,
+    "joint_control_corners": 200,
+    "reader_language": "en",
+    "browser_retry": "blocked at startup by denied local process-singleton socket"
+  },
+  "not_verified": [
+    "Chromium startup was retried and still failed because a required local process-singleton socket was denied. No real-browser tests completed.",
+    "Desktop/mobile layout, visual math rendering, and native keyboard/focus behavior remain unverified. A runnable real-browser suite is included for an environment permitting browser startup.",
+    "The DOM harness executes real experiment modules against a minimal test double; it is not a browser.",
+    "Checks cover selected numerical properties and worked answers, not every mathematical statement or a guarantee of no errors.",
+    "No large-model, GPU, distributed, trained visual-model, commercial API, or physical-hardware execution is claimed."
+  ],
+  "renderer": {
+    "pandoc": "3.1.11.1",
+    "output": "native MathML, bundled CSS and local SVG diagrams; no CDN renderer"
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "node": "24.22.1",
+    "sympy_optional": "1.14.0"
+  },
+  "verification_date": "2026-11-12",
+  "verification_timezone": "America/New_York",
+  "verification_status": "All available automated checks passed; real-browser verification blocked",
+  "repairs": [
+    {
+      "issue": "Missing long-context executable listing and output in the assembled textbook",
+      "change": "Added 24_long_context.py and freshly executed output to Chapter 8; continuous book now has 57 Python listings matching included source."
+    },
+    {
+      "issue": "HTML reader had an empty language attribute",
+      "change": "Set Pandoc language metadata to en and added a regression check."
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "status": "checks_passed_with_browser_verification_blocked",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "node": "v24.22.1"
+  },
+  "chapters": [
+    {
+      "chapter": "01-mathematical-language",
+      "narrative_words_excluding_code_and_math": 3042,
+      "mathematical_expressions": 166
+    },
+    {
+      "chapter": "02-vectors-and-geometry",
+      "narrative_words_excluding_code_and_math": 2826,
+      "mathematical_expressions": 129
+    },
+    {
+      "chapter": "03-matrices-and-least-squares",
+      "narrative_words_excluding_code_and_math": 2602,
+      "mathematical_expressions": 127
+    },
+    {
+      "chapter": "04-matrix-structure-and-pca",
+      "narrative_words_excluding_code_and_math": 2738,
+      "mathematical_expressions": 138
+    },
+    {
+      "chapter": "05-calculus-from-first-principles",
+      "narrative_words_excluding_code_and_math": 2679,
+      "mathematical_expressions": 161
+    },
+    {
+      "chapter": "06-integration-and-change-of-variables",
+      "narrative_words_excluding_code_and_math": 2541,
+      "mathematical_expressions": 131
+    },
+    {
+      "chapter": "07-multivariable-calculus-and-backpropagation",
+      "narrative_words_excluding_code_and_math": 2553,
+      "mathematical_expressions": 109
+    },
+    {
+      "chapter": "08-optimization",
+      "narrative_words_excluding_code_and_math": 2558,
+      "mathematical_expressions": 129
+    },
+    {
+      "chapter": "09-probability-foundations",
+      "narrative_words_excluding_code_and_math": 2595,
+      "mathematical_expressions": 106
+    },
+    {
+      "chapter": "10-distributions-and-sampling-limits",
+      "narrative_words_excluding_code_and_math": 2648,
+      "mathematical_expressions": 142
+    },
+    {
+      "chapter": "11-statistical-inference",
+      "narrative_words_excluding_code_and_math": 2619,
+      "mathematical_expressions": 80
+    },
+    {
+      "chapter": "12-machine-learning-synthesis",
+      "narrative_words_excluding_code_and_math": 2751,
+      "mathematical_expressions": 108
+    }
+  ],
+  "narrative_words": 32152,
+  "mathematical_expressions": 1526,
+  "outline_sessions": 48,
+  "local_markdown_links_checked": 240,
+  "executed_examples": [
+    {
+      "file": "01-mathematical-language.py",
+      "exit_code": 0,
+      "stdout": "0.333333\n4.666667\n1000.313262\n"
+    },
+    {
+      "file": "02-vectors-and-geometry.py",
+      "exit_code": 0,
+      "stdout": "2.0 [2.0, 2.0] [1.0, -1.0]\n0.0 1.4142135623730951\n"
+    },
+    {
+      "file": "03-matrices-and-least-squares.py",
+      "exit_code": 0,
+      "stdout": "[4.5        3.35714286]\n0.02380952380952364\n[3.55271368e-15 0.00000000e+00]\n"
+    },
+    {
+      "file": "04-matrix-structure-and-pca.py",
+      "exit_code": 0,
+      "stdout": "0.8\n2.0\n"
+    },
+    {
+      "file": "05-calculus-from-first-principles.py",
+      "exit_code": 0,
+      "stdout": "0.1 0.53940225216976 0.0009000536983797547\n0.001 0.5403022158176896 9.005045020771263e-08\n1e-05 0.5403023058569989 1.1140866007508521e-11\n1e-07 0.5403023056738121 1.9432766507065935e-10\n1e-09 0.5403023028982545 2.9698852266335507e-09\n"
+    },
+    {
+      "file": "06-integration-and-change-of-variables.py",
+      "exit_code": 0,
+      "stdout": "1.7182819716491962\n1.43190151069561e-07\n"
+    },
+    {
+      "file": "07-multivariable-calculus-and-backpropagation.py",
+      "exit_code": 0,
+      "stdout": "[-1. -4.]\n[-1. -4.]\n"
+    },
+    {
+      "file": "08-optimization.py",
+      "exit_code": 0,
+      "stdout": "0 168.0 [4. 4.]\n1 7.22 [3.8 0. ]\n2 6.51605 [3.61 0.  ]\n3 5.880735125 [3.4295 0.    ]\n4 5.3073634503125 [3.258025 0.      ]\n5 4.789895513907031 [3.09512375 0.        ]\n"
+    },
+    {
+      "file": "09-probability-foundations.py",
+      "exit_code": 0,
+      "stdout": "1.0 0.5\n0.07500000000000001 0.3999999999999999\n"
+    },
+    {
+      "file": "10-distributions-and-sampling-limits.py",
+      "exit_code": 0,
+      "stdout": "0.200185\n0.040029436356261626\n0.04\n"
+    },
+    {
+      "file": "11-statistical-inference.py",
+      "exit_code": 0,
+      "stdout": "11.0 1.2909944487358056\n[ 6.89147949 15.10852051]\n0.6666666666666666\n"
+    },
+    {
+      "file": "12-machine-learning-synthesis.py",
+      "exit_code": 0,
+      "stdout": "0.6931471805599453 0.6686157841650221\n[0.   0.05]\n"
+    },
+    {
+      "file": "bootstrap_and_anova.py",
+      "exit_code": 0,
+      "stdout": "bootstrap SE: 1.1076443766419395\nbootstrap percentile interval: [ 9. 13.]\nANOVA F / p: 7.0 0.026999999999999996\n"
+    },
+    {
+      "file": "end_to_end.py",
+      "exit_code": 0,
+      "stdout": "ridge selected strength / test MSE: 0.01 0.23619577013827986\nlogistic selected strength / test log loss: 0.01 0.5435070364427157\nlogistic test accuracy: 0.675\n"
+    },
+    {
+      "file": "neural_network.py",
+      "exit_code": 0,
+      "stdout": "preactivation, hidden, score, probability: (array([-0.3,  0.6]), array([-0.29131261,  0.53704957]), np.float64(-0.38504982847965397), np.float64(0.4049095195161178))\ngradient: [-0.21783572 -0.43567144  0.21172658  0.42345315 -0.21783572  0.21172658\n  0.17335736 -0.31959308 -0.59509048]\nmaximum gradient-check discrepancy: 5.167083427792818e-11\nloss before / after one step: 0.9040916454371954 0.8530618233190848\n"
+    }
+  ],
+  "mathematical_checks": {
+    "passed": 51,
+    "checks": [
+      "delivery coefficients",
+      "delivery mean squared error",
+      "delivery residual orthogonality",
+      "line projection",
+      "projection residual orthogonality",
+      "SVD reconstruction",
+      "pseudoinverse identity",
+      "PCA variance fraction",
+      "PCA reconstruction error",
+      "quadratic update",
+      "binomial example",
+      "beta posterior predictive",
+      "geometric mean",
+      "gamma rate convention",
+      "Gaussian CDF example",
+      "softmax cross entropy gradient",
+      "softmax Hessian null direction",
+      "all nine neural parameter derivatives",
+      "law of total variance",
+      "initial model MSE",
+      "changed model MSE",
+      "stable log sum exp",
+      "rank-nullity example null vector",
+      "rank-nullity example rank",
+      "symmetric matrix eigenvalues",
+      "indefinite quadratic Hessian eigenvalues",
+      "exponential Taylor error bound",
+      "logarithm Taylor error bound",
+      "integration by parts example",
+      "Gaussian normalization",
+      "transformed uniform square density normalization",
+      "weighted density variance",
+      "worked vector-function Jacobian",
+      "worked vector-function first-order-null remainder",
+      "quadratic gradient at (1,2)",
+      "equality-constrained multiplier equations",
+      "inequality KKT stationarity and complementary slackness",
+      "smooth descent bound on twenty SPD quadratics",
+      "Bayes route posterior",
+      "geometric memorylessness",
+      "gamma shape-rate variance",
+      "beta(2,3) mean and variance",
+      "chi-squared moments",
+      "Student t variance",
+      "squared t and F CDF identity",
+      "normal conjugate posterior by direct integration",
+      "worked t interval",
+      "ANOVA worked statistic and p-value",
+      "worked logistic update loss",
+      "KL numerical value and cross-entropy identity",
+      "Hoeffding sample-size ceiling"
+    ],
+    "maximum_neural_gradient_discrepancy": 5.167083427792818e-11
+  },
+  "companion_checks": {
+    "check.mjs": "Companion mathematical checks passed; 13 experiment families covered.",
+    "check-controls.mjs": "13 control/update/reset/disposal cases passed on an in-memory DOM surface; two error paths passed. No visual/browser claim."
+  },
+  "structural_errors": [],
+  "equation_typesetting": {
+    "status": "passed",
+    "method": "pdflatex full mathematical typesetting in draft mode",
+    "expressions": 1526,
+    "chapter_hashes": {
+      "chapters/01-mathematical-language.md": "2d4cf4cb0412a1c935b231cc84c288600d7f7bdb9ef608b18d52e294d9d82be5",
+      "chapters/02-vectors-and-geometry.md": "d2c41f1731218961b8ccda5f9aafcc766b8919081669fd4b5757e04f110df0f8",
+      "chapters/03-matrices-and-least-squares.md": "6c1ae5258352e2dcc581050ec569c0baf1a1a421ae13ed2cbfbbde2d8ddcbd6a",
+      "chapters/04-matrix-structure-and-pca.md": "1238cd26322fd3de346bc1461720758f699e0e9a4bd216366cbe356c3a3e0b2c",
+      "chapters/05-calculus-from-first-principles.md": "87d59405803d719e9b56fc0fdc04ac5d91dc466f8c82085ec2f44b6cb764c484",
+      "chapters/06-integration-and-change-of-variables.md": "b73acf0570c45fada8ccb2ce7d373e7bc26202cd26f3c6dd48d4e8294957bece",
+      "chapters/07-multivariable-calculus-and-backpropagation.md": "f6f1b89a942d624b339e71d57d8e241d66b0b2acf2cb6ec3891d809d49adce33",
+      "chapters/08-optimization.md": "338d29b42ae7fbfdfbab629888231c41850cd63fdd6393a98a2e1c5771b099c0",
+      "chapters/09-probability-foundations.md": "ec0473156dd2b8356fb15698757ad93e9c897b2f252dd5071a2a5028fc6cd714",
+      "chapters/10-distributions-and-sampling-limits.md": "e7909175beb4777cefb0d103cd2d2e9692b70c806f552d3b0e900e1f188e8861",
+      "chapters/11-statistical-inference.md": "3e3a3a6d0f14dd8a26e1b6eafcc771efc40de59c3b1a96ceee67b561bc17a298",
+      "chapters/12-machine-learning-synthesis.md": "bf3c615636a438e8041d5c07956d3a562e3994a5b31bbe72146fc15c3156bade"
+    },
+    "missing_glyph_warnings": [],
+    "overfull_box_warnings": [],
+    "visual_inspection": {
+      "sampled_pages": [
+        1,
+        17,
+        43,
+        49,
+        53,
+        72,
+        85
+      ],
+      "observed": "Representative scalars, fractions, matrices, cases, multivariable Taylor expression and Gaussian density render legibly without missing glyphs. This is an equation audit, not the book layout."
+    },
+    "scope": "All chapter math expressions; this is not a GitHub/MathJax or browser-layout verification.",
+    "actual_pdf_compilation": {
+      "status": "passed",
+      "pages": 85,
+      "expressions": 1526,
+      "missing_glyph_warnings": 0,
+      "overfull_box_warnings": 0
+    },
+    "notes": [
+      "The host lacked a prebuilt pdflatex format. A private format was built from its installed TeX source files; system files were not changed.",
+      "A missing default pdftex.map warning was addressed by explicitly loading the installed Computer Modern/AMS maps. Actual PDF fonts were embedded and sampled pages were inspected."
+    ],
+    "verification_date": "2026-11-12"
+  },
+  "local_http_server": {
+    "status": "passed",
+    "responses": [
+      {
+        "path": "/companion/",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "bytes": 986
+      },
+      {
+        "path": "/companion/app.mjs",
+        "status": 200,
+        "content_type": "text/javascript; charset=utf-8",
+        "bytes": 745
+      },
+      {
+        "path": "/companion/core.mjs",
+        "status": 200,
+        "content_type": "text/javascript; charset=utf-8",
+        "bytes": 3891
+      },
+      {
+        "path": "/companion/experiments.mjs",
+        "status": 200,
+        "content_type": "text/javascript; charset=utf-8",
+        "bytes": 13097
+      },
+      {
+        "path": "/companion/style.css",
+        "status": 200,
+        "content_type": "text/css; charset=utf-8",
+        "bytes": 2012
+      },
+      {
+        "path": "/assets/projection.png",
+        "status": 200,
+        "content_type": "image/png",
+        "bytes": 69661
+      },
+      {
+        "path": "/book.md",
+        "status": 200,
+        "content_type": "text/plain; charset=utf-8",
+        "bytes": 287165
+      }
+    ],
+    "failure_paths": 2,
+    "scope": "Real localhost HTTP serving and MIME types; not browser execution.",
+    "source_hashes": {
+      "companion/index.html": "afc47be5091c9b1552df7a338a3b4343b9a9bd435e249957d006b3ad036120d3",
+      "companion/app.mjs": "1f054966267d0efd7efa6b034eadbd38e694a073baa4822633a3a0581d8894d9",
+      "companion/core.mjs": "82d99a2a5d8957d56c45b30cdd000598fdbac8470164994a7a0acbf46947a479",
+      "companion/experiments.mjs": "6128f41f7268d7edb4f2df031a94091b084060d82abc47fa1e5d97b30a04d574",
+      "companion/style.css": "0feda77c85e13be3e9b1fb71b792d815df7323cb97fa62bb39dbec7dc759fe57",
+      "companion/server.mjs": "d46490633dbd1e736aae2f85e3e4256feb97917509e04fda3df14d2f4799679d",
+      "book.md": "6d7a799f67a45845dc2f84dcb538842cd04b660fe3ad72d0153401a850a9a34f"
+    },
+    "verification_date": "2026-11-12"
+  },
+  "browser": {
+    "status": "blocked",
+    "actual_browser_execution": false,
+    "cause": "The installed Chromium process aborts because the runtime denies a required socket call. The supported managed-browser execution tool is not exposed in this session.",
+    "attempted": "Playwright launch of installed Chromium; aborted before page creation.",
+    "not_verified": [
+      "Actual browser control interactions",
+      "Canvas rendering",
+      "Responsive desktop/mobile layout",
+      "Keyboard and assistive-technology behavior",
+      "GitHub/Library math rendering"
+    ],
+    "available_evidence": "Independent numerical tests and the in-memory DOM control/reset/disposal tests pass; these are not claimed as browser execution.",
+    "verification_date": "2026-11-12"
+  },
+  "limits": [
+    "Real browser execution remains blocked; simulated DOM checks are not a browser pass.",
+    "TeX compilation verifies equation syntax/typesetting; GitHub/Library math rendering remains unverified.",
+    "Exact model-token counts unverified; narrative word counts are not token counts.",
+    "Windows/macOS, other browsers and accessibility technologies were not independently executed."
+  ]
+}

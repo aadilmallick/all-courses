@@ -1,0 +1,15 @@
+This book is for a developer or returning mathematics learner who wants to understand the mathematical machinery behind machine learning. We begin with functions and elementary algebra, rebuild vectors and calculus, and continue through probability, inference, optimization, and complete model derivations. Programming experience is helpful for the experiments but is not a substitute for any mathematical prerequisite.
+
+The original 48-lesson outline is preserved as 48 guided sessions, grouped into 12 substantial chapters. Read a session, work through its small numbers, and stop whenever an equation needs another pass. Chapter 8's final session is divided into constraints, KKT conditions, Newton's method, and stochastic optimization; it is deliberately suitable for several sittings.
+
+An equation is introduced with its objects and assumptions. Important elementary claims receive proofs; larger results are explicitly distinguished as stated theorems or proof sketches. Examples include intermediate calculations, units, counterexamples, and failure cases. Optional applications and supplied implementations support independent study without a required live conversation.
+
+Throughout, vectors and gradients are columns. A data matrix has observations in rows and features in columns. Mathematical indices begin at one; Python indices begin at zero. Natural logarithms are the default, angles use radians, Gaussian scale parameters are standard deviations unless squared, and gamma parameters use the stated rate convention. Squared-loss normalization is written explicitly because it changes gradients and regularization scales.
+
+The delivery-time example gives continuity across chapters, but every dataset is synthetic. Geometry is ordinary Euclidean geometry unless another inner product is named. Exact mathematical statements and approximate floating point calculations are kept distinct. A tiny numerical residual is checked with a tolerance, not treated as a new theorem.
+
+The portable package contains the canonical chapter files, [curriculum mapping](CURRICULUM.md), complete [example source](examples/README.md), the [local laboratory](companion/index.html), [reference ledger](references.md), [optional project guide](PROJECTS.md), and [verification report](verification.md). The single-volume book is generated from the chapter files; edit those files and rebuild to keep the two forms aligned.
+
+The laboratory needs Node.js and a browser and makes no external requests. Its source is included, with controls, numerical results, and deterministic resets. Python examples use the pinned NumPy and SciPy versions in the package. See [README.md](README.md) for Windows and Unix setup. The laboratory is an experiment gallery; the canonical reading format is Markdown with GitHub-compatible math, not a separately hosted website.
+
+This is a broad, rigorous foundation for mainstream machine learning. It does not claim to exhaust every specialized mathematical field. The purpose is to make central relationships understandable enough to derive, implement, diagnose, and extend.

@@ -1,0 +1,6 @@
+Python 3.12.14
+numpy==2.3.5
+scipy==1.17.0
+scikit-learn==1.8.0
+PyTorch not installed; optional framework track unexecuted
+sympy==1.14.0 (optional verification dependency)

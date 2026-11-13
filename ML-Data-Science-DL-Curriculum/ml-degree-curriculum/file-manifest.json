@@ -1,0 +1,957 @@
+[
+  {
+    "path": "ASSESSMENTS.md",
+    "bytes": 3980,
+    "sha256": "3f8ec1ca23950a6a30ac8169b7e9e5f88b6e742b1d87a346eb3d843f408ed1a4"
+  },
+  {
+    "path": "CONCEPT-MAP.md",
+    "bytes": 822,
+    "sha256": "048064e4b2b9a9a4cd66e76f14df3d099d3d456a62c97b5bf486edf7c0f3af7b"
+  },
+  {
+    "path": "NOTATION.md",
+    "bytes": 2289,
+    "sha256": "cbcbe9cd2107d7b78e0285a0db26cc813ec4730309bbb0525954d6c31cac4cf2"
+  },
+  {
+    "path": "PROVENANCE.md",
+    "bytes": 1206,
+    "sha256": "a61e9489df7e9585813338f04596f85758a9aadd5761e542980bd744a9f478d2"
+  },
+  {
+    "path": "README.md",
+    "bytes": 14263,
+    "sha256": "fefdea77fc482a661b0c7d887fd8519e98a2f898600f24b05d4359388b4be3c9"
+  },
+  {
+    "path": "SOURCE-MAP.md",
+    "bytes": 7161,
+    "sha256": "00d41c0304641d84169bd190b1c58cdf14a103b2d6ee81f9c54f2d66f5473563"
+  },
+  {
+    "path": "SOURCES.md",
+    "bytes": 4599,
+    "sha256": "0a38af313ee6984ff52229bd6e9a9116089787639f60ff5242aa16cb64f9ab29"
+  },
+  {
+    "path": "VALIDATION.md",
+    "bytes": 9674,
+    "sha256": "499573c5377d8eff6a4fa2a26635410e99091767f1776150204a0adcfb45ab27"
+  },
+  {
+    "path": "VERIFICATION.md",
+    "bytes": 5097,
+    "sha256": "8a46ed89f877fb599d7d2ff0d774c87df5c6b62350359ad4fb5b923cd891836d"
+  },
+  {
+    "path": "code/classical/advanced.py",
+    "bytes": 6617,
+    "sha256": "73edb43e69860e8cc0eedbe44e9e6f1e5fcceeaf0f02a8e05cbe7adc69414e4f"
+  },
+  {
+    "path": "code/classical/demo.py",
+    "bytes": 2549,
+    "sha256": "34bc5f8a0b2afe68c692a67298669f5995093729100912222b7a087bcb4aaa75"
+  },
+  {
+    "path": "code/classical/extended.py",
+    "bytes": 1266,
+    "sha256": "b2b64e9c20c3c5e3775c2cac4e27bf84571dcd6e6754a6f111517aab18c22254"
+  },
+  {
+    "path": "code/classical/lesson_17.py",
+    "bytes": 704,
+    "sha256": "188c3a147371ada3301a6160878bb8c7f0c294752d347b203cad3611c8833743"
+  },
+  {
+    "path": "code/classical/lesson_18.py",
+    "bytes": 900,
+    "sha256": "981b37dfeb54593ae1d5cf5619e8097065abd74665f041dfa057f48242d3a3c3"
+  },
+  {
+    "path": "code/classical/lesson_19.py",
+    "bytes": 2789,
+    "sha256": "e12641785dc3e9ae2fa8d11446c8f5750046a558799d3de36287a491e674f818"
+  },
+  {
+    "path": "code/classical/lesson_21.py",
+    "bytes": 654,
+    "sha256": "992b0170ecbf8163899e0920b2e877b3638b2c5ab78d3b78c9b606a0a12228d7"
+  },
+  {
+    "path": "code/classical/lesson_22.py",
+    "bytes": 1795,
+    "sha256": "afa8686504fbaf02fe2f09b7b59da3adc6f0b5c3491f5d0ee6fba0dd1f318a94"
+  },
+  {
+    "path": "code/classical/lesson_23.py",
+    "bytes": 2574,
+    "sha256": "dcbad2390aff741bd39ee1d2b44d3316249fcf51060059de1ffdc6c5d912286d"
+  },
+  {
+    "path": "code/classical/lesson_24.py",
+    "bytes": 2952,
+    "sha256": "1168839eb335aaff0b417f18ab7f2364917749db0e1421863b0900ba680a7cb9"
+  },
+  {
+    "path": "code/classical/lesson_25.py",
+    "bytes": 3689,
+    "sha256": "50e46aff429c0acbac93a28e47009057eb99cda830d3a5171adb42d7c779887c"
+  },
+  {
+    "path": "code/classical/lesson_26.py",
+    "bytes": 3548,
+    "sha256": "178865287f0b3f5f784d1b84669ab4c4c2c6f603cd708dfc1ca934ac411c5532"
+  },
+  {
+    "path": "code/classical/lesson_28.py",
+    "bytes": 739,
+    "sha256": "af573adb2da7b5ad4b357756f1378071c580ea58eb3dabd912595d25348b8333"
+  },
+  {
+    "path": "code/classical/lesson_29.py",
+    "bytes": 2371,
+    "sha256": "4696c4683d2bde654af676769c05fe1d2f37fd07f81a986550a5708eb1ff533b"
+  },
+  {
+    "path": "code/classical/lesson_30.py",
+    "bytes": 1033,
+    "sha256": "2171440c9963c590c0e6e0eff5b448eea836bfb640cab42a990164f54a56c12a"
+  },
+  {
+    "path": "code/classical/lesson_31.py",
+    "bytes": 1845,
+    "sha256": "962030f31880e49546a5d24c94fb9abd3f47fe24ebdfbbf189ab0edc52c1732b"
+  },
+  {
+    "path": "code/classical/lesson_32.py",
+    "bytes": 3162,
+    "sha256": "58e104ddf82c05f12cafa8d4fa56c4999b9e36fcd152e2062015493194c02cc6"
+  },
+  {
+    "path": "code/classical/models.py",
+    "bytes": 20573,
+    "sha256": "926d9559ce29aaf5d31eff00d0dec9cd5720fb5034b148dd70a48968f834ea1e"
+  },
+  {
+    "path": "code/classical/project.py",
+    "bytes": 1980,
+    "sha256": "cde1302a922fbdd91083dae88ca188d58b3d439e7126cb9855047250d53196e6"
+  },
+  {
+    "path": "code/neural/01_tensors_shapes.py",
+    "bytes": 639,
+    "sha256": "49979f065877386cbda8fc34443cbb2de55c1e322194bb135a1d01ed8730a01f"
+  },
+  {
+    "path": "code/neural/02_linear_algebra.py",
+    "bytes": 484,
+    "sha256": "8a2d8e970ce907119d9534bc1420de9d0017b5d2b6a20df5bc65e701ce7fa270"
+  },
+  {
+    "path": "code/neural/03_calculus_chain_rule.py",
+    "bytes": 536,
+    "sha256": "61297bfdb532fc0a77424a64ab30e67fa04c178dd9b696de8b442a2aeb026b78"
+  },
+  {
+    "path": "code/neural/04_probability_conditioning.py",
+    "bytes": 421,
+    "sha256": "884380376bb3b937518c7045031f85ee75253218014ebd44aa84c7e0061c6eae"
+  },
+  {
+    "path": "code/neural/05_entropy_softmax.py",
+    "bytes": 532,
+    "sha256": "05a6f1a44e32730c2b6a17e52c5c6ed67be744839a9201fb016b21a04345163e"
+  },
+  {
+    "path": "code/neural/06_neural_networks_autodiff.py",
+    "bytes": 670,
+    "sha256": "b964a0857a13a3480f384ea3cb01b4545d979ed9cb7c13ebe20ac46c66ad6d3d"
+  },
+  {
+    "path": "code/neural/07_language_modeling.py",
+    "bytes": 455,
+    "sha256": "28a4005e8c9e3f2c3767c133e3825d66e128e6df598c3874f05ef081de06048b"
+  },
+  {
+    "path": "code/neural/08_tokenization_bpe.py",
+    "bytes": 792,
+    "sha256": "bd186a617f4aa02b0a09d92afe8f848affb7464dcb65043d823c7f31bff2ef58"
+  },
+  {
+    "path": "code/neural/09_embeddings.py",
+    "bytes": 613,
+    "sha256": "c3df3d1d6c278553d23d9ba5b7ad5f3015332fbb2807b2c0b4290f619af07a67"
+  },
+  {
+    "path": "code/neural/10_rnn_seq2seq.py",
+    "bytes": 581,
+    "sha256": "110bcc04777fd92b5979994a54bdac2fbc68b5c4aa4c77bed06f162c8719701a"
+  },
+  {
+    "path": "code/neural/11_attention_weighted_retrieval.py",
+    "bytes": 511,
+    "sha256": "1a0b841fd6992060d11447855dd8df1987dfb4701da67160daf94640ad015e21"
+  },
+  {
+    "path": "code/neural/12_scaled_dot_product_attention.py",
+    "bytes": 540,
+    "sha256": "8264109f810098dd2d04ecd880e61303af8ff02b0ac1a3a541e531bbe820f3fd"
+  },
+  {
+    "path": "code/neural/13_attention_backpropagation.py",
+    "bytes": 822,
+    "sha256": "82bcf760ae6ce4211d2169ac9dacde7046adc06cb64c49bc9358fc8752fb4409"
+  },
+  {
+    "path": "code/neural/14_attention_masks.py",
+    "bytes": 644,
+    "sha256": "b94cd2cd589ad09ffa0b43f00488e028bdc1e1031179f758e0fd86904e64e830"
+  },
+  {
+    "path": "code/neural/15_multihead_gqa.py",
+    "bytes": 606,
+    "sha256": "771b3bf34c7c44d95b23696c9d191d657ceab18826463113fe08c0d164f74140"
+  },
+  {
+    "path": "code/neural/16_position_rope.py",
+    "bytes": 519,
+    "sha256": "7e26f29141a5acde2dcc23f0a7e5e69501f6f25f74ec5b8bc9a539c385f9ed28"
+  },
+  {
+    "path": "code/neural/17_transformer_blocks.py",
+    "bytes": 557,
+    "sha256": "b9d97f22969fed002f5f4b4c81c0e11ffe2708072990c9fd2731b9ed3ae3f298"
+  },
+  {
+    "path": "code/neural/18_encoder_decoder_architectures.py",
+    "bytes": 560,
+    "sha256": "fad86962eac803e0f718cdaf52c28fb4c6afbaccbcd53754538e732922420165"
+  },
+  {
+    "path": "code/neural/19_implement_gpt.py",
+    "bytes": 852,
+    "sha256": "15d06fcbaa9ff92cca7332669997e66eb93ab982d4b800f59f55ef0cbe5ea7f8"
+  },
+  {
+    "path": "code/neural/20_train_gpt.py",
+    "bytes": 797,
+    "sha256": "ca0a61c641fe7259f116ee9a16936f6bec0f9b965649d41731648945ca18ffec"
+  },
+  {
+    "path": "code/neural/21_pretraining_systems.py",
+    "bytes": 567,
+    "sha256": "2356d7257e03a412a5c8ad260ef00633c26537ab04a830cee15e4a1ca4b3c89e"
+  },
+  {
+    "path": "code/neural/22_decoding_kv_cache.py",
+    "bytes": 567,
+    "sha256": "26614a142dcb598afbc5c07046e6374790499b8a3461c8f2665cc1693c70c927"
+  },
+  {
+    "path": "code/neural/23_efficient_attention.py",
+    "bytes": 690,
+    "sha256": "d849aeb742958ad33ec806d8ef8082b06f95d7800cae0c28204b9ae544523d93"
+  },
+  {
+    "path": "code/neural/24_long_context.py",
+    "bytes": 464,
+    "sha256": "0fc32d7681a09fa1bc5dba00aebae2d2c9e2bb4173b7224cfabc8adbd7b2ccd9"
+  },
+  {
+    "path": "code/neural/25_evaluation_interpretability.py",
+    "bytes": 522,
+    "sha256": "d6f068e16af418f13ba68be34e4cf916cc659f16b95c1373d2acab04c8c2451b"
+  },
+  {
+    "path": "code/neural/26_instruction_sft.py",
+    "bytes": 577,
+    "sha256": "9c09fdc575d906b55fbc9d3cd4f2cc0ece8d7ed1cc2b902af1f263c8fca98b69"
+  },
+  {
+    "path": "code/neural/27_lora_peft.py",
+    "bytes": 648,
+    "sha256": "f4a039d54dc976ddffb0a54f53c46d7b3465a8320ffa9ea168e84b655794d62a"
+  },
+  {
+    "path": "code/neural/28_quantization_qlora.py",
+    "bytes": 544,
+    "sha256": "ea1a4bd490d51c1cf05af1b5d0b2222af6e9c6285860f5978083c6097719a80b"
+  },
+  {
+    "path": "code/neural/29_mixture_of_experts.py",
+    "bytes": 630,
+    "sha256": "3d12509de7f2b97c21bc7376a9737fc85bf7571dbb57608fd68f939297be6c76"
+  },
+  {
+    "path": "code/neural/30_knowledge_distillation.py",
+    "bytes": 599,
+    "sha256": "fade41e651b92e90dd73035f7f15faeaa271f5d9c7007fb5231b6868c3a3b1c0"
+  },
+  {
+    "path": "code/neural/31_rl_foundations.py",
+    "bytes": 634,
+    "sha256": "03b96c16cb2d48521f07f503ba4f176277ad32a1d5c2f965ec7f811f94647e9c"
+  },
+  {
+    "path": "code/neural/32_bellman_dynamic_programming.py",
+    "bytes": 427,
+    "sha256": "aacddb34e8851021617bfc94278bc5d90a1090a8dee732af698e5157247e0a5e"
+  },
+  {
+    "path": "code/neural/33_td_q_learning.py",
+    "bytes": 607,
+    "sha256": "96a3ac5ad2691e00431badb608491e6b5191b7781daf9823a364cfc4e929f4b6"
+  },
+  {
+    "path": "code/neural/34_policy_gradients.py",
+    "bytes": 493,
+    "sha256": "27d35452d83a48dd6137ddae22b67abfc7fd98e0576af453ab803bba9f96464b"
+  },
+  {
+    "path": "code/neural/35_actor_critic_gae.py",
+    "bytes": 595,
+    "sha256": "7b09c494dadb92c552debda2db5da1d3423ecd67c230c414d45712b45b01fbb8"
+  },
+  {
+    "path": "code/neural/36_ppo.py",
+    "bytes": 581,
+    "sha256": "3b9dfc55c7260f8329c3408297d6724b2762304a191a1815d0bc5e207ac0134b"
+  },
+  {
+    "path": "code/neural/37_reward_modeling_rlhf.py",
+    "bytes": 537,
+    "sha256": "4db54a80329f3d2054f99e038d51294284a167cc3eb9bdb34976d6ed072833b8"
+  },
+  {
+    "path": "code/neural/38_dpo_preference_optimization.py",
+    "bytes": 517,
+    "sha256": "f74f7934896251411d4cb462137a58ceb1ccdcc1185e1561c88e202c190c6dd3"
+  },
+  {
+    "path": "code/neural/39_grpo_verifiable_rewards.py",
+    "bytes": 496,
+    "sha256": "71ebf9c981030276f0feb8c588ef09766489b520f81787cc8f75c2573f0c76ca"
+  },
+  {
+    "path": "code/neural/40_prompting_search.py",
+    "bytes": 600,
+    "sha256": "2a7ed569da56c37684a7fbb0dce612907b78d26b1c682e7264378b4cc4473d42"
+  },
+  {
+    "path": "code/neural/41_context_memory.py",
+    "bytes": 630,
+    "sha256": "3eea7594781558e64678a5a52e311ae5962efb2ed521c5ab226743df2fab1da6"
+  },
+  {
+    "path": "code/neural/42_dense_retrieval.py",
+    "bytes": 587,
+    "sha256": "bf9dd48e7e2903ac98f3a3ea52a699b475ce268189e1e01e213534d6e7c9225a"
+  },
+  {
+    "path": "code/neural/43_rag_hybrid_ranking.py",
+    "bytes": 838,
+    "sha256": "bee05a3060eceed766efe57d909d977fa9fe0b475e28c5725395f9bc8d0899ff"
+  },
+  {
+    "path": "code/neural/44_advanced_rag_evaluation.py",
+    "bytes": 638,
+    "sha256": "78a7689d19d88a9949e6891028c2e3a690f233734d648eaebf736de75c63de56"
+  },
+  {
+    "path": "code/neural/45_agent_loops_graphs.py",
+    "bytes": 747,
+    "sha256": "f638a08884da06bd6aed0b0f07eeb7ce1540c1de154921f80e6344eb3e2bd88d"
+  },
+  {
+    "path": "code/neural/46_llm_judges.py",
+    "bytes": 507,
+    "sha256": "b4963dadbd779d5e0af924141f76fb8f24a41bf6ad2ddc902db1ebfad15a37d8"
+  },
+  {
+    "path": "code/neural/47_vision_clip.py",
+    "bytes": 596,
+    "sha256": "bc78ef181718383eeb2d202fdace39defb42c1895d6ab2952192a6657190cf24"
+  },
+  {
+    "path": "code/neural/48_generative_vlm.py",
+    "bytes": 557,
+    "sha256": "4713b631f85caad26b63d6c56866d9e1cf777278ca28b9db093ed0806399e996"
+  },
+  {
+    "path": "code/neural/49_recursive_transformers.py",
+    "bytes": 521,
+    "sha256": "6ca04474248cefd9fcb403bb4e277eb0a833c64db2ee1729549aacde9182c245"
+  },
+  {
+    "path": "code/neural/50_recursive_self_improvement.py",
+    "bytes": 510,
+    "sha256": "b8a68eafda3437eb6f077eca03d9b86a3126abc6e989a2a6aa5f10fd7370bd38"
+  },
+  {
+    "path": "code/neural/51_physical_ai_control.py",
+    "bytes": 489,
+    "sha256": "27afedb4dd6e1ed628487d8867f6b07492aafd1b3980a940a82c1e81a43cf769"
+  },
+  {
+    "path": "code/neural/52_generative_actions_world_models.py",
+    "bytes": 557,
+    "sha256": "7ac0e601b062d18c9481f61dec9da1d245487416a27d252eec3a3e5fc467e3ec"
+  },
+  {
+    "path": "code/neural/53_capstone_local_system.py",
+    "bytes": 802,
+    "sha256": "4436a4ba92aa56cff28c7c8cbe059ba01a98544a9c7d846aa98686a926ba801f"
+  },
+  {
+    "path": "code/neural/54_research_reproducibility.py",
+    "bytes": 452,
+    "sha256": "6e57f95b1389366665dcb26fcee56c1ecf16aad6500c971ab3cea56d7d25b140"
+  },
+  {
+    "path": "code/neural/alignment_training.py",
+    "bytes": 2524,
+    "sha256": "0f4eb8a380e3a022565e894b1ffce7ecbf32e26d96158cc63ee40246fda68e77"
+  },
+  {
+    "path": "code/neural/core.py",
+    "bytes": 10601,
+    "sha256": "d13ce533dc998ba837ce0eaf088f040d87cabc5adb4c329a90f9d3f8bc8e73d3"
+  },
+  {
+    "path": "code/neural/run_all.py",
+    "bytes": 606,
+    "sha256": "5b90b215c7554d630bcc9f1d4c7b97f53e49570956d35acd4361fce6a1b3bbed"
+  },
+  {
+    "path": "code/neural/sequence_alignment.py",
+    "bytes": 2667,
+    "sha256": "47e593baf01c5a18e892965a1ff00d7c4d2b01ed8009fe510758b85d650af4ac"
+  },
+  {
+    "path": "code/pytorch/00_finite_difference.py",
+    "bytes": 346,
+    "sha256": "6ee4cfb534b65b531a3ee11b2fd0c907fd4f7f9254af7f31aca5122ff4e08e42"
+  },
+  {
+    "path": "code/pytorch/01_scalar_gradient_descent.py",
+    "bytes": 311,
+    "sha256": "5c39d49906893afc1339e116c67a21a9879872af177cca70baaaa99b8bb0bc2d"
+  },
+  {
+    "path": "code/pytorch/02_xor.py",
+    "bytes": 808,
+    "sha256": "1812c6a7e1b15b1a415a75ba76bd8577b3e6a81b2213032b9b0fedf276e29d0b"
+  },
+  {
+    "path": "code/pytorch/03_hyperparameter_search.py",
+    "bytes": 1227,
+    "sha256": "3c438e3996a9660d4f78277d09179a9bfa26ac761039210680943f352269f923"
+  },
+  {
+    "path": "code/pytorch/03_regression_experiment.py",
+    "bytes": 3304,
+    "sha256": "779d86f59c931b834cdbf5848ecfb33371242e4fee25c124c0548fe65be352ea"
+  },
+  {
+    "path": "code/pytorch/04_cnn_bars.py",
+    "bytes": 2313,
+    "sha256": "199f2f672357718d7bcf6d2688c1b7545e9a1ddf5070c4abbb1d82f4716a96a5"
+  },
+  {
+    "path": "code/pytorch/05_low_rank_adapter.py",
+    "bytes": 1045,
+    "sha256": "1d258efbd021fe40c960c169490162e9d1459d1a5e5c352594d9a6d7ad17b930"
+  },
+  {
+    "path": "code/pytorch/05_tiny_transformer.py",
+    "bytes": 4885,
+    "sha256": "1b66ab09d7a6c4dde1cbbfcd4c4b8cac64cc72e97891bbf23f7e3852977e0da0"
+  },
+  {
+    "path": "code/pytorch/06_custom_autograd.py",
+    "bytes": 674,
+    "sha256": "3671f1fdc37606dd5672fb6069faf107b972ebe53a3a0eb4111973cb183bcfda"
+  },
+  {
+    "path": "code/pytorch/06_diffusion_training_step.py",
+    "bytes": 683,
+    "sha256": "3c7a588ec1a5060443adcf81a1417c2462fb00a444a58333cf57545985f24564"
+  },
+  {
+    "path": "code/pytorch/06_policy_gradient_bandit.py",
+    "bytes": 753,
+    "sha256": "cc18bd6eb0eb9c4046d2c3a1934cc397a15e79febe884bcf748a78aaf297aacb"
+  },
+  {
+    "path": "code/pytorch/06_tiny_vae.py",
+    "bytes": 1815,
+    "sha256": "5839ed1faa729bedc5396674ee75608f4cd50c1eb861332996285c0ae59a6f20"
+  },
+  {
+    "path": "code/pytorch/07_amp_cuda.py",
+    "bytes": 825,
+    "sha256": "29b1ed53699b289f60e527652d4a0f4a6415d86ce69cb5c672c220b5895a67df"
+  },
+  {
+    "path": "code/pytorch/07_compile.py",
+    "bytes": 453,
+    "sha256": "c1e5ef53b92d447b4dea1578e9684a6579357be5a3216c7b9db222f0c13b24b8"
+  },
+  {
+    "path": "code/pytorch/07_export.py",
+    "bytes": 496,
+    "sha256": "2bf6435bf7cc1f33f61681601a4e66a57c94328c4283a63941039a45ac20351b"
+  },
+  {
+    "path": "code/pytorch/README.md",
+    "bytes": 3603,
+    "sha256": "534ce364b9ff91f77a75739244b4ffb30590a6eb200189aec6e4574aa93e16ee"
+  },
+  {
+    "path": "code/pytorch/capstone.py",
+    "bytes": 3957,
+    "sha256": "231e642214471891ea20a6ac32c18f906c1dc320a05f44bf274980e469c49b60"
+  },
+  {
+    "path": "code/pytorch/check_runtime.py",
+    "bytes": 2890,
+    "sha256": "8ddf5c7a3153efa80f38649871fe8f692184e962b5ccc1d561362e25880dcf1b"
+  },
+  {
+    "path": "code/pytorch/ddp_cpu.py",
+    "bytes": 1826,
+    "sha256": "5a388c76b77bac16e6f4e1bd57d9db012b3979325eacb46a6873fb06b0fd8c4f"
+  },
+  {
+    "path": "code/pytorch/serve_local.py",
+    "bytes": 1452,
+    "sha256": "ebc1c3da52d0c7a00aa92a2537a59e2d936aac766b1b78dc7cd374185fef4760"
+  },
+  {
+    "path": "consistency-results.json",
+    "bytes": 113,
+    "sha256": "288783b5c4ed2c9f44fc66546ae675b61585d9e6fe8bb94fd2f510db0a8175a0"
+  },
+  {
+    "path": "course-plan.json",
+    "bytes": 8327,
+    "sha256": "b6cddaebd708f20ae07c5ccf1d603d8a8e154a30122cc1205fef3b807c67f2aa"
+  },
+  {
+    "path": "environment-tested.txt",
+    "bytes": 170,
+    "sha256": "92da0aa88bed758b91f38ae4dc2cacd6b03f871e5b2a86fffb5faf9f80d1ce77"
+  },
+  {
+    "path": "execution-results.json",
+    "bytes": 20449,
+    "sha256": "31737fb208a67a4d74c92106194a5bcd7015fdfa638eb603fea35ee4c8585407"
+  },
+  {
+    "path": "lab-map.json",
+    "bytes": 2547,
+    "sha256": "a604d802ae38d628ebf18b9a866345785ec877ad7705f2ede23ad48eb4d670d5"
+  },
+  {
+    "path": "lessons/01-scientific-python.md",
+    "bytes": 4691,
+    "sha256": "f1fa5eed9764d38a21368e0aa3dd2c395fe9321c6e1bcd70e297053ae5d45201"
+  },
+  {
+    "path": "lessons/02-algebra-notation-proofs.md",
+    "bytes": 4531,
+    "sha256": "863449bee0de51cd10f224ec446d511b2bfc63fbc283d7199db1f1ed8c8ea61b"
+  },
+  {
+    "path": "lessons/03-vectors-matrices.md",
+    "bytes": 14019,
+    "sha256": "3c0c34a174ae4cf1ed408981c649ecb42090e276e09a42bd4d2d92c305222e58"
+  },
+  {
+    "path": "lessons/04-spectral-linear-algebra.md",
+    "bytes": 12016,
+    "sha256": "707241b8889ebd066ca847acd758fd96b8f5d04d0ad347b9671075c91b39791c"
+  },
+  {
+    "path": "lessons/05-single-variable-calculus.md",
+    "bytes": 9271,
+    "sha256": "9e1d93d98187eeb6eb42f5299373c2f18f7c578700c557c12c1c5dd04b5b8b44"
+  },
+  {
+    "path": "lessons/06-multivariable-calculus.md",
+    "bytes": 4446,
+    "sha256": "608c8609824aacb649ab8d81e61157a6140aa5a470f8ffbfb5fcccc213c0ddea"
+  },
+  {
+    "path": "lessons/07-probability-conditioning.md",
+    "bytes": 9036,
+    "sha256": "be0771d5e4372cacdc9f2d24685ba55362404372dd78080c5df938ccc7084698"
+  },
+  {
+    "path": "lessons/08-random-variables-distributions.md",
+    "bytes": 4831,
+    "sha256": "b256ac4d76c9e528d1b643ce8fc714a80bdf4a276c9ed870e8138044d4f4b452"
+  },
+  {
+    "path": "lessons/09-statistical-inference.md",
+    "bytes": 5439,
+    "sha256": "f7bd243d967f9a9394ee3eb78c11cd56a5cebe3ab750f291e56df5263f4e93ba"
+  },
+  {
+    "path": "lessons/10-information-losses.md",
+    "bytes": 8779,
+    "sha256": "01541bc6f11af83dd7b14c81ae8aa0e01821f79fad8380dabf067617cf6e8cdb"
+  },
+  {
+    "path": "lessons/11-optimization.md",
+    "bytes": 5282,
+    "sha256": "8ab4d31158af91f07eb86f78db059685ad23cc10083cbea4fa734abee8f8380f"
+  },
+  {
+    "path": "lessons/12-learning-theory.md",
+    "bytes": 5049,
+    "sha256": "0010feea09fc01cb1c5afd1cc67169c09200c0cc3445eedf722ac0459c109bed"
+  },
+  {
+    "path": "lessons/13-splits-cross-validation.md",
+    "bytes": 4291,
+    "sha256": "6d9203d7e417b0648364dc499064144a90efe39ad2cd1f570b66137620c9a92c"
+  },
+  {
+    "path": "lessons/14-data-preparation.md",
+    "bytes": 3611,
+    "sha256": "31e301553d0f1ed6c56e838284bfad0e6eac6d0c3b28a1104c20ec30fe79232f"
+  },
+  {
+    "path": "lessons/15-sampling-imbalance.md",
+    "bytes": 3823,
+    "sha256": "c88bd48d087f2d3321e25b7a2006a29f9abed3b01cdc2b416e6353ee0e4b5869"
+  },
+  {
+    "path": "lessons/16-data-quality-privacy.md",
+    "bytes": 4149,
+    "sha256": "c4997342d7678f1fab874795a4ddac6f7819bf745852f35aa67c7103f88d70de"
+  },
+  {
+    "path": "lessons/17-linear-regression.md",
+    "bytes": 6309,
+    "sha256": "6a4213748db17fc434bb957621e36d12620b550f37bbf0c6a314de88473451e5"
+  },
+  {
+    "path": "lessons/18-regularized-regression.md",
+    "bytes": 6310,
+    "sha256": "36a9db55fa19242e62ad1849c7aa91d243d69fd5af017ca5f9a03384578b7c2b"
+  },
+  {
+    "path": "lessons/19-logistic-softmax.md",
+    "bytes": 7633,
+    "sha256": "656e95eed715524d2b7cfe23127ef833a0687e705cc1b7583de753ff25d3ac49"
+  },
+  {
+    "path": "lessons/20-metrics-calibration.md",
+    "bytes": 4117,
+    "sha256": "845478d59501c07e47670fa9231f698fdd49f75b18ecb588f59238ce3e25a03f"
+  },
+  {
+    "path": "lessons/21-nearest-neighbors.md",
+    "bytes": 4480,
+    "sha256": "5860ce186168186220e916216926f04eb748e6e1b4fc1305d49e6a67599ca50f"
+  },
+  {
+    "path": "lessons/22-generative-classifiers.md",
+    "bytes": 6850,
+    "sha256": "9bef3964c9c2d5cec1748df3d6eede98064c315eb986d96aac782ff6385f3120"
+  },
+  {
+    "path": "lessons/23-svm-kernels-gaussian-processes.md",
+    "bytes": 7830,
+    "sha256": "c42dc212599c19af438c6bbbac3daa6e46848edc932841221aaed606110d067d"
+  },
+  {
+    "path": "lessons/24-decision-trees.md",
+    "bytes": 7474,
+    "sha256": "b5d6042f1963046a28bd23a213dfc71b413bdc5cbcd06d6ceedcde0e1023faba"
+  },
+  {
+    "path": "lessons/25-bagging-random-forests.md",
+    "bytes": 7750,
+    "sha256": "8eb338462f36f208c752be76d15fa800287544277d152ca969f4b147a3eeb36b"
+  },
+  {
+    "path": "lessons/26-boosting.md",
+    "bytes": 8589,
+    "sha256": "e8111e1afabbe29a3ee7757683e9145c5fd2e9256d67da3c73a0b1785c3b1738"
+  },
+  {
+    "path": "lessons/27-classical-ml-project.md",
+    "bytes": 4050,
+    "sha256": "468926e2d9588818b860159f3769127b2a443b59b039ec1532d3bab66c09b5a4"
+  },
+  {
+    "path": "lessons/28-pca-factorization.md",
+    "bytes": 4903,
+    "sha256": "fc2310f817c2db6f5ee682d981f5338f4213126b8234bf469b72532099f9a877"
+  },
+  {
+    "path": "lessons/29-partition-clustering.md",
+    "bytes": 7608,
+    "sha256": "c049a3909e96f59a4436bbbce6fb9604f930d2dcab17c4b78387b7d8c5102a48"
+  },
+  {
+    "path": "lessons/30-density-hierarchical-spectral.md",
+    "bytes": 4967,
+    "sha256": "1c4f5894f7dbf18f7019f3fea5001b6c14717ddd2e9b7176bfd3daf556743bea"
+  },
+  {
+    "path": "lessons/31-mixtures-latent-variables.md",
+    "bytes": 8442,
+    "sha256": "79439626b9b8e11b4b01b2d5edeed03fbde02302e6b54a0bc822588acdcb5b3f"
+  },
+  {
+    "path": "lessons/32-hmm-time-series.md",
+    "bytes": 8737,
+    "sha256": "da0d5f2676803eb5b3306ebd91bec285c8283bf8525b4067cd5d67a28b462748"
+  },
+  {
+    "path": "lessons/33-neural-networks-backprop.md",
+    "bytes": 43084,
+    "sha256": "aadc5e63166701cbc05b58b4b6f918e356132844b67c0d50ef76a21460e6860d"
+  },
+  {
+    "path": "lessons/34-activations-initialization.md",
+    "bytes": 3838,
+    "sha256": "fd125594fbcdb1431bb76d57af7176ec6c14ad0915213f0bdd921afee3b8f757"
+  },
+  {
+    "path": "lessons/35-dropout-normalization-residuals.md",
+    "bytes": 7698,
+    "sha256": "e22b34887e4b39237292fba397b4a4e4e3638c3916e52990fe682282fb6b791f"
+  },
+  {
+    "path": "lessons/36-pytorch-training.md",
+    "bytes": 40913,
+    "sha256": "9aff876421ddfe3557f4df1d1e4e040bb3d720918681254820aba8f50625d86c"
+  },
+  {
+    "path": "lessons/37-convolutional-networks.md",
+    "bytes": 37679,
+    "sha256": "9f0216a9b4403cfef63537e1f7b851892517a74c5be67a00f889c010eb1f0f3b"
+  },
+  {
+    "path": "lessons/38-recurrent-networks.md",
+    "bytes": 18117,
+    "sha256": "ef9382e5d4e7a80473a6538763656c93997d1c446ba58231c4852669df936ba0"
+  },
+  {
+    "path": "lessons/39-nlp-tasks-preprocessing.md",
+    "bytes": 4026,
+    "sha256": "967d914322511eaeaa32b74d435bcc015b5ded8fca828a7d90a97f5819bb9a02"
+  },
+  {
+    "path": "lessons/40-tokenization-embeddings.md",
+    "bytes": 17230,
+    "sha256": "a7d41c2f0ad03d1ff98a22720825f71f749002f92f467888ac8962afa133ce63"
+  },
+  {
+    "path": "lessons/41-attention-derivation.md",
+    "bytes": 21021,
+    "sha256": "bc1df4b0cce4d249a689659ea75e53106eb6cf6bba0b2cb25ba3cb7867552edc"
+  },
+  {
+    "path": "lessons/42-masks-position-multihead.md",
+    "bytes": 23761,
+    "sha256": "e274c6ccad95862ff667d0d19f89ca1a50e8f5e11e6f9681d86874bcc542148d"
+  },
+  {
+    "path": "lessons/43-transformer-architectures.md",
+    "bytes": 18395,
+    "sha256": "7095514902bd92300174edbf2bdacb720a40c5aada36a249f2f0922fbb9ebf4d"
+  },
+  {
+    "path": "lessons/44-build-train-transformer.md",
+    "bytes": 25009,
+    "sha256": "b30ccd9f993c548a5a4cdcfc1d63d3d8b2454b54732ba13bfb40a54a142352f3"
+  },
+  {
+    "path": "lessons/45-translation-decoding-evaluation.md",
+    "bytes": 15148,
+    "sha256": "9e47872ae2e2dc3d741c1810d94a546f967427247e1930c89da7ca24dacf9c9d"
+  },
+  {
+    "path": "lessons/46-finetuning-hypernetworks.md",
+    "bytes": 21810,
+    "sha256": "a4ff31e8fb34a333567624c1b371b30485f03eaec5ca4a6495da1e6ed38c0356"
+  },
+  {
+    "path": "lessons/47-efficient-attention-memory.md",
+    "bytes": 20391,
+    "sha256": "0bafa9b78b078138f83d7bb0feb35ae9d1a2857efb64427e18f3d1de5deb423f"
+  },
+  {
+    "path": "lessons/48-distributed-deployment.md",
+    "bytes": 47145,
+    "sha256": "62d065cfbd666cf4aade8f44e76ac2d30db4a40ed7f58bf8ec6ad42939db8d99"
+  },
+  {
+    "path": "lessons/49-graphs-knowledge-gnn.md",
+    "bytes": 5350,
+    "sha256": "6d8045dec19e5beb19dcfcffe037a6762671d6256cea33504923aaba100957e7"
+  },
+  {
+    "path": "lessons/50-self-supervised-representations.md",
+    "bytes": 9791,
+    "sha256": "4ffab1b63dda629b3c53fc8e1c6d63d89e26d0a258d9a792cbb0dec6e916dc51"
+  },
+  {
+    "path": "lessons/51-vae-gan.md",
+    "bytes": 39429,
+    "sha256": "d5304db00ab71faa38cfed5e14aa877e6cf336e64bc1ebb734bd04485ab8b347"
+  },
+  {
+    "path": "lessons/52-continuous-diffusion.md",
+    "bytes": 6700,
+    "sha256": "78b81d2b8d6ef27bd12865a2101f5c13d53e02996466ad65efc753aaceeaca31"
+  },
+  {
+    "path": "lessons/53-discrete-diffusion-language.md",
+    "bytes": 6644,
+    "sha256": "07617c43ea1f217748b3014a0d135528f713e6711b55da63231c57d9e46a42a0"
+  },
+  {
+    "path": "lessons/54-rl-values.md",
+    "bytes": 18315,
+    "sha256": "0f2142236063c31bdb68b87994b36d8f09d62ee03febfb83d0f13c82eb564b33"
+  },
+  {
+    "path": "lessons/55-rl-policy-gradients.md",
+    "bytes": 19091,
+    "sha256": "8467728c6bf2b4d2dff79c5de390fe58897088c6fc496c95e8be13810d6e1bd6"
+  },
+  {
+    "path": "lessons/56-reinforcement-finetuning.md",
+    "bytes": 19291,
+    "sha256": "66244e61c3cce1322d6c13f2a5ac2ed6dcb581a145b0cee8f950d373b4845df6"
+  },
+  {
+    "path": "lessons/57-recommendation-anomaly-semisupervised.md",
+    "bytes": 5392,
+    "sha256": "103d41bff51312fe447667c62dfa7fd2f58a76978f5f8e961bc699dfc516cfb7"
+  },
+  {
+    "path": "lessons/58-interpretability-causality-fairness.md",
+    "bytes": 4291,
+    "sha256": "d9ec7d524f33b1638bc185bed61463404dfa74c222574f368535fe2319272a52"
+  },
+  {
+    "path": "lessons/59-capstone.md",
+    "bytes": 5105,
+    "sha256": "28ef0bf807539e5583dabdd3d7ccf5ad1f5d6bb5d7118689146637245379b7e2"
+  },
+  {
+    "path": "lessons/60-research-synthesis.md",
+    "bytes": 4343,
+    "sha256": "2c64f946e796c8e04c8afe3d045850bdb3b194b7bc1d10920af82d0674f30a85"
+  },
+  {
+    "path": "math-verification.json",
+    "bytes": 3555,
+    "sha256": "f55ef207d1d8487bce96f9a66c24a67c93fc5542764571c68ff2cc46ac2d7b5a"
+  },
+  {
+    "path": "requirements-verification.txt",
+    "bytes": 32,
+    "sha256": "870ae91f3303947ff9c818ad0d868a31eb9c13ffccc7f41a98897d4022c0c092"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 42,
+    "sha256": "3639ed6a5b1aa1a9be3a2cab91d2a38efaf7aff949d025126f96867ae77786de"
+  },
+  {
+    "path": "structural-report.json",
+    "bytes": 7889,
+    "sha256": "a5d1d6e3db8ac0c3ec6c389b030ebe599028807ac24e3d8bfe6ad5b757a5e51c"
+  },
+  {
+    "path": "tests/neural/test_core.py",
+    "bytes": 4719,
+    "sha256": "cb3b828bdf768375a3aacc298af88ac99414e0f8e071f7075d68d5d9885a5895"
+  },
+  {
+    "path": "tests/test_classical.py",
+    "bytes": 6363,
+    "sha256": "d470be5d6e85cb6b02a368e5bea9fc684a36ae5d980ffeba9faa5469f2dc5b92"
+  },
+  {
+    "path": "tests/test_reference_equivalence.py",
+    "bytes": 4024,
+    "sha256": "2d0b90f0e29d387570037a759e9c6f3a1d1d38d603a7156f73518f5e681a67d2"
+  },
+  {
+    "path": "tests/test_verification.py",
+    "bytes": 4677,
+    "sha256": "c10172136fb9b25a395294c9cc98371f0234f6d250bc2dcf1e5cb3eb312cef0b"
+  },
+  {
+    "path": "tools/check_consistency.py",
+    "bytes": 2035,
+    "sha256": "d993ad2666cf18f34591a6d84f8c52654811f92defc138ee3be8bff93c254c57"
+  },
+  {
+    "path": "tools/check_math.py",
+    "bytes": 4093,
+    "sha256": "d946653a4e0a7057dbd7d8f8d0a828711b11557af993710d2811f0a9f583ee69"
+  },
+  {
+    "path": "tools/run_validation.py",
+    "bytes": 2436,
+    "sha256": "1e1b1ed37c606da1aed9b39ea2a791d9850399233b34312d6a98625a497990cd"
+  },
+  {
+    "path": "tools/verify_course.py",
+    "bytes": 3694,
+    "sha256": "b1949120f764b4019ccac5cce88dfe2836c5c978b4b56c048cf5a7e2b4bd8ecb"
+  },
+  {
+    "path": "verification-baseline.json",
+    "bytes": 280,
+    "sha256": "624800a062738226ab4ed9ffe1d58baeba3d43913229d77d228a789fda08d5f1"
+  },
+  {
+    "path": "workshops/01-foundations-and-tensors.md",
+    "bytes": 35892,
+    "sha256": "5f07b1f64da48bb623b0471119cae149b88a1c89782bcc7805cf90a12a62c8f1"
+  },
+  {
+    "path": "workshops/02-gradients-and-neural-networks.md",
+    "bytes": 36466,
+    "sha256": "c2bb98210abec257c69d3739aa24135a7a3d721041a511c62a04c80fda7a98a9"
+  },
+  {
+    "path": "workshops/03-data-training-and-evaluation.md",
+    "bytes": 41357,
+    "sha256": "92ca9f4a6fc0e2eb96ee7044ea43001193db9fcb9d62f2dcb52f2d00d49df296"
+  },
+  {
+    "path": "workshops/04-vision-audio-and-transfer-learning.md",
+    "bytes": 37806,
+    "sha256": "d1cc33de1f1480f31a186e67df27516a4fcc080daf5f0a393cd04226de54516b"
+  },
+  {
+    "path": "workshops/05-sequences-attention-and-transformers.md",
+    "bytes": 41043,
+    "sha256": "614e7c3f2a5e4e9dfe3d95f7653ff72df21c7bf57ffaa0e8c8ee2947216a9f9b"
+  },
+  {
+    "path": "workshops/06-advanced-autograd-and-ai-objectives.md",
+    "bytes": 39342,
+    "sha256": "7acdb9cf3a6edb998ff674784deaa96657a124084c382323bf419faa2f5ae145"
+  },
+  {
+    "path": "workshops/07-performance-distributed-and-deployment.md",
+    "bytes": 40921,
+    "sha256": "3fd8849b41d49a9676299fb61e92e4d6667ab420e5c8f7f9717cc9578bcf085b"
+  }
+]

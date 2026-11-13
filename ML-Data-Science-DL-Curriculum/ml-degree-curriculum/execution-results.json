@@ -1,0 +1,294 @@
+{
+  "checked_at_utc": "2026-11-13T02:17:50.367412+00:00",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "scikit_learn": "1.8.0"
+  },
+  "pytorch_available": false,
+  "pytorch_runtime_executed": false,
+  "skipped": [
+    {
+      "check": "PyTorch runtime, CUDA, distributed framework execution",
+      "reason": "PyTorch is not installed"
+    }
+  ],
+  "commands": [
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/demo.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.7351,
+      "stdout": "least squares [1. 2.]\nlogistic training accuracy 0.9666666666666667\nkNN [1 0 0]\nnaive Bayes [[0.42553191 0.57446809]]\ntree training accuracy 0.9866666666666667\nkmeans centers [[ 3.00140165  3.09360957]\n [-3.03530042 -3.01817889]]\nmedoids [35 18]\nDBSCAN labels [0 1]\nmixture log likelihood -183.42258915426171 -151.56749826941436\nGP mean, latent variance [0.42737926 1.00731177] [0.02502049 0.02502049]\nHMM evidence and path 0.069616 [0 0 0]\nall core demonstrations passed\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/advanced.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.206,
+      "stdout": "dropout means [0.9987  2.0064  3.00642]\nhypernetwork loss (np.float64(0.5), np.float64(4.336808689942018e-19))\nGCN loss (np.float64(0.10775157414707827), np.float64(0.06151533295633433))\ncontinuous denoising loss (np.float64(0.4823896097658133), np.float64(0.12888822899794863))\ndiscrete denoising (np.float64(0.6931471805599454), np.float64(0.49912436833836565), array([0, 0, 0]))\nrecommendation and harmonic labels (np.float64(7.844607567332975), np.float64(2.4561512976100046e-29), array([0.        , 0.33333333, 0.66666667, 1.        ]), array([4.48639177e-05, 2.03513157e+02]))\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/extended.py"
+      ],
+      "returncode": 0,
+      "seconds": 1.4277,
+      "stdout": "LinearDiscriminantAnalysis 1.0\nQuadraticDiscriminantAnalysis 1.0\nSVC 1.0\nAgglomerativeClustering [30 30]\nSpectralClustering [30 30]\ndocument-topic mixtures [[0.07562    0.92438   ]\n [0.04875358 0.95124642]\n [0.95133462 0.04866538]\n [0.9296565  0.0703435 ]]\n",
+      "stderr": "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/joblib/externals/loky/backend/context.py:131: UserWarning: Could not find the number of physical cores for the following reason:\nfound 0 physical cores < 1\nReturning the number of logical cores instead. You can silence this warning by setting LOKY_MAX_CPU_COUNT to the number of cores you want to use.\n  warnings.warn(\n  File \"/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/joblib/externals/loky/backend/context.py\", line 255, in _count_physical_cores\n    raise ValueError(f\"found {cpu_count_physical} physical cores < 1\")\n"
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/project.py"
+      ],
+      "returncode": 0,
+      "seconds": 2.9397,
+      "stdout": "{\n  \"development\": [\n    {\n      \"family\": \"constant\",\n      \"development_neg_log_loss\": -0.6606747772324187,\n      \"parameters\": {}\n    },\n    {\n      \"family\": \"logistic\",\n      \"development_neg_log_loss\": -0.0785043964779718,\n      \"parameters\": {\n        \"logisticregression__C\": 1.0\n      }\n    },\n    {\n      \"family\": \"forest\",\n      \"development_neg_log_loss\": -0.11363551485720116,\n      \"parameters\": {\n        \"max_depth\": null,\n        \"min_samples_leaf\": 1\n      }\n    }\n  ],\n  \"selected\": \"logistic\",\n  \"test\": {\n    \"accuracy\": 0.972027972027972,\n    \"log_loss\": 0.07794047428136042,\n    \"roc_auc\": 0.9958071278825996\n  },\n  \"note\": \"Educational comparison on bundled data; not a clinical model.\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_17.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0705,
+      "stdout": "[1. 2.]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_18.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0876,
+      "stdout": "[ 2.7  0.  -1.7]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_19.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0876,
+      "stdout": "[4.45476989e-16 5.27904354e+00] [0.00507145 0.99492855]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_21.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0733,
+      "stdout": "[0 1]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_22.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.079,
+      "stdout": "[0 1] [[0.42553191 0.57446809]]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_23.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.1342,
+      "stdout": "SVM weight [1.00949934]\nGP (array([0.        , 1.12220562]), array([0.24903054, 0.03462644]))\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_24.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.087,
+      "stdout": "(0, 2.5, (np.float64(0.0),), (np.float64(1.0),))\n[0. 0. 1. 1.]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_25.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.1465,
+      "stdout": "1.0\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_26.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.1593,
+      "stdout": "0.0017671914189900026\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_28.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0771,
+      "stdout": "[[-2.82842712]\n [ 0.        ]\n [ 2.82842712]]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_29.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0951,
+      "stdout": "means (array([[0.5],\n       [8.5]]), array([0, 0, 1, 1]), array([2., 1.]))\nmedoids (array([1, 2]), array([0, 0, 1, 1]))\nfuzzy (array([[0.49962903],\n       [8.50037097]]), array([[0.99655712, 0.00344288],\n       [0.99556912, 0.00443088],\n       [0.00443088, 0.99556912],\n       [0.00344288, 0.99655712]]))\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_30.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0653,
+      "stdout": "[ 0  0  0  1  1 -1]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_31.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0847,
+      "stdout": "[0.5 0.5] [-3.02815022  2.98647092] [0.07404418 0.0644685 ]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/classical/lesson_32.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0595,
+      "stdout": "0.069616 [[0.88235294 0.11764706]\n [0.52411874 0.47588126]\n [0.86287635 0.13712365]]\n[0 0 0]\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/neural/run_all.py"
+      ],
+      "returncode": 0,
+      "seconds": 4.3458,
+      "stdout": "PASS 01_tensors_shapes.py\nPASS 02_linear_algebra.py\nPASS 03_calculus_chain_rule.py\nPASS 04_probability_conditioning.py\nPASS 05_entropy_softmax.py\nPASS 06_neural_networks_autodiff.py\nPASS 07_language_modeling.py\nPASS 08_tokenization_bpe.py\nPASS 09_embeddings.py\nPASS 10_rnn_seq2seq.py\nPASS 11_attention_weighted_retrieval.py\nPASS 12_scaled_dot_product_attention.py\nPASS 13_attention_backpropagation.py\nPASS 14_attention_masks.py\nPASS 15_multihead_gqa.py\nPASS 16_position_rope.py\nPASS 17_transformer_blocks.py\nPASS 18_encoder_decoder_architectures.py\nPASS 19_implement_gpt.py\nPASS 20_train_gpt.py\nPASS 21_pretraining_systems.py\nPASS 22_decoding_kv_cache.py\nPASS 23_efficient_attention.py\nPASS 24_long_context.py\nPASS 25_evaluation_interpretability.py\nPASS 26_instruction_sft.py\nPASS 27_lora_peft.py\nPASS 28_quantization_qlora.py\nPASS 29_mixture_of_experts.py\nPASS 30_knowledge_distillation.py\nPASS 31_rl_foundations.py\nPASS 32_bellman_dynamic_programming.py\nPASS 33_td_q_learning.py\nPASS 34_policy_gradients.py\nPASS 35_actor_critic_gae.py\nPASS 36_ppo.py\nPASS 37_reward_modeling_rlhf.py\nPASS 38_dpo_preference_optimization.py\nPASS 39_grpo_verifiable_rewards.py\nPASS 40_prompting_search.py\nPASS 41_context_memory.py\nPASS 42_dense_retrieval.py\nPASS 43_rag_hybrid_ranking.py\nPASS 44_advanced_rag_evaluation.py\nPASS 45_agent_loops_graphs.py\nPASS 46_llm_judges.py\nPASS 47_vision_clip.py\nPASS 48_generative_vlm.py\nPASS 49_recursive_transformers.py\nPASS 50_recursive_self_improvement.py\nPASS 51_physical_ai_control.py\nPASS 52_generative_actions_world_models.py\nPASS 53_capstone_local_system.py\nPASS 54_research_reproducibility.py\nPASS alignment_training.py\nPASS sequence_alignment.py\n56 executable examples passed.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/pytorch/00_finite_difference.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0123,
+      "stdout": "-6.000000000039306\n-6.0\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "code/pytorch/01_scalar_gradient_descent.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.0123,
+      "stdout": "0 0.0 9.0\n1 0.6 5.76\n2 1.08 3.6864\n3 1.464 2.3593\n4 1.7712 1.5099\n5 2.017 0.9664\n6 2.2136 0.6185\n7 2.3709 0.3958\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "returncode": 0,
+      "seconds": 1.5746,
+      "stdout": "",
+      "stderr": "test_denoising_actually_learns (test_classical.ClassicalTests.test_denoising_actually_learns) ... ok\ntest_density_clusters_and_noise (test_classical.ClassicalTests.test_density_clusters_and_noise) ... ok\ntest_em_monotonicity (test_classical.ClassicalTests.test_em_monotonicity) ... ok\ntest_factorization_and_harmonic_labels (test_classical.ClassicalTests.test_factorization_and_harmonic_labels) ... ok\ntest_gp_symmetry_and_latent_variance (test_classical.ClassicalTests.test_gp_symmetry_and_latent_variance) ... ok\ntest_hinge_gradient_away_from_kinks (test_classical.ClassicalTests.test_hinge_gradient_away_from_kinks) ... ok\ntest_hmm_against_enumeration (test_classical.ClassicalTests.test_hmm_against_enumeration) ... ok\ntest_hypernetwork_and_gcn_gradients (test_classical.ClassicalTests.test_hypernetwork_and_gcn_gradients) ... ok\ntest_knn_ties_and_bounds (test_classical.ClassicalTests.test_knn_ties_and_bounds) ... ok\ntest_lasso_kkt (test_classical.ClassicalTests.test_lasso_kkt) ... ok\ntest_least_squares_rank_and_ridge (test_classical.ClassicalTests.test_least_squares_rank_and_ridge) ... ok\ntest_logistic_gradient (test_classical.ClassicalTests.test_logistic_gradient) ... ok\ntest_naive_bayes_hand_posterior (test_classical.ClassicalTests.test_naive_bayes_hand_posterior) ... ok\ntest_partition_clustering (test_classical.ClassicalTests.test_partition_clustering) ... ok\ntest_pca_energy (test_classical.ClassicalTests.test_pca_energy) ... ok\ntest_softmax_gradient (test_classical.ClassicalTests.test_softmax_gradient) ... ok\ntest_standardization_constant_column (test_classical.ClassicalTests.test_standardization_constant_column) ... ok\ntest_tree_and_boosting (test_classical.ClassicalTests.test_tree_and_boosting) ... ok\ntest_density_partition_matches_library (test_reference_equivalence.ReferenceEquivalenceTests.test_density_partition_matches_library) ... /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/joblib/externals/loky/backend/context.py:131: UserWarning: Could not find the number of physical cores for the following reason:\nfound 0 physical cores < 1\nReturning the number of logical cores instead. You can silence this warning by setting LOKY_MAX_CPU_COUNT to the number of cores you want to use.\n  warnings.warn(\n  File \"/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/joblib/externals/loky/backend/context.py\", line 255, in _count_physical_cores\n    raise ValueError(f\"found {cpu_count_physical} physical cores < 1\")\nok\ntest_gp_mean_and_latent_variance_match_library (test_reference_equivalence.ReferenceEquivalenceTests.test_gp_mean_and_latent_variance_match_library) ... ok\ntest_kmeans_fixed_point_matches_library (test_reference_equivalence.ReferenceEquivalenceTests.test_kmeans_fixed_point_matches_library) ... ok\ntest_lasso_matches_library_with_same_mean_penalty (test_reference_equivalence.ReferenceEquivalenceTests.test_lasso_matches_library_with_same_mean_penalty) ... ok\ntest_multinomial_bayes_posteriors_match_library (test_reference_equivalence.ReferenceEquivalenceTests.test_multinomial_bayes_posteriors_match_library) ... ok\ntest_pca_reconstruction_matches_library (test_reference_equivalence.ReferenceEquivalenceTests.test_pca_reconstruction_matches_library) ... ok\ntest_ridge_matches_library_with_same_sum_penalty (test_reference_equivalence.ReferenceEquivalenceTests.test_ridge_matches_library_with_same_sum_penalty) ... ok\ntest_unambiguous_tree_matches_library (test_reference_equivalence.ReferenceEquivalenceTests.test_unambiguous_tree_matches_library) ... ok\ntest_all_masked_softmax_row_is_rejected (test_verification.VerificationTests.test_all_masked_softmax_row_is_rejected) ... ok\ntest_binary_column_target_is_rejected (test_verification.VerificationTests.test_binary_column_target_is_rejected) ... ok\ntest_binary_label_domain_is_checked (test_verification.VerificationTests.test_binary_label_domain_is_checked) ... ok\ntest_discrete_denoiser_listing_matches_executable (test_verification.VerificationTests.test_discrete_denoiser_listing_matches_executable) ... ok\ntest_finite_difference_requires_positive_step (test_verification.VerificationTests.test_finite_difference_requires_positive_step) ... ok\ntest_gp_rejects_negative_standard_deviation (test_verification.VerificationTests.test_gp_rejects_negative_standard_deviation) ... ok\ntest_gp_target_shape_is_rejected (test_verification.VerificationTests.test_gp_target_shape_is_rejected) ... ok\ntest_hinge_label_encoding (test_verification.VerificationTests.test_hinge_label_encoding) ... ok\ntest_hmm_rejects_negative_observation_index (test_verification.VerificationTests.test_hmm_rejects_negative_observation_index) ... ok\ntest_hmm_rejects_nonstochastic_transition (test_verification.VerificationTests.test_hmm_rejects_nonstochastic_transition) ... ok\ntest_mixture_responsibilities_match_returned_parameters (test_verification.VerificationTests.test_mixture_responsibilities_match_returned_parameters) ... ok\ntest_multiclass_label_domain_and_shape (test_verification.VerificationTests.test_multiclass_label_domain_and_shape) ... ok\ntest_naive_bayes_rejects_negative_prediction_counts (test_verification.VerificationTests.test_naive_bayes_rejects_negative_prediction_counts) ... ok\ntest_pca_component_count (test_verification.VerificationTests.test_pca_component_count) ... ok\ntest_rbf_feature_mismatch_is_rejected (test_verification.VerificationTests.test_rbf_feature_mismatch_is_rejected) ... ok\ntest_scaler_rejects_broadcast_feature_mismatch (test_verification.VerificationTests.test_scaler_rejects_broadcast_feature_mismatch) ... ok\ntest_tree_binary_contract (test_verification.VerificationTests.test_tree_binary_contract) ... ok\ntest_viterbi_rejects_impossible_sequence (test_verification.VerificationTests.test_viterbi_rejects_impossible_sequence) ... ok\n\n----------------------------------------------------------------------\nRan 44 tests in 0.136s\n\nOK\n"
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests/neural",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "returncode": 0,
+      "seconds": 0.2602,
+      "stdout": "",
+      "stderr": "test_all_gpt_parameter_families (test_core.NumericalTests.test_all_gpt_parameter_families) ... ok\ntest_batched_matmul_broadcast (test_core.NumericalTests.test_batched_matmul_broadcast) ... ok\ntest_broadcast_elementwise (test_core.NumericalTests.test_broadcast_elementwise) ... ok\ntest_causal_attention (test_core.NumericalTests.test_causal_attention) ... ok\ntest_index_accumulation (test_core.NumericalTests.test_index_accumulation) ... ok\ntest_log_softmax (test_core.NumericalTests.test_log_softmax) ... ok\ntest_masked_targets (test_core.NumericalTests.test_masked_targets) ... ok\ntest_nonlinear_and_normalization (test_core.NumericalTests.test_nonlinear_and_normalization) ... ok\ntest_optimizer_and_fit (test_core.NumericalTests.test_optimizer_and_fit) ... ok\ntest_transpose_reshape (test_core.NumericalTests.test_transpose_reshape) ... ok\n\n----------------------------------------------------------------------\nRan 10 tests in 0.149s\n\nOK\n"
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "tools/check_consistency.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.097,
+      "stdout": "{\n  \"copied_definitions_checked\": 34,\n  \"complete_listings_checked\": 20,\n  \"problems\": [],\n  \"all_passed\": true\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "tools/verify_course.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.1796,
+      "stdout": "{\n  \"lesson_count\": 60,\n  \"mapped_primer_urls\": 47,\n  \"core_words\": 93919,\n  \"python_files_syntax_checked\": 104,\n  \"local_links_checked\": 437,\n  \"python_blocks_syntax_checked\": 611,\n  \"snippet_syntax_notes\": [],\n  \"problems\": [],\n  \"model_token_count_verified\": false,\n  \"whitespace_proxy_target\": 5000,\n  \"lessons_below_whitespace_proxy\": 55,\n  \"length_method\": \"Python str.split whitespace words; not model tokens\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "tools/check_math.py"
+      ],
+      "returncode": 0,
+      "seconds": 0.6924,
+      "stdout": "{\n  \"sympy_version\": \"1.14.0\",\n  \"passed\": 33,\n  \"total\": 33,\n  \"all_passed\": true,\n  \"scope\": \"Selected scalar identities and low dimensional derivative formulas; not every equation or theorem.\"\n}\n",
+      "stderr": ""
+    }
+  ],
+  "all_passed": true
+}

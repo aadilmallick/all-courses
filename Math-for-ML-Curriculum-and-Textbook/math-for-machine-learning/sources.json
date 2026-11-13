@@ -1,0 +1,55 @@
+{
+  "access_date": "2026-11-12",
+  "sources": [
+    {
+      "id": "A",
+      "title": "Aman\u2019s AI Journal \u2014 Math primer",
+      "url": "https://aman.ai/primers/math/",
+      "access_state": "partially-inspected",
+      "inspected_sections": "Topic index, vector material, opening differential calculus"
+    },
+    {
+      "id": "B",
+      "title": "Deep Learning \u2014 Linear Algebra",
+      "url": "https://www.deeplearningbook.org/contents/linear_algebra.html",
+      "access_state": "partially-inspected",
+      "inspected_sections": "Opening section"
+    },
+    {
+      "id": "C",
+      "title": "Deep Learning \u2014 Probability and Information Theory",
+      "url": "https://www.deeplearningbook.org/contents/prob.html",
+      "access_state": "partially-inspected",
+      "inspected_sections": "Opening section"
+    },
+    {
+      "id": "D",
+      "title": "Deep Learning \u2014 Numerical Computation",
+      "url": "https://www.deeplearningbook.org/contents/numerical.html",
+      "access_state": "partially-inspected",
+      "inspected_sections": "Opening numerical arithmetic and overflow/underflow"
+    },
+    {
+      "id": "E",
+      "title": "Convex Optimization \u2014 author-hosted book page",
+      "url": "https://web.stanford.edu/~boyd/cvxbook/",
+      "access_state": "index-only",
+      "inspected_sections": "Landing page, not full linked PDF"
+    },
+    {
+      "id": "F",
+      "title": "NumPy 2.3 least squares reference",
+      "url": "https://numpy.org/doc/2.3/reference/generated/numpy.linalg.lstsq.html",
+      "access_state": "inspected",
+      "inspected_sections": "Reference page and actual executed NumPy 2.3.5 call"
+    },
+    {
+      "id": "G",
+      "title": "SciPy 1.17 statistics reference",
+      "url": "https://docs.scipy.org/doc/scipy-1.17.0/reference/stats.html",
+      "access_state": "index-only",
+      "inspected_sections": "Module reference; selected functions executed in SciPy 1.17.0"
+    }
+  ],
+  "redistribution": "No full reference text redistributed."
+}
