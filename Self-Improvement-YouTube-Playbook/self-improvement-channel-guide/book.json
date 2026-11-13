@@ -1,0 +1,24 @@
+{
+  "title": "Make progress. Show the work.",
+  "subtitle": "A practical self-improvement YouTube playbook",
+  "date": "2026-11-13",
+  "chapters": [
+    {"id":"positioning","title":"Choose your audience","path":"chapters/01-positioning.md"},
+    {"id":"ideas","title":"Find and package useful ideas","path":"chapters/02-ideas.md"},
+    {"id":"raw","title":"Make direct advice","path":"chapters/03-raw.md"},
+    {"id":"polished","title":"Build polished teaching","path":"chapters/04-polished.md"},
+    {"id":"filming","title":"Set up and record","path":"chapters/05-filming.md"},
+    {"id":"editing","title":"Edit for understanding","path":"chapters/06-editing.md"},
+    {"id":"growth","title":"Publish and grow","path":"chapters/07-growth.md"},
+    {"id":"action-plan","title":"Follow the 90-day plan","path":"chapters/08-action-plan.md"}
+  ],
+  "extras": [
+    {"id":"start-today","title":"Start today","path":"start-today.md"},
+    {"id":"production-playbooks","title":"Two production checklists","path":"production-playbooks.md"},
+    {"id":"sample-scripts","title":"Original sample scripts","path":"sample-scripts.md"},
+    {"id":"equipment","title":"Equipment decisions","path":"equipment.md"},
+    {"id":"daily-actions","title":"90 daily actions","path":"daily-actions.md"},
+    {"id":"templates","title":"Reusable templates","path":"templates.md"},
+    {"id":"sources","title":"Sources and research limits","path":"sources.md"}
+  ]
+}

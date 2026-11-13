@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-13",
+  "archive": "Self-Improvement-YouTube-Playbook.zip",
+  "crcCheck": "passed",
+  "extractedRebuild": "passed; generated outputs byte-identical",
+  "htmlStructuralChecks": [
+    {
+      "file": "guide.html",
+      "tables": 33,
+      "imagesWithAlt": 1
+    },
+    {
+      "file": "start-today.html",
+      "tables": 1,
+      "imagesWithAlt": 0
+    },
+    {
+      "file": "production-playbooks.html",
+      "tables": 0,
+      "imagesWithAlt": 0
+    }
+  ],
+  "outputSHA256": {
+    "guide.html": "fb9ea60ecd4c5c2d13fdc3c15b71637a1b4daa4f60e7218c980b14e552dca1c5",
+    "guide.md": "eb4ff423b70b322b4e5bc50d89ff88fe50ce1a82c15e56055ab4d808f2fa8966",
+    "start-today.html": "c4b9cf8976d077b6cb4745efd64cf0050f7141f22a96ec1d0ba714d1582f0c36",
+    "production-playbooks.html": "c983f8f4bde8e1861b13f2953344ffb5e6379d2dd2972beb5569287ff4786ed1",
+    "daily-actions.md": "2c7374b20e2af1c53987e5c6c170276d4a7044853758e40017ef6fa66bd24266",
+    "daily-actions.json": "41d8f56a344e8c5613e33b10e33bdbab0fe4bd6d0eadcca8507af49c6ea83696",
+    "verification.json": "f6f737dbb6d74f7b4b175c1149d60f8ccb30ffc35ed5bf74888e3291a65fde2a"
+  },
+  "visualInspection": "not performed; structural parsing is not visual QA"
+}

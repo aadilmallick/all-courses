@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">Two simple filming layouts, viewed from above</title><desc id="desc">Left: a phone at eye height faces a seated speaker lit from a window to one side. Right: the same arrangement with one soft key light, a desk, and optional background lamp. Both use close speech recording and a quiet background.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#a36337" stroke-width="1.5"/></marker></defs>
+<rect width="960" height="440" rx="14" fill="#eef0e5"/>
+<g font-family="Arial,sans-serif" fill="#21352f"><text x="30" y="34" font-size="17" font-weight="bold">TOP VIEW · repeatable positions, not exact measurements</text>
+<rect x="22" y="55" width="446" height="365" rx="10" fill="#fffdf6" stroke="#becdbd"/>
+<rect x="490" y="55" width="446" height="365" rx="10" fill="#fffdf6" stroke="#becdbd"/>
+<text x="42" y="88" font-size="21" font-weight="bold">A · Direct conversation</text><text x="510" y="88" font-size="21" font-weight="bold">B · Polished teaching</text>
+<text x="182" y="127" font-size="14">quiet background</text><text x="653" y="127" font-size="14">quiet background</text>
+<rect x="44" y="139" width="20" height="108" fill="#b7dfe0"/><text x="77" y="153" font-size="14">window</text>
+<path d="M85 185 L203 218" stroke="#a36337" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<circle cx="246" cy="226" r="31" fill="#245d4a"/><text x="231" y="232" font-size="15" fill="white">you</text>
+<path d="M246 270 L246 304" stroke="#739080" stroke-dasharray="5 5" stroke-width="2"/>
+<rect x="225" y="316" width="42" height="22" rx="5" fill="#21352f"/><text x="288" y="332" font-size="14">phone</text>
+<text x="72" y="386" font-size="14">Close mic · soft light · chest-up framing</text>
+<rect x="523" y="157" width="45" height="45" rx="7" fill="#e6bc75" stroke="#a36337"/><text x="575" y="170" font-size="14">soft key light</text>
+<path d="M575 195 L669 218" stroke="#a36337" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<circle cx="714" cy="226" r="31" fill="#245d4a"/><text x="699" y="232" font-size="15" fill="white">you</text>
+<rect x="661" y="269" width="106" height="23" rx="4" fill="#d8c5a2"/><text x="780" y="286" font-size="14">desk</text>
+<path d="M714 297 L714 307" stroke="#739080" stroke-dasharray="4 4" stroke-width="2"/>
+<rect x="693" y="316" width="42" height="22" rx="5" fill="#21352f"/><text x="755" y="332" font-size="14">phone</text>
+<circle cx="871" cy="138" r="10" fill="#e6bc75"/><text x="804" y="113" font-size="12">optional lamp</text>
+<text x="533" y="386" font-size="14">Same phone · controlled light · useful close-ups</text>
+</g></svg>

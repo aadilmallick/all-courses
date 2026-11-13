@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-13",
+  "checks": [
+    "chapter presence",
+    "Markdown fences",
+    "local references",
+    "unique HTML anchors",
+    "HTML navigation targets",
+    "90 contiguous daily rows",
+    "six publication targets",
+    "six 48–72-hour checkpoints",
+    "weekly/total time arithmetic",
+    "equipment arithmetic"
+  ],
+  "chapterWords": [
+    {
+      "chapter": "chapters/01-positioning.md",
+      "whitespaceWords": 1318
+    },
+    {
+      "chapter": "chapters/02-ideas.md",
+      "whitespaceWords": 1767
+    },
+    {
+      "chapter": "chapters/03-raw.md",
+      "whitespaceWords": 1419
+    },
+    {
+      "chapter": "chapters/04-polished.md",
+      "whitespaceWords": 1315
+    },
+    {
+      "chapter": "chapters/05-filming.md",
+      "whitespaceWords": 1437
+    },
+    {
+      "chapter": "chapters/06-editing.md",
+      "whitespaceWords": 1710
+    },
+    {
+      "chapter": "chapters/07-growth.md",
+      "whitespaceWords": 1716
+    },
+    {
+      "chapter": "chapters/08-action-plan.md",
+      "whitespaceWords": 1281
+    }
+  ],
+  "totalChapterWords": 11963,
+  "assembledWhitespaceWords": 19433,
+  "days": 90,
+  "totalMinutes": 6510,
+  "issues": [],
+  "visualInspection": "Not performed: the available browser rejected local-file preview in this environment. No alternate route was used.",
+  "externalLinks": "Primary sources researched; no automated guarantee of future external availability.",
+  "editorExecution": "No actual video recording, DaVinci Resolve editing, device test, or YouTube publishing performed."
+}

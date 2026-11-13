@@ -1,0 +1,7 @@
+You do not need to become an established guru before you can make something useful. You do need a clear audience, a problem you understand, and an honest way of showing what helped, what failed, and what remains uncertain.
+
+For you, the most credible starting point is **turning learning into action**: finishing projects, learning deliberately, managing attention after work, and building a life beyond the screen. Your software and learning interests give you concrete examples. They do not require every video to be about programming. A video about choosing one project can help a designer, student, or analyst as well as a developer.
+
+This guide combines the directness of a personal conversation with the clarity of a well-made lesson. Start with the direct format. Add polished episodes when a real demonstration, comparison, or experiment benefits from visuals. Your first 90 days are a production and audience-learning cycle, not a promise of a particular subscriber count or income.
+
+The sequence matters: choose the viewer before the idea; choose the idea before the script; make the script useful before adding effects. Each chapter explains a decision, shows an example, and gives you a concrete output. The daily plan turns those outputs into six planned uploads over 90 days. If a beginner edit takes longer, reduce the scope or publish fewer complete videos rather than borrowing hours from your life indefinitely.

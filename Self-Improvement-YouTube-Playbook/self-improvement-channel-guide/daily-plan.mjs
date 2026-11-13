@@ -1,0 +1,108 @@
+// Canonical daily action data. All times include learning and review checkpoints.
+export const weeklyMinutes = [45,45,45,45,30,180,120];
+export const cycles = [
+ {title:'V01 · Choose one thing to finish',format:'R',steps:[
+ ['Write the channel viewer and V01 promise. Choose a project example you can demonstrate honestly.','One audience sentence and one practical promise.'],
+ ['Research the question for 20 minutes; draft three truthful titles and a thumbnail sketch.','An idea card with a clear answer and original example.'],
+ ['Turn the example into a visible finish line and first action. Collect no private information.','A notebook page ready to show.'],
+ ['Write six speaking cards and an exact opening. Remove any invented personal history.','A complete situation-to-action outline.'],
+ ['Read aloud, time the outline, and record one minute looking at the lens.','One specific delivery improvement recorded.'],
+ ['Set up by a window, test speech, record V01 in sections, and capture the notebook and thumbnail.','Complete source takes plus a reviewed audio test.'],
+ ['Learn only import and trim operations; assemble the best complete sections.','A beginning-to-end spoken assembly.'],
+ ['Remove duplicate points and failed starts. Preserve breaths and the limitation.','A coherent direct-advice edit.'],
+ ['Place the notebook demonstration over the relevant explanation.','The abstract method has a visible example.'],
+ ['Balance speech and check joins on headphones and a phone speaker.','No distracting level changes or broken sentences.'],
+ ['Make one readable method card and review captions or a caption draft.','Short graphics and corrected important words.'],
+ ['Choose the honest title and thumbnail; draft sources and description.','A packaging set that matches the opening.'],
+ ['Finish, export, inspect, and upload privately/unlisted for processing checks.','A checked file and processed upload; fix defects found.'],
+ ['Publish V01 when ready, ask one useful question, and record production time.','First public video and the next concrete task.']
+ ]},
+ {title:'V02 · A plan for your tired self',format:'R',steps:[
+ ['Define V02 around one realistic evening; begin the two-week smaller-project experiment for V03.','A written test method and an honest V02 example.'],
+ ['Research normal-plan and fallback questions. Draft three titles that avoid a discipline cure claim.','An idea card and a clearly bounded answer.'],
+ ['Record the first project attempts and outline the normal/fallback distinction.','An experiment log plus a concrete V02 distinction.'],
+ ['Write V02 speaking cards with a normal action, smaller fallback, and boundary.','A script that does not count fallback work as a full result.'],
+ ['Rehearse the example aloud and prepare two notebook boxes.','The explanation fits your natural speaking pace.'],
+ ['Record V02 and the notebook example; continue the project log within the block.','Usable takes, thumbnail, and current evidence record.'],
+ ['Assemble V02 speech and note which sentences repeat the same idea.','A complete assembly with one clear method.'],
+ ['Tighten the argument and improve the one production issue selected after V01.','A targeted improvement, not a full format overhaul.'],
+ ['Add the normal/fallback page as the only necessary supporting visual.','The viewer can see the difference.'],
+ ['Balance audio, review the opening against the title, and log the project attempt.','Clear speech and a matching promise.'],
+ ['Review captions and remove vague or overconfident sentences.','A qualified, understandable lesson.'],
+ ['Prepare thumbnail and description with the actual useful next step.','A complete, truthful packaging set.'],
+ ['Export, inspect, process-check V02, and summarize the completed project experiment record.','A checked upload and real observations ready for V03.'],
+ ['Publish V02; close the original experiment period without changing its rules.','Two public videos and an intact evidence log.']
+ ]},
+ {title:'V03 · One smaller project — real observations',format:'P',steps:[
+ ['Read the entire experiment log, including missed attempts. Choose a title supported by the result.','A bounded finding or a decision to use a demonstration instead.'],
+ ['Write question, constraint, method, attempts, complication, interpretation, and application.','Seven story beats grounded in the record.'],
+ ['Draft the two-column script and identify the exact log entries each claim uses.','A script whose result claims can be traced.'],
+ ['Plan at most eight purposeful shots and a simple results table.','A shot list that explains rather than decorates.'],
+ ['Read aloud and simplify any section that needs too much setup.','A realistic runtime and a record-based conclusion.'],
+ ['Record the lesson, log close-ups, real project result, pickups, and thumbnail.','All essential footage without fabricated evidence.'],
+ ['Make the spoken assembly before learning any new visual effect.','A complete story that works as sound.'],
+ ['Fix the order and remove weak explanations; retain the failed attempt and limitation.','A clear interpretation, not a success-only montage.'],
+ ['Add actual supporting shots and a plainly labeled results table.','Viewers can inspect the observations.'],
+ ['Add a small set of section cards and balance voice/music if used.','Readable structure and comfortable speech.'],
+ ['Audit numbers, dates, and claims against the original log.','Every result-based sentence verified or qualified.'],
+ ['Choose a title and thumbnail that show the real finding.','Packaging does not claim a universal transformation.'],
+ ['Inspect the full export and processed upload; fix chart or caption errors.','A ready polished lesson with correct evidence.'],
+ ['Publish V03, link the relevant earlier lesson, and record the full production time.','Three connected uploads and a documented polished workflow.']
+ ]},
+ {title:'V04 · Restart after interruption',format:'R',steps:[
+ ['Choose a real restart question from your record or viewer feedback.','One specific interruption and a useful next decision.'],
+ ['Research the question and separate ordinary workflow advice from clinical claims.','A bounded premise and three honest title options.'],
+ ['Write a concrete restart example without pretending everyone has the same constraints.','A restart note you can demonstrate.'],
+ ['Draft six speaking cards: smaller action, permission to revise, and a limit.','A complete direct-advice outline.'],
+ ['Rehearse the opening and practice one calmer emphasis pattern.','Clear delivery without borrowed catchphrases.'],
+ ['Record V04 with the now-repeatable setup, plus its demonstration and thumbnail.','Usable takes with one setup improvement.'],
+ ['Assemble the argument and compare its clarity with your first raw episode.','A complete edit and one meaningful comparison.'],
+ ['Remove repeated reassurance and keep the concrete restart method.','A focused lesson instead of a motivational monologue.'],
+ ['Add the restart note where it answers the viewer’s question.','One useful supporting visual.'],
+ ['Balance speech and check the opening/title agreement.','A technically clear and honestly packaged opening.'],
+ ['Correct captions and check that the advice respects unavailable time.','No implication that every missed day is a character flaw.'],
+ ['Finish title, thumbnail, description, and the relevant next-video link.','One main call to action.'],
+ ['Export, inspect, and process-check V04. Simplify any optional effect.','A complete upload that passes the quality gate.'],
+ ['Publish V04 and review whether the raw workflow is becoming sustainable.','Four uploads and an updated time record.']
+ ]},
+ {title:'V05 · Is this tool actually helping?',format:'R',steps:[
+ ['Choose one tool decision you can explain. Begin the optional second small experiment for V06.','A specific task, comparison rule, and written test method.'],
+ ['Research the viewer question without turning the video into a feature list.','A promise based on a task outcome.'],
+ ['Prepare a fair demonstration of the task with and without the tool.','Comparable examples, labeled illustrative if not measured.'],
+ ['Write the six-card argument including when the tool is useful.','A balanced method for deciding keep, change, or remove.'],
+ ['Rehearse, check names and screenshots, and remove private details.','A safe, readable demonstration.'],
+ ['Record V05, its task example, thumbnail, and current experiment observations.','Complete takes and a current evidence record.'],
+ ['Assemble the spoken lesson before adding screen footage.','The decision process makes sense without flashy software.'],
+ ['Cut feature detours and make the keep/remove criteria explicit.','A clear practical answer.'],
+ ['Add the few screen or notebook shots needed to show the task.','Evidence that serves the lesson, with no exposed data.'],
+ ['Balance voice and continue the second experiment record.','Comfortable speech and accurate observations.'],
+ ['Review captions and make any sponsorship/affiliate relationship clear if one exists.','Accurate names and appropriate disclosure; no relationship invented.'],
+ ['Create distinct truthful packaging; plan a native test only if available and useful.','A title/thumbnail set with a recorded hypothesis.'],
+ ['Export, inspect, process-check V05, and organize V06 evidence.','Checked upload and a complete experiment or production record.'],
+ ['Publish V05 and close the second experiment period honestly.','Five uploads and usable evidence for the final cycle.']
+ ]},
+ {title:'V06 · A documented lesson from the first season',format:'P',steps:[
+ ['Choose either the completed second experiment or a production retrospective of five published videos.','One real question and a title that matches available evidence.'],
+ ['Review all records; separate observations, interpretations, and missing data.','A conclusion with explicit limits.'],
+ ['Write the two-column story using only actual footage, records, or labeled demonstrations.','A complete evidence-led script.'],
+ ['Plan the simplest visuals that explain the change or comparison.','A focused shot list and one readable table.'],
+ ['Read aloud; remove claims about future performance or unavailable V06 results.','A truthful, filmable script.'],
+ ['Record V06, supporting artifacts, pickups, and thumbnail.','All necessary footage within a controlled session.'],
+ ['Assemble the spoken story and check that the finding appears clearly.','A complete argument before polish.'],
+ ['Improve the transition from observation to application without overstating causality.','A useful lesson with a qualified interpretation.'],
+ ['Place supporting footage and the actual comparison table.','Every important visual is readable and accurate.'],
+ ['Balance sound, match the image, and add only essential section cards.','Polish that improves comprehension.'],
+ ['Audit every number and result sentence against the original record.','No invented personal change or future analytics.'],
+ ['Choose the final honest title and thumbnail, plus one relevant next step.','A complete packaging set.'],
+ ['Inspect the export, captions, sources, and processed playback.','A checked final-season upload.'],
+ ['Publish V06 and record production time and remaining questions.','Six planned uploads completed or an honest revised count.']
+ ]}
+];
+export const reviewDays=[
+ ['Inventory published videos, source files, exports, and production-time records.','A safe archive and an accurate upload count.'],
+ ['Compare related videos by format, topic, traffic source, and age when the data permits.','A comparison with sparse or incomparable data clearly marked.'],
+ ['List repeated audience questions and review the newest video for technical issues.','Three viewer questions or three clearly labeled hypotheses.'],
+ ['Choose the next three ideas from evidence and your ability to produce them sustainably.','Three complete idea cards for one audience.'],
+ ['Decide the next cadence and equipment change, if a persistent problem justifies one.','A realistic calendar with no automatic spending.'],
+ ['Review the season, improve the reusable templates, and outline the next video.','A documented lesson and a concrete next production action.']
+];
