@@ -1,0 +1,7 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Realtime voice laboratory</title><style>body{font:18px system-ui;max-width:760px;margin:3rem auto;padding:1rem;background:#101c28;color:#f5f6f8}button{font:inherit;padding:.7rem;margin:.3rem}pre{white-space:pre-wrap;overflow-wrap:anywhere}button:focus-visible{outline:3px solid #7ef1cf}</style>
+<h1>Realtime voice laboratory</h1><p>This demo sends your microphone audio to OpenAI after you select Start and grant permission. It does not record audio in this application.</p>
+<button id="start">Start conversation</button><button id="mute" disabled>Mute microphone</button><button id="end" disabled>End conversation</button>
+<p id="status" role="status">Ready. Microphone off.</p><audio id="speaker" controls autoplay></audio>
+<h2>Latest agent transcript</h2><pre id="transcript"></pre><p>Text input fallback is a production extension taught in chapter 11.</p>
+<script type="module" src="/client.mjs"></script></html>

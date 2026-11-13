@@ -1,0 +1,528 @@
+{
+  "access_date": "2026-11-12",
+  "method": "Official vendor documentation, project repositories, model cards, and package release records. Access describes inspected sections, not exhaustive website reading.",
+  "sources": [
+    {
+      "id": "O1",
+      "title": "OpenAI Realtime GA overview and migration",
+      "url": "https://developers.openai.com/api/docs/guides/realtime",
+      "sections": "GA migration section; transport overview",
+      "access": "inspected",
+      "chapters": [
+        "01",
+        "05"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "O2",
+      "title": "OpenAI Realtime create-call reference",
+      "url": "https://developers.openai.com/api/reference/resources/realtime/subresources/calls/methods/create",
+      "sections": "multipart SDP and session schema; listed model IDs",
+      "access": "inspected",
+      "chapters": [
+        "05"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "O3",
+      "title": "OpenAI Realtime conversation guide",
+      "url": "https://developers.openai.com/api/docs/guides/realtime-conversations",
+      "sections": "audio tracks, event lifecycle, PCM input shape",
+      "access": "partially-inspected",
+      "chapters": [
+        "03",
+        "05",
+        "09"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "O4",
+      "title": "OpenAI create client secret",
+      "url": "https://developers.openai.com/api/reference/typescript/resources/realtime/subresources/client_secrets/methods/create",
+      "sections": "credential lifetime and session association",
+      "access": "partially-inspected",
+      "chapters": [
+        "05",
+        "10"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "O5",
+      "title": "OpenAI WebRTC guide",
+      "url": "https://developers.openai.com/api/docs/guides/voice-webrtc",
+      "sections": "mixed Live and Realtime sections observed; newer Live flow kept separate",
+      "access": "partially-inspected",
+      "chapters": [
+        "05"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "O6",
+      "title": "OpenAI VAD guide",
+      "url": "https://developers.openai.com/api/docs/guides/realtime-vad",
+      "sections": "turn detection overview",
+      "access": "partially-inspected",
+      "chapters": [
+        "09"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "O7",
+      "title": "OpenAI transcription reference",
+      "url": "https://developers.openai.com/api/reference/resources/audio/subresources/transcriptions/methods/create",
+      "sections": "file transcription request shape",
+      "access": "partially-inspected",
+      "chapters": [
+        "04"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "O8",
+      "title": "OpenAI Responses create reference",
+      "url": "https://developers.openai.com/api/reference/resources/responses/methods/create",
+      "sections": "request/output object structure",
+      "access": "partially-inspected",
+      "chapters": [
+        "04",
+        "10"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "G1",
+      "title": "Gemini Live SDK getting started",
+      "url": "https://ai.google.dev/gemini-api/docs/live-api/get-started-sdk",
+      "sections": "setup, PCM input, response part handling; redirected to AI Studio host",
+      "access": "inspected",
+      "chapters": [
+        "06"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "G2",
+      "title": "Gemini Live raw WebSocket reference",
+      "url": "https://ai.google.dev/api/live",
+      "sections": "Bidi endpoint, realtimeInput, audioStreamEnd, activity handling",
+      "access": "inspected",
+      "chapters": [
+        "06"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "G3",
+      "title": "Gemini Live ephemeral credentials",
+      "url": "https://ai.google.dev/gemini-api/docs/live-api/ephemeral-tokens",
+      "sections": "server provisioning, lifetime, client use; preview status",
+      "access": "inspected",
+      "chapters": [
+        "06"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "G4",
+      "title": "Gemini Live capabilities",
+      "url": "https://ai.google.dev/gemini-api/docs/live-api/capabilities",
+      "sections": "PCM and version migration context",
+      "access": "partially-inspected",
+      "chapters": [
+        "06"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "C1",
+      "title": "Cartesia Bytes TTS reference",
+      "url": "https://docs.cartesia.ai/api-reference/tts/bytes",
+      "sections": "voice ID, sonic-3.6, version 2026-08-14, output format",
+      "access": "inspected",
+      "chapters": [
+        "04",
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "C2",
+      "title": "Cartesia Python SDK repository",
+      "url": "https://github.com/cartesia-ai/cartesia-python",
+      "sections": "synchronous, async, streaming context overview and default headers",
+      "access": "partially-inspected",
+      "chapters": [
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "C3",
+      "title": "Cartesia official voice-chat cookbook",
+      "url": "https://www.cartesia.ai/cookbooks/voice-chat",
+      "sections": "managed-agent token and browser-template architecture",
+      "access": "partially-inspected",
+      "chapters": [
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "E1",
+      "title": "ElevenLabs speech creation",
+      "url": "https://elevenlabs.io/docs/api-reference/text-to-speech/convert",
+      "sections": "HTTP endpoint, model, audio output formats",
+      "access": "inspected",
+      "chapters": [
+        "04",
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "E2",
+      "title": "ElevenLabs React agents SDK",
+      "url": "https://elevenlabs.io/docs/eleven-agents/libraries/react",
+      "sections": "ConversationProvider, controls/status hooks, lifecycle and client tools",
+      "access": "inspected",
+      "chapters": [
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "E3",
+      "title": "ElevenLabs Python agents SDK",
+      "url": "https://elevenlabs.io/docs/eleven-agents/libraries/python",
+      "sections": "Conversation and audio-interface setup overview",
+      "access": "partially-inspected",
+      "chapters": [
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "E4",
+      "title": "ElevenLabs signed conversation URL",
+      "url": "https://elevenlabs.io/docs/api-reference/conversations/get-signed-url",
+      "sections": "private-agent authorization endpoint and response",
+      "access": "inspected",
+      "chapters": [
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "F1",
+      "title": "Fish Speech repository README",
+      "url": "https://github.com/fishaudio/fish-speech/blob/main/README.md",
+      "sections": "project scope and model-license distinction",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "F2",
+      "title": "Fish S2-Pro model card",
+      "url": "https://huggingface.co/fishaudio/s2-pro/blob/main/README.md",
+      "sections": "weight artifact and research license label",
+      "access": "inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "F3",
+      "title": "Fish Speech repository license",
+      "url": "https://github.com/fishaudio/fish-speech/blob/main/LICENSE",
+      "sections": "community agreement date, use categories, hosted-service provisions",
+      "access": "inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "F4",
+      "title": "Fish Speech installation",
+      "url": "https://github.com/fishaudio/fish-speech/blob/main/docs/en/install.md",
+      "sections": "checkpoint layout and installation recipe",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "F5",
+      "title": "Fish Speech inference",
+      "url": "https://github.com/fishaudio/fish-speech/blob/main/docs/en/inference.md",
+      "sections": "official inference recipe path",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "F6",
+      "title": "Fish hosted capabilities",
+      "url": "https://docs.fish.audio/overview/capabilities",
+      "sections": "hosted s2.1-pro versus previous S2-Pro; product categories",
+      "access": "inspected",
+      "chapters": [
+        "01",
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "M1",
+      "title": "Whisper official project",
+      "url": "https://github.com/openai/whisper",
+      "sections": "recognition project and license overview",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "M2",
+      "title": "Whisper MIT license",
+      "url": "https://github.com/openai/whisper/blob/main/LICENSE",
+      "sections": "license identity",
+      "access": "inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "M3",
+      "title": "faster-whisper official project",
+      "url": "https://github.com/SYSTRAN/faster-whisper",
+      "sections": "WhisperModel CPU/int8 usage, generator evaluation, runtime requirements",
+      "access": "inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "M4",
+      "title": "whisper.cpp official project",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "sections": "project scope and implementation category",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "M5",
+      "title": "Kokoro-82M model card",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "sections": "license label, KPipeline usage, audio rate, voice example",
+      "access": "inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "M6",
+      "title": "Moshi official project",
+      "url": "https://github.com/kyutai-labs/moshi",
+      "sections": "speech-text dialogue and streaming-codec scope",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "M7",
+      "title": "Chatterbox official project",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "sections": "TTS project scope",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "L1",
+      "title": "LiveKit voice agent quickstart",
+      "url": "https://docs.livekit.io/agents/start/voice-ai/",
+      "sections": "Python and TypeScript AgentSession examples and pipeline/native split",
+      "access": "inspected",
+      "chapters": [
+        "01",
+        "07",
+        "09"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "L2",
+      "title": "LiveKit turn overview",
+      "url": "https://docs.livekit.io/agents/logic/turns/",
+      "sections": "turn completion and interruption categories",
+      "access": "partially-inspected",
+      "chapters": [
+        "09"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "L3",
+      "title": "LiveKit tuning",
+      "url": "https://docs.livekit.io/agents/logic/turns/tuning/",
+      "sections": "timing and interruption relationship",
+      "access": "partially-inspected",
+      "chapters": [
+        "09"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "P1",
+      "title": "Pipecat choosing a transport",
+      "url": "https://docs.pipecat.ai/client/concepts/choosing-a-transport",
+      "sections": "WebRTC versus WebSocket responsibilities",
+      "access": "partially-inspected",
+      "chapters": [
+        "03",
+        "07"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "B1",
+      "title": "MDN getUserMedia",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia",
+      "sections": "secure context, permissions, unresolved prompt, errors",
+      "access": "inspected",
+      "chapters": [
+        "02",
+        "11"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "V1",
+      "title": "OpenAI pricing",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "sections": "billing reference; no numerical price table copied",
+      "access": "partially-inspected",
+      "chapters": [
+        "12"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "V2",
+      "title": "Gemini pricing",
+      "url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "sections": "billing reference and account-tier distinctions",
+      "access": "partially-inspected",
+      "chapters": [
+        "12"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "V3",
+      "title": "Cartesia pricing",
+      "url": "https://www.cartesia.ai/pricing",
+      "sections": "speech credits and managed-agent product split",
+      "access": "partially-inspected",
+      "chapters": [
+        "12"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "V4",
+      "title": "ElevenLabs API pricing",
+      "url": "https://elevenlabs.io/pricing/api",
+      "sections": "model-specific character billing; newer products distinct from baseline code",
+      "access": "partially-inspected",
+      "chapters": [
+        "12"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "D1",
+      "title": "Kokoro 0.9.2 release",
+      "url": "https://pypi.org/project/kokoro/0.9.2/",
+      "sections": "published optional direct-dependency baseline",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "D2",
+      "title": "faster-whisper 1.2.1 release",
+      "url": "https://pypi.org/project/faster-whisper/1.2.1/",
+      "sections": "published optional direct-dependency baseline",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    },
+    {
+      "id": "D3",
+      "title": "SoundFile release record",
+      "url": "https://github.com/bastibe/python-soundfile/releases",
+      "sections": "0.13.1 release existence",
+      "access": "partially-inspected",
+      "chapters": [
+        "08"
+      ],
+      "rights": "Linked only; no webpage extraction, model weights, or voice assets redistributed."
+    }
+  ],
+  "unavailable": [
+    {
+      "url": "https://docs.cartesia.ai/api-reference/tts/websocket",
+      "reason": "fetch timeout; streaming code not inferred from this page"
+    },
+    {
+      "url": "https://docs.cartesia.ai/build-with-cartesia/line/overview",
+      "reason": "unavailable; no Line SDK implementation claimed"
+    },
+    {
+      "url": "https://elevenlabs.io/docs/eleven-agents/libraries/javascript",
+      "reason": "unavailable; current React and Python pages used instead"
+    },
+    {
+      "url": "https://docs.pipecat.ai/get-started/quickstart",
+      "reason": "unavailable; transport guide used for bounded conceptual comparison"
+    },
+    {
+      "url": "https://fish.audio/pricing/",
+      "reason": "404; no hosted Fish price asserted"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/realtime-server-controls",
+      "reason": "404; no sideband endpoint invented"
+    }
+  ]
+}

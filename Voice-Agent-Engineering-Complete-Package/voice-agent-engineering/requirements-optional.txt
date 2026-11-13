@@ -1,0 +1,2 @@
+# Only examples/python/gemini_file.py requires this third-party package.
+websockets==16.0

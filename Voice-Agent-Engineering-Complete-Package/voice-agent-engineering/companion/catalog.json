@@ -1,0 +1,10 @@
+{"starter":false,"experiments":[
+{"id":"latency","title":"Latency budget","chapter":"chapter-01","description":"Calculate a serial critical path; compare stages.","module":"labs.mjs"},
+{"id":"pcm","title":"PCM frames","chapter":"chapter-02","description":"Compute samples, bytes, Base64 overhead, and a waveform.","module":"labs.mjs"},
+{"id":"endpoint","title":"When is a turn finished?","chapter":"chapter-09","description":"Change the silence threshold over a synthetic speech trace.","module":"labs.mjs"},
+{"id":"interrupt","title":"Late audio race","chapter":"chapter-03","description":"Interrupt and reject a stale chunk using an epoch.","module":"labs.mjs"},
+{"id":"transaction","title":"Proposal → receipt","chapter":"chapter-10","description":"Inspect owner checks and repeated confirmation.","module":"labs.mjs"},
+{"id":"ux","title":"Conversation states","chapter":"chapter-11","description":"Explore permission, connection, playback, and ending.","module":"labs.mjs"},
+{"id":"evaluation","title":"Latency percentiles","chapter":"chapter-12","description":"Compute nearest-rank p50 and p95 from measurements.","module":"labs.mjs"},
+{"id":"cost","title":"Cost assumptions","chapter":"chapter-12","description":"Calculate usage cost from editable illustrative rates.","module":"labs.mjs"}
+]}

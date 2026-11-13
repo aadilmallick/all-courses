@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "title": "Voice Agent Engineering",
+  "subtitle": "A first-principles journey from audio samples to useful conversations in Python and TypeScript",
+  "audience": "Developers with basic programming; audio and asynchronous prerequisites taught locally",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "What a voice agent actually does",
+      "path": "chapters/01-systems-and-landscape.md",
+      "part": "I. The signal and the software",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "latency"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "From air pressure to browser audio",
+      "path": "chapters/02-audio-and-browser-media.md",
+      "part": "I. The signal and the software",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "pcm"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Streams, transports, and resource ownership",
+      "path": "chapters/03-streams-transports-and-lifecycle.md",
+      "part": "I. The signal and the software",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "interrupt"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Build a speech-to-text, reasoning, and text-to-speech pipeline",
+      "path": "chapters/04-building-a-cascaded-agent.md",
+      "part": "II. Build the conversation",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "latency"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "A native OpenAI Realtime web application",
+      "path": "chapters/05-openai-realtime-web-app.md",
+      "part": "II. Build the conversation",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "ux",
+        "interrupt"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Gemini Live and explicit PCM streaming",
+      "path": "chapters/06-gemini-live-and-pcm-streaming.md",
+      "part": "II. Build the conversation",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "pcm",
+        "interrupt"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Cartesia, ElevenLabs, and managed agent platforms",
+      "path": "chapters/07-cartesia-elevenlabs-and-managed-agents.md",
+      "part": "III. Choose and operate speech components",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "latency",
+        "cost"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Open models, Fish Speech, and self-hosting",
+      "path": "chapters/08-open-models-and-self-hosting.md",
+      "part": "III. Choose and operate speech components",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "cost"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Turn-taking, interruption, and what the user heard",
+      "path": "chapters/09-turn-taking-and-interruptions.md",
+      "part": "IV. Timing, trust, experience, and release",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "endpoint",
+        "interrupt"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Tools, grounding, memory, and trustworthy actions",
+      "path": "chapters/10-tools-grounding-and-memory.md",
+      "part": "IV. Timing, trust, experience, and release",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "transaction"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Design a voice experience people can control",
+      "path": "chapters/11-web-ux-accessibility-and-conversation.md",
+      "part": "IV. Timing, trust, experience, and release",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-10"
+      ],
+      "experiments": [
+        "ux"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Evaluate, operate, and extend the complete system",
+      "path": "chapters/12-evaluation-economics-and-production.md",
+      "part": "IV. Timing, trust, experience, and release",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-11"
+      ],
+      "experiments": [
+        "evaluation",
+        "cost"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/architecture.svg"
+  ],
+  "source_listings": [
+    {
+      "id": "source-core",
+      "title": "examples/python/core.py",
+      "path": "examples/python/core.py",
+      "language": "python"
+    },
+    {
+      "id": "source-gemini-file",
+      "title": "examples/python/gemini_file.py",
+      "path": "examples/python/gemini_file.py",
+      "language": "python"
+    },
+    {
+      "id": "source-local-models",
+      "title": "examples/python/local_models.py",
+      "path": "examples/python/local_models.py",
+      "language": "python"
+    },
+    {
+      "id": "source-openai-server",
+      "title": "examples/python/openai_server.py",
+      "path": "examples/python/openai_server.py",
+      "language": "python"
+    },
+    {
+      "id": "source-providers",
+      "title": "examples/python/providers.py",
+      "path": "examples/python/providers.py",
+      "language": "python"
+    },
+    {
+      "id": "source-core-typescript",
+      "title": "examples/typescript/core.ts",
+      "path": "examples/typescript/core.ts",
+      "language": "typescript"
+    },
+    {
+      "id": "source-gemini-file-typescript",
+      "title": "examples/typescript/gemini-file.ts",
+      "path": "examples/typescript/gemini-file.ts",
+      "language": "typescript"
+    },
+    {
+      "id": "source-openai-server-typescript",
+      "title": "examples/typescript/openai-server.ts",
+      "path": "examples/typescript/openai-server.ts",
+      "language": "typescript"
+    },
+    {
+      "id": "source-providers-typescript",
+      "title": "examples/typescript/providers.ts",
+      "path": "examples/typescript/providers.ts",
+      "language": "typescript"
+    },
+    {
+      "id": "source-client",
+      "title": "examples/web/client.mjs",
+      "path": "examples/web/client.mjs",
+      "language": "javascript"
+    },
+    {
+      "id": "source-index",
+      "title": "examples/web/index.html",
+      "path": "examples/web/index.html",
+      "language": "html"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md",
+  "part_introductions": {
+    "I. The signal and the software": "A voice application becomes easier to reason about when we separate the signal from the software moving it. We begin with architectures, then inspect samples and browser media, and finally give asynchronous work explicit ownership.",
+    "II. Build the conversation": "With formats and lifecycles established, we can connect real interfaces. A whole-file cascade exposes intermediate text; Realtime moves native audio through browser media; Gemini Live makes PCM messaging explicit. Compare their responsibilities rather than memorizing unrelated SDK recipes.",
+    "III. Choose and operate speech components": "The model is now a replaceable part of a system we understand. We examine speech adapters and managed agents, then consider the extra responsibilities of self-hosted inference. Provider choice becomes an evidence-based deployment decision.",
+    "IV. Timing, trust, experience, and release": "A working audio connection is only the beginning. Natural timing, grounded tools, accessible controls, and measured operation turn it into a useful application. The final chapters connect these responsibilities into a guided production capstone."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "edition_date": "2026-11-12",
+  "status": "passed-with-explicit-runtime-limitations",
+  "runtimes": {
+    "python": "3.12.14",
+    "node": "24.22.1",
+    "playwright": "1.62.0",
+    "chromium_attempted": "156.0.8078.79",
+    "websockets": "16.0",
+    "html_renderer": "marked 17.0.5"
+  },
+  "automated_tests": {
+    "python_unittest": {
+      "passed": 11,
+      "failed": 0
+    },
+    "node_tests": {
+      "passed": 16,
+      "failed": 0
+    },
+    "total_passed": 27
+  },
+  "structural": {
+    "mode": "final",
+    "chapters": [
+      {
+        "id": "chapter-01",
+        "prose_words": 2573
+      },
+      {
+        "id": "chapter-02",
+        "prose_words": 2582
+      },
+      {
+        "id": "chapter-03",
+        "prose_words": 2572
+      },
+      {
+        "id": "chapter-04",
+        "prose_words": 2635
+      },
+      {
+        "id": "chapter-05",
+        "prose_words": 2519
+      },
+      {
+        "id": "chapter-06",
+        "prose_words": 2512
+      },
+      {
+        "id": "chapter-07",
+        "prose_words": 2548
+      },
+      {
+        "id": "chapter-08",
+        "prose_words": 2549
+      },
+      {
+        "id": "chapter-09",
+        "prose_words": 2507
+      },
+      {
+        "id": "chapter-10",
+        "prose_words": 2508
+      },
+      {
+        "id": "chapter-11",
+        "prose_words": 2560
+      },
+      {
+        "id": "chapter-12",
+        "prose_words": 2596
+      }
+    ],
+    "prose_words": 30661,
+    "errors": [],
+    "limits": [
+      "Structural and depth checks only",
+      "Math syntax/truth and companion execution require separate evidence"
+    ]
+  },
+  "static": {
+    "static_checks": "passed",
+    "chapter_count": 12,
+    "chapter_prose_words": {
+      "01-systems-and-landscape.md": 2573,
+      "02-audio-and-browser-media.md": 2582,
+      "03-streams-transports-and-lifecycle.md": 2572,
+      "04-building-a-cascaded-agent.md": 2635,
+      "05-openai-realtime-web-app.md": 2519,
+      "06-gemini-live-and-pcm-streaming.md": 2512,
+      "07-cartesia-elevenlabs-and-managed-agents.md": 2548,
+      "08-open-models-and-self-hosting.md": 2549,
+      "09-turn-taking-and-interruptions.md": 2507,
+      "10-tools-grounding-and-memory.md": 2508,
+      "11-web-ux-accessibility-and-conversation.md": 2560,
+      "12-evaluation-economics-and-production.md": 2596
+    },
+    "reader_anchors": 155,
+    "reader_hash_links": 157,
+    "embedded_diagrams": 1,
+    "typescript_check": "Node 24 syntax/type stripping, not tsc",
+    "token_count": "Not measured; no tokenizer available. Prose depth measured separately from fenced code."
+  },
+  "research": {
+    "primary_sources": 44,
+    "unavailable_attempted_urls": 6,
+    "scope": "Relevant sections; individual access status retained in sources.json"
+  },
+  "browser": {
+    "status": "blocked-before-application-execution",
+    "reason": "Chromium could not create an AF_UNIX socket: Operation not permitted. Browser test script is included but not claimed as passed.",
+    "visual_inspection_performed": false,
+    "responsive_layout_verified": false,
+    "actual_microphone_tested": false
+  },
+  "provider_calls": {
+    "live_paid_calls_executed": false,
+    "request_contract_mocked": true
+  },
+  "open_models": {
+    "weights_downloaded": false,
+    "inference_executed": false,
+    "optional_recipe_syntax_checked": true
+  },
+  "typescript": {
+    "node_execution_and_syntax_checks": true,
+    "tsc_typecheck": false
+  },
+  "tokenizer": {
+    "available": false,
+    "token_count_claimed": false,
+    "depth_measure": "Whitespace-separated prose words with fenced code excluded; minimum 2500 per canonical lesson"
+  },
+  "artifact_checks": {
+    "chapter_count": 12,
+    "single_volume_assembled": true,
+    "html_reader_built": true,
+    "html_internal_anchor_checks_passed": true,
+    "diagram_embedded": true,
+    "source_listings_included": true
+  },
+  "untested": [
+    "Real provider authentication/model access and billing",
+    "Live acoustic echo, microphone and speaker behavior",
+    "Gemini live end-to-end response",
+    "Open-model installation, hardware compatibility, voice quality, concurrency",
+    "Real calendar transactions, authentication, or production deployment",
+    "Safari, Firefox, mobile hardware, and assistive technology",
+    "Visual browser rendering due to host launch restriction"
+  ]
+}

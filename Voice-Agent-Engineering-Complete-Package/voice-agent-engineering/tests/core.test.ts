@@ -1,0 +1,10 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {Playback,BookingLedger,endpoint,wavTone} from '../examples/typescript/core.ts';
+import {frameBytes,percentile,cost} from '../companion/model.mjs';
+test('WAV header and sample duration agree',()=>{const audio=wavTone();assert.equal(audio.length,32044);assert.equal(audio.toString('ascii',0,4),'RIFF');assert.equal(audio.readUInt32LE(24),16000);assert.equal(audio.readUInt32LE(40),32000);});
+test('endpoint excludes initial silence and emits once',()=>{assert.deepEqual(endpoint(Array(100).fill(false)),[]);assert.deepEqual(endpoint([...Array(10).fill(true),...Array(30).fill(false)]),[700]);});
+test('interruption rejects late output',()=>{const player=new Playback();const old=player.epoch;player.accept(old,'first');player.interrupt();assert.equal(player.accept(old,'late'),false);assert.equal(player.queue.length,0);assert.equal(player.accept(player.epoch,'new'),true);});
+test('confirmation is scoped and idempotent',()=>{const ledger=new BookingLedger();ledger.propose('alice','slot','p');assert.throws(()=>ledger.confirm('bob','p'));assert.deepEqual(ledger.confirm('alice','p'),ledger.confirm('alice','p'));assert.equal(ledger.receipts.size,1);assert.throws(()=>ledger.propose('alice','other','p'));});
+test('frame sizing and Base64 worked values',()=>{assert.equal(frameBytes(16000,20),640);assert.equal(4*Math.ceil(640/3),856);assert.equal(frameBytes(48000,100,2),19200);assert.throws(()=>frameBytes(0,20));});
+test('nearest-rank percentiles',()=>{assert.equal(percentile([900,100,200,300,400],50),300);assert.equal(percentile([900,100,200,300,400],95),900);assert.throws(()=>percentile([],95));});
+test('cost arithmetic and invalid input',()=>{assert.ok(Math.abs(cost(3,2,6,.01,.04,.02)-.23)<1e-12);assert.throws(()=>cost(-1,0,0,0,0,0));});
