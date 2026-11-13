@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "served": 6,
+  "missing_status": 404,
+  "node": "v24.22.1"
+}

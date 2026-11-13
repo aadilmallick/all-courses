@@ -1,0 +1,10 @@
+{
+  "status": "blocked",
+  "attempted": "Headless Chromium via the installed Playwright Python interface",
+  "observed": "The bundled Playwright browser was unavailable; the installed Chromium fallback exited before opening a page because process-singleton socket creation was not permitted in the execution environment.",
+  "visual_inspection_performed": false,
+  "ui_interactions_verified_in_browser": false,
+  "screenshots_created": false,
+  "independent_evidence": "Experiment computation functions executed under Node; the documented local HTTP server was started and its six main resources requested successfully.",
+  "limits": "Responsive layout, browser-specific DOM behavior and accessibility interaction remain unverified. No browser screenshots are included."
+}

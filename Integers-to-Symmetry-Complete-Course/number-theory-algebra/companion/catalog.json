@@ -1,0 +1,103 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "euclid",
+      "title": "Euclid & Bezout",
+      "chapter": "chapter-02",
+      "module": "labs.mjs",
+      "description": "Euclid & Bezout"
+    },
+    {
+      "id": "congruences",
+      "title": "General CRT",
+      "chapter": "chapter-05",
+      "module": "labs.mjs",
+      "description": "General CRT"
+    },
+    {
+      "id": "units",
+      "title": "Units and orders",
+      "chapter": "chapter-09",
+      "module": "labs.mjs",
+      "description": "Units and orders"
+    },
+    {
+      "id": "permutations",
+      "title": "Permutations and Burnside",
+      "chapter": "chapter-11",
+      "module": "labs.mjs",
+      "description": "Permutations and Burnside"
+    },
+    {
+      "id": "quotient-rings",
+      "title": "Quadratic quotient arithmetic",
+      "chapter": "chapter-16",
+      "module": "labs.mjs",
+      "description": "Quadratic quotient arithmetic"
+    },
+    {
+      "id": "residues",
+      "title": "Quadratic reciprocity",
+      "chapter": "chapter-18",
+      "module": "labs.mjs",
+      "description": "Quadratic reciprocity"
+    },
+    {
+      "id": "arithmetic-functions",
+      "title": "Mobius inversion",
+      "chapter": "chapter-19",
+      "module": "labs.mjs",
+      "description": "Mobius inversion"
+    },
+    {
+      "id": "pell",
+      "title": "Pell and continued fractions",
+      "chapter": "chapter-20",
+      "module": "labs.mjs",
+      "description": "Pell and continued fractions"
+    },
+    {
+      "id": "abelian",
+      "title": "Two cyclic factors",
+      "chapter": "chapter-21",
+      "module": "labs.mjs",
+      "description": "Two cyclic factors"
+    },
+    {
+      "id": "finite-fields",
+      "title": "Arithmetic in F8",
+      "chapter": "chapter-24",
+      "module": "labs.mjs",
+      "description": "Arithmetic in F8"
+    },
+    {
+      "id": "galois",
+      "title": "Two Galois correspondences",
+      "chapter": "chapter-25",
+      "module": "labs.mjs",
+      "description": "Two Galois correspondences"
+    },
+    {
+      "id": "primes",
+      "title": "Sums, products, and primes",
+      "chapter": "chapter-28",
+      "module": "labs.mjs",
+      "description": "Sums, products, and primes"
+    },
+    {
+      "id": "hensel",
+      "title": "Simple-root Hensel",
+      "chapter": "chapter-29",
+      "module": "labs.mjs",
+      "description": "Simple-root Hensel"
+    },
+    {
+      "id": "codes",
+      "title": "Evaluation-code erasures",
+      "chapter": "chapter-30",
+      "module": "labs.mjs",
+      "description": "Evaluation-code erasures"
+    }
+  ]
+}

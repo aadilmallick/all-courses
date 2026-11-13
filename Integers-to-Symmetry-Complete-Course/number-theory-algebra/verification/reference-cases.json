@@ -1,0 +1,112 @@
+{
+  "status": "passed",
+  "sympy_version": "1.14.0",
+  "cases": [
+    {
+      "case": "Bezout reference",
+      "result": "passed",
+      "detail": "414*8 - 662*5 = 2"
+    },
+    {
+      "case": "Linear congruence solution classes",
+      "result": "passed",
+      "detail": "Solutions modulo 662 are 24 and 355"
+    },
+    {
+      "case": "Noncoprime CRT",
+      "result": "passed",
+      "detail": "x = 29 mod 36"
+    },
+    {
+      "case": "Gaussian representations",
+      "result": "passed",
+      "detail": "65 = 1^2+8^2 = 4^2+7^2"
+    },
+    {
+      "case": "Reciprocity reference",
+      "result": "passed",
+      "detail": "17 is a quadratic residue mod 43; 19 is a root"
+    },
+    {
+      "case": "Jacobi counterexample",
+      "result": "passed",
+      "detail": "Jacobi(2,15)=1 but no square root modulo 15"
+    },
+    {
+      "case": "Totient and Mobius",
+      "result": "passed",
+      "detail": "phi(30)=8 via inversion"
+    },
+    {
+      "case": "Smith example",
+      "result": "passed",
+      "detail": "gcd of entries 2, determinant 12: invariant factors 2,6"
+    },
+    {
+      "case": "Field F9 polynomial",
+      "result": "passed",
+      "detail": "X^2+1 irreducible over F3"
+    },
+    {
+      "case": "Field F8 polynomial",
+      "result": "passed",
+      "detail": "X^3+X+1 irreducible over F2"
+    },
+    {
+      "case": "Biquadratic minimal polynomial",
+      "result": "passed",
+      "detail": "sqrt2+sqrt3 satisfies X^4-10X^2+1"
+    },
+    {
+      "case": "Algebraic integer reference",
+      "result": "passed",
+      "detail": "(1+sqrt5)/2 is root of monic X^2-X-1"
+    },
+    {
+      "case": "Cyclotomic polynomial",
+      "result": "passed",
+      "detail": "Phi12 = X^4-X^2+1"
+    },
+    {
+      "case": "Quintic irreducibility mod 3",
+      "result": "passed",
+      "detail": "Irreducible mod 3 gives irreducibility over Q"
+    },
+    {
+      "case": "Quintic mod 2 factorization",
+      "result": "passed",
+      "detail": "Cycle types 2+3 in a squarefree reduction"
+    },
+    {
+      "case": "Quintic discriminant",
+      "result": "passed",
+      "detail": "Discriminant 2869, not divisible by 2 or 3"
+    },
+    {
+      "case": "Quartic discriminant",
+      "result": "passed",
+      "detail": "Discriminant of X^4-2 is -2048"
+    },
+    {
+      "case": "Pell reference",
+      "result": "passed",
+      "detail": "Exact Pell checks for D=13 and D=61"
+    },
+    {
+      "case": "Hensel reference",
+      "result": "passed",
+      "detail": "3 mod 7 lifts to 10 mod 49"
+    },
+    {
+      "case": "Evaluation code reference",
+      "result": "passed",
+      "detail": "F7 polynomial codeword"
+    },
+    {
+      "case": "Prime counting reference",
+      "result": "passed",
+      "detail": "pi(1000)=168"
+    }
+  ],
+  "limits": "Selected exact worked examples only. This is not a formal proof checker or an audit of every printed number."
+}

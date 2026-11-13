@@ -1,0 +1,13 @@
+{
+  "name": "integers-to-symmetry-laboratory",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dependency-free companion to the integrated number theory and abstract algebra course",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node companion/server.mjs",
+    "check:math": "node scripts/check_companion.mjs",
+    "check:http": "node scripts/check_http.mjs"
+  }
+}

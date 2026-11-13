@@ -1,0 +1,36 @@
+# Solutions index
+
+Each file contains graduated hints and worked reference solutions for its chapter. The solutions are separate so that you can choose when to open them. All exercises are optional; no quiz blocks your progress.
+
+- [01 — Learning to prove: logic, sets, functions and induction](01-solutions.md) · [Chapter](../chapters/01-proofs-and-structures.md)
+- [02 — Divisibility, Euclid and Bezout](02-solutions.md) · [Chapter](../chapters/02-euclidean-algorithm.md)
+- [03 — Primes, unique factorization and valuations](03-solutions.md) · [Chapter](../chapters/03-primes-and-factorization.md)
+- [04 — Congruence, equivalence relations and residue classes](04-solutions.md) · [Chapter](../chapters/04-congruence-and-quotients.md)
+- [05 — Linear congruences and the Chinese remainder theorem](05-solutions.md) · [Chapter](../chapters/05-linear-congruences-and-crt.md)
+- [06 — Groups, symmetry and subgroups](06-solutions.md) · [Chapter](../chapters/06-groups-and-symmetry.md)
+- [07 — Cyclic groups, cosets and Lagrange](07-solutions.md) · [Chapter](../chapters/07-cyclic-groups-and-lagrange.md)
+- [08 — Homomorphisms, normal subgroups and quotients](08-solutions.md) · [Chapter](../chapters/08-homomorphisms-and-quotient-groups.md)
+- [09 — Units, orders, Fermat, Euler and RSA](09-solutions.md) · [Chapter](../chapters/09-units-orders-and-rsa.md)
+- [10 — Permutations, parity and alternating groups](10-solutions.md) · [Chapter](../chapters/10-permutations-and-alternating-groups.md)
+- [11 — Group actions, orbit-stabilizer and counting](11-solutions.md) · [Chapter](../chapters/11-group-actions-and-counting.md)
+- [12 — Cauchy, Sylow and finite group structure](12-solutions.md) · [Chapter](../chapters/12-sylow-and-finite-groups.md)
+- [13 — Rings, integral domains and fields](13-solutions.md) · [Chapter](../chapters/13-rings-domains-and-fields.md)
+- [14 — Ideals, quotient rings and ring CRT](14-solutions.md) · [Chapter](../chapters/14-ideals-and-ring-quotients.md)
+- [15 — Polynomial arithmetic, roots and irreducibility](15-solutions.md) · [Chapter](../chapters/15-polynomial-arithmetic.md)
+- [16 — Euclidean domains, PIDs, UFDs and Gaussian integers](16-solutions.md) · [Chapter](../chapters/16-ufds-and-gaussian-integers.md)
+- [17 — Quadratic residues and the Legendre symbol](17-solutions.md) · [Chapter](../chapters/17-quadratic-residues.md)
+- [18 — Gauss lemma and quadratic reciprocity](18-solutions.md) · [Chapter](../chapters/18-quadratic-reciprocity.md)
+- [19 — Arithmetic functions, convolution and Mobius inversion](19-solutions.md) · [Chapter](../chapters/19-arithmetic-functions.md)
+- [20 — Diophantine equations, continued fractions and Pell](20-solutions.md) · [Chapter](../chapters/20-diophantine-and-continued-fractions.md)
+- [21 — Finite abelian groups, modules and Smith normal form](21-solutions.md) · [Chapter](../chapters/21-finite-abelian-groups.md)
+- [22 — Vector spaces, field extensions and constructibility](22-solutions.md) · [Chapter](../chapters/22-field-extensions.md)
+- [23 — Number fields, algebraic integers and failed factorization](23-solutions.md) · [Chapter](../chapters/23-number-fields-and-integers.md)
+- [24 — Finite fields, Frobenius and polynomial factorization](24-solutions.md) · [Chapter](../chapters/24-finite-fields.md)
+- [25 — Field automorphisms and the Galois correspondence](25-solutions.md) · [Chapter](../chapters/25-galois-correspondence.md)
+- [26 — Cyclotomic polynomials, roots of unity and regular polygons](26-solutions.md) · [Chapter](../chapters/26-cyclotomic-fields.md)
+- [27 — Computing Galois groups and solvability by radicals](27-solutions.md) · [Chapter](../chapters/27-solvability-and-galois-computations.md)
+- [28 — Analysis as needed: sums, limits, Euler products and primes](28-solutions.md) · [Chapter](../chapters/28-analysis-and-primes.md)
+- [29 — Hensel lifting and a first look at p-adic integers](29-solutions.md) · [Chapter](../chapters/29-hensel-and-p-adic.md)
+- [30 — Synthesis: finite-field coding and mathematical investigations](30-solutions.md) · [Chapter](../chapters/30-synthesis-and-coding.md)
+
+The separate [semester checkpoints](../assessments.md) include their own hints and full solutions.

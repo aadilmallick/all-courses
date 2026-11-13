@@ -1,0 +1,6 @@
+{
+  "status": "blocked",
+  "reason": "pdflatex executable exists but its pdflatex.fmt format is unavailable. No math expressions were compiled.",
+  "rendering_performed": false,
+  "limits": "Delimiter and structural checks are separate; GitHub/MathJax visual layout remains unverified."
+}

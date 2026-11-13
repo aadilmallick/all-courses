@@ -1,0 +1,452 @@
+[
+  {
+    "number": 1,
+    "slug": "proofs-and-structures",
+    "title": "Learning to prove: logic, sets, functions and induction",
+    "path": "chapters/01-proofs-and-structures.md",
+    "solutions": "solutions/01-solutions.md",
+    "outcome": "State quantified claims; distinguish examples from proof; use direct proof, contradiction, induction, and well-ordering.",
+    "prerequisites": [],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 2,
+    "slug": "euclidean-algorithm",
+    "title": "Divisibility, Euclid and Bezout",
+    "path": "chapters/02-euclidean-algorithm.md",
+    "solutions": "solutions/02-solutions.md",
+    "outcome": "Run Euclid and extended Euclid; prove B\u00e9zout; solve a linear Diophantine equation and interpret all solutions.",
+    "prerequisites": [
+      1
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 3,
+    "slug": "primes-and-factorization",
+    "title": "Primes, unique factorization and valuations",
+    "path": "chapters/03-primes-and-factorization.md",
+    "solutions": "solutions/03-solutions.md",
+    "outcome": "Prove Euclid\u2019s lemma and unique factorization without circularity; use valuations to compare divisibility.",
+    "prerequisites": [
+      1,
+      2
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 4,
+    "slug": "congruence-and-quotients",
+    "title": "Congruence, equivalence relations and residue classes",
+    "path": "chapters/04-congruence-and-quotients.md",
+    "solutions": "solutions/04-solutions.md",
+    "outcome": "Build an equivalence relation and define operations on residue classes independently of representatives.",
+    "prerequisites": [
+      1,
+      2,
+      3
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 5,
+    "slug": "linear-congruences-and-crt",
+    "title": "Linear congruences and the Chinese remainder theorem",
+    "path": "chapters/05-linear-congruences-and-crt.md",
+    "solutions": "solutions/05-solutions.md",
+    "outcome": "Solve linear congruences; prove coprime CRT and the general compatibility criterion.",
+    "prerequisites": [
+      2,
+      4
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 6,
+    "slug": "groups-and-symmetry",
+    "title": "Groups, symmetry and subgroups",
+    "path": "chapters/06-groups-and-symmetry.md",
+    "solutions": "solutions/06-solutions.md",
+    "outcome": "Read group axioms through arithmetic and symmetry; distinguish an operation from its underlying set.",
+    "prerequisites": [
+      1,
+      4,
+      5
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 7,
+    "slug": "cyclic-groups-and-lagrange",
+    "title": "Cyclic groups, cosets and Lagrange",
+    "path": "chapters/07-cyclic-groups-and-lagrange.md",
+    "solutions": "solutions/07-solutions.md",
+    "outcome": "Use cyclic subgroups and cosets; prove Lagrange and identify its one-way implications.",
+    "prerequisites": [
+      6
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 8,
+    "slug": "homomorphisms-and-quotient-groups",
+    "title": "Homomorphisms, normal subgroups and quotients",
+    "path": "chapters/08-homomorphisms-and-quotient-groups.md",
+    "solutions": "solutions/08-solutions.md",
+    "outcome": "Construct a homomorphism, kernel, normal subgroup and quotient; prove the first isomorphism theorem.",
+    "prerequisites": [
+      6,
+      7
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 9,
+    "slug": "units-orders-and-rsa",
+    "title": "Units, orders, Fermat, Euler and RSA",
+    "path": "chapters/09-units-orders-and-rsa.md",
+    "solutions": "solutions/09-solutions.md",
+    "outcome": "Use modular orders and Euler/Fermat correctly; derive toy RSA and separate correctness from security.",
+    "prerequisites": [
+      3,
+      5,
+      7,
+      8
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 10,
+    "slug": "permutations-and-alternating-groups",
+    "title": "Permutations, parity and alternating groups",
+    "path": "chapters/10-permutations-and-alternating-groups.md",
+    "solutions": "solutions/10-solutions.md",
+    "outcome": "Compose permutations right to left, calculate cycle type and parity, and recognize alternating groups.",
+    "prerequisites": [
+      6,
+      7,
+      8
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 11,
+    "slug": "group-actions-and-counting",
+    "title": "Group actions, orbit-stabilizer and counting",
+    "path": "chapters/11-group-actions-and-counting.md",
+    "solutions": "solutions/11-solutions.md",
+    "outcome": "Compute orbits and stabilizers; derive Burnside\u2019s lemma and the class equation.",
+    "prerequisites": [
+      6,
+      7,
+      10
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 12,
+    "slug": "sylow-and-finite-groups",
+    "title": "Cauchy, Sylow and finite group structure",
+    "path": "chapters/12-sylow-and-finite-groups.md",
+    "solutions": "solutions/12-solutions.md",
+    "outcome": "Prove Cauchy/Sylow and use divisibility/congruence restrictions to constrain a finite group.",
+    "prerequisites": [
+      7,
+      8,
+      11
+    ],
+    "semester": 1,
+    "extension": "Classification examples beyond the Sylow spine"
+  },
+  {
+    "number": 13,
+    "slug": "rings-domains-and-fields",
+    "title": "Rings, integral domains and fields",
+    "path": "chapters/13-rings-domains-and-fields.md",
+    "solutions": "solutions/13-solutions.md",
+    "outcome": "Distinguish rings, domains, fields, units and zero divisors; explain characteristic.",
+    "prerequisites": [
+      4,
+      6,
+      9
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 14,
+    "slug": "ideals-and-ring-quotients",
+    "title": "Ideals, quotient rings and ring CRT",
+    "path": "chapters/14-ideals-and-ring-quotients.md",
+    "solutions": "solutions/14-solutions.md",
+    "outcome": "Construct ideals and quotient rings; connect prime/maximal ideals to domains/fields and generalize CRT.",
+    "prerequisites": [
+      8,
+      13
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 15,
+    "slug": "polynomial-arithmetic",
+    "title": "Polynomial arithmetic, roots and irreducibility",
+    "path": "chapters/15-polynomial-arithmetic.md",
+    "solutions": "solutions/15-solutions.md",
+    "outcome": "Divide polynomials over a field, prove root bounds, apply irreducibility tests and build a simple quotient field.",
+    "prerequisites": [
+      2,
+      3,
+      13,
+      14
+    ],
+    "semester": 1,
+    "extension": ""
+  },
+  {
+    "number": 16,
+    "slug": "ufds-and-gaussian-integers",
+    "title": "Euclidean domains, PIDs, UFDs and Gaussian integers",
+    "path": "chapters/16-ufds-and-gaussian-integers.md",
+    "solutions": "solutions/16-solutions.md",
+    "outcome": "Explain Euclidean \u21d2 PID \u21d2 UFD and the failure of converses; factor in Gaussian integers.",
+    "prerequisites": [
+      2,
+      3,
+      14,
+      15
+    ],
+    "semester": 2,
+    "extension": "Longer Gaussian factorization investigations"
+  },
+  {
+    "number": 17,
+    "slug": "quadratic-residues",
+    "title": "Quadratic residues and the Legendre symbol",
+    "path": "chapters/17-quadratic-residues.md",
+    "solutions": "solutions/17-solutions.md",
+    "outcome": "Compute quadratic residues and Legendre symbols; derive Euler\u2019s criterion and the supplementary laws.",
+    "prerequisites": [
+      7,
+      9,
+      15,
+      16
+    ],
+    "semester": 2,
+    "extension": ""
+  },
+  {
+    "number": 18,
+    "slug": "quadratic-reciprocity",
+    "title": "Gauss lemma and quadratic reciprocity",
+    "path": "chapters/18-quadratic-reciprocity.md",
+    "solutions": "solutions/18-solutions.md",
+    "outcome": "Follow Gauss\u2019s lemma and a full quadratic reciprocity proof; decide square solvability efficiently.",
+    "prerequisites": [
+      17
+    ],
+    "semester": 2,
+    "extension": ""
+  },
+  {
+    "number": 19,
+    "slug": "arithmetic-functions",
+    "title": "Arithmetic functions, convolution and Mobius inversion",
+    "path": "chapters/19-arithmetic-functions.md",
+    "solutions": "solutions/19-solutions.md",
+    "outcome": "Derive divisor-sum identities, Dirichlet convolution, multiplicativity, and M\u00f6bius inversion.",
+    "prerequisites": [
+      3,
+      5,
+      9
+    ],
+    "semester": 2,
+    "extension": ""
+  },
+  {
+    "number": 20,
+    "slug": "diophantine-and-continued-fractions",
+    "title": "Diophantine equations, continued fractions and Pell",
+    "path": "chapters/20-diophantine-and-continued-fractions.md",
+    "solutions": "solutions/20-solutions.md",
+    "outcome": "Parametrize primitive Pythagorean triples; use continued fractions and Pell equations with justified existence.",
+    "prerequisites": [
+      2,
+      3,
+      16,
+      18
+    ],
+    "semester": 2,
+    "extension": "Deeper approximation and Pell-existence arguments"
+  },
+  {
+    "number": 21,
+    "slug": "finite-abelian-groups",
+    "title": "Finite abelian groups, modules and Smith normal form",
+    "path": "chapters/21-finite-abelian-groups.md",
+    "solutions": "solutions/21-solutions.md",
+    "outcome": "Classify finite abelian groups; interpret generators/relations and a small Smith normal form.",
+    "prerequisites": [
+      7,
+      8,
+      12,
+      14
+    ],
+    "semester": 2,
+    "extension": "Full Smith-form/classification proof"
+  },
+  {
+    "number": 22,
+    "slug": "field-extensions",
+    "title": "Vector spaces, field extensions and constructibility",
+    "path": "chapters/22-field-extensions.md",
+    "solutions": "solutions/22-solutions.md",
+    "outcome": "Build bases and extension degrees; prove the tower law and use degree obstructions in construction problems.",
+    "prerequisites": [
+      13,
+      14,
+      15
+    ],
+    "semester": 2,
+    "extension": ""
+  },
+  {
+    "number": 23,
+    "slug": "number-fields-and-integers",
+    "title": "Number fields, algebraic integers and failed factorization",
+    "path": "chapters/23-number-fields-and-integers.md",
+    "solutions": "solutions/23-solutions.md",
+    "outcome": "Work in a number field; distinguish algebraic numbers from algebraic integers and diagnose failed factorization.",
+    "prerequisites": [
+      16,
+      22
+    ],
+    "semester": 2,
+    "extension": "Quadratic integers beyond basic examples"
+  },
+  {
+    "number": 24,
+    "slug": "finite-fields",
+    "title": "Finite fields, Frobenius and polynomial factorization",
+    "path": "chapters/24-finite-fields.md",
+    "solutions": "solutions/24-solutions.md",
+    "outcome": "Construct finite fields, explain their existence/uniqueness and cyclic units, and calculate Frobenius.",
+    "prerequisites": [
+      9,
+      15,
+      22
+    ],
+    "semester": 2,
+    "extension": ""
+  },
+  {
+    "number": 25,
+    "slug": "galois-correspondence",
+    "title": "Field automorphisms and the Galois correspondence",
+    "path": "chapters/25-galois-correspondence.md",
+    "solutions": "solutions/25-solutions.md",
+    "outcome": "Use normality, separability, fixed fields and the finite Galois correspondence with precise proof status.",
+    "prerequisites": [
+      8,
+      11,
+      22,
+      23,
+      24
+    ],
+    "semester": 2,
+    "extension": "Full general correspondence proof and extension lemmas"
+  },
+  {
+    "number": 26,
+    "slug": "cyclotomic-fields",
+    "title": "Cyclotomic polynomials, roots of unity and regular polygons",
+    "path": "chapters/26-cyclotomic-fields.md",
+    "solutions": "solutions/26-solutions.md",
+    "outcome": "Derive cyclotomic polynomials and their irreducibility; connect roots of unity, modular units, and polygons.",
+    "prerequisites": [
+      9,
+      15,
+      22,
+      25
+    ],
+    "semester": 2,
+    "extension": "Full regular-polygon classification"
+  },
+  {
+    "number": 27,
+    "slug": "solvability-and-galois-computations",
+    "title": "Computing Galois groups and solvability by radicals",
+    "path": "chapters/27-solvability-and-galois-computations.md",
+    "solutions": "solutions/27-solutions.md",
+    "outcome": "Compute representative cubic/quartic/quintic groups; explain solvable groups and radical-solvability boundaries.",
+    "prerequisites": [
+      10,
+      12,
+      15,
+      25,
+      26
+    ],
+    "semester": 2,
+    "extension": "General radical-solvability theorem and quintic computations"
+  },
+  {
+    "number": 28,
+    "slug": "analysis-and-primes",
+    "title": "Analysis as needed: sums, limits, Euler products and primes",
+    "path": "chapters/28-analysis-and-primes.md",
+    "solutions": "solutions/28-solutions.md",
+    "outcome": "Rebuild limits, comparison, harmonic divergence and convergent Euler products; distinguish PNT evidence from proof.",
+    "prerequisites": [
+      1,
+      3,
+      19
+    ],
+    "semester": 2,
+    "extension": "Euler-product analysis beyond finite examples; PNT is stated, not proved"
+  },
+  {
+    "number": 29,
+    "slug": "hensel-and-p-adic",
+    "title": "Hensel lifting and a first look at p-adic integers",
+    "path": "chapters/29-hensel-and-p-adic.md",
+    "solutions": "solutions/29-solutions.md",
+    "outcome": "Prove simple-root Hensel lifting; interpret compatible residues and the elementary p-adic viewpoint.",
+    "prerequisites": [
+      2,
+      4,
+      5,
+      15
+    ],
+    "semester": 2,
+    "extension": "The p-adic inverse-limit viewpoint"
+  },
+  {
+    "number": 30,
+    "slug": "synthesis-and-coding",
+    "title": "Synthesis: finite-field coding and mathematical investigations",
+    "path": "chapters/30-synthesis-and-coding.md",
+    "solutions": "solutions/30-solutions.md",
+    "outcome": "Explain polynomial evaluation codes and erasure recovery; carry out investigations linking arithmetic and algebra.",
+    "prerequisites": [
+      15,
+      21,
+      24,
+      25,
+      28,
+      29
+    ],
+    "semester": 2,
+    "extension": "Additional open-ended investigations"
+  }
+]

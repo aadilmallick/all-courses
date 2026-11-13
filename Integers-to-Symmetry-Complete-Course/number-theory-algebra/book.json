@@ -1,0 +1,499 @@
+{
+  "schema_version": 1,
+  "title": "Integers to Symmetry",
+  "subtitle": "An integrated course in number theory and abstract algebra",
+  "audience": "Beginners with high-school arithmetic and algebra; proof, linear algebra and analysis prerequisites taught as needed.",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Learning to prove: logic, sets, functions and induction",
+      "path": "chapters/01-proofs-and-structures.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [],
+      "experiments": []
+    },
+    {
+      "id": "chapter-02",
+      "title": "Divisibility, Euclid and Bezout",
+      "path": "chapters/02-euclidean-algorithm.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "euclid"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Primes, unique factorization and valuations",
+      "path": "chapters/03-primes-and-factorization.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-01",
+        "chapter-02"
+      ],
+      "experiments": [
+        "euclid"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Congruence, equivalence relations and residue classes",
+      "path": "chapters/04-congruence-and-quotients.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-01",
+        "chapter-02",
+        "chapter-03"
+      ],
+      "experiments": [
+        "congruences"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Linear congruences and the Chinese remainder theorem",
+      "path": "chapters/05-linear-congruences-and-crt.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-04"
+      ],
+      "experiments": [
+        "congruences"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Groups, symmetry and subgroups",
+      "path": "chapters/06-groups-and-symmetry.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-01",
+        "chapter-04",
+        "chapter-05"
+      ],
+      "experiments": [
+        "units"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Cyclic groups, cosets and Lagrange",
+      "path": "chapters/07-cyclic-groups-and-lagrange.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "units"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Homomorphisms, normal subgroups and quotients",
+      "path": "chapters/08-homomorphisms-and-quotient-groups.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-06",
+        "chapter-07"
+      ],
+      "experiments": [
+        "units"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Units, orders, Fermat, Euler and RSA",
+      "path": "chapters/09-units-orders-and-rsa.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-05",
+        "chapter-07",
+        "chapter-08"
+      ],
+      "experiments": [
+        "units"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Permutations, parity and alternating groups",
+      "path": "chapters/10-permutations-and-alternating-groups.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-06",
+        "chapter-07",
+        "chapter-08"
+      ],
+      "experiments": [
+        "permutations"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Group actions, orbit-stabilizer and counting",
+      "path": "chapters/11-group-actions-and-counting.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-06",
+        "chapter-07",
+        "chapter-10"
+      ],
+      "experiments": [
+        "permutations"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Cauchy, Sylow and finite group structure",
+      "path": "chapters/12-sylow-and-finite-groups.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-07",
+        "chapter-08",
+        "chapter-11"
+      ],
+      "experiments": [
+        "permutations"
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "title": "Rings, integral domains and fields",
+      "path": "chapters/13-rings-domains-and-fields.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-04",
+        "chapter-06",
+        "chapter-09"
+      ],
+      "experiments": [
+        "quotient-rings"
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "title": "Ideals, quotient rings and ring CRT",
+      "path": "chapters/14-ideals-and-ring-quotients.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-08",
+        "chapter-13"
+      ],
+      "experiments": [
+        "quotient-rings"
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "title": "Polynomial arithmetic, roots and irreducibility",
+      "path": "chapters/15-polynomial-arithmetic.md",
+      "part": "Semester 1",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-03",
+        "chapter-13",
+        "chapter-14"
+      ],
+      "experiments": [
+        "quotient-rings"
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "title": "Euclidean domains, PIDs, UFDs and Gaussian integers",
+      "path": "chapters/16-ufds-and-gaussian-integers.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-03",
+        "chapter-14",
+        "chapter-15"
+      ],
+      "experiments": [
+        "quotient-rings"
+      ]
+    },
+    {
+      "id": "chapter-17",
+      "title": "Quadratic residues and the Legendre symbol",
+      "path": "chapters/17-quadratic-residues.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-07",
+        "chapter-09",
+        "chapter-15",
+        "chapter-16"
+      ],
+      "experiments": [
+        "residues"
+      ]
+    },
+    {
+      "id": "chapter-18",
+      "title": "Gauss lemma and quadratic reciprocity",
+      "path": "chapters/18-quadratic-reciprocity.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-17"
+      ],
+      "experiments": [
+        "residues"
+      ]
+    },
+    {
+      "id": "chapter-19",
+      "title": "Arithmetic functions, convolution and Mobius inversion",
+      "path": "chapters/19-arithmetic-functions.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-05",
+        "chapter-09"
+      ],
+      "experiments": [
+        "arithmetic-functions"
+      ]
+    },
+    {
+      "id": "chapter-20",
+      "title": "Diophantine equations, continued fractions and Pell",
+      "path": "chapters/20-diophantine-and-continued-fractions.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-03",
+        "chapter-16",
+        "chapter-18"
+      ],
+      "experiments": [
+        "pell"
+      ]
+    },
+    {
+      "id": "chapter-21",
+      "title": "Finite abelian groups, modules and Smith normal form",
+      "path": "chapters/21-finite-abelian-groups.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-07",
+        "chapter-08",
+        "chapter-12",
+        "chapter-14"
+      ],
+      "experiments": [
+        "abelian"
+      ]
+    },
+    {
+      "id": "chapter-22",
+      "title": "Vector spaces, field extensions and constructibility",
+      "path": "chapters/22-field-extensions.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-13",
+        "chapter-14",
+        "chapter-15"
+      ],
+      "experiments": [
+        "finite-fields"
+      ]
+    },
+    {
+      "id": "chapter-23",
+      "title": "Number fields, algebraic integers and failed factorization",
+      "path": "chapters/23-number-fields-and-integers.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-16",
+        "chapter-22"
+      ],
+      "experiments": [
+        "finite-fields"
+      ]
+    },
+    {
+      "id": "chapter-24",
+      "title": "Finite fields, Frobenius and polynomial factorization",
+      "path": "chapters/24-finite-fields.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-09",
+        "chapter-15",
+        "chapter-22"
+      ],
+      "experiments": [
+        "finite-fields"
+      ]
+    },
+    {
+      "id": "chapter-25",
+      "title": "Field automorphisms and the Galois correspondence",
+      "path": "chapters/25-galois-correspondence.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-08",
+        "chapter-11",
+        "chapter-22",
+        "chapter-23",
+        "chapter-24"
+      ],
+      "experiments": [
+        "galois"
+      ]
+    },
+    {
+      "id": "chapter-26",
+      "title": "Cyclotomic polynomials, roots of unity and regular polygons",
+      "path": "chapters/26-cyclotomic-fields.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-09",
+        "chapter-15",
+        "chapter-22",
+        "chapter-25"
+      ],
+      "experiments": [
+        "galois"
+      ]
+    },
+    {
+      "id": "chapter-27",
+      "title": "Computing Galois groups and solvability by radicals",
+      "path": "chapters/27-solvability-and-galois-computations.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-10",
+        "chapter-12",
+        "chapter-15",
+        "chapter-25",
+        "chapter-26"
+      ],
+      "experiments": [
+        "galois"
+      ]
+    },
+    {
+      "id": "chapter-28",
+      "title": "Analysis as needed: sums, limits, Euler products and primes",
+      "path": "chapters/28-analysis-and-primes.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-01",
+        "chapter-03",
+        "chapter-19"
+      ],
+      "experiments": [
+        "primes"
+      ]
+    },
+    {
+      "id": "chapter-29",
+      "title": "Hensel lifting and a first look at p-adic integers",
+      "path": "chapters/29-hensel-and-p-adic.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-04",
+        "chapter-05",
+        "chapter-15"
+      ],
+      "experiments": [
+        "hensel"
+      ]
+    },
+    {
+      "id": "chapter-30",
+      "title": "Synthesis: finite-field coding and mathematical investigations",
+      "path": "chapters/30-synthesis-and-coding.md",
+      "part": "Semester 2",
+      "status": "complete",
+      "minimum_prose_words": 5000,
+      "prerequisites": [
+        "chapter-15",
+        "chapter-21",
+        "chapter-24",
+        "chapter-25",
+        "chapter-28",
+        "chapter-29"
+      ],
+      "experiments": [
+        "codes"
+      ]
+    }
+  ],
+  "assets": [],
+  "source_listings": [],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}
