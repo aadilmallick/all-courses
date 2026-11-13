@@ -1,0 +1,194 @@
+# Chapter 10 — C1 integration and independent mastery
+
+**Stage:** C1 integration. **Study allocation:** 100 hours in ten ten-hour units. **Prerequisites:** the grammar, vocabulary strategies, discourse control, and source handling developed throughout the course. Your task is to make these resources available while listening, interacting, reading, and writing under realistic constraints. Finishing 1,000 hours is evidence of sustained study, not an automatic certificate of proficiency.
+
+This chapter combines precision with flexibility. Precision means choosing a tense, pronoun, word, or source claim for a reason. Flexibility means finding another route when the first formulation fails. A speaker who can elegantly repair a misunderstanding often communicates more successfully than a speaker who has memorized a perfect monologue but cannot respond to a question.
+
+## 1. What advanced independence looks like
+
+Imagine attending a public discussion about converting a former factory into a cultural center. You need to follow speakers with different viewpoints, identify the actual disagreement, ask a relevant question, and later explain the issue to someone who was absent. None of those tasks can be reduced to recalling a verb table. They draw on listening, inference, vocabulary, discourse, and social judgment at the same time.
+
+Define progress through observable performances. Can you identify a speaker's main claim and a qualification? Can you distinguish an estimate from a commitment? Can you summarize disagreement without caricaturing either side? Can you maintain a conversation when an unfamiliar expression occurs? Can you revise an essay so that a reader can follow it without reconstructing missing logical steps? These questions give study a practical direction.
+
+A useful error log separates three categories. A **knowledge gap** means you do not know the needed form or meaning. A **retrieval gap** means you know it in slow work but cannot access it during a task. A **monitoring gap** means you produced an error you could have noticed. Treat them differently. A knowledge gap needs instruction and examples; a retrieval gap needs repeated varied use; a monitoring gap needs a manageable checking routine. Copying every correction ten times does not diagnose which problem you have.
+
+For example, if you write **« les mesures que nous avons pris »**, ask whether you know why *prises* is required. If not, revisit preceding direct-object agreement. If you can explain it immediately but missed it under time pressure, add a final pass that looks only for relative *que* before compound verbs. If you keep making the error while speaking, practice short meaningful sequences: **« la mesure que nous avons prise »**, **« les mesures que nous avons prises »**, and **« nous avons pris ces mesures »**. The contrast trains the actual decision.
+
+Keep ambitious goals without turning every conversation into a test. A demanding reading can reveal new gaps for years. That is normal in any language, including one's first. The aim is a durable ability to learn from those gaps and continue communicating accurately enough for the situation. This course's vocabulary bank is a foundation for that system, not a claim to contain every word you will ever encounter.
+
+## 2. Advanced agreement as a sequence of questions
+
+Agreement becomes less intimidating when you identify grammatical relationships before looking at endings. Begin with the noun: what is its gender and number? Identify the adjective or participle that relates to it. Then identify the construction controlling agreement. Do not decide solely from the nearest noun; proximity is not the same as dependency.
+
+With **être** in ordinary passive or intransitive compound constructions, agreement generally follows the subject: **« Les candidates sont arrivées »**, **« Les propositions ont été retenues »**. With **avoir**, find whether there is a direct object before the participle: **« Elles ont retenu les propositions »** versus **« Les propositions qu'elles ont retenues »**. In the second, *que* represents *les propositions* and comes before *ont retenues*. The feminine plural ending follows that preceding direct object.
+
+Pronominal verbs require analysis. **« Elles se sont lavées »** treats *se* as the direct object: they washed themselves. **« Elles se sont lavé les mains »** has *les mains* as a following direct object; *se* is indirect, so *lavé* does not agree with *elles* through *se*. **« Les mains qu'elles se sont lavées »** has a preceding direct object and agreement with *les mains*. **« Elles se sont parlé »** has no agreement because *parler à quelqu'un* takes an indirect object. For verbs whose pronominal form has a particular lexical behavior, consult a dependable reference rather than extending one slogan to every verb.
+
+The participle **fait** before an infinitive is invariable in **« les robes qu'elle a fait refaire »**. She caused the dresses to be remade; the construction is *faire + infinitive*. Other participle-plus-infinitive patterns can depend on who performs the infinitive's action, and spelling recommendations concerning *laissé* have variation across references. The practical skill is recognizing when a construction requires a targeted reference check. You do not gain precision by guessing confidently in an edge case.
+
+Agreement can also reveal meaning. **« La plupart des participants sont arrivés »** uses a plural verb because the expression refers to multiple participants. **« Une partie des participants a répondu »** and plural agreement in some contexts can reflect different grammatical or semantic emphasis; for important edited prose, consider rewriting as **« Plusieurs participants ont répondu »** or **« Une partie du groupe a répondu »** if that preserves the intended quantity. A rewrite that removes ambiguity may be more useful than defending a borderline form.
+
+## 3. Spelling, punctuation, and ambiguity in final revision
+
+Advanced editing is not searching for every possible defect at once. Use focused passes. First check content and organization: is every necessary idea present and does the conclusion follow? Then check clause structure and reference. Finally check morphology, spelling, accents, and punctuation. If you begin by polishing commas in a paragraph that must be rewritten, you spend attention on work that will disappear.
+
+Homophones need grammatical tests. **« Ces mesures »** points to particular measures; **« ses mesures »** identifies measures associated with a person. **« C'est »** can be expanded as *cela est* in suitable contexts; **« s'est »** belongs to a pronominal verb such as *elle s'est trompée*. **« Leur décision »** uses a possessive determiner; **« je leur réponds »** uses an indirect-object pronoun that does not become *leurs*. Explain the function before choosing the spelling.
+
+Accents carry lexical and grammatical distinctions. **« Ou »** offers an alternative; **« où »** relates to place or, in some constructions, time. **« Du »** can be an article or contraction; **« dû »** is the masculine singular participle of *devoir*. **« Il a dû partir »** means he had to leave or must have left, depending on context. A missing accent may be tolerated in a quick message, but in a formal document it can force a reader to solve an avoidable ambiguity.
+
+Punctuation helps the reader recover structure. **« Les habitants qui travaillent le soir seront consultés »** selects a subgroup: residents who work in the evening. **« Les habitants, qui travaillent le soir, seront consultés »** adds an explanatory relative and can imply that the relevant residents work in the evening generally. Do not insert commas merely where you happened to breathe. Ask whether the relative identifies the noun or adds extra information about an already identified group.
+
+Dangling modifiers create unintended actors. **« En arrivant à la gare, le train était déjà parti »** attaches *en arrivant* awkwardly to *le train*, as if the train arrived at the station while already departed. Repair it: **« Quand je suis arrivé à la gare, le train était déjà parti. »** If you intend a general observation, **« À mon arrivée à la gare, le train était déjà parti »** also works. In each case, the temporal relationship remains while the actor becomes clear.
+
+Finish by reading aloud at a natural pace. A sentence that repeatedly forces you to restart may contain too many embedded relationships. Divide it, then restore explicit links. Shortening is not automatically simplification of thought; sometimes two sentences express a complex relation more accurately because the reader can inspect each step.
+
+## 4. Lexical precision: near-synonyms have different jobs
+
+Knowing several words for an idea is useful only if you know their differences. **« Une difficulté »** is a difficulty; **« une contrainte »** is a constraint; **« un obstacle »** blocks progress; **« un enjeu »** is what is at stake or an important issue, depending on context. Calling every problem *un enjeu* can make prose vague. **« Le manque de personnel constitue une contrainte »** identifies a resource limit. **« L'enjeu est de garantir l'accès au service »** identifies the goal or stake.
+
+Similarly, **« efficace »** concerns achieving an intended result, **« rentable »** concerns financial return, and **« pertinent »** concerns relevance or appropriateness. **« Une réponse pertinente »** addresses the question. **« Une mesure efficace »** works toward its aim. **« Une activité rentable »** produces a favorable financial result. A policy can be effective but not profitable; a profitable service can fail to address a public need. Choose the adjective after identifying the dimension of evaluation.
+
+Verb choice can expose hidden assumptions. **« Prouver »** claims proof; **« indiquer »** points toward information; **« laisser entendre »** suggests an implication; **« prétendre »** often distances the writer from a claim or questions it. **« Le rapport prétend que... »** is not a neutral equivalent of *the report states that*. If you intend neutral attribution, use *indique*, *précise*, or *affirme* as appropriate. Tone can change through one reporting verb.
+
+Learn families through contrasts. *Améliorer* is to improve something; *s'améliorer* is to improve or get better. **« Le centre améliore ses services »** has an actor changing services. **« Les services s'améliorent »** presents improvement without naming the agent. *Augmenter* can be transitive or intransitive: **« La direction augmente les tarifs »** versus **« Les tarifs augmentent »**. The grammatical pattern determines where responsibility appears.
+
+For every high-value new word, create a mini-entry with a definition in simple French, one natural collocation, a contrasting word, and a personal example. For *une répercussion*: *une conséquence qui se fait sentir ailleurs ou plus tard*; *avoir des répercussions sur*; contrast with *une cause*; **« Le changement d'horaire a des répercussions sur l'organisation familiale. »** Review by reconstructing the relationship, not merely guessing an English gloss. At C1, flexible explanation often matters more than having the rarest available synonym.
+
+## 5. Translation as reconstruction of meaning
+
+Translation begins by understanding the source as a whole. Identify who acts, what happens, when, with what certainty, and for what audience. Then express that meaning in the target language using its own ordinary constructions. Only after that compare details. Starting with one-to-one word substitution often preserves the surface while distorting the message.
+
+Consider **« Il aurait refusé de signer l'accord »**. Depending on context, the conditional can report unconfirmed information: *He is said to have refused to sign the agreement* or *He reportedly refused to sign it*. In a hypothetical past context it could mean *He would have refused to sign the agreement*. The morphology alone does not decide. Read the surrounding sentences and identify whether the writer is reporting a claim or imagining an alternative past.
+
+English *since* can express time or cause. *Since Monday* gives **« depuis lundi »**. *Since the office is closed, we will return tomorrow* gives **« Puisque le bureau est fermé, nous reviendrons demain »** if the closure is presented as an accepted reason. *Because* can be *parce que*; *as* can have several roles; *while* can express simultaneity or contrast. Translate the relationship before choosing the connector.
+
+French tenses may require a structural change in English. **« Cela fait trois ans que je travaille ici »** becomes *I have been working here for three years*. **« Je viens de terminer »** becomes *I have just finished*. **« Il devait arriver à huit heures »** may mean *He was supposed to arrive at eight*, but context can also suggest a scheduled future-in-the-past. Do not memorize one English equivalent as the only possible meaning of *devoir*.
+
+Preserve register without imitating awkwardness. **« Nous vous saurions gré de bien vouloir nous transmettre le document »** is a formal request. A functional English translation might be *We would be grateful if you could send us the document*. Word-for-word translation would be unnatural. Conversely, translating a casual **« Tu peux m'envoyer ça ? »** as an elaborate formal request changes the relationship. Matching pragmatic force matters alongside informational accuracy.
+
+After drafting, back-check in a disciplined way. Underline numbers, negatives, restrictive expressions, comparisons, and modal verbs in the source; locate their counterparts in the translation. Check names and time anchors separately. Then read the target text without looking at the source and ask whether it sounds coherent. A translation can pass the detail check while remaining clumsy, or sound elegant while dropping a restriction. Both checks are necessary.
+
+## 6. Fast listening: decode, infer, and verify
+
+Rapid speech feels like a wall when you try to recognize every written word in sequence. Actual listening uses rhythm, chunks, context, and selective attention. First establish the situation: who is speaking, to whom, for what purpose, and about which issue? That frame helps predict possible meanings, but prediction must remain a hypothesis until the sound supports it.
+
+Use a three-listen routine. On the first listen, write only the topic, stance, and two supporting points. On the second, target details such as dates, contrast markers, and qualifications. On the third, transcribe a short difficult section exactly as heard. If a reliable transcript exists, compare afterward and explain the mismatch: unknown word, reduction, liaison, segmentation, or attention. Simply replaying the same extract many times without diagnosing the difficulty can train frustration rather than comprehension.
+
+Segmentation errors are especially revealing. A familiar sequence may be heard as a different set of words because boundaries are not acoustically separated. Link the sound to meaning and grammar together. If you hear something like **« ils ont »**, distinguish it from **« ils sont »** through the consonant and the sentence's structure. If a final consonant appears through liaison, identify the phrase that licenses it. Do not assume every written final consonant must be pronounced.
+
+Take notes in compressed meaning rather than full sentences. For a speaker saying **« L'ouverture tardive serait utile, mais elle suppose une réorganisation du personnel »**, note *benefit evening opening / condition staffing reorganization*. Then reconstruct the argument in French afterward. Trying to transcribe an entire fast discussion often makes you miss the next point. Use abbreviations you understand and distinguish the speaker's claims from your own reactions.
+
+Synthetic TTS in the companion is valuable for repeated word and sentence practice, slower playback, and dictation. It does not replace authentic multi-speaker listening, emotional tone, overlap, or genre conventions. Use lawful interviews, discussions, lectures, and news reports as additional material. Rotate topics and voices while retaining some repeated listening so that progress includes both transfer and detailed improvement.
+
+For a listening test, hide the model sentence, listen, type the French, and write an English rendering. Score transcription and meaning separately. Missing an accent, choosing the wrong tense, and misunderstanding a negation are different errors. The companion can compare against accepted strings and show the reference; a human review remains useful for a valid translation the bank did not anticipate. A mismatch is a prompt to inspect meaning, not automatic proof that every word of your answer is wrong.
+
+## 7. Pragmatics, implied meaning, and humor
+
+People do not always state their purpose directly. **« Il fait un peu froid ici »** can be a comment about temperature or an indirect request to close a window. Context determines which interpretation is plausible. A meeting participant saying **« C'est une proposition ambitieuse »** may be praising the plan, warning about feasibility, or doing both. Do not assign sarcasm merely because a phrase permits it.
+
+Look for converging evidence: prior turns, intonation, facial expression when available, relationship, and practical circumstances. If uncertainty matters, ask a clarifying question. **« Quand vous dites “ambitieuse”, pensez-vous surtout au budget ou au calendrier ? »** invites the speaker to specify the concern without accusing them of irony. **« Si je comprends bien, vous êtes favorable au principe, mais vous avez des réserves sur la mise en œuvre »** checks a balanced interpretation.
+
+Humor often depends on shared knowledge, polysemy, understatement, exaggeration, or a mismatch between expectation and outcome. A joke may fail in translation because its wording carries two meanings that the target language cannot reproduce. Explain the mechanism before attempting an equivalent. If a play on *vol* uses both flight and theft, an English version may require a different wordplay or an explanatory note. The right choice depends on whether the goal is literary translation, conversation, or analysis.
+
+Be cautious with unfamiliar slang and taboo language. Understanding an expression in a film does not establish when you can use it appropriately. Record its approximate force, relationship, and setting. If a speaker teases a close friend, copying the phrase to a new colleague may change it from affectionate to insulting. Recognition can progress faster than production safely and usefully.
+
+Practice pragmatic repair with three responses to a vague criticism. First, a clarifying response: **« Quel aspect vous paraît le plus fragile ? »** Second, acknowledgment plus focus: **« Je comprends la réserve sur les coûts ; voici comment nous pourrions la traiter. »** Third, a boundary: **« Je peux discuter du contenu de la proposition, mais j'aimerais que nous évitions les remarques personnelles. »** These are linguistic resources for maintaining a productive exchange, not formulas guaranteed to resolve every social situation.
+
+## 8. Speaking: plan lightly, interact fully, repair clearly
+
+A useful presentation has a question, a position, reasons, and a consequence. For a five-minute talk, plan a short opening, two developed points, one objection, and a conclusion. Write keywords, not a complete script, for practice. A script can support early work, but reading it aloud does not test spontaneous retrieval or interaction. Gradually reduce the notes while preserving the structure.
+
+Useful openings include **« Je voudrais examiner les conditions dans lesquelles... »**, **« La question n'est pas seulement de savoir si..., mais aussi de déterminer comment... »**, and **« Je défendrai l'idée suivante... »**. Use them only if they match your actual plan. A memorized opening promising three parts is harmful if the talk contains two. Signposting should make the structure visible, not decorate an absent structure.
+
+During questions, listen for the function: request for clarification, challenge to evidence, alternative proposal, or objection to a value judgment. Repeat the question's key point when useful: **« Si votre question porte sur le coût à long terme, nous ne disposons pas encore d'une estimation complète. »** Then answer what you can, state the limit, and explain a next step. Avoid filling every uncertainty with confident speculation.
+
+Repair is part of fluent speech. **« Je reformule »**, **« Ce que je veux dire, c'est que... »**, **« J'ai employé le mot trop vite »**, and **« Je corrige : il s'agit d'une estimation, pas d'un montant définitif »** let you maintain trust while correcting yourself. If you cannot retrieve a word, define it: **« le document qui récapitule les décisions prises pendant la réunion »** can stand in for *le compte rendu*. Circumlocution is successful when it keeps meaning clear.
+
+Record a presentation and assess different layers on separate listens. First assess structure and task fulfillment. Next assess grammar and vocabulary, noting only recurring or consequential errors. Finally assess audibility, rhythm, pausing, and listener effort. Do not interrupt every sentence to correct yourself during the first playback. Select two priorities for the next recording, such as clearer contrast markers and fewer ambiguous pronouns.
+
+On-device speech recognition can provide a transcript if the browser and French language support are available. That transcript reflects recognition behavior, not a validated pronunciation score. A word can be recognized despite awkward rhythm, or misrecognized because of microphone conditions. Optional browser AI feedback can suggest revisions to a transcript, but it can also make mistakes. Use a competent human listener for assessments of pronunciation, interaction, and high-level communicative performance.
+
+## 9. Integrated original practice examination
+
+The following is an original course assessment inspired by advanced communicative tasks. It does not reproduce an official DALF paper, timing specification, marking grid, or copyrighted source. For current official requirements and sample papers, consult France Éducation international directly when accessible. The suggested times below organize this course's practice only.
+
+**Reading and synthesis, 75 minutes.** Read the two original statements below. Write a neutral 120–160-word synthesis, then a separate 300–400-word recommendation. Keep the source account distinct from your own position.
+
+> **Statement A — Cultural association.** « L'ancienne usine représente une occasion rare de créer un lieu culturel accessible. Le quartier manque de salles adaptées aux répétitions et aux ateliers. Nous proposons d'ouvrir progressivement le bâtiment, en commençant par les espaces dont la sécurité peut être assurée rapidement. Cette démarche permettrait d'ajuster le projet aux usages réels. Il ne faudrait toutefois pas que le caractère provisoire de l'ouverture serve de prétexte à reporter indéfiniment les travaux nécessaires. »
+>
+> **Statement B — Residents' group.** « Nous soutenons la réutilisation du bâtiment, mais nous demandons que les conséquences pour le voisinage soient examinées avant toute ouverture régulière. Les problèmes ne se limitent pas au bruit à l'intérieur : la circulation, les livraisons et les départs nocturnes doivent aussi être pris en compte. Une concertation utile suppose des informations précises, un calendrier public et une possibilité réelle de modifier le projet. »
+
+**Listening and mediation, 30 minutes.** Ask a partner to read the following statement twice at a natural pace, or use TTS while acknowledging the synthetic source: **« L'ouverture progressive peut être une solution raisonnable, à condition que chaque étape fasse l'objet d'un bilan. Le premier mois ne donnera sans doute pas une image complète de la fréquentation, car la nouveauté attirera probablement des visiteurs occasionnels. Il faudra donc observer l'évolution sur une période plus longue et distinguer les visites ponctuelles des usages réguliers. »** Without seeing the text during the task, write the main recommendation, two qualifications, and a concise English explanation for someone who cannot attend.
+
+**Speaking and interaction, 25 minutes including preparation.** Prepare for ten minutes, present for five, and discuss for ten with a partner. Question: **« À quelles conditions un projet culturel peut-il répondre aux besoins du quartier sans imposer des coûts excessifs à ses habitants ? »** Use the provided statements but do not invent numerical budgets. Your partner should challenge one assumption, ask for an alternative, and request clarification of one term.
+
+**Language editing, 20 minutes.** Correct and explain: (1) **« Les propositions que nous avons retenu seront présentées demain. »** (2) **« Si les habitants auraient été consultés, le conflit aurait pu être évité. »** (3) **« Après avoir analysé le dossier, une décision sera annoncée. »** (4) **« Le rapport prétend que le bâtiment est disponible »** when neutral attribution is intended. (5) **« Tous les habitants soutiennent le projet »** when the source says only that a residents' group supports reuse under conditions.
+
+## 10. Model reasoning and assessment keys
+
+A sound synthesis identifies common ground first: both groups support reuse, while emphasizing different conditions. The cultural association stresses unmet space needs and staged opening; the residents' group stresses prior examination of practical impacts and meaningful consultation. Both want procedures that remain accountable over time. Do not summarize the second statement as opposition to culture, and do not summarize the first as support for opening regardless of safety.
+
+A complete model synthesis follows. Its 135-word length fits the assigned short-source exercise; the numbered task uses a shorter synthesis because the source pack itself is brief.
+
+> Les deux prises de position soutiennent la réutilisation de l'ancienne usine, mais elles insistent sur des conditions différentes. L'association culturelle met en avant le manque de locaux adaptés et propose une ouverture progressive des espaces dont la sécurité peut être garantie. Elle souhaite ainsi ajuster le projet aux besoins observés, sans que le provisoire conduise à différer indéfiniment les travaux nécessaires. Le groupe de riverains demande, pour sa part, une évaluation préalable des effets sur le quartier. Ses préoccupations concernent le bruit, mais aussi la circulation, les livraisons et les départs nocturnes. Il attend une concertation fondée sur des informations précises, un calendrier public et une possibilité réelle de modifier le projet. Les deux groupes associent donc leur soutien à des exigences de fonctionnement et de suivi, tout en mettant l'accent sur des priorités distinctes.
+
+A complete model recommendation follows. It proposes a defensible course of action rather than presenting invented plans as source facts.
+
+Je recommande une démarche progressive, mais assortie de conditions vérifiables avant chaque étape. Le besoin de locaux culturels mérite une réponse, et laisser le bâtiment inutilisé ne résout ni la question des ateliers ni celle de son avenir. Toutefois, l'utilité du projet ne dispense pas ses responsables d'examiner les conséquences pour les habitants.
+
+La première étape devrait porter sur la sécurité des espaces susceptibles d'accueillir le public. Il faudrait préciser lesquels peuvent être utilisés, pour quelles activités et selon quelles modalités. Cette vérification permettrait d'éviter qu'une ouverture présentée comme limitée ne devienne, de fait, une occupation régulière insuffisamment encadrée.
+
+En parallèle, une concertation devrait réunir les futurs usagers et les riverains autour d'informations concrètes. Les horaires, les livraisons et les conditions de départ méritent d'être discutés séparément : une activité silencieuse peut malgré tout provoquer une gêne à la sortie. Un calendrier public indiquerait les étapes du projet et les moments auxquels des ajustements restent possibles.
+
+On pourrait objecter qu'une telle procédure ralentirait une ouverture attendue depuis longtemps. Cette réserve est compréhensible. Néanmoins, une expérimentation mal préparée risquerait de créer des tensions qui rendraient ensuite le projet plus difficile à poursuivre. Une préparation ciblée peut donc servir la continuité du lieu plutôt que la retarder inutilement.
+
+Enfin, chaque phase devrait donner lieu à un bilan partagé portant sur les usages, les difficultés rencontrées et les modifications proposées. Les critères du bilan devraient être annoncés avant l'ouverture, afin que chacun sache sur quelles bases la suite sera décidée. La poursuite des travaux nécessaires devrait également faire l'objet d'un suivi distinct : le succès d'une première phase ne justifierait pas leur report permanent.
+
+Cette démarche ne garantit pas l'absence de désaccord. Elle offre cependant un cadre dans lequel les besoins culturels et les conditions de vie du quartier peuvent être examinés ensemble, sans transformer l'une de ces préoccupations en simple obstacle à l'autre.
+
+For the recommendation, several positions can be defensible. You might support a limited pilot with safety checks, transparent scheduling, consultation, and review before expansion. Or you might argue that certain unresolved conditions must be met before any opening. Evaluate whether the position responds to the sources, acknowledges a real objection, and explains why the proposed sequence is appropriate. There is no single correct political opinion hidden in the grammar.
+
+The listening key should include a staged opening as reasonable if each stage is reviewed; the first month's attendance may be distorted by novelty; longer observation should separate occasional visits from regular use. A suitable English mediation is: *The speaker favors gradual opening with a review at each stage. Early visitor numbers may be unusually high because the place is new, so the project should be assessed over a longer period and distinguish one-off visitors from regular users.* A literal rendering of every word is unnecessary if the task is explanation rather than transcription.
+
+Editing answers: (1) **« Les propositions que nous avons retenues... »** agrees with the preceding direct object. (2) **« Si les habitants avaient été consultés... »** supplies the unreal past condition. (3) **« Après avoir analysé le dossier, la direction annoncera une décision »** names the actor; another valid repair changes the introductory phrase. (4) Use **« indique »** or **« précise »** for neutral attribution when justified by context; *prétend* can imply distance or doubt. (5) **« Le groupe de riverains soutient la réutilisation du bâtiment, sous certaines conditions »** preserves the actual source and scope.
+
+Use a six-dimension rubric: task fulfillment, source fidelity, organization, grammar, vocabulary/register, and spoken delivery/interaction where applicable. Score each 0–4 with quoted evidence: 0 absent, 1 frequent breakdown, 2 functional but uneven, 3 generally controlled, 4 flexible and precise. Do not convert the sum into an official C1 result. It is a diagnostic course score. A human reviewer should identify whether weaknesses are local slips or patterns that obstruct understanding. Revise one written response and repeat the oral task after targeted work; improvement in the second version is part of the assessment.
+
+## 11. A vocabulary system that continues after the course
+
+No finite wordlist contains all the French a person will ever need. Your needs change with work, interests, relationships, and the communities you encounter. Build a layered vocabulary system: a high-frequency core used reliably, broad receptive knowledge developed through reading and listening, and topic-specific clusters for your current goals. Keep those layers connected through sentences and meaningful tasks.
+
+When collecting an item, decide whether it is worth active production. A rare literary adjective may deserve recognition only. A verb construction you need in weekly meetings deserves active practice. Record a word's gender or infinitive, construction, meaning in context, register, one natural example, and one contrast. If the example contains three other unknown words, simplify it before adding it to review. A review card should teach a retrievable relationship, not reproduce an entire difficult paragraph.
+
+Space reviews according to actual recall rather than treating a fixed interval as a law. After an initial encounter, revisit the item soon, then after increasing gaps when retrieval succeeds. When you fail, inspect whether the problem was meaning, form, spelling, or construction. A French-to-English recognition card and an English-to-French production card test different things. Add a listening prompt when sound is the problem, and a sentence completion when the preposition is the problem.
+
+Choose extensive input that is challenging enough to expand knowledge but readable enough to sustain attention. Alternate it with intensive study of short passages. Extensive reading builds familiarity with recurring patterns; intensive work explains a knot you cannot yet untie. If every page requires constant lookup, select an easier text for extensive practice and retain the harder one for a short focused session. Difficulty is useful when it produces learning rather than only interruption.
+
+Once a month, complete a real project: write a review, explain a technical process, conduct an interview, discuss an article, or create a small presentation. Use the new vocabulary in service of that task, then remove expressions that feel forced. Ask for feedback on naturalness and meaning. The purpose of collecting words is an expanding ability to understand and act, not a large database that you rarely use.
+
+## 12. The final 100 hours and the next learning cycle
+
+Each unit uses two hours of focused lesson work, two of reading and vocabulary, two of listening, two of writing or translation, one of speaking, and one of review. Together the ten units below total 100 hours and bring the course allocation to 1,000. The proportions are a plan: if listening is your main weakness, you may shift time while keeping the total and documenting the reason.
+
+| Unit | Main task | Evidence |
+| --- | --- | --- |
+| 10.1 | Diagnose knowledge, retrieval, and monitoring gaps | Error log with different remedies |
+| 10.2 | Analyze agreement in meaningful passages | Twenty explained corrections and new examples |
+| 10.3 | Revise for spelling, punctuation, and reference | Three-pass edited text with change notes |
+| 10.4 | Contrast lexical near-synonyms | Thirty contextual mini-entries |
+| 10.5 | Translate in both directions | Two translations with scope and register checks |
+| 10.6 | Practice fast listening and mediation | Transcription diagnoses and concise summaries |
+| 10.7 | Interpret implication and repair uncertainty | Recorded clarification role-plays |
+| 10.8 | Present, answer objections, and reformulate | Two recordings with focused improvements |
+| 10.9 | Complete the integrated assessment | Timed responses and evidence-based feedback |
+| 10.10 | Revise the portfolio and plan the next cycle | Final work plus a twelve-week continuation plan |
+
+For a continuation cycle, choose one topic and one communicative aim for twelve weeks. An example is *understand urban planning debates and present a balanced local proposal*. Select recurring input sources, one longer book or series, a weekly conversation, and a monthly written product. At the end, repeat a task from the beginning using new material of similar difficulty. Compare accuracy, complexity, flexibility, and listener effort rather than only speed.
+
+Your final portfolio should contain an early and late writing sample, a neutral synthesis, a professional email, a translation in each direction, a listening diagnosis, and two oral recordings. Add a short reflection in French: **« Ce que je maîtrise mieux aujourd'hui... Ce qui me demande encore un effort... La prochaine situation dans laquelle je veux être plus à l'aise... »** Be specific enough that a future study session can act on the reflection.
+
+If certification matters, use current official information and a qualified evaluator to plan dedicated exam preparation. The companion's quizzes and practice tests support learning; they cannot certify a level, evaluate all acceptable translations, or replace interaction with people. The lasting outcome of this curriculum is a connected system of grammar, vocabulary, strategies, and practice that lets you keep developing your French beyond the final scheduled hour.
+
+## Reference and platform note
+
+All passages, tasks, model reasoning, and rubrics in this chapter are original course material. The [France Éducation international DALF page](https://www.france-education-international.fr/diplome/dalf) is the official continuing reference for its examinations; automated access was denied on 13 November 2026, so exact current exam specifications were not used here. Browser TTS and speech recognition availability depend on the device and browser. The site's capability messages should be read before relying on on-device speaking features, and human feedback should be used for pronunciation and consequential proficiency judgments.

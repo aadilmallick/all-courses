@@ -1,0 +1,115 @@
+{
+  "encoding": "cl100k_base",
+  "library": "tiktoken 0.12.0",
+  "minimum_tokens_per_chapter": 5000,
+  "chapters": [
+    {
+      "file": "01-numbers-functions-and-reasoning.md",
+      "tokens": 5008,
+      "whitespace_words": 3468,
+      "prose_words_excluding_fenced_code": 3468
+    },
+    {
+      "file": "02-calculus-and-continuous-models.md",
+      "tokens": 5018,
+      "whitespace_words": 3466,
+      "prose_words_excluding_fenced_code": 3466
+    },
+    {
+      "file": "03-linear-algebra-and-numerical-structure.md",
+      "tokens": 5040,
+      "whitespace_words": 3512,
+      "prose_words_excluding_fenced_code": 3512
+    },
+    {
+      "file": "04-python-and-reproducible-computation.md",
+      "tokens": 5022,
+      "whitespace_words": 3474,
+      "prose_words_excluding_fenced_code": 3197
+    },
+    {
+      "file": "05-probability-and-random-variables.md",
+      "tokens": 5055,
+      "whitespace_words": 3605,
+      "prose_words_excluding_fenced_code": 3605
+    },
+    {
+      "file": "06-statistical-inference-and-evidence.md",
+      "tokens": 5008,
+      "whitespace_words": 3816,
+      "prose_words_excluding_fenced_code": 3816
+    },
+    {
+      "file": "07-financial-markets-and-valuation.md",
+      "tokens": 5030,
+      "whitespace_words": 3637,
+      "prose_words_excluding_fenced_code": 3637
+    },
+    {
+      "file": "08-portfolios-asset-pricing-and-performance.md",
+      "tokens": 5010,
+      "whitespace_words": 3526,
+      "prose_words_excluding_fenced_code": 3526
+    },
+    {
+      "file": "09-econometrics-identification-and-estimation.md",
+      "tokens": 5039,
+      "whitespace_words": 3670,
+      "prose_words_excluding_fenced_code": 3670
+    },
+    {
+      "file": "10-time-series-forecasting-and-volatility.md",
+      "tokens": 5024,
+      "whitespace_words": 3556,
+      "prose_words_excluding_fenced_code": 3556
+    },
+    {
+      "file": "11-multivariate-time-series-and-bayesian-computation.md",
+      "tokens": 5035,
+      "whitespace_words": 3781,
+      "prose_words_excluding_fenced_code": 3781
+    },
+    {
+      "file": "12-convex-optimization-and-numerical-methods.md",
+      "tokens": 5017,
+      "whitespace_words": 3644,
+      "prose_words_excluding_fenced_code": 3644
+    },
+    {
+      "file": "13-stochastic-processes-and-ito-calculus.md",
+      "tokens": 5010,
+      "whitespace_words": 3429,
+      "prose_words_excluding_fenced_code": 3429
+    },
+    {
+      "file": "14-derivatives-pricing-and-monte-carlo.md",
+      "tokens": 5012,
+      "whitespace_words": 3455,
+      "prose_words_excluding_fenced_code": 3455
+    },
+    {
+      "file": "15-dynamic-choice-risk-and-execution.md",
+      "tokens": 5014,
+      "whitespace_words": 3671,
+      "prose_words_excluding_fenced_code": 3671
+    },
+    {
+      "file": "16-machine-learning-for-quantitative-research.md",
+      "tokens": 5011,
+      "whitespace_words": 3832,
+      "prose_words_excluding_fenced_code": 3832
+    },
+    {
+      "file": "17-research-design-data-and-backtesting.md",
+      "tokens": 5001,
+      "whitespace_words": 3820,
+      "prose_words_excluding_fenced_code": 3820
+    },
+    {
+      "file": "18-project-studio-and-readiness.md",
+      "tokens": 5024,
+      "whitespace_words": 3843,
+      "prose_words_excluding_fenced_code": 3843
+    }
+  ]
+}

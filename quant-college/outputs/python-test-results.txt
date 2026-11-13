@@ -1,0 +1,14 @@
+test_antithetic_mc_sampling (test_core.CoreTests.test_antithetic_mc_sampling) ... ok
+test_call_known_value_and_parity (test_core.CoreTests.test_call_known_value_and_parity) ... ok
+test_cash_path_and_scale (test_core.CoreTests.test_cash_path_and_scale) ... ok
+test_covariance_bound (test_core.CoreTests.test_covariance_bound) ... ok
+test_hand_ols (test_core.CoreTests.test_hand_ols) ... ok
+test_invalid_prices (test_core.CoreTests.test_invalid_prices) ... ok
+test_kalman_known_update (test_core.CoreTests.test_kalman_known_update) ... ok
+test_no_future_leak (test_core.CoreTests.test_no_future_leak) ... ok
+test_tree_replication (test_core.CoreTests.test_tree_replication) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.030s
+
+OK

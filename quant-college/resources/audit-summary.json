@@ -1,0 +1,28 @@
+{
+  "links": 1321,
+  "types": {
+    "page": 561,
+    "video": 100,
+    "pdf": 401,
+    "archive": 20,
+    "data/code": 60,
+    "external-reading": 179
+  },
+  "checked_targets": 482,
+  "responses": {
+    "200": 478,
+    "unavailable": 4
+  },
+  "courses": {
+    "MIT-15401": 166,
+    "MIT-15433": 101,
+    "MIT-18642": 181,
+    "MIT-18S096": 164,
+    "MIT-14382": 126,
+    "MIT-14384": 194,
+    "MIT-15450": 87,
+    "STANFORD-EE364A": 151,
+    "STANFORD-CS229": 151
+  },
+  "note": "One expired signed publisher download was replaced with a stable unverified article landing page. Three remaining target failures were TLS certificate errors; no certificate checks were disabled."
+}

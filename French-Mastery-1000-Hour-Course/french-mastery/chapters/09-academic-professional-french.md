@@ -1,0 +1,184 @@
+# Chapter 09 — Academic and professional French
+
+**Stage:** C1 development. **Study allocation:** 100 hours in ten ten-hour units. **Prerequisites:** tense and mood control, complex clauses, argument, register, and reference from Chapters 01–08. You will combine several sources, distinguish fact from inference, write useful professional documents, and sustain an appropriately qualified position. C1 is a pattern of performance across tasks, not a list of impressive expressions.
+
+The recurring situation is a proposal to extend a community learning center's opening hours. You receive figures, opinions, constraints, and incomplete evidence. Your job is to explain what can be concluded, what remains uncertain, and what someone should do next. The examples are fictional and the figures are deliberately small enough to inspect. They teach language and reasoning; they are not policy research.
+
+## 1. A claim has a source, a scope, and a strength
+
+Start with **« Le centre ferme trop tôt »** — The center closes too early. Who says this, for whom is closing time too early, and compared with what need? A resident's opinion is not the same kind of evidence as attendance records. A stronger professional account might be **« Selon les personnes interrogées en soirée, l'horaire actuel limite l'accès aux ateliers »** — According to the people interviewed in the evening, the present timetable limits access to workshops.
+
+Now examine what the qualification does. *Selon* attributes the statement. *Les personnes interrogées en soirée* identifies the group. *Limite l'accès* describes an effect without claiming that access is impossible. The sentence does not imply that everyone in the neighborhood agrees. If you remove the qualifier and write **« Les habitants ne peuvent pas accéder aux ateliers »**, you have changed a bounded report into a general claim.
+
+French has many tools for expressing strength. **« Les données montrent que... »** presents a result as supported by data. **« Les données suggèrent que... »** is more tentative. **« Il est possible que... »** introduces a possibility and takes the subjunctive in this construction: **« Il est possible que cet horaire convienne mieux aux salariés. »** **« Il semble que... »** often allows different mood choices according to how the proposition is presented; for dependable formal production when expressing uncertainty, **« Il semble que l'effet soit limité »** is a useful pattern. Do not treat mood as a mechanical percentage scale of certainty.
+
+Distinguish *probable* from *possible*, *nécessaire* from *souhaitable*, and *efficace* from *efficient*. Something can achieve its aim without doing so at low cost. **« Cette mesure est souhaitable »** expresses a judgment about desirability; **« Cette mesure est nécessaire »** claims it is required. If your evidence supports only preference, selecting the stronger adjective overstates the conclusion.
+
+Exercise: qualify **« Les cours du soir améliorent les résultats »** in three ways. A report of association is **« Dans cet échantillon, la participation aux cours du soir est associée à de meilleurs résultats. »** A cautious explanation is **« Les cours du soir pourraient contribuer à cette amélioration. »** An attributed opinion is **« D'après plusieurs participants, les cours du soir les aident à progresser. »** Each is grammatically accurate, but they express different evidence. Choose the one the source actually supports.
+
+## 2. Reporting speech without laundering an opinion into fact
+
+Reporting verbs classify what someone is doing. **« La directrice indique que les locaux sont disponibles »** reports information. **« Elle estime que l'extension serait utile »** reports a judgment. **« Elle affirme que les coûts resteront stables »** presents an assertion, not independent verification. **« Elle reconnaît que le budget est limité »** adds the idea of acknowledgment. Avoid using *démontrer* when a source merely asserts something; the verb would give the argument a strength it has not earned.
+
+Indirect speech also changes viewpoint. Direct speech on Monday: **« Nous ouvrirons demain »**. A later narrative can say **« La directrice a annoncé lundi que le centre ouvrirait le lendemain »**. *Demain* becomes *le lendemain* because the time anchor moved. The future becomes conditional as future viewed from a past reporting point. If you write an immediate news summary while tomorrow is still the relevant day, **« Elle a annoncé que le centre ouvrira demain »** may be appropriate. Sequence of tenses serves time and viewpoint, not arbitrary word replacement.
+
+For a prior event: **« Elle explique qu'elle a consulté l'équipe »**. From a past narrative frame: **« Elle a expliqué qu'elle avait consulté l'équipe »**. The plus-que-parfait locates the consultation before the explanation. For a continuing truth, a present may be retained when the writer treats it as still valid: **« Le responsable a rappelé que le bâtiment est accessible aux personnes à mobilité réduite. »** If you use an imperfect, the sentence may stay inside the historical frame without necessarily declaring the fact false today.
+
+Questions require reconstruction. **« Pourquoi le centre ferme-t-il à dix-huit heures ? »** becomes **« Les habitants demandent pourquoi le centre ferme à dix-huit heures. »** Indirect questions do not retain direct-question inversion. A yes/no question becomes *si*: **« Ils demandent si une ouverture tardive est possible. »** Distinguish this *si* from a hypothetical condition. You can say **« Je me demande s'il viendra »** because this is an indirect question about future arrival; the familiar rule excluding future after conditional *si* does not apply to every appearance of the word.
+
+Practice by interviewing a partner for five minutes. Write six reported statements, two reported questions, and one sentence that explicitly marks disagreement between speakers. Ask the partner to verify whether your account preserves their degree of certainty. That verification is a language task: a grammatically elegant summary can still misrepresent what someone said.
+
+## 3. Synthesis is organized by questions, not by documents
+
+A summary condenses one source. A synthesis combines relevant information from several sources around a common problem. Suppose source A describes increased demand for evening workshops, source B lists staffing costs, and source C gives residents' concerns about noise. Writing one paragraph beginning *Le document A dit...*, then one for B, then one for C is easy, but it often leaves the reader to perform the actual comparison.
+
+Begin with a question: **« À quelles conditions une ouverture en soirée serait-elle utile et réalisable ? »** — Under what conditions would evening opening be useful and feasible? Create a small evidence table. One row concerns demand, another staffing, another neighborhood impact. Place relevant material from every source into those rows. This reveals agreement, tension, and gaps before you write sentences.
+
+Use a neutral introductory frame: **« Les documents portent sur l'élargissement des horaires d'un centre de quartier. Ils font apparaître une demande réelle, tout en soulignant des contraintes de personnel et de voisinage. »** The phrase *une demande réelle* needs support in the fictional sources. If only two comments mention demand, use *une demande exprimée par certains usagers*. Then organize the body by the shared questions: who would benefit, what resources would be needed, and which safeguards might address concerns.
+
+Link sources precisely. **« Les deux enquêtes convergent sur... »** means the two surveys converge on something. **« En revanche, elles divergent quant à... »** identifies disagreement about a particular point. **« Le second document apporte un éclairage complémentaire »** says it adds another angle. Complementary does not mean contradictory. **« Cette estimation doit être rapprochée de... »** invites comparison without claiming identity. Avoid *contrairement* when sources simply discuss different dimensions.
+
+In a neutral synthesis, do not smuggle in your opinion through adjectives. **« Le projet courageux de la mairie se heurte aux plaintes exagérées des voisins »** sides with one group. A neutral version is **« Le projet de la mairie suscite des réserves chez certains riverains »**. If your task later asks for a recommendation, separate that recommendation from the source account so the reader can see where evidence ends and judgment begins.
+
+Keep a traceability note while drafting: mark the source behind each factual sentence, even if the final task does not use formal citation. If you cannot identify a source for a number, remove it or label it as an assumption. A synthesis is successful when the new organization helps the reader understand the relationship among sources without changing what any source actually says.
+
+## 4. Original source pack and a worked synthesis
+
+The following short documents are original practice material. They describe a fictional center and are not findings about a real community.
+
+**Document A — Usager survey.** **« Sur les soixante personnes ayant répondu au questionnaire du centre, trente-six souhaitent une ouverture après dix-huit heures au moins un jour par semaine. Vingt-quatre de ces trente-six personnes déclarent travailler à temps plein. Le questionnaire a été proposé à l'accueil pendant deux semaines. Il ne permet donc pas de connaître directement l'avis des personnes qui ne fréquentent jamais le centre. »**
+
+Translation: Of sixty questionnaire respondents, thirty-six want opening after six at least once weekly; twenty-four of those thirty-six report full-time employment. The questionnaire was offered at reception for two weeks, so it does not directly establish the opinions of people who never visit the center. The fraction thirty-six out of sixty is sixty percent of respondents, not sixty percent of all residents. Keep the denominator attached to the claim.
+
+**Document B — Staffing note.** **« Une soirée supplémentaire nécessiterait la présence de deux agents pendant trois heures. Le coût estimé est de cent quatre-vingts euros par soirée, hors éventuels frais de sécurité. L'équipe recommande une expérimentation de huit semaines avant toute modification durable. Elle précise que les heures correspondantes ne peuvent pas être ajoutées sans réorganiser le planning. »**
+
+Translation: One additional evening would require two staff members for three hours. The estimated cost is 180 euros per evening, excluding possible security costs. The team recommends an eight-week trial before a lasting change and says the hours require schedule reorganization. Eight evenings at this estimate give 1,440 euros before excluded costs. Do not convert an estimate into a guaranteed final budget.
+
+**Document C — Neighborhood association message.** **« L'association n'est pas opposée à une ouverture tardive. Elle souhaite toutefois que les activités bruyantes se terminent avant vingt heures et qu'un bilan soit communiqué aux riverains. Selon plusieurs membres, les départs groupés devant l'entrée principale constituent une gêne plus importante que les activités elles-mêmes. »**
+
+Translation: The association does not oppose late opening. It wants noisy activities to end before eight and a review to be shared with neighbors. Several members say groups leaving through the main entrance are more bothersome than the activities. **« N'est pas opposée »** is not equivalent to enthusiastic support. **« Selon plusieurs membres »** must remain an attributed assessment.
+
+A possible synthesis begins: **« L'élargissement des horaires répond à une demande exprimée par une majorité des répondants, notamment parmi les personnes qui travaillent à temps plein. La portée de l'enquête reste néanmoins limitée, puisqu'elle a été menée à l'accueil du centre. La faisabilité du projet dépendrait surtout de la réorganisation du travail et de la maîtrise des nuisances. »** Continue: **« L'équipe propose une expérimentation de huit semaines, dont le coût de personnel est estimé à 1 440 euros, hors sécurité. De son côté, l'association de quartier demande des horaires adaptés aux activités bruyantes et un bilan partagé. Une phase d'essai permettrait ainsi d'évaluer simultanément la fréquentation, les besoins de personnel et les effets sur le voisinage. »**
+
+The final sentence is a reasoned synthesis of the proposed trial, not a source quotation. It stays within the information provided. If a task demands strictly source-bound reporting, phrase it as the trial's potential purpose rather than claiming it has already proved effective. Compare your version against the three documents and highlight any detail you accidentally strengthened or omitted.
+
+## 5. Argument, counterargument, and a recommendation that survives scrutiny
+
+An argument connects a claim to reasons. A recommendation adds an action under specified conditions. **« Il faut ouvrir plus tard parce que c'est mieux »** repeats a preference without explaining who benefits or what tradeoff is acceptable. A stronger sentence is **« Une ouverture hebdomadaire jusqu'à vingt heures permettrait à certains salariés de participer aux ateliers, à condition que le planning soit réorganisé sans réduire les services essentiels de la journée. »** It identifies beneficiaries, expected benefit, and a constraint.
+
+Build paragraphs in four movements: claim, reason or evidence, interpretation, and consequence. For example: **« Une expérimentation limitée paraît préférable à une modification immédiate et définitive. En effet, l'enquête porte uniquement sur les personnes déjà présentes au centre. Elle établit une demande parmi les répondants, mais ne permet pas de prévoir avec certitude la fréquentation en soirée. Un essai de huit semaines fournirait donc des données plus directement liées au nouvel horaire. »** Each sentence does a different job. The paragraph does not need a connector at the start of every clause.
+
+Present the strongest reasonable objection. **« On pourrait objecter que le coût reste élevé pour un nombre encore incertain d'usagers »** is a plausible concern. Reply by acknowledging the true part: **« Cette réserve est fondée : le coût par participant dépendra de la fréquentation réelle. C'est pourquoi le bilan devrait fixer un seuil de participation et examiner d'autres modalités, telles qu'une ouverture sur inscription. »** Do not answer a cost objection by merely repeating that education is important. Address the relationship the objection raises.
+
+Use concession accurately. **« Certes, la mesure entraîne une dépense supplémentaire ; elle peut toutefois répondre à un besoin aujourd'hui mal couvert. »** *Certes* signals an admitted point, and *toutefois* introduces the balancing consideration. **« Même si la demande est réelle, les moyens restent limités »** accepts a premise hypothetically or concessively without requiring the subjunctive. **« Bien que la demande soit réelle... »** takes the subjunctive. The two constructions can communicate similar arguments while following different grammatical patterns.
+
+End with an operational recommendation. Specify action, responsible actor if known, time frame, and review criterion. **« Je recommande que la direction organise une soirée d'essai par semaine pendant huit semaines et publie un bilan portant sur la fréquentation, les coûts et les remarques des riverains. »** *Recommander que* governs the subjunctive here. If responsibility has not been assigned, write **« Il conviendrait de désigner une personne chargée du bilan »** rather than pretending the association already agreed to perform it.
+
+## 6. Professional email: make the next action easy
+
+A useful professional email answers why you are writing, what the reader needs to know, and what response you request. A meaningful subject helps: **« Objet : proposition d'expérimentation des horaires du centre »**. Begin with the relevant context, not a long explanation of your feelings about writing. **« À la suite de notre échange du 12 novembre, je vous transmets une proposition d'ouverture en soirée. »** This identifies the previous exchange and the attachment's role.
+
+An original model follows:
+
+> Madame,
+>
+> À la suite de notre réunion, je vous adresse une proposition d'expérimentation des horaires du centre. Elle prévoit une ouverture jusqu'à vingt heures un soir par semaine pendant huit semaines.
+>
+> Le coût de personnel est estimé à 1 440 euros pour l'ensemble de la période, hors éventuels frais de sécurité. Avant de confirmer le dispositif, il conviendrait de vérifier les possibilités de réorganisation du planning et de consulter les riverains sur les modalités de sortie.
+>
+> Pourriez-vous m'indiquer si cette proposition peut être examinée lors de la prochaine réunion de direction ? Je reste disponible pour préciser les critères du bilan.
+>
+> Cordialement,
+>
+> Samira Laurent
+
+The model is formal enough for an unfamiliar professional contact without being ceremonial. *Je vous adresse* means I am sending you; *une adresse* as a noun has a different role. *Il conviendrait de* proposes a prudent next step. The question requests a specific response: whether the proposal can be considered at the next meeting. It does not ask the reader vaguely to *give feedback* without indicating the decision needed.
+
+For disagreement, distinguish firmness from aggression. **« Je ne peux pas confirmer cette estimation en l'état, car les frais de sécurité n'y figurent pas »** states a limitation and its reason. **« Votre estimation est absurde »** attacks the work without helping repair it. If you need urgency, give the real deadline and consequence: **« Une réponse avant vendredi nous permettrait de préparer le planning de décembre. »** Do not fabricate urgency with *très urgent* in every subject line.
+
+Learn attachment and follow-up language: **« Vous trouverez le tableau en pièce jointe »**, **« Je vous remercie pour votre retour »**, **« Sauf erreur de ma part, je n'ai pas encore reçu la version révisée »**. The last phrase softens a reminder by allowing that you may have missed something; it is not a substitute for checking your records. After writing, remove any sentence that does not help the recipient understand, decide, or act.
+
+## 7. Reports, minutes, and the difference between a decision and a discussion
+
+A report can analyze; meeting minutes primarily record. Their purposes overlap, but they are not identical. **« Les participants ont évoqué une ouverture le jeudi »** records a discussion. **« Les participants ont décidé d'ouvrir le jeudi »** records a decision. **« La direction examinera la possibilité d'une ouverture le jeudi »** records a future action. Confusing these forms can create practical commitments that nobody made.
+
+Use explicit headings in a short professional report: context, observations, analysis, recommendations, and next steps. Under observations, preserve data and attribution. Under analysis, explain what follows and what does not. Under recommendations, state your judgment with conditions. A short table can be more effective than a paragraph listing ten dates or costs, but the table still needs clear units and definitions.
+
+A minute entry might read: **« Horaires : l'équipe propose une expérimentation de huit semaines. La direction demandera une estimation complémentaire des frais de sécurité avant le 20 novembre. Aucune décision définitive n'a été prise concernant le jour d'ouverture. »** The final sentence prevents a proposal from being mistaken for an agreed schedule. If the responsible actor or date is unknown, mark it as to be assigned in your working notes and resolve it before issuing final minutes; do not publish a fabricated certainty.
+
+Passive voice can help when the result matters more than the actor: **« Les réponses ont été classées par thème »**. An active version is more useful when accountability matters: **« L'équipe d'accueil a classé les réponses par thème »**. With a passive compound tense, agreement follows the subject: *les réponses ont été classées*. With active *avoir*, **« L'équipe a classé les réponses »** has no agreement with a following object; **« Les réponses que l'équipe a classées »** has a preceding direct object and agreement.
+
+Professional nouns have constructions worth learning: *un compte rendu de réunion*, *un rapport sur la fréquentation*, *une réponse à une demande*, *un engagement envers les usagers*, *une hausse de la fréquentation*. The preposition often expresses the relationship more precisely than an English noun sequence. Translate *a community center staffing cost estimate* by rebuilding that relationship, for example **« une estimation des coûts de personnel du centre de quartier »**, then check that *du centre* refers to the intended noun.
+
+## 8. Complex time, mood, and conditions in a real recommendation
+
+Advanced sentences are useful when several events depend on one another. **« Si le financement était confirmé, nous pourrions lancer le dispositif en janvier »** sets a hypothetical present or future condition. **« Si le financement avait été confirmé plus tôt, nous aurions pu lancer le dispositif en septembre »** describes an unreal past. A mixed condition is possible: **« Si nous avions obtenu les fonds en septembre, le centre serait déjà ouvert le soir »**. The past condition explains a present consequence.
+
+Do not use conditional morphology merely because the English sentence contains *would*. After conditional *si*, **« si nous aurions »** is not the standard pattern for the intended hypothetical condition. But **« Je voudrais savoir si nous aurions assez de personnel dans ce cas »** contains an indirect question embedded in a larger hypothetical scenario; the syntax is different. Identify what *si* is doing before applying a slogan about tense.
+
+Purpose and prior conditions require careful time relationships. **« Nous devons réorganiser le planning pour que l'équipe puisse assurer la permanence »** uses the subjunctive after *pour que*. **« Une fois que le planning aura été validé, nous informerons les usagers »** uses the future anterior for a future completed step before another future action. **« Avant que le planning soit validé, évitons d'annoncer une date définitive »** uses the subjunctive after *avant que*. An optional *ne* can appear in formal usage after *avant que* without adding negation; do not confuse it with *ne...pas*.
+
+For a completed prerequisite with an infinitive: **« Après avoir consulté les riverains, la direction publiera sa décision »**. The understood subject of *avoir consulté* is *la direction*. **« Après avoir consulté les riverains, la décision sera publiée »** leaves the decision as the apparent subject of the introductory infinitive, producing an illogical attachment. Repair it with an active main clause or a subordinate clause: **« Après que la direction aura consulté les riverains, la décision sera publiée. »**
+
+The construction **« après que »** takes the indicative in standard careful usage because it presents the event as accomplished or treated as such in the time relation. You will hear subjunctive forms in actual usage; recognize them without letting exposure erase your edited production target. In an exam or formal report, use a well-controlled alternative if the sequence feels uncertain: **« Une fois la consultation terminée, la direction publiera sa décision. »** Clarity can be achieved by choosing a construction you command fully.
+
+## 9. Reading disciplinary language without pretending to be a specialist
+
+C1 includes handling complex material in familiar areas and developing strategies for unfamiliar domains. It does not mean knowing every legal, medical, engineering, or philosophical term. When a text contains *la portée*, determine whether it means scope, range, significance, or a literal bearing in that context. When it contains *un dispositif*, ask whether it refers to a mechanism, an arrangement, or a policy scheme. Broad words often become precise through their surrounding nouns and verbs.
+
+Build a domain notebook around relationships. For economics, distinguish *le chiffre d'affaires* from *le bénéfice*: revenue is not profit. For research, distinguish *une hypothèse*, *une méthode*, *un résultat*, and *une interprétation*. For public policy, distinguish *une mesure*, *sa mise en œuvre*, and *son évaluation*. You can understand the structure of an argument even when some technical nouns need lookup. First identify what is being measured or claimed, then fill the lexical gaps.
+
+Watch qualifiers in quantitative prose: **« environ »**, **« près de »**, **« au moins »**, **« au plus »**, **« respectivement »**, **« dans l'ensemble »**, and **« toutes choses égales par ailleurs »**. The last phrase signals a comparison holding other factors constant conceptually or analytically; it is not a magic guarantee that they actually were controlled. If a text says **« au moins trente personnes »**, translating it as *about thirty people* removes the lower-bound meaning.
+
+Learn to paraphrase a definition. **« La fréquentation désigne ici le nombre de visites, et non le nombre de personnes distinctes »** tells you what the measure counts. One person visiting three times contributes three visits. If you summarize that as three people, the grammar may be perfect while the information is wrong. At this level, language comprehension includes respecting definitions, scope, and denominators.
+
+For an unfamiliar specialist text, use a three-pass method. First read titles and opening sentences to locate the question. Next read for the main relationships, marking a small number of terms essential to those relationships. Finally verify those terms in a reliable domain source and reread the decisive paragraphs. Do not interrupt every sentence for a dictionary search; equally, do not invent a meaning because a word resembles English. Write a plain-language account, then compare it against the original to find what your paraphrase omitted or strengthened.
+
+## 10. Francophone variation and respectful adaptation
+
+French is used in many communities, and variation occurs within each of them. Accent, vocabulary, politeness routines, and administrative terminology can differ by region, generation, profession, and situation. A useful learner asks **« Quel terme emploie-t-on dans ce contexte ? »** rather than ranking every unfamiliar expression as incorrect. At the same time, learning a local expression does not make it suitable in every setting.
+
+Some differences are easy to observe. A mobile phone may be called *un portable* in many French contexts and *un cellulaire* in many Canadian contexts. *Septante* and *nonante* are used in some francophone regions where other speakers use *soixante-dix* and *quatre-vingt-dix*. These examples are not complete maps of regional usage; check the audience and locality rather than assigning one form to everyone in a country. Professional terminology can differ for legal or institutional reasons, not just preference.
+
+Pronunciation variation affects listening. Do not define comprehensibility as copying a single prestige accent. Train your ear with a range of speakers and genres, beginning with clear recordings and adding unscripted exchanges. Keep a note of a sound pattern you hear, but avoid caricaturing it in your own speech. Your production goal is clear, consistent, socially appropriate French; adaptation can include recognizing local words without imitating every phonetic feature.
+
+Politeness also depends on relationship. *Tu* can signal familiarity, solidarity, or a local institutional norm; *vous* can mark respect, distance, or plural reference. If someone invites you to use *tu*, the invitation changes the relationship, but you still need appropriate professional content. When uncertain, **« Préférez-vous que l'on se tutoie ? »** asks about preference respectfully. Do not infer an entire culture's attitude from one workplace exchange.
+
+For this unit, compare two lawful public recordings from different francophone settings on the same broad topic. Note three shared structures and three differences you can actually document. Separate accent, vocabulary, genre, and speaker-specific style. A newsreader and a street interview differ in more than geography. Finish by writing a neutral summary that both audiences could understand, then identify two words you would adapt for a particular local recipient after checking a suitable reference.
+
+## 11. Guided translation and editing with answers
+
+Translate into French: (1) According to the respondents, the timetable is too limited. (2) The figures suggest that demand may increase. (3) If the team had been consulted, the error could have been avoided. (4) Once the budget has been approved, we will publish the timetable. (5) She asks whether the center will be open tomorrow. State the reporting time for the last item.
+
+Possible answers: **« Selon les répondants, les horaires sont trop restreints. »** Plural *les horaires* naturally refers to opening hours. **« Les chiffres laissent penser que la demande pourrait augmenter. »** This keeps a cautious interpretation. **« Si l'équipe avait été consultée, l'erreur aurait pu être évitée. »** The feminine singular *consultée* agrees with *l'équipe* in the passive, and *évitée* agrees with *l'erreur*. **« Une fois que le budget aura été approuvé, nous publierons les horaires. »** Future anterior marks prior completion in the future. **« Elle demande si le centre sera ouvert demain »** works if the reporting present and *tomorrow* share the current time anchor.
+
+Translate into English: **« Les résultats doivent être interprétés avec prudence, dans la mesure où l'échantillon ne comprend que les usagers actuels. »** A suitable answer is *The results should be interpreted cautiously, since the sample includes only current users.* Here *dans la mesure où* supplies the reason or limiting condition; literal *in the measure where* is not English. **« Cette réserve ne remet pas en cause l'intérêt du projet »** means *This reservation does not call the value of the project into question.* It does not mean the project has no risk.
+
+Repair **« La directrice demande quand est-ce que nous pourrons commencer »** in formal indirect speech. Use **« La directrice demande quand nous pourrons commencer. »** Repair **« Après avoir étudié les réponses, une décision sera prise »** by naming the actor: **« Après avoir étudié les réponses, la direction prendra une décision. »** If the actor is unknown, use **« Une décision sera prise après l'étude des réponses. »** That solution avoids the dangling understood subject, though it still leaves responsibility unnamed.
+
+Finally revise **« Soixante pour cent des habitants veulent une ouverture tardive »** using Document A. A faithful answer is **« Soixante pour cent des répondants souhaitent une ouverture tardive au moins un jour par semaine. »** Add **« Le questionnaire ayant été proposé à l'accueil, ce résultat ne représente pas nécessairement l'ensemble des habitants. »** This correction demonstrates why source handling and grammar belong together. Precision includes retaining the population, the request's scope, and the sampling limitation.
+
+## 12. Ten units, portfolio, and feedback
+
+Each unit contains two hours of close study, two of sustained reading and vocabulary, two of listening and note-taking, two of writing or translation, one of oral presentation or discussion, and one of review. The ten units total 100 hours. Use substantial authentic material alongside the course-created source pack, with lawful access and source notes. Choose topics that matter to you so that domain vocabulary is repeatedly useful.
+
+| Unit | Main work | Portfolio evidence |
+| --- | --- | --- |
+| 09.1 | Qualify claims by source, scope, and strength | Fifteen before-and-after sentences |
+| 09.2 | Report interviews and questions accurately | Verified 300-word interview account |
+| 09.3 | Build a thematic evidence table | Three-source matrix with disagreement and gaps |
+| 09.4 | Synthesize the center source pack | Neutral synthesis and source trace notes |
+| 09.5 | Defend a conditional recommendation | 600-word position with a real objection |
+| 09.6 | Write requests, reminders, and disagreement | Three professional emails with specific next actions |
+| 09.7 | Distinguish proposals from decisions | Minutes and short analytical report |
+| 09.8 | Edit time, mood, and clause attachment | Twenty justified corrections |
+| 09.9 | Read a specialist topic strategically | Terminology map and plain-language explanation |
+| 09.10 | Adapt for francophone audiences | Recorded presentation and revised final portfolio |
+
+For the capstone, produce a neutral synthesis of the three fictional documents, a separate recommendation email, a one-page implementation note, and a five-minute oral defense. During questions, admit one uncertainty and explain what information would resolve it. That is evidence of control, not weakness. Evaluate accuracy of source use, coherence, grammatical range and control, lexical appropriateness, register, and oral interaction on separate 0–4 scales. Require a specific example for every score.
+
+Automated text matching can help retrieve vocabulary and detect some mismatches with model answers. It cannot decide whether your recommendation is fair, whether a summary preserves all important nuance, or whether your spoken interaction meets C1. Use the companion for frequent practice and a competent human reviewer for consequential judgments. In the next chapter you will integrate these skills under time pressure and design a sustainable independent learning system.
+
+## Continuing references and access note
+
+The examples, source pack, models, and tasks here are original. The [OQLF Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/) offers continuing usage and terminology resources; only its homepage and resource index were inspected for this project. The [France Éducation international DALF page](https://www.france-education-international.fr/diplome/dalf) is an appropriate place to check official current examination information, but automated access was denied on 13 November 2026. This chapter therefore does not claim that its practice lengths or portfolio tasks reproduce an official examination specification.

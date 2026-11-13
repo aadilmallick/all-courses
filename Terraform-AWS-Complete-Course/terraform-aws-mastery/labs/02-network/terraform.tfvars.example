@@ -1,0 +1,2 @@
+expected_account_id = "123456789012" # Replace with your sandbox account, not a credential.
+region              = "us-east-1"

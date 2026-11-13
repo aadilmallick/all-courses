@@ -1,0 +1,1108 @@
+{
+  "chapter": 9,
+  "level": "C1",
+  "title": "Academic and professional French",
+  "units": [
+    {
+      "title": "Source, scope, and strength",
+      "outcome": "Qualify a claim without weakening it arbitrarily.",
+      "tasks": [
+        "Qualify fifteen claims by source, scope, and strength.",
+        "Compare cautious inference with attributed opinion.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Accurate reported speech",
+      "outcome": "Preserve viewpoint and certainty in reported statements.",
+      "tasks": [
+        "Interview a partner and report the answers.",
+        "Verify certainty, time anchors, and indirect questions.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Thematic synthesis",
+      "outcome": "Organize several sources around shared questions.",
+      "tasks": [
+        "Build a thematic table for three sources.",
+        "Identify agreement, tension, and missing evidence.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "The center source pack",
+      "outcome": "Write a neutral source-faithful synthesis.",
+      "tasks": [
+        "Write a synthesis of the center source pack.",
+        "Trace every factual sentence to its source.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Argument and recommendation",
+      "outcome": "Defend an actionable recommendation with a real objection.",
+      "tasks": [
+        "Defend a recommendation with an operational condition.",
+        "Answer a genuine cost or feasibility objection.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Professional email",
+      "outcome": "Request a specific professional next action.",
+      "tasks": [
+        "Write a request, reminder, and disagreement email.",
+        "Make the requested next action explicit.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Reports and minutes",
+      "outcome": "Distinguish proposals, decisions, and assigned actions.",
+      "tasks": [
+        "Draft minutes that distinguish proposals and decisions.",
+        "Write a short report separating evidence and recommendations.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Complex time and mood",
+      "outcome": "Control conditions, prior completion, and clause attachment.",
+      "tasks": [
+        "Edit twenty time and mood constructions.",
+        "Repair introductory infinitives with missing actors.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Specialist reading strategies",
+      "outcome": "Paraphrase unfamiliar material while respecting definitions.",
+      "tasks": [
+        "Read a specialist text in three passes.",
+        "Write a plain-language explanation preserving definitions.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Francophone adaptation and portfolio",
+      "outcome": "Adapt wording after checking the audience and context.",
+      "tasks": [
+        "Compare two francophone recordings without stereotyping.",
+        "Adapt and present the final source-based portfolio.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la synthèse",
+      "en": "synthesis",
+      "example": "La synthèse relie trois sources.",
+      "translation": "The synthesis connects three sources.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le compte rendu",
+      "en": "minutes",
+      "example": "Le compte rendu sera diffusé.",
+      "translation": "The minutes will be circulated.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le rapport",
+      "en": "report",
+      "example": "Le rapport précise les limites.",
+      "translation": "The report specifies the limitations.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la recommandation",
+      "en": "recommendation",
+      "example": "Cette recommandation reste conditionnelle.",
+      "translation": "This recommendation remains conditional.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la préconisation",
+      "en": "recommended measure",
+      "example": "La préconisation concerne les horaires.",
+      "translation": "The recommended measure concerns opening hours.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la faisabilité",
+      "en": "feasibility",
+      "example": "La faisabilité doit être vérifiée.",
+      "translation": "Feasibility must be checked.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la pertinence",
+      "en": "relevance",
+      "example": "La pertinence de l'étude est claire.",
+      "translation": "The relevance of the study is clear.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la fiabilité",
+      "en": "reliability",
+      "example": "La fiabilité des données importe.",
+      "translation": "The reliability of the data matters.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la validité",
+      "en": "validity",
+      "example": "La validité du raisonnement est contestée.",
+      "translation": "The validity of the reasoning is disputed.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la traçabilité",
+      "en": "traceability",
+      "example": "La traçabilité des chiffres est nécessaire.",
+      "translation": "Traceability of the figures is necessary.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'échantillon",
+      "en": "sample",
+      "example": "L'échantillon comprend soixante personnes.",
+      "translation": "The sample includes sixty people.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le répondant",
+      "en": "respondent",
+      "example": "Chaque répondant a reçu une fiche.",
+      "translation": "Each respondent received a form.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le questionnaire",
+      "en": "questionnaire",
+      "example": "Le questionnaire reste anonyme.",
+      "translation": "The questionnaire remains anonymous.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le biais",
+      "en": "bias",
+      "example": "Ce choix introduit un biais.",
+      "translation": "This choice introduces bias.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la corrélation",
+      "en": "correlation",
+      "example": "La corrélation ne prouve pas la causalité.",
+      "translation": "Correlation does not prove causation.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la causalité",
+      "en": "causation",
+      "example": "La causalité reste à établir.",
+      "translation": "Causation remains to be established.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la proportion",
+      "en": "proportion",
+      "example": "Cette proportion concerne les répondants.",
+      "translation": "This proportion concerns respondents.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le dénominateur",
+      "en": "denominator",
+      "example": "Le dénominateur doit être précisé.",
+      "translation": "The denominator must be specified.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'estimation",
+      "en": "estimate",
+      "example": "L'estimation exclut la sécurité.",
+      "translation": "The estimate excludes security.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la marge d'erreur",
+      "en": "margin of error",
+      "example": "La marge d'erreur est indiquée.",
+      "translation": "The margin of error is stated.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "selon",
+      "en": "according to",
+      "example": "Selon l'enquête, la demande augmente.",
+      "translation": "According to the survey, demand is rising.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "d'après",
+      "en": "according to",
+      "example": "D'après elle, le projet est utile.",
+      "translation": "According to her, the project is useful.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "à en croire",
+      "en": "if one is to believe",
+      "example": "À en croire le témoin, tout était prêt.",
+      "translation": "If the witness is to be believed, everything was ready.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "il ressort de",
+      "en": "it emerges from",
+      "example": "Il ressort du rapport que le coût augmente.",
+      "translation": "It emerges from the report that costs are rising.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "laisser penser",
+      "en": "to suggest",
+      "example": "Ces résultats laissent penser que l'essai est utile.",
+      "translation": "These results suggest that the trial is useful.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "mettre en évidence",
+      "en": "to highlight",
+      "example": "L'étude met en évidence une difficulté.",
+      "translation": "The study highlights a difficulty.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "étayer",
+      "en": "to support with evidence",
+      "example": "Ces chiffres étayent l'argument.",
+      "translation": "These figures support the argument.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "nuancer",
+      "en": "to qualify",
+      "example": "Il faut nuancer cette conclusion.",
+      "translation": "We must qualify this conclusion.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "relativiser",
+      "en": "to put in perspective",
+      "example": "Le contexte relativise ce résultat.",
+      "translation": "The context puts this result in perspective.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "remettre en cause",
+      "en": "to call into question",
+      "example": "Cela remet en cause l'estimation.",
+      "translation": "This calls the estimate into question.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la demande",
+      "en": "demand",
+      "example": "La demande reste forte.",
+      "translation": "Demand remains strong.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'offre",
+      "en": "supply",
+      "example": "L'offre doit être adaptée.",
+      "translation": "Supply must be adapted.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la fréquentation",
+      "en": "attendance",
+      "example": "La fréquentation augmente le soir.",
+      "translation": "Attendance increases in the evening.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'usager",
+      "en": "service user",
+      "example": "Les usagers demandent des horaires élargis.",
+      "translation": "Users are asking for longer opening hours.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le riverain",
+      "en": "local resident",
+      "example": "Les riverains souhaitent un bilan.",
+      "translation": "Local residents want a review.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le voisinage",
+      "en": "neighborhood",
+      "example": "Le voisinage sera consulté.",
+      "translation": "The neighborhood will be consulted.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la nuisance",
+      "en": "nuisance",
+      "example": "Le bruit constitue une nuisance.",
+      "translation": "Noise is a nuisance.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la concertation",
+      "en": "consultation",
+      "example": "La concertation commence lundi.",
+      "translation": "Consultation begins on Monday.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le bilan",
+      "en": "review of results",
+      "example": "Le bilan sera public.",
+      "translation": "The review will be public.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le dispositif",
+      "en": "scheme",
+      "example": "Le dispositif sera testé.",
+      "translation": "The scheme will be tested.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'expérimentation",
+      "en": "trial",
+      "example": "L'expérimentation durera huit semaines.",
+      "translation": "The trial will last eight weeks.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la permanence",
+      "en": "staffed opening period",
+      "example": "Une permanence est prévue jeudi.",
+      "translation": "A staffed opening period is planned for Thursday.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le planning",
+      "en": "staff schedule",
+      "example": "Le planning doit être réorganisé.",
+      "translation": "The staff schedule must be reorganized.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la réorganisation",
+      "en": "reorganization",
+      "example": "La réorganisation demande du temps.",
+      "translation": "Reorganization takes time.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la mise à disposition",
+      "en": "making available",
+      "example": "La mise à disposition des locaux est confirmée.",
+      "translation": "Making the premises available is confirmed.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la prise en charge",
+      "en": "responsibility for handling",
+      "example": "La prise en charge reste à préciser.",
+      "translation": "Responsibility for handling it remains to be specified.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le suivi",
+      "en": "follow-up",
+      "example": "Le suivi sera mensuel.",
+      "translation": "Follow-up will be monthly.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'échéance",
+      "en": "deadline",
+      "example": "L'échéance approche.",
+      "translation": "The deadline is approaching.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le calendrier",
+      "en": "timeline",
+      "example": "Le calendrier est réaliste.",
+      "translation": "The timeline is realistic.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le seuil",
+      "en": "threshold",
+      "example": "Le seuil sera fixé demain.",
+      "translation": "The threshold will be set tomorrow.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le coût de personnel",
+      "en": "staffing cost",
+      "example": "Le coût de personnel augmente.",
+      "translation": "Staffing costs are rising.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "les frais de sécurité",
+      "en": "security costs",
+      "example": "Les frais de sécurité sont exclus.",
+      "translation": "Security costs are excluded.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le budget prévisionnel",
+      "en": "forecast budget",
+      "example": "Le budget prévisionnel reste incomplet.",
+      "translation": "The forecast budget remains incomplete.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le financement",
+      "en": "funding",
+      "example": "Le financement est confirmé.",
+      "translation": "Funding is confirmed.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la dépense",
+      "en": "expenditure",
+      "example": "Cette dépense est justifiée.",
+      "translation": "This expenditure is justified.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la recette",
+      "en": "revenue",
+      "example": "Les recettes couvrent les dépenses.",
+      "translation": "Revenue covers expenditure.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le chiffre d'affaires",
+      "en": "turnover",
+      "example": "Le chiffre d'affaires a augmenté.",
+      "translation": "Turnover has increased.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le bénéfice",
+      "en": "profit",
+      "example": "Le bénéfice reste faible.",
+      "translation": "Profit remains low.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la rentabilité",
+      "en": "profitability",
+      "example": "La rentabilité n'est pas garantie.",
+      "translation": "Profitability is not guaranteed.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'efficacité",
+      "en": "effectiveness",
+      "example": "L'efficacité sera évaluée.",
+      "translation": "Effectiveness will be assessed.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "converger",
+      "en": "to converge",
+      "example": "Les enquêtes convergent sur ce point.",
+      "translation": "The surveys converge on this point.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "diverger",
+      "en": "to diverge",
+      "example": "Les avis divergent quant au coût.",
+      "translation": "Opinions diverge regarding cost.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "compléter",
+      "en": "to complement",
+      "example": "Ce document complète l'enquête.",
+      "translation": "This document complements the survey.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "confronter",
+      "en": "to compare critically",
+      "example": "Il faut confronter les sources.",
+      "translation": "We must compare the sources critically.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "hiérarchiser",
+      "en": "to prioritize",
+      "example": "Nous devons hiérarchiser les besoins.",
+      "translation": "We must prioritize needs.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "préconiser",
+      "en": "to recommend",
+      "example": "L'équipe préconise un essai.",
+      "translation": "The team recommends a trial.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "prévoir",
+      "en": "to plan",
+      "example": "Nous prévoyons une réunion.",
+      "translation": "We are planning a meeting.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "envisager",
+      "en": "to consider",
+      "example": "La direction envisage un report.",
+      "translation": "Management is considering postponement.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "subordonner à",
+      "en": "to make conditional on",
+      "example": "L'ouverture est subordonnée à un accord.",
+      "translation": "Opening is conditional on an agreement.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "conditionner",
+      "en": "to determine as a condition",
+      "example": "Le financement conditionne le lancement.",
+      "translation": "Funding determines whether the launch can proceed.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "sous réserve de",
+      "en": "subject to",
+      "example": "L'essai commencera sous réserve d'un accord.",
+      "translation": "The trial will begin subject to agreement.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "à condition que",
+      "en": "provided that",
+      "example": "Nous accepterons à condition que chacun participe.",
+      "translation": "We will agree provided that everyone participates.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "pour autant que",
+      "en": "insofar as",
+      "example": "L'essai est utile pour autant que ses limites soient reconnues.",
+      "translation": "The trial is useful insofar as its limits are acknowledged.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "dans la mesure où",
+      "en": "insofar as",
+      "example": "Le résultat est fragile dans la mesure où l'échantillon est réduit.",
+      "translation": "The result is weak insofar as the sample is small.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "en l'état",
+      "en": "as it stands",
+      "example": "Je ne peux accepter le dossier en l'état.",
+      "translation": "I cannot accept the file as it stands.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "en amont",
+      "en": "beforehand",
+      "example": "La consultation aura lieu en amont.",
+      "translation": "Consultation will take place beforehand.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "en aval",
+      "en": "at a later stage",
+      "example": "Les effets seront étudiés en aval.",
+      "translation": "The effects will be studied at a later stage.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "à terme",
+      "en": "in the long run",
+      "example": "Le projet sera autonome à terme.",
+      "translation": "The project will be independent in the long run.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "à court terme",
+      "en": "in the short term",
+      "example": "Le coût augmente à court terme.",
+      "translation": "The cost rises in the short term.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "à cet effet",
+      "en": "for this purpose",
+      "example": "Un groupe sera créé à cet effet.",
+      "translation": "A group will be created for this purpose.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "je vous saurais gré de",
+      "en": "I would be grateful if you would",
+      "example": "Je vous saurais gré de répondre.",
+      "translation": "I would be grateful if you would reply.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la pièce jointe",
+      "en": "attachment",
+      "example": "La pièce jointe contient le tableau.",
+      "translation": "The attachment contains the table.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "accuser réception de",
+      "en": "to acknowledge receipt of",
+      "example": "Nous accusons réception de votre message.",
+      "translation": "We acknowledge receipt of your message.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "faire suite à",
+      "en": "to follow up on",
+      "example": "Ce courriel fait suite à notre échange.",
+      "translation": "This email follows up on our exchange.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "sauf erreur de ma part",
+      "en": "unless I am mistaken",
+      "example": "Sauf erreur de ma part, le fichier manque.",
+      "translation": "Unless I am mistaken, the file is missing.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "rester disponible",
+      "en": "to remain available",
+      "example": "Je reste disponible pour en parler.",
+      "translation": "I remain available to discuss it.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "solliciter",
+      "en": "to request",
+      "example": "Nous sollicitons votre avis.",
+      "translation": "We request your opinion.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "transmettre",
+      "en": "to forward",
+      "example": "Je vous transmets le document.",
+      "translation": "I am forwarding the document to you.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "valider",
+      "en": "to approve",
+      "example": "La direction doit valider le calendrier.",
+      "translation": "Management must approve the timeline.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "examiner",
+      "en": "to examine",
+      "example": "Le comité examinera la proposition.",
+      "translation": "The committee will examine the proposal.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le portable",
+      "en": "mobile phone",
+      "example": "Mon portable est éteint.",
+      "translation": "My mobile phone is switched off.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le cellulaire",
+      "en": "cellphone",
+      "example": "J'ai oublié mon cellulaire.",
+      "translation": "I forgot my cellphone.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "septante",
+      "en": "seventy in some francophone regions",
+      "example": "Le billet coûte septante euros.",
+      "translation": "The ticket costs seventy euros.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "nonante",
+      "en": "ninety in some francophone regions",
+      "example": "Il a nonante ans.",
+      "translation": "He is ninety years old.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la mobilité réduite",
+      "en": "reduced mobility",
+      "example": "L'accès est adapté aux personnes à mobilité réduite.",
+      "translation": "Access is adapted for people with reduced mobility.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "l'accessibilité",
+      "en": "accessibility",
+      "example": "L'accessibilité doit être garantie.",
+      "translation": "Accessibility must be ensured.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la terminologie",
+      "en": "terminology",
+      "example": "La terminologie varie selon le domaine.",
+      "translation": "Terminology varies by field.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la discipline",
+      "en": "field of study",
+      "example": "Cette discipline possède son vocabulaire.",
+      "translation": "This field of study has its own vocabulary.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "la définition",
+      "en": "definition",
+      "example": "La définition précise ce qui est compté.",
+      "translation": "The definition specifies what is counted.",
+      "tag": "academic-professional"
+    },
+    {
+      "fr": "le périmètre",
+      "en": "scope",
+      "example": "Le périmètre de l'étude est limité.",
+      "translation": "The scope of the study is limited.",
+      "tag": "academic-professional"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Selon les répondants, les horaires sont trop restreints.",
+      "en": "According to the respondents, opening hours are too limited.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Selon attributes the opinion to a specified group."
+    },
+    {
+      "fr": "Les chiffres laissent penser que la demande pourrait augmenter.",
+      "en": "The figures suggest that demand could increase.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Laisser penser and conditional pourrait preserve cautious interpretation."
+    },
+    {
+      "fr": "Il est possible que cette mesure convienne aux salariés.",
+      "en": "It is possible that this measure will suit employees.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Il est possible que governs subjunctive convienne."
+    },
+    {
+      "fr": "La directrice a annoncé que le centre ouvrirait le lendemain.",
+      "en": "The director announced that the center would open the following day.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional marks future viewed from a past reporting point."
+    },
+    {
+      "fr": "Elle demande si le centre sera ouvert demain.",
+      "en": "She asks whether the center will be open tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Si introduces an indirect question, so future is possible."
+    },
+    {
+      "fr": "Les deux enquêtes convergent sur ce point.",
+      "en": "The two surveys converge on this point.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Converger sur specifies the point of agreement."
+    },
+    {
+      "fr": "Elles divergent toutefois quant au coût.",
+      "en": "They differ, however, regarding the cost.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Diverger quant à introduces the dimension of disagreement."
+    },
+    {
+      "fr": "La portée de l'enquête reste limitée.",
+      "en": "The scope of the survey remains limited.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Portée here refers to scope or reach."
+    },
+    {
+      "fr": "Le coût est estimé à mille quatre cent quarante euros, hors sécurité.",
+      "en": "The cost is estimated at one thousand four hundred and forty euros, excluding security.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Estimé and hors preserve the estimate's status and exclusions."
+    },
+    {
+      "fr": "Une expérimentation permettrait de mieux évaluer les besoins.",
+      "en": "A trial would make it possible to assess needs better.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional presents the proposed measure's expected benefit."
+    },
+    {
+      "fr": "Je recommande que la direction publie un bilan.",
+      "en": "I recommend that management publish a review.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Recommander que takes the subjunctive in this construction."
+    },
+    {
+      "fr": "Cette réserve ne remet pas en cause l'intérêt du projet.",
+      "en": "This reservation does not call the value of the project into question.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Remettre en cause means to call into question."
+    },
+    {
+      "fr": "Pourriez-vous m'indiquer la marche à suivre ?",
+      "en": "Could you tell me the procedure to follow?",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional pourriez creates a polite request."
+    },
+    {
+      "fr": "Je ne peux pas confirmer cette estimation en l'état.",
+      "en": "I cannot confirm this estimate as it stands.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "En l'état qualifies the document's current form."
+    },
+    {
+      "fr": "Aucune décision définitive n'a été prise.",
+      "en": "No final decision has been made.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Aucune plus ne expresses absence; passive prise agrees with décision."
+    },
+    {
+      "fr": "Si l'équipe avait été consultée, l'erreur aurait pu être évitée.",
+      "en": "If the team had been consulted, the error could have been avoided.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Plus-que-parfait condition pairs with conditional past consequence."
+    },
+    {
+      "fr": "Une fois que le budget aura été approuvé, nous publierons les horaires.",
+      "en": "Once the budget has been approved, we will publish opening hours.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Future anterior marks completion before a future action."
+    },
+    {
+      "fr": "Après avoir consulté les riverains, la direction publiera sa décision.",
+      "en": "After consulting local residents, management will publish its decision.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The understood subject of the introductory infinitive is la direction."
+    },
+    {
+      "fr": "Les résultats doivent être interprétés avec prudence.",
+      "en": "The results should be interpreted cautiously.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The passive participle agrees with plural résultats."
+    },
+    {
+      "fr": "Le nombre de visites ne correspond pas au nombre de personnes distinctes.",
+      "en": "The number of visits does not correspond to the number of distinct people.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The sentence preserves an important measurement distinction."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Il est possible que la demande ___.",
+      "options": [
+        "augmente",
+        "augmentera",
+        "augmentait",
+        "augmenter"
+      ],
+      "answer": 0,
+      "explanation": "Il est possible que takes the subjunctive; augmente is present subjunctive."
+    },
+    {
+      "prompt": "Elle demande ___ le centre ouvrira demain.",
+      "options": [
+        "que",
+        "si",
+        "dont",
+        "où que"
+      ],
+      "answer": 1,
+      "explanation": "Si introduces an indirect yes/no question and may be followed by future."
+    },
+    {
+      "prompt": "Elle a annoncé lundi que le centre ___ le lendemain.",
+      "options": [
+        "ouvrira",
+        "ouvre",
+        "ouvrirait",
+        "ouvrir"
+      ],
+      "answer": 2,
+      "explanation": "Conditional expresses future viewed from the past reporting frame."
+    },
+    {
+      "prompt": "Je recommande que la direction ___ le bilan.",
+      "options": [
+        "publiera",
+        "publiait",
+        "publier",
+        "publie"
+      ],
+      "answer": 3,
+      "explanation": "Recommander que requires subjunctive publie here."
+    },
+    {
+      "prompt": "Si le financement avait été confirmé, nous ___ commencer.",
+      "options": [
+        "aurions pu",
+        "aurons pu",
+        "pourrons",
+        "avions pu"
+      ],
+      "answer": 0,
+      "explanation": "An unreal past condition takes a conditional past consequence."
+    },
+    {
+      "prompt": "Une fois que le budget ___ approuvé, nous commencerons.",
+      "options": [
+        "avait été",
+        "aura été",
+        "serait été",
+        "avait"
+      ],
+      "answer": 1,
+      "explanation": "Future anterior marks completion before a future action."
+    },
+    {
+      "prompt": "Après avoir consulté les riverains, ___ publiera sa décision.",
+      "options": [
+        "la décision",
+        "il y aura",
+        "la direction",
+        "le résultat de"
+      ],
+      "answer": 2,
+      "explanation": "The introductory infinitive needs the same understood actor as the main subject."
+    },
+    {
+      "prompt": "Les réponses que nous avons ___ sont anonymes.",
+      "options": [
+        "classé",
+        "classée",
+        "classer",
+        "classées"
+      ],
+      "answer": 3,
+      "explanation": "Preceding direct object réponses is feminine plural."
+    },
+    {
+      "prompt": "Aucune décision définitive ne ___.",
+      "options": [
+        "sera prise",
+        "seront prises",
+        "sera pris",
+        "prendra elle"
+      ],
+      "answer": 0,
+      "explanation": "Aucune décision is singular and passive prise agrees with décision."
+    },
+    {
+      "prompt": "The sources agree: Les sources ___ sur ce point.",
+      "options": [
+        "divergent",
+        "convergent",
+        "contredisent",
+        "opposent"
+      ],
+      "answer": 1,
+      "explanation": "Converger sur means to converge or agree on a point."
+    },
+    {
+      "prompt": "A neutral reporting verb here is: Le rapport ___ que les locaux sont disponibles.",
+      "options": [
+        "prétend sans preuve",
+        "se moque",
+        "indique",
+        "exagère"
+      ],
+      "answer": 2,
+      "explanation": "Indique reports information without the distancing implication of prétend."
+    },
+    {
+      "prompt": "Thirty-six out of sixty respondents means sixty percent of...",
+      "options": [
+        "all residents",
+        "all employees",
+        "all visitors ever",
+        "the respondents"
+      ],
+      "answer": 3,
+      "explanation": "The denominator is the respondents, not the whole population."
+    },
+    {
+      "prompt": "Je vous remercie ___ votre réponse.",
+      "options": [
+        "pour",
+        "à",
+        "sur",
+        "vers"
+      ],
+      "answer": 0,
+      "explanation": "Remercier quelqu’un pour quelque chose is a standard construction."
+    },
+    {
+      "prompt": "Le fichier est en ___.",
+      "options": [
+        "pied joint",
+        "pièce jointe",
+        "main jointe",
+        "pièce joint"
+      ],
+      "answer": 1,
+      "explanation": "En pièce jointe is the attachment phrase; jointe agrees with pièce."
+    },
+    {
+      "prompt": "Après que la direction ___ le planning, elle informera les usagers.",
+      "options": [
+        "ait validé",
+        "valide que",
+        "aura validé",
+        "aurait valider"
+      ],
+      "answer": 2,
+      "explanation": "Standard careful usage has indicative after après que; future anterior fits the future sequence."
+    }
+  ]
+}

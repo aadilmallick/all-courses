@@ -1,0 +1,12 @@
+{
+  "marked": {
+    "version": "17.0.5",
+    "license": "MARKED-LICENSE.md"
+  },
+  "katex": {
+    "version": "0.16.22",
+    "license": "katex/LICENSE",
+    "font_upstream_license_url": "https://raw.githubusercontent.com/KaTeX/katex-fonts/master/LICENSE"
+  },
+  "lab": "No external runtime packages"
+}

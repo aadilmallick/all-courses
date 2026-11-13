@@ -1,0 +1,103 @@
+{
+  "browser": "157.0.4341.42",
+  "reader": {
+    "title": "Quantitative Finance from First Principles",
+    "chapter_anchors": 18,
+    "rendered_math": 19,
+    "placeholder_count": 0,
+    "mobile_overflow": false
+  },
+  "labs": [
+    {
+      "id": "growth",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "portfolio",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "sampling",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "inference",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "regression",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "ar1",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "kalman",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "convex",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "gbm",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "options",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "dynamic",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "learning",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "leakage",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    },
+    {
+      "id": "risk",
+      "changed": true,
+      "reset": true,
+      "mobile_overflow": false
+    }
+  ],
+  "invalid_input_message": true,
+  "library": {
+    "tables": 9,
+    "rows": 1321
+  },
+  "page_errors": [],
+  "direct_file_setup_guidance": true
+}

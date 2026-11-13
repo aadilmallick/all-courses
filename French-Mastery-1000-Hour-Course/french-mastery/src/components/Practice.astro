@@ -1,0 +1,25 @@
+<div id="practice-app" class="studio" aria-label="French practice studio">
+  <div class="studio-heading"><span class="eyebrow">PRACTICE WITH PURPOSE</span><h2>Make the language yours.</h2><p>Choose a skill, a stage, and a short session. Every answer has a reference and an explanation.</p></div>
+  <form id="practice-setup" class="control-grid">
+    <label>Skill<select id="practice-mode"><option value="grammar">Grammar · choose the form</option><option value="en-fr">Translate English → French</option><option value="fr-en">Translate French → English</option><option value="vocab-en-fr">Vocabulary · recall French</option><option value="vocab-fr-en">Vocabulary · recall English</option><option value="listening">Listen · transcribe & translate</option></select></label>
+    <label>Stage<select id="practice-chapter"><option value="all">All stages</option>{Array.from({length:10},(_,i)=><option value={i+1}>Stage {String(i+1).padStart(2,'0')}</option>)}</select></label>
+    <label>Questions<select id="practice-count"><option>10</option><option>20</option><option>40</option></select></label>
+    <label>Session<select id="practice-kind"><option value="practice">Practice · feedback each time</option><option value="test">Test · 20 minutes, results at end</option><option value="due">Due review · this skill & stage</option></select></label>
+    <button class="primary" type="submit">Start a session →</button>
+  </form>
+  <p id="practice-status" role="status">Loading your exercise bank…</p>
+  <section id="practice-session" hidden>
+    <div class="session-meta"><strong id="practice-position"></strong><span id="practice-timer"></span><button type="button" id="practice-reset">End session</button></div>
+    <div id="practice-question" class="question-card"></div>
+    <form id="answer-form">
+      <fieldset id="choice-options" hidden><legend>Choose one answer</legend><div id="choice-list"></div></fieldset>
+      <label id="typed-label">Your answer<textarea id="practice-answer" rows="3" autocomplete="off" spellcheck="false"></textarea></label>
+      <label id="translation-label" hidden>English meaning<textarea id="practice-translation" rows="2" autocomplete="off" spellcheck="false"></textarea></label>
+      <div class="button-row"><button class="primary" type="submit" id="check-answer">Check answer</button><button type="button" id="skip-answer">Skip / reveal</button><button type="button" id="next-question" hidden>Next →</button><button type="button" id="equivalent-answer" hidden>My translation is equivalent · self-mark</button></div>
+    </form>
+    <div id="practice-feedback" role="status" class="feedback"></div>
+  </section>
+  <section id="practice-results" hidden aria-label="Session results"></section>
+  <p class="small-note">Typed answers use a conservative reference match. Accents matter. An unmatched translation may still be valid: compare it with the reference and use the clearly labeled self-mark option. Tests are practice assessments, not CEFR certification.</p>
+</div>
+<script>import '../scripts/practice';</script>

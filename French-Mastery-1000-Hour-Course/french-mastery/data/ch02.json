@@ -1,0 +1,1122 @@
+{
+  "chapter": 2,
+  "level": "A1",
+  "title": "Everyday sentences",
+  "units": [
+    {
+      "title": "Articles and household objects",
+      "outcome": "Introduce objects with accurate gender and article.",
+      "tasks": [
+        "Label twenty objects with articles and gender.",
+        "Write ten c'est introductions and plural versions.",
+        "Record a one-minute room tour, then correct it."
+      ]
+    },
+    {
+      "title": "Plural phrases and a neighborhood",
+      "outcome": "Describe several places and objects.",
+      "tasks": [
+        "Turn fifteen singular descriptions into plurals.",
+        "Listen for le, la, and les before checking text.",
+        "Create a neighborhood inventory and describe it aloud."
+      ]
+    },
+    {
+      "title": "Adjectives and descriptions",
+      "outcome": "Match adjective forms to nouns and compare positions.",
+      "tasks": [
+        "Write twenty adjective phrases with justified agreement.",
+        "Contrast un ancien collègue and un meuble ancien.",
+        "Describe two people and two places without a script."
+      ]
+    },
+    {
+      "title": "Family and possession",
+      "outcome": "Identify relationships with possessives and demonstratives.",
+      "tasks": [
+        "Draw a fictional family and colleague map.",
+        "Practice son amie versus sa sœur in context.",
+        "Write and record ten relationship captions."
+      ]
+    },
+    {
+      "title": "Regular present and routines",
+      "outcome": "Explain a weekday routine in the present.",
+      "tasks": [
+        "Conjugate regular verbs inside routine sentences.",
+        "Interview a partner about five habits.",
+        "Revise a 120-word weekday routine."
+      ]
+    },
+    {
+      "title": "Être, avoir, aller, faire",
+      "outcome": "Express age, needs, destinations, and common actions.",
+      "tasks": [
+        "Retrieve être, avoir, aller, faire with varied subjects.",
+        "Solve a weekly schedule task orally.",
+        "State age, needs, location, and destination in one exchange."
+      ]
+    },
+    {
+      "title": "Modals and pronominal verbs",
+      "outcome": "Describe self-care and what a person can or must do.",
+      "tasks": [
+        "Build a morning sequence with pronominal verbs.",
+        "Make plans with pouvoir, vouloir, devoir plus infinitive.",
+        "Shadow a routine and rerecord after comparison."
+      ]
+    },
+    {
+      "title": "Negatives and preferences",
+      "outcome": "Deny possession, preference, and routine precisely.",
+      "tasks": [
+        "Contrast pas, jamais, and plus using a schedule.",
+        "Negate indefinite possession and generic preference.",
+        "Complete a listening grid before viewing the transcript."
+      ]
+    },
+    {
+      "title": "Questions, numbers, appointments",
+      "outcome": "Ask for information and arrange a meeting.",
+      "tasks": [
+        "Ask a question with each major question word.",
+        "Dictate prices, dates, and meeting times.",
+        "Arrange three meetings with day, time, and place."
+      ]
+    },
+    {
+      "title": "Welcome-pack project",
+      "outcome": "Integrate an introduction, neighborhood, routine, and invitation.",
+      "tasks": [
+        "Write a 150–180-word welcome pack.",
+        "Record a two-minute introduction and answer follow-ups.",
+        "Complete mixed practice and revise the three main error patterns."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le quartier",
+      "en": "neighborhood",
+      "example": "Ce quartier est calme.",
+      "translation": "This neighborhood is quiet.",
+      "tag": "places"
+    },
+    {
+      "fr": "la rue",
+      "en": "street",
+      "example": "Cette rue est longue.",
+      "translation": "This street is long.",
+      "tag": "places"
+    },
+    {
+      "fr": "la place",
+      "en": "square",
+      "example": "La place est près d'ici.",
+      "translation": "The square is near here.",
+      "tag": "places"
+    },
+    {
+      "fr": "l'immeuble",
+      "en": "building",
+      "example": "Notre immeuble est ancien.",
+      "translation": "Our building is old.",
+      "tag": "home"
+    },
+    {
+      "fr": "l'appartement",
+      "en": "apartment",
+      "example": "L'appartement est clair.",
+      "translation": "The apartment is bright.",
+      "tag": "home"
+    },
+    {
+      "fr": "la maison",
+      "en": "house",
+      "example": "Leur maison est grande.",
+      "translation": "Their house is large.",
+      "tag": "home"
+    },
+    {
+      "fr": "la pièce",
+      "en": "room",
+      "example": "Cette pièce est petite.",
+      "translation": "This room is small.",
+      "tag": "home"
+    },
+    {
+      "fr": "la cuisine",
+      "en": "kitchen",
+      "example": "La cuisine est propre.",
+      "translation": "The kitchen is clean.",
+      "tag": "home"
+    },
+    {
+      "fr": "la chambre",
+      "en": "bedroom",
+      "example": "Ma chambre est calme.",
+      "translation": "My bedroom is quiet.",
+      "tag": "home"
+    },
+    {
+      "fr": "le salon",
+      "en": "living room",
+      "example": "Le salon est confortable.",
+      "translation": "The living room is comfortable.",
+      "tag": "home"
+    },
+    {
+      "fr": "la salle de bains",
+      "en": "bathroom",
+      "example": "La salle de bains est à gauche.",
+      "translation": "The bathroom is on the left.",
+      "tag": "home"
+    },
+    {
+      "fr": "la porte",
+      "en": "door",
+      "example": "La porte est ouverte.",
+      "translation": "The door is open.",
+      "tag": "home"
+    },
+    {
+      "fr": "la fenêtre",
+      "en": "window",
+      "example": "La fenêtre est fermée.",
+      "translation": "The window is closed.",
+      "tag": "home"
+    },
+    {
+      "fr": "la table",
+      "en": "table",
+      "example": "La table est ronde.",
+      "translation": "The table is round.",
+      "tag": "home"
+    },
+    {
+      "fr": "la chaise",
+      "en": "chair",
+      "example": "Cette chaise est bleue.",
+      "translation": "This chair is blue.",
+      "tag": "home"
+    },
+    {
+      "fr": "le lit",
+      "en": "bed",
+      "example": "Le lit est grand.",
+      "translation": "The bed is large.",
+      "tag": "home"
+    },
+    {
+      "fr": "le bureau",
+      "en": "desk; office",
+      "example": "Mon bureau est près de la fenêtre.",
+      "translation": "My desk is near the window.",
+      "tag": "home"
+    },
+    {
+      "fr": "le jardin",
+      "en": "garden",
+      "example": "Le jardin est derrière la maison.",
+      "translation": "The garden is behind the house.",
+      "tag": "home"
+    },
+    {
+      "fr": "la clé",
+      "en": "key",
+      "example": "Les clés sont sur la table.",
+      "translation": "The keys are on the table.",
+      "tag": "home"
+    },
+    {
+      "fr": "le sac",
+      "en": "bag",
+      "example": "Mon sac est noir.",
+      "translation": "My bag is black.",
+      "tag": "objects"
+    },
+    {
+      "fr": "le livre",
+      "en": "book",
+      "example": "Ce livre est intéressant.",
+      "translation": "This book is interesting.",
+      "tag": "objects"
+    },
+    {
+      "fr": "le cahier",
+      "en": "notebook",
+      "example": "Le cahier est dans mon sac.",
+      "translation": "The notebook is in my bag.",
+      "tag": "objects"
+    },
+    {
+      "fr": "le stylo",
+      "en": "pen",
+      "example": "Votre stylo est ici.",
+      "translation": "Your pen is here.",
+      "tag": "objects"
+    },
+    {
+      "fr": "le téléphone",
+      "en": "telephone; phone",
+      "example": "Mon téléphone est neuf.",
+      "translation": "My phone is new.",
+      "tag": "objects"
+    },
+    {
+      "fr": "l'ordinateur",
+      "en": "computer",
+      "example": "Cet ordinateur est lent.",
+      "translation": "This computer is slow.",
+      "tag": "objects"
+    },
+    {
+      "fr": "la famille",
+      "en": "family",
+      "example": "Ma famille habite ici.",
+      "translation": "My family lives here.",
+      "tag": "people"
+    },
+    {
+      "fr": "la mère",
+      "en": "mother",
+      "example": "Ma mère travaille le mardi.",
+      "translation": "My mother works on Tuesdays.",
+      "tag": "people"
+    },
+    {
+      "fr": "le père",
+      "en": "father",
+      "example": "Son père est médecin.",
+      "translation": "His father is a doctor.",
+      "tag": "people"
+    },
+    {
+      "fr": "la sœur",
+      "en": "sister",
+      "example": "Ma sœur parle français.",
+      "translation": "My sister speaks French.",
+      "tag": "people"
+    },
+    {
+      "fr": "le frère",
+      "en": "brother",
+      "example": "Mon frère est étudiant.",
+      "translation": "My brother is a student.",
+      "tag": "people"
+    },
+    {
+      "fr": "la fille",
+      "en": "daughter; girl",
+      "example": "Leur fille a dix ans.",
+      "translation": "Their daughter is ten.",
+      "tag": "people"
+    },
+    {
+      "fr": "le fils",
+      "en": "son",
+      "example": "Notre fils habite à Lyon.",
+      "translation": "Our son lives in Lyon.",
+      "tag": "people"
+    },
+    {
+      "fr": "l'enfant",
+      "en": "child",
+      "example": "Cet enfant est calme.",
+      "translation": "This child is calm.",
+      "tag": "people"
+    },
+    {
+      "fr": "l'ami",
+      "en": "male friend",
+      "example": "Mon ami est patient.",
+      "translation": "My friend is patient.",
+      "tag": "people"
+    },
+    {
+      "fr": "l'amie",
+      "en": "female friend",
+      "example": "Mon amie est française.",
+      "translation": "My friend is French.",
+      "tag": "people"
+    },
+    {
+      "fr": "le voisin",
+      "en": "male neighbor",
+      "example": "Le voisin est aimable.",
+      "translation": "The neighbor is kind.",
+      "tag": "people"
+    },
+    {
+      "fr": "la voisine",
+      "en": "female neighbor",
+      "example": "La voisine travaille ici.",
+      "translation": "The neighbor works here.",
+      "tag": "people"
+    },
+    {
+      "fr": "le collègue",
+      "en": "male colleague",
+      "example": "Mon collègue arrive à neuf heures.",
+      "translation": "My colleague arrives at nine.",
+      "tag": "people"
+    },
+    {
+      "fr": "la collègue",
+      "en": "female colleague",
+      "example": "Ma collègue est organisée.",
+      "translation": "My colleague is organized.",
+      "tag": "people"
+    },
+    {
+      "fr": "le professeur",
+      "en": "teacher",
+      "example": "Le professeur explique la question.",
+      "translation": "The teacher explains the question.",
+      "tag": "people"
+    },
+    {
+      "fr": "le travail",
+      "en": "work",
+      "example": "Le travail commence tôt.",
+      "translation": "Work starts early.",
+      "tag": "routine"
+    },
+    {
+      "fr": "l'école",
+      "en": "school",
+      "example": "L'école est près de la gare.",
+      "translation": "The school is near the station.",
+      "tag": "places"
+    },
+    {
+      "fr": "la librairie",
+      "en": "bookshop",
+      "example": "Je travaille dans une librairie.",
+      "translation": "I work in a bookshop.",
+      "tag": "places"
+    },
+    {
+      "fr": "la bibliothèque",
+      "en": "library",
+      "example": "La bibliothèque ferme à six heures.",
+      "translation": "The library closes at six.",
+      "tag": "places"
+    },
+    {
+      "fr": "la boulangerie",
+      "en": "bakery",
+      "example": "La boulangerie ouvre tôt.",
+      "translation": "The bakery opens early.",
+      "tag": "places"
+    },
+    {
+      "fr": "la pharmacie",
+      "en": "pharmacy",
+      "example": "La pharmacie est en face.",
+      "translation": "The pharmacy is opposite.",
+      "tag": "places"
+    },
+    {
+      "fr": "le marché",
+      "en": "market",
+      "example": "Nous allons au marché.",
+      "translation": "We go to the market.",
+      "tag": "places"
+    },
+    {
+      "fr": "le magasin",
+      "en": "shop",
+      "example": "Ce magasin est ouvert.",
+      "translation": "This shop is open.",
+      "tag": "places"
+    },
+    {
+      "fr": "la gare",
+      "en": "station",
+      "example": "La gare est loin.",
+      "translation": "The station is far away.",
+      "tag": "places"
+    },
+    {
+      "fr": "l'arrêt de bus",
+      "en": "bus stop",
+      "example": "L'arrêt de bus est ici.",
+      "translation": "The bus stop is here.",
+      "tag": "places"
+    },
+    {
+      "fr": "habiter",
+      "en": "to live; reside",
+      "example": "J'habite dans ce quartier.",
+      "translation": "I live in this neighborhood.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "travailler",
+      "en": "to work",
+      "example": "Elle travaille à la maison.",
+      "translation": "She works at home.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "étudier",
+      "en": "to study",
+      "example": "Nous étudions le français.",
+      "translation": "We study French.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "parler",
+      "en": "to speak",
+      "example": "Vous parlez lentement.",
+      "translation": "You speak slowly.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "écouter",
+      "en": "to listen to",
+      "example": "J'écoute la radio.",
+      "translation": "I listen to the radio.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "regarder",
+      "en": "to look at; watch",
+      "example": "Ils regardent la télévision.",
+      "translation": "They watch television.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "aimer",
+      "en": "to like; love",
+      "example": "J'aime les livres.",
+      "translation": "I like books.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "préférer",
+      "en": "to prefer",
+      "example": "Je préfère cette chaise.",
+      "translation": "I prefer this chair.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "chercher",
+      "en": "to look for",
+      "example": "Elle cherche ses clés.",
+      "translation": "She is looking for her keys.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "trouver",
+      "en": "to find",
+      "example": "Je trouve le magasin.",
+      "translation": "I find the shop.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "commencer",
+      "en": "to begin",
+      "example": "Le cours commence maintenant.",
+      "translation": "The class begins now.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "finir",
+      "en": "to finish",
+      "example": "Nous finissons à cinq heures.",
+      "translation": "We finish at five.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "ouvrir",
+      "en": "to open",
+      "example": "J'ouvre la porte.",
+      "translation": "I open the door.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "fermer",
+      "en": "to close",
+      "example": "Vous fermez la fenêtre.",
+      "translation": "You close the window.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "prendre",
+      "en": "to take; have",
+      "example": "Je prends le bus.",
+      "translation": "I take the bus.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "venir",
+      "en": "to come",
+      "example": "Mes amis viennent demain.",
+      "translation": "My friends are coming tomorrow.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "pouvoir",
+      "en": "to be able to; can",
+      "example": "Je peux venir jeudi.",
+      "translation": "I can come on Thursday.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "vouloir",
+      "en": "to want",
+      "example": "Nous voulons apprendre.",
+      "translation": "We want to learn.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "devoir",
+      "en": "to have to; must",
+      "example": "Tu dois travailler aujourd'hui.",
+      "translation": "You have to work today.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "savoir",
+      "en": "to know a fact; know how",
+      "example": "Je sais nager.",
+      "translation": "I know how to swim.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "connaître",
+      "en": "to know; be familiar with",
+      "example": "Je connais cette rue.",
+      "translation": "I know this street.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "se lever",
+      "en": "to get up",
+      "example": "Je me lève à sept heures.",
+      "translation": "I get up at seven.",
+      "tag": "routine"
+    },
+    {
+      "fr": "se coucher",
+      "en": "to go to bed",
+      "example": "Elle se couche tôt.",
+      "translation": "She goes to bed early.",
+      "tag": "routine"
+    },
+    {
+      "fr": "s'habiller",
+      "en": "to get dressed",
+      "example": "Nous nous habillons vite.",
+      "translation": "We get dressed quickly.",
+      "tag": "routine"
+    },
+    {
+      "fr": "se reposer",
+      "en": "to rest",
+      "example": "Vous vous reposez le dimanche.",
+      "translation": "You rest on Sundays.",
+      "tag": "routine"
+    },
+    {
+      "fr": "le matin",
+      "en": "morning",
+      "example": "Je travaille le matin.",
+      "translation": "I work in the morning.",
+      "tag": "time"
+    },
+    {
+      "fr": "l'après-midi",
+      "en": "afternoon",
+      "example": "Je suis libre cet après-midi.",
+      "translation": "I am free this afternoon.",
+      "tag": "time"
+    },
+    {
+      "fr": "le soir",
+      "en": "evening",
+      "example": "Nous lisons le soir.",
+      "translation": "We read in the evening.",
+      "tag": "time"
+    },
+    {
+      "fr": "la nuit",
+      "en": "night",
+      "example": "Il travaille la nuit.",
+      "translation": "He works at night.",
+      "tag": "time"
+    },
+    {
+      "fr": "la semaine",
+      "en": "week",
+      "example": "Cette semaine est chargée.",
+      "translation": "This week is busy.",
+      "tag": "time"
+    },
+    {
+      "fr": "le week-end",
+      "en": "weekend",
+      "example": "Je reste ici ce week-end.",
+      "translation": "I am staying here this weekend.",
+      "tag": "time"
+    },
+    {
+      "fr": "toujours",
+      "en": "always; still",
+      "example": "Elle est toujours à l'heure.",
+      "translation": "She is always on time.",
+      "tag": "frequency"
+    },
+    {
+      "fr": "souvent",
+      "en": "often",
+      "example": "Nous allons souvent au cinéma.",
+      "translation": "We often go to the cinema.",
+      "tag": "frequency"
+    },
+    {
+      "fr": "parfois",
+      "en": "sometimes",
+      "example": "Je travaille parfois ici.",
+      "translation": "I sometimes work here.",
+      "tag": "frequency"
+    },
+    {
+      "fr": "jamais",
+      "en": "never in ne…jamais",
+      "example": "Je ne travaille jamais le dimanche.",
+      "translation": "I never work on Sundays.",
+      "tag": "frequency"
+    },
+    {
+      "fr": "maintenant",
+      "en": "now",
+      "example": "Le cours commence maintenant.",
+      "translation": "The class starts now.",
+      "tag": "time"
+    },
+    {
+      "fr": "tôt",
+      "en": "early",
+      "example": "Elle arrive tôt.",
+      "translation": "She arrives early.",
+      "tag": "time"
+    },
+    {
+      "fr": "tard",
+      "en": "late",
+      "example": "Ils rentrent tard.",
+      "translation": "They come home late.",
+      "tag": "time"
+    },
+    {
+      "fr": "près de",
+      "en": "near",
+      "example": "J'habite près de la gare.",
+      "translation": "I live near the station.",
+      "tag": "location"
+    },
+    {
+      "fr": "loin de",
+      "en": "far from",
+      "example": "Le marché est loin de chez moi.",
+      "translation": "The market is far from my home.",
+      "tag": "location"
+    },
+    {
+      "fr": "devant",
+      "en": "in front of",
+      "example": "Nous sommes devant la porte.",
+      "translation": "We are in front of the door.",
+      "tag": "location"
+    },
+    {
+      "fr": "derrière",
+      "en": "behind",
+      "example": "Le jardin est derrière l'école.",
+      "translation": "The garden is behind the school.",
+      "tag": "location"
+    },
+    {
+      "fr": "entre",
+      "en": "between",
+      "example": "La gare est entre deux rues.",
+      "translation": "The station is between two streets.",
+      "tag": "location"
+    },
+    {
+      "fr": "calme",
+      "en": "quiet; calm",
+      "example": "Cette chambre est calme.",
+      "translation": "This room is quiet.",
+      "tag": "adjectives"
+    },
+    {
+      "fr": "ancien; ancienne",
+      "en": "old; former",
+      "example": "Cet immeuble est ancien.",
+      "translation": "This building is old.",
+      "tag": "adjectives"
+    },
+    {
+      "fr": "nouveau; nouvelle",
+      "en": "new",
+      "example": "Voici ma nouvelle adresse.",
+      "translation": "Here is my new address.",
+      "tag": "adjectives"
+    },
+    {
+      "fr": "patient; patiente",
+      "en": "patient",
+      "example": "Ma sœur est patiente.",
+      "translation": "My sister is patient.",
+      "tag": "adjectives"
+    },
+    {
+      "fr": "fatigué; fatiguée",
+      "en": "tired",
+      "example": "Je suis fatiguée ce soir.",
+      "translation": "I am tired this evening.",
+      "tag": "adjectives"
+    },
+    {
+      "fr": "avoir besoin de",
+      "en": "to need",
+      "example": "J'ai besoin d'aide.",
+      "translation": "I need help.",
+      "tag": "expressions"
+    },
+    {
+      "fr": "être à l'heure",
+      "en": "to be on time",
+      "example": "Nous sommes à l'heure.",
+      "translation": "We are on time.",
+      "tag": "expressions"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Ma sœur habite près de la gare.",
+      "en": "My sister lives near the station.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ma agrees with sœur; près de introduces the location."
+    },
+    {
+      "fr": "Nous n'avons pas de voiture.",
+      "en": "We do not have a car.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "An indefinite possession becomes de in this ordinary negative."
+    },
+    {
+      "fr": "À quelle heure est-ce que le magasin ouvre ?",
+      "en": "What time does the shop open?",
+      "alternativesFr": [
+        "Le magasin ouvre à quelle heure ?",
+        "À quelle heure ouvre le magasin ?"
+      ],
+      "alternativesEn": [],
+      "note": "Quelle agrees with heure; est-ce que retains statement word order."
+    },
+    {
+      "fr": "Ces maisons sont anciennes.",
+      "en": "These houses are old.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Anciennes agrees with feminine plural maisons."
+    },
+    {
+      "fr": "J'ai vingt-cinq ans et je travaille dans une librairie.",
+      "en": "I am twenty-five and I work in a bookshop.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Age uses avoir; librairie means bookshop."
+    },
+    {
+      "fr": "Nous nous levons à sept heures le lundi.",
+      "en": "We get up at seven on Mondays.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The first nous is subject; the second is reflexive. Le lundi marks a habit."
+    },
+    {
+      "fr": "Vous pouvez répéter plus lentement ?",
+      "en": "Can you repeat more slowly?",
+      "alternativesFr": [
+        "Pouvez-vous répéter plus lentement ?",
+        "Est-ce que vous pouvez répéter plus lentement ?"
+      ],
+      "alternativesEn": [],
+      "note": "Pouvez is conjugated; répéter remains an infinitive."
+    },
+    {
+      "fr": "J'aime les chiens, mais je n'aime pas ce chien.",
+      "en": "I like dogs, but I do not like this dog.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Generic preference uses the definite article; ce points to one dog."
+    },
+    {
+      "fr": "Son amie est française.",
+      "en": "Her friend is French.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "His friend is French."
+      ],
+      "note": "Son precedes a feminine vowel-initial noun; française still agrees with amie."
+    },
+    {
+      "fr": "Vous êtes libre jeudi après-midi ?",
+      "en": "Are you free on Thursday afternoon?",
+      "alternativesFr": [
+        "Est-ce que vous êtes libre jeudi après-midi ?",
+        "Êtes-vous libre jeudi après-midi ?"
+      ],
+      "alternativesEn": [],
+      "note": "This model addresses one person politely; a plural addressee requires libres."
+    },
+    {
+      "fr": "Je connais cette rue.",
+      "en": "I know this street.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Connaître expresses familiarity with a place."
+    },
+    {
+      "fr": "Elle ne travaille plus ici.",
+      "en": "She no longer works here.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne…plus means no longer in this context."
+    },
+    {
+      "fr": "Il y a une pharmacie dans ce quartier.",
+      "en": "There is a pharmacy in this neighborhood.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Il y a introduces existence and does not agree with the following noun."
+    },
+    {
+      "fr": "Mon frère a faim.",
+      "en": "My brother is hungry.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The idiom avoir faim uses avoir rather than être."
+    },
+    {
+      "fr": "Nous allons au marché le samedi.",
+      "en": "We go to the market on Saturdays.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "À plus le contracts to au; le samedi expresses a repeated day."
+    },
+    {
+      "fr": "Je ne comprends pas la question.",
+      "en": "I do not understand the question.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Negation surrounds the conjugated verb; the definite article remains."
+    },
+    {
+      "fr": "Cet appartement est petit mais confortable.",
+      "en": "This apartment is small but comfortable.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Cet precedes the vowel-initial masculine noun appartement."
+    },
+    {
+      "fr": "Tu sais nager ?",
+      "en": "Do you know how to swim?",
+      "alternativesFr": [
+        "Est-ce que tu sais nager ?",
+        "Sais-tu nager ?"
+      ],
+      "alternativesEn": [],
+      "note": "Savoir plus infinitive expresses a learned skill."
+    },
+    {
+      "fr": "Ma collègue parle français et anglais.",
+      "en": "My colleague speaks French and English.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Language names after parler do not agree with the speaker."
+    },
+    {
+      "fr": "Je vais me coucher à dix heures.",
+      "en": "I am going to go to bed at ten.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The reflexive pronoun belongs to the infinitive coucher."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "___ sœur habite ici. (my)",
+      "options": [
+        "Ma",
+        "Mon",
+        "Mes",
+        "Le"
+      ],
+      "answer": 0,
+      "explanation": "Sœur is feminine singular, so use ma."
+    },
+    {
+      "prompt": "J'aime ___ café. (coffee in general)",
+      "options": [
+        "du",
+        "le",
+        "un",
+        "de"
+      ],
+      "answer": 1,
+      "explanation": "Generic preference uses the definite article le."
+    },
+    {
+      "prompt": "Nous ___ français.",
+      "options": [
+        "parle",
+        "parlent",
+        "parlons",
+        "parlez"
+      ],
+      "answer": 2,
+      "explanation": "The present nous ending of parler is -ons."
+    },
+    {
+      "prompt": "Elle ___ vingt ans.",
+      "options": [
+        "est",
+        "fait",
+        "va",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "Age is expressed with avoir."
+    },
+    {
+      "prompt": "Je n'ai pas ___ voiture. (I do not have a car; ordinary indefinite possession)",
+      "options": [
+        "de",
+        "une",
+        "la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "The ordinary negative of an indefinite possession uses de."
+    },
+    {
+      "prompt": "___ appartement est calme. (this)",
+      "options": [
+        "Cette",
+        "Cet",
+        "Ces",
+        "Ce"
+      ],
+      "answer": 1,
+      "explanation": "Appartement is masculine and begins with a vowel sound, so use cet."
+    },
+    {
+      "prompt": "Ces maisons sont ___.",
+      "options": [
+        "ancien",
+        "ancienne",
+        "anciennes",
+        "anciens"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with feminine plural maisons."
+    },
+    {
+      "prompt": "Nous ___ levons à sept heures.",
+      "options": [
+        "se",
+        "me",
+        "vous",
+        "nous"
+      ],
+      "answer": 3,
+      "explanation": "The reflexive pronoun agrees with the subject nous."
+    },
+    {
+      "prompt": "Je peux ___ demain.",
+      "options": [
+        "venir",
+        "viens",
+        "venons",
+        "venu"
+      ],
+      "answer": 0,
+      "explanation": "After peux, the second verb is an infinitive."
+    },
+    {
+      "prompt": "Nous allons ___ marché.",
+      "options": [
+        "en",
+        "au",
+        "à la",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À plus the masculine singular definite article le contracts to au."
+    },
+    {
+      "prompt": "Je ___ cette personne. (am familiar with)",
+      "options": [
+        "sais",
+        "peux",
+        "connais",
+        "veux"
+      ],
+      "answer": 2,
+      "explanation": "Connaître is used for familiarity with a person."
+    },
+    {
+      "prompt": "Quelle phrase pose une question neutre ?",
+      "options": [
+        "Est-ce que habitez-vous ici ?",
+        "Est vous habitez ici ?",
+        "Que vous habitez ici ?",
+        "Est-ce que vous habitez ici ?"
+      ],
+      "answer": 3,
+      "explanation": "Est-ce que is followed by statement word order."
+    },
+    {
+      "prompt": "Vous n'habitez pas ici ? — ___, j'habite ici.",
+      "options": [
+        "Si",
+        "Non",
+        "Jamais",
+        "Plus"
+      ],
+      "answer": 0,
+      "explanation": "Si contradicts the negative assumption."
+    },
+    {
+      "prompt": "Je ___ pas la question.",
+      "options": [
+        "ne comprends ne",
+        "ne comprends",
+        "comprends ne",
+        "pas comprends"
+      ],
+      "answer": 1,
+      "explanation": "Ne precedes and pas follows the conjugated verb."
+    },
+    {
+      "prompt": "___ amie est patiente. (his)",
+      "options": [
+        "Sa",
+        "Ses",
+        "Son",
+        "Cet"
+      ],
+      "answer": 2,
+      "explanation": "Son is used before feminine amie because it begins with a vowel sound."
+    }
+  ]
+}

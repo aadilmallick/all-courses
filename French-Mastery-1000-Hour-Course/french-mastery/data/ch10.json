@@ -1,0 +1,1108 @@
+{
+  "chapter": 10,
+  "level": "C1",
+  "title": "C1 integration and independent mastery",
+  "units": [
+    {
+      "title": "Diagnosing gaps",
+      "outcome": "Choose different remedies for knowledge, retrieval, and monitoring gaps.",
+      "tasks": [
+        "Classify errors as knowledge, retrieval, or monitoring gaps.",
+        "Choose a different remedy for each gap type.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Agreement as relationships",
+      "outcome": "Explain agreement through subjects and object roles.",
+      "tasks": [
+        "Explain agreement in twenty meaningful examples.",
+        "Create contrasts with preceding and following objects.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Focused editing",
+      "outcome": "Revise content, structure, and spelling in focused passes.",
+      "tasks": [
+        "Revise a text in three focused passes.",
+        "Explain how punctuation changes reference or scope.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Lexical precision",
+      "outcome": "Use near-synonyms according to their actual dimension of meaning.",
+      "tasks": [
+        "Create thirty contextual near-synonym entries.",
+        "Separate effectiveness, profitability, and relevance.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Translation as reconstruction",
+      "outcome": "Preserve source scope, certainty, and register in both directions.",
+      "tasks": [
+        "Translate one passage in each direction.",
+        "Check negatives, restrictions, modal force, and register.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Fast listening and mediation",
+      "outcome": "Diagnose listening errors and relay essential meaning.",
+      "tasks": [
+        "Diagnose segmentation errors in fast listening.",
+        "Mediate the main meaning into concise English.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Pragmatics and humor",
+      "outcome": "Clarify implied meanings without guessing confidently.",
+      "tasks": [
+        "Role-play ambiguous criticism and clarification.",
+        "Explain one joke without assuming shared knowledge.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Presentation and repair",
+      "outcome": "Present a position, answer objections, and repair mistakes.",
+      "tasks": [
+        "Record a presentation and answer challenges.",
+        "Repeat with two targeted improvements.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Integrated original assessment",
+      "outcome": "Complete original timed tasks with source-faithful reasoning.",
+      "tasks": [
+        "Complete the original integrated timed assessment.",
+        "Use model reasoning and human feedback to revise.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "A sustainable continuation cycle",
+      "outcome": "Build an evidence-based portfolio and ongoing study plan.",
+      "tasks": [
+        "Assemble early and late portfolio evidence.",
+        "Design a twelve-week continuation cycle.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la maîtrise",
+      "en": "command of a skill",
+      "example": "La maîtrise se construit par la pratique.",
+      "translation": "Command develops through practice.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'autonomie",
+      "en": "independence",
+      "example": "L'autonomie demande des stratégies.",
+      "translation": "Independence requires strategies.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la progression",
+      "en": "progress",
+      "example": "La progression devient visible.",
+      "translation": "Progress becomes visible.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le perfectionnement",
+      "en": "further development",
+      "example": "Le perfectionnement continue après le cours.",
+      "translation": "Further development continues after the course.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la lacune",
+      "en": "gap in knowledge",
+      "example": "Cette lacune peut être comblée.",
+      "translation": "This gap can be filled.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le repérage",
+      "en": "identification",
+      "example": "Le repérage des erreurs aide.",
+      "translation": "Identifying errors helps.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la récupération",
+      "en": "retrieval",
+      "example": "La récupération du mot prend du temps.",
+      "translation": "Retrieving the word takes time.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la révision",
+      "en": "revision",
+      "example": "La révision se fait en trois étapes.",
+      "translation": "Revision takes place in three stages.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'autocorrection",
+      "en": "self-correction",
+      "example": "L'autocorrection reste utile.",
+      "translation": "Self-correction remains useful.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la fluidité",
+      "en": "fluency",
+      "example": "La fluidité n'exclut pas les pauses.",
+      "translation": "Fluency does not exclude pauses.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la précision",
+      "en": "precision",
+      "example": "La précision compte davantage ici.",
+      "translation": "Precision matters more here.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la souplesse",
+      "en": "flexibility",
+      "example": "La souplesse facilite la reformulation.",
+      "translation": "Flexibility helps rephrasing.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'aisance",
+      "en": "ease of expression",
+      "example": "Elle parle avec aisance.",
+      "translation": "She speaks with ease.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la spontanéité",
+      "en": "spontaneity",
+      "example": "La spontanéité se travaille.",
+      "translation": "Spontaneity can be developed.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'intelligibilité",
+      "en": "intelligibility",
+      "example": "L'intelligibilité dépend aussi du rythme.",
+      "translation": "Intelligibility also depends on rhythm.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la prosodie",
+      "en": "prosody",
+      "example": "La prosodie aide à comprendre.",
+      "translation": "Prosody helps comprehension.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le débit",
+      "en": "speaking rate",
+      "example": "Son débit est rapide.",
+      "translation": "Her speaking rate is fast.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la pause",
+      "en": "pause",
+      "example": "Une pause marque le contraste.",
+      "translation": "A pause marks the contrast.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'intonation",
+      "en": "intonation",
+      "example": "L'intonation change le sens.",
+      "translation": "Intonation changes the meaning.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'accentuation",
+      "en": "stress",
+      "example": "L'accentuation souligne la fin du groupe.",
+      "translation": "Stress emphasizes the end of the group.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "reformuler en termes simples",
+      "en": "to rephrase simply",
+      "example": "Je reformule en termes simples.",
+      "translation": "I will rephrase simply.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "préciser sa pensée",
+      "en": "to clarify one's thinking",
+      "example": "Elle précise sa pensée.",
+      "translation": "She clarifies her thinking.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "corriger un lapsus",
+      "en": "to correct a slip",
+      "example": "Il corrige un lapsus.",
+      "translation": "He corrects a slip.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "revenir à la question",
+      "en": "to return to the question",
+      "example": "Revenons à la question.",
+      "translation": "Let us return to the question.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "prendre position",
+      "en": "to take a position",
+      "example": "Elle prend position sur le projet.",
+      "translation": "She takes a position on the project.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "mettre en perspective",
+      "en": "to put in context",
+      "example": "Il faut mettre le chiffre en perspective.",
+      "translation": "We must put the figure in context.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "lever un malentendu",
+      "en": "to clear up a misunderstanding",
+      "example": "Nous devons lever ce malentendu.",
+      "translation": "We must clear up this misunderstanding.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "reconnaître une limite",
+      "en": "to acknowledge a limitation",
+      "example": "Je reconnais cette limite.",
+      "translation": "I acknowledge this limitation.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "formuler une objection",
+      "en": "to raise an objection",
+      "example": "Puis-je formuler une objection ?",
+      "translation": "May I raise an objection?",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "répondre à une objection",
+      "en": "to answer an objection",
+      "example": "Elle répond à l'objection.",
+      "translation": "She answers the objection.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'enjeu",
+      "en": "what is at stake",
+      "example": "L'enjeu est l'accès au service.",
+      "translation": "What is at stake is access to the service.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la contrainte",
+      "en": "constraint",
+      "example": "Le budget constitue une contrainte.",
+      "translation": "The budget is a constraint.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'obstacle",
+      "en": "obstacle",
+      "example": "Ce délai est un obstacle.",
+      "translation": "This delay is an obstacle.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la répercussion",
+      "en": "repercussion",
+      "example": "La décision a des répercussions familiales.",
+      "translation": "The decision has family repercussions.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'incidence",
+      "en": "impact",
+      "example": "L'incidence du changement reste limitée.",
+      "translation": "The impact of the change remains limited.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'aboutissement",
+      "en": "culmination",
+      "example": "Ce rapport est l'aboutissement du travail.",
+      "translation": "This report is the culmination of the work.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le compromis",
+      "en": "compromise",
+      "example": "Un compromis reste possible.",
+      "translation": "A compromise remains possible.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la contrepartie",
+      "en": "trade-off",
+      "example": "Cette liberté a une contrepartie.",
+      "translation": "This freedom has a trade-off.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la priorité",
+      "en": "priority",
+      "example": "La sécurité reste la priorité.",
+      "translation": "Safety remains the priority.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'arbitrage",
+      "en": "balancing of competing options",
+      "example": "L'arbitrage final revient au comité.",
+      "translation": "The final decision between options rests with the committee.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "efficace",
+      "en": "effective",
+      "example": "Cette mesure est efficace.",
+      "translation": "This measure is effective.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "efficient",
+      "en": "efficient",
+      "example": "Ce processus est plus efficient.",
+      "translation": "This process is more efficient.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "rentable",
+      "en": "profitable",
+      "example": "L'activité devient rentable.",
+      "translation": "The activity is becoming profitable.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "pertinent",
+      "en": "relevant",
+      "example": "Cet exemple est pertinent.",
+      "translation": "This example is relevant.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "plausible",
+      "en": "plausible",
+      "example": "Cette explication est plausible.",
+      "translation": "This explanation is plausible.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "vraisemblable",
+      "en": "likely to be true",
+      "example": "Ce récit paraît vraisemblable.",
+      "translation": "This account seems plausible.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "cohérent",
+      "en": "coherent",
+      "example": "L'argument reste cohérent.",
+      "translation": "The argument remains coherent.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "contestable",
+      "en": "debatable",
+      "example": "Cette interprétation est contestable.",
+      "translation": "This interpretation is debatable.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "provisoire",
+      "en": "temporary",
+      "example": "L'ouverture est provisoire.",
+      "translation": "The opening is temporary.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "durable",
+      "en": "lasting",
+      "example": "Nous cherchons une solution durable.",
+      "translation": "We are seeking a lasting solution.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "prouver",
+      "en": "to prove",
+      "example": "Ces chiffres ne prouvent rien seuls.",
+      "translation": "These figures prove nothing on their own.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "indiquer",
+      "en": "to indicate",
+      "example": "Le tableau indique une hausse.",
+      "translation": "The table indicates a rise.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "suggérer",
+      "en": "to suggest",
+      "example": "Le résultat suggère une tendance.",
+      "translation": "The result suggests a trend.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "prétendre",
+      "en": "to claim",
+      "example": "Il prétend avoir tout vérifié.",
+      "translation": "He claims to have checked everything.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "contester",
+      "en": "to challenge",
+      "example": "Elle conteste cette conclusion.",
+      "translation": "She challenges this conclusion.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "réfuter",
+      "en": "to refute",
+      "example": "Cet exemple réfute l'affirmation générale.",
+      "translation": "This example refutes the general claim.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "concéder",
+      "en": "to concede",
+      "example": "Je concède que le délai est court.",
+      "translation": "I concede that the time frame is short.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "relancer",
+      "en": "to prompt again",
+      "example": "Elle relance la discussion.",
+      "translation": "She prompts the discussion again.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "réorienter",
+      "en": "to redirect",
+      "example": "Il faut réorienter le débat.",
+      "translation": "We must redirect the debate.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "circonscrire",
+      "en": "to delimit",
+      "example": "Nous devons circonscrire le problème.",
+      "translation": "We must delimit the problem.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la médiation",
+      "en": "mediation",
+      "example": "La médiation transmet le sens utile.",
+      "translation": "Mediation conveys the useful meaning.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la traduction",
+      "en": "translation",
+      "example": "La traduction respecte le registre.",
+      "translation": "The translation respects the register.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'équivalence",
+      "en": "equivalence",
+      "example": "L'équivalence parfaite est rare.",
+      "translation": "Perfect equivalence is rare.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le calque",
+      "en": "loan translation",
+      "example": "Ce calque sonne peu naturel.",
+      "translation": "This loan translation sounds unnatural.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le contresens",
+      "en": "mistranslation of meaning",
+      "example": "Ce mot provoque un contresens.",
+      "translation": "This word causes a mistranslation.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le faux ami",
+      "en": "false friend",
+      "example": "Ce faux ami est trompeur.",
+      "translation": "This false friend is misleading.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la fidélité",
+      "en": "faithfulness",
+      "example": "La fidélité concerne aussi la nuance.",
+      "translation": "Faithfulness also concerns nuance.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la reformulation",
+      "en": "rewording",
+      "example": "La reformulation conserve la réserve.",
+      "translation": "The rewording preserves the reservation.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le sens figuré",
+      "en": "figurative meaning",
+      "example": "Le sens figuré dépend du contexte.",
+      "translation": "The figurative meaning depends on context.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le sens propre",
+      "en": "literal meaning",
+      "example": "Le sens propre est concret.",
+      "translation": "The literal meaning is concrete.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'implicite",
+      "en": "implied meaning",
+      "example": "L'implicite exige du contexte.",
+      "translation": "Implied meaning requires context.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'ironie",
+      "en": "irony",
+      "example": "L'ironie reste incertaine ici.",
+      "translation": "Irony remains uncertain here.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'humour",
+      "en": "humor",
+      "example": "L'humour repose sur le contraste.",
+      "translation": "Humor relies on contrast.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le jeu de mots",
+      "en": "wordplay",
+      "example": "Le jeu de mots est difficile à traduire.",
+      "translation": "The wordplay is difficult to translate.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'euphémisme",
+      "en": "euphemism",
+      "example": "Cet euphémisme atténue la critique.",
+      "translation": "This euphemism softens the criticism.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'exagération",
+      "en": "exaggeration",
+      "example": "L'exagération produit un effet comique.",
+      "translation": "Exaggeration creates a comic effect.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le sous-texte",
+      "en": "subtext",
+      "example": "Le sous-texte apparaît progressivement.",
+      "translation": "The subtext appears gradually.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la connivence",
+      "en": "shared understanding",
+      "example": "La connivence facilite la plaisanterie.",
+      "translation": "Shared understanding helps the joke.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la plaisanterie",
+      "en": "joke",
+      "example": "La plaisanterie dépend du contexte.",
+      "translation": "The joke depends on context.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la mise au point",
+      "en": "clarification",
+      "example": "Une mise au point est nécessaire.",
+      "translation": "A clarification is necessary.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le patrimoine industriel",
+      "en": "industrial heritage",
+      "example": "Le patrimoine industriel sera préservé.",
+      "translation": "Industrial heritage will be preserved.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la friche",
+      "en": "disused site",
+      "example": "La friche accueillera des ateliers.",
+      "translation": "The disused site will house workshops.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la réhabilitation",
+      "en": "renovation for reuse",
+      "example": "La réhabilitation prendra du temps.",
+      "translation": "Renovation for reuse will take time.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la répétition",
+      "en": "rehearsal",
+      "example": "La répétition se termine à huit heures.",
+      "translation": "The rehearsal ends at eight.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la livraison",
+      "en": "delivery",
+      "example": "Les livraisons auront lieu le matin.",
+      "translation": "Deliveries will take place in the morning.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la circulation",
+      "en": "traffic",
+      "example": "La circulation inquiète les riverains.",
+      "translation": "Traffic worries local residents.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la sécurité",
+      "en": "safety",
+      "example": "La sécurité doit être assurée.",
+      "translation": "Safety must be ensured.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la phase pilote",
+      "en": "pilot phase",
+      "example": "La phase pilote sera évaluée.",
+      "translation": "The pilot phase will be assessed.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'usage ponctuel",
+      "en": "occasional use",
+      "example": "L'usage ponctuel diffère de l'usage régulier.",
+      "translation": "Occasional use differs from regular use.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'usage régulier",
+      "en": "regular use",
+      "example": "L'usage régulier doit être observé.",
+      "translation": "Regular use must be observed.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la récupération espacée",
+      "en": "spaced retrieval",
+      "example": "La récupération espacée aide la mémoire.",
+      "translation": "Spaced retrieval helps memory.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la reconnaissance",
+      "en": "recognition",
+      "example": "La reconnaissance précède parfois la production.",
+      "translation": "Recognition sometimes precedes production.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la production",
+      "en": "production",
+      "example": "La production demande un autre effort.",
+      "translation": "Production requires a different effort.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la mémorisation",
+      "en": "memorization",
+      "example": "La mémorisation profite du contexte.",
+      "translation": "Memorization benefits from context.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le carnet lexical",
+      "en": "vocabulary notebook",
+      "example": "Mon carnet lexical contient des constructions.",
+      "translation": "My vocabulary notebook contains constructions.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la lecture extensive",
+      "en": "extensive reading",
+      "example": "La lecture extensive développe la familiarité.",
+      "translation": "Extensive reading develops familiarity.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "la lecture intensive",
+      "en": "intensive reading",
+      "example": "La lecture intensive explique les détails.",
+      "translation": "Intensive reading explains details.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "l'objectif communicatif",
+      "en": "communicative aim",
+      "example": "L'objectif communicatif guide le travail.",
+      "translation": "The communicative aim guides the work.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le retour d'expérience",
+      "en": "review of experience",
+      "example": "Le retour d'expérience aide à progresser.",
+      "translation": "Reviewing experience helps progress.",
+      "tag": "c1-integration"
+    },
+    {
+      "fr": "le portfolio",
+      "en": "portfolio",
+      "example": "Le portfolio montre les progrès.",
+      "translation": "The portfolio shows progress.",
+      "tag": "c1-integration"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Les propositions que nous avons retenues seront présentées demain.",
+      "en": "The proposals we selected will be presented tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Retenues agrees with preceding direct object propositions; présentées agrees with passive subject."
+    },
+    {
+      "fr": "Elles se sont lavé les mains.",
+      "en": "They washed their hands.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Les mains is the following direct object; se is indirect, so lavé remains invariable."
+    },
+    {
+      "fr": "Elles se sont parlé pendant une heure.",
+      "en": "They talked to each other for an hour.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Parler à takes an indirect object, so parlé does not agree with se."
+    },
+    {
+      "fr": "Les robes qu'elle a fait refaire sont prêtes.",
+      "en": "The dresses she had remade are ready.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Fait before an infinitive is invariable."
+    },
+    {
+      "fr": "Quand je suis arrivé à la gare, le train était déjà parti.",
+      "en": "When I arrived at the station, the train had already left.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "A full time clause identifies the actor clearly."
+    },
+    {
+      "fr": "Il aurait refusé de signer l'accord.",
+      "en": "He reportedly refused to sign the agreement.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "In a news-report context, conditional past can mark unconfirmed information; other contexts permit a hypothetical reading."
+    },
+    {
+      "fr": "Cela fait trois ans que je travaille ici.",
+      "en": "I have been working here for three years.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "French uses present for a continuing situation with cela fait...que."
+    },
+    {
+      "fr": "Je viens de terminer la révision.",
+      "en": "I have just finished the revision.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Venir de plus infinitive marks recent completion."
+    },
+    {
+      "fr": "Puisque le bureau est fermé, nous reviendrons demain.",
+      "en": "Since the office is closed, we will come back tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Puisque presents the closure as an accepted reason."
+    },
+    {
+      "fr": "Ce chiffre doit être mis en perspective.",
+      "en": "This figure needs to be put in context.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Mettre en perspective means to interpret in context."
+    },
+    {
+      "fr": "Si je comprends bien, vous avez des réserves sur la mise en œuvre.",
+      "en": "If I understand correctly, you have reservations about implementation.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The phrase checks the listener's interpretation."
+    },
+    {
+      "fr": "Quand vous dites ambitieux, pensez-vous au budget ou au calendrier ?",
+      "en": "When you say ambitious, are you thinking of the budget or the timeline?",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The question clarifies an ambiguous evaluation."
+    },
+    {
+      "fr": "Je corrige : il s'agit d'une estimation, pas d'un montant définitif.",
+      "en": "Let me correct that: it is an estimate, not a final amount.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The repair explicitly restores the claim's status."
+    },
+    {
+      "fr": "Je ne dispose pas encore d'une estimation complète.",
+      "en": "I do not yet have a complete estimate.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Disposer de expresses having resources or information available."
+    },
+    {
+      "fr": "L'ouverture progressive serait utile, à condition que chaque étape soit évaluée.",
+      "en": "Gradual opening would be useful, provided that each stage is assessed.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "À condition que takes the subjunctive."
+    },
+    {
+      "fr": "La nouveauté attirera probablement des visiteurs occasionnels.",
+      "en": "The novelty will probably attract occasional visitors.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Probablement qualifies a future prediction."
+    },
+    {
+      "fr": "Il faut distinguer les visites ponctuelles des usages réguliers.",
+      "en": "We must distinguish occasional visits from regular use.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Distinguer A de B identifies the contrast."
+    },
+    {
+      "fr": "Les deux groupes soutiennent la réutilisation du bâtiment, sous certaines conditions.",
+      "en": "Both groups support reusing the building, under certain conditions.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The qualification prevents support from becoming unconditional."
+    },
+    {
+      "fr": "Cette mesure est efficace, mais sa rentabilité reste incertaine.",
+      "en": "This measure is effective, but its profitability remains uncertain.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Effectiveness and financial return are separate dimensions."
+    },
+    {
+      "fr": "Le fait de reconnaître une limite ne rend pas l'argument inutile.",
+      "en": "Acknowledging a limitation does not make the argument useless.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Le fait de plus infinitive packages an action as a noun phrase."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Les mesures que nous avons ___ sont utiles.",
+      "options": [
+        "prises",
+        "pris",
+        "prise",
+        "prendre"
+      ],
+      "answer": 0,
+      "explanation": "The preceding direct object mesures is feminine plural."
+    },
+    {
+      "prompt": "Elles se sont ___ les mains.",
+      "options": [
+        "lavées",
+        "lavé",
+        "lavée",
+        "laver"
+      ],
+      "answer": 1,
+      "explanation": "Les mains is the following direct object; se is indirect."
+    },
+    {
+      "prompt": "Elles se sont ___ pendant une heure.",
+      "options": [
+        "parlées",
+        "parlée",
+        "parlé",
+        "parler"
+      ],
+      "answer": 2,
+      "explanation": "Parler à takes an indirect object; the participle is invariable here."
+    },
+    {
+      "prompt": "Les robes qu’elle a ___ refaire sont prêtes.",
+      "options": [
+        "faites",
+        "faite",
+        "faits",
+        "fait"
+      ],
+      "answer": 3,
+      "explanation": "Fait before an infinitive is invariable."
+    },
+    {
+      "prompt": "Choose the clear sentence.",
+      "options": [
+        "Quand je suis arrivé, le train était parti.",
+        "En arrivant, le train était parti.",
+        "Étant arrivé, le train était parti de moi.",
+        "Arrivé de moi, le train partait."
+      ],
+      "answer": 0,
+      "explanation": "The time clause explicitly identifies who arrived."
+    },
+    {
+      "prompt": "In a news context, Il aurait refusé can mean...",
+      "options": [
+        "He always refuses",
+        "He reportedly refused",
+        "He is refusing now",
+        "He must refuse tomorrow"
+      ],
+      "answer": 1,
+      "explanation": "Conditional past can present unconfirmed reported information."
+    },
+    {
+      "prompt": "I have worked here for three years: Cela fait trois ans que je ___ ici.",
+      "options": [
+        "travaillais",
+        "travaillerai",
+        "travaille",
+        "travailler"
+      ],
+      "answer": 2,
+      "explanation": "The continuing situation uses present in this French construction."
+    },
+    {
+      "prompt": "I have just finished: Je ___ terminer.",
+      "options": [
+        "vais de",
+        "suis de",
+        "fais de",
+        "viens de"
+      ],
+      "answer": 3,
+      "explanation": "Venir de plus infinitive marks recent completion."
+    },
+    {
+      "prompt": "The office is closed, so we will return: ___ le bureau est fermé, nous reviendrons.",
+      "options": [
+        "Puisque",
+        "Depuis",
+        "Pendant",
+        "Malgré que de"
+      ],
+      "answer": 0,
+      "explanation": "Puisque introduces an accepted reason."
+    },
+    {
+      "prompt": "A measure that achieves its aim is ___.",
+      "options": [
+        "rentable by definition",
+        "efficace",
+        "un revenu",
+        "une dépense"
+      ],
+      "answer": 1,
+      "explanation": "Efficace concerns effectiveness, not necessarily profitability."
+    },
+    {
+      "prompt": "Which verb is neutral reporting here? Le rapport ___ que la salle est libre.",
+      "options": [
+        "prétend mensongèrement",
+        "se moque",
+        "indique",
+        "ridiculise"
+      ],
+      "answer": 2,
+      "explanation": "Indique reports information neutrally in this context."
+    },
+    {
+      "prompt": "À condition que chaque étape ___ évaluée.",
+      "options": [
+        "sera",
+        "était",
+        "serait",
+        "soit"
+      ],
+      "answer": 3,
+      "explanation": "À condition que governs the subjunctive."
+    },
+    {
+      "prompt": "Il faut distinguer les visites ponctuelles ___ usages réguliers.",
+      "options": [
+        "des",
+        "aux",
+        "par les",
+        "pour les"
+      ],
+      "answer": 0,
+      "explanation": "Distinguer A de B gives de + les = des."
+    },
+    {
+      "prompt": "Je ___ réponds demain. (to several people)",
+      "options": [
+        "leurs",
+        "leur",
+        "les à",
+        "lui tous"
+      ],
+      "answer": 1,
+      "explanation": "Indirect object pronoun leur is invariable."
+    },
+    {
+      "prompt": "Which form means where?",
+      "options": [
+        "ou",
+        "du",
+        "où",
+        "dû"
+      ],
+      "answer": 2,
+      "explanation": "Où with accent relates to place or some time constructions; ou offers an alternative."
+    }
+  ]
+}

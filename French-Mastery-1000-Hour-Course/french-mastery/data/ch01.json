@@ -1,0 +1,1118 @@
+{
+  "chapter": 1,
+  "level": "A0–A1",
+  "title": "Sounds, sense, and first conversations",
+  "units": [
+    {
+      "title": "First meeting",
+      "outcome": "Introduce yourself and use a repair phrase.",
+      "tasks": [
+        "Read and work through Chapter 1’s first meeting material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Vowel contrasts",
+      "outcome": "Distinguish /u/ and /y/ and recognize common nasal vowels.",
+      "tasks": [
+        "Read and work through Chapter 1’s vowel contrasts material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Consonants and rhythm",
+      "outcome": "Read short phrases with meaningful grouping.",
+      "tasks": [
+        "Read and work through Chapter 1’s consonants and rhythm material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Noun phrases",
+      "outcome": "Use articles and basic gender agreement.",
+      "tasks": [
+        "Read and work through Chapter 1’s noun phrases material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Subjects and être",
+      "outcome": "Build accurate identity and location sentences.",
+      "tasks": [
+        "Read and work through Chapter 1’s subjects and être material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Avoir and personal details",
+      "outcome": "Give age, possession, and basic needs.",
+      "tasks": [
+        "Read and work through Chapter 1’s avoir and personal details material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Questions and repair",
+      "outcome": "Ask and answer predictable polite questions.",
+      "tasks": [
+        "Read and work through Chapter 1’s questions and repair material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Time and appointments",
+      "outcome": "Arrange and confirm a simple appointment.",
+      "tasks": [
+        "Read and work through Chapter 1’s time and appointments material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "Reading and retelling",
+      "outcome": "Extract the message from a short French introduction.",
+      "tasks": [
+        "Read and work through Chapter 1’s reading and retelling material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    },
+    {
+      "title": "First conversation portfolio",
+      "outcome": "Complete a short introduction and interaction with reflection.",
+      "tasks": [
+        "Read and work through Chapter 1’s first conversation portfolio material (2h).",
+        "Focused listening and pronunciation (2h); vocabulary and spaced review (2h).",
+        "Interaction or recorded speaking (2h); reading and writing (1h); exercises and reflection (1h)."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "bonjour",
+      "en": "hello",
+      "example": "Bonjour, je m’appelle Nora.",
+      "translation": "Hello, my name is Nora.",
+      "tag": "social"
+    },
+    {
+      "fr": "bonsoir",
+      "en": "good evening",
+      "example": "Bonsoir, vous êtes ici ?",
+      "translation": "Good evening, are you here?",
+      "tag": "social"
+    },
+    {
+      "fr": "salut",
+      "en": "hi",
+      "example": "Salut, ça va ?",
+      "translation": "Hi, how are you?",
+      "tag": "social"
+    },
+    {
+      "fr": "au revoir",
+      "en": "goodbye",
+      "example": "Au revoir et à demain !",
+      "translation": "Goodbye and see you tomorrow!",
+      "tag": "social"
+    },
+    {
+      "fr": "à bientôt",
+      "en": "see you soon",
+      "example": "Merci et à bientôt !",
+      "translation": "Thank you and see you soon!",
+      "tag": "social"
+    },
+    {
+      "fr": "merci",
+      "en": "thank you",
+      "example": "Merci pour votre aide.",
+      "translation": "Thank you for your help.",
+      "tag": "social"
+    },
+    {
+      "fr": "s’il vous plaît",
+      "en": "please (polite or plural)",
+      "example": "Un café, s’il vous plaît.",
+      "translation": "A coffee, please.",
+      "tag": "social"
+    },
+    {
+      "fr": "pardon",
+      "en": "sorry; pardon",
+      "example": "Pardon, vous pouvez répéter ?",
+      "translation": "Sorry, can you repeat?",
+      "tag": "repair"
+    },
+    {
+      "fr": "oui",
+      "en": "yes",
+      "example": "Oui, je suis ici.",
+      "translation": "Yes, I am here.",
+      "tag": "basics"
+    },
+    {
+      "fr": "non",
+      "en": "no",
+      "example": "Non, je ne comprends pas.",
+      "translation": "No, I do not understand.",
+      "tag": "basics"
+    },
+    {
+      "fr": "peut-être",
+      "en": "perhaps",
+      "example": "Peut-être demain.",
+      "translation": "Perhaps tomorrow.",
+      "tag": "basics"
+    },
+    {
+      "fr": "d’accord",
+      "en": "okay; agreed",
+      "example": "D’accord, à deux heures.",
+      "translation": "Okay, at two o’clock.",
+      "tag": "social"
+    },
+    {
+      "fr": "bienvenue",
+      "en": "welcome",
+      "example": "Bienvenue à Paris !",
+      "translation": "Welcome to Paris!",
+      "tag": "social"
+    },
+    {
+      "fr": "enchanté / enchantée",
+      "en": "pleased to meet you",
+      "example": "Enchantée, je m’appelle Lina.",
+      "translation": "Pleased to meet you, my name is Lina.",
+      "tag": "social"
+    },
+    {
+      "fr": "je",
+      "en": "I",
+      "example": "Je suis ici.",
+      "translation": "I am here.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "tu",
+      "en": "you (familiar singular)",
+      "example": "Tu es à Paris ?",
+      "translation": "Are you in Paris?",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "il",
+      "en": "he; it (masculine)",
+      "example": "Il est français.",
+      "translation": "He is French.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "elle",
+      "en": "she; it (feminine)",
+      "example": "Elle est ici.",
+      "translation": "She is here.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "nous",
+      "en": "we",
+      "example": "Nous sommes à Boston.",
+      "translation": "We are in Boston.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "vous",
+      "en": "you (polite or plural)",
+      "example": "Vous êtes Nora ?",
+      "translation": "Are you Nora?",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "ils",
+      "en": "they (masculine or mixed)",
+      "example": "Ils sont ici.",
+      "translation": "They are here.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "elles",
+      "en": "they (feminine)",
+      "example": "Elles sont à Lyon.",
+      "translation": "They are in Lyon.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "on",
+      "en": "one; we (conversational)",
+      "example": "On est ici.",
+      "translation": "We are here.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "moi",
+      "en": "me (stressed form)",
+      "example": "Moi aussi.",
+      "translation": "Me too.",
+      "tag": "pronouns"
+    },
+    {
+      "fr": "et",
+      "en": "and",
+      "example": "Nora et Sami sont ici.",
+      "translation": "Nora and Sami are here.",
+      "tag": "connections"
+    },
+    {
+      "fr": "mais",
+      "en": "but",
+      "example": "C’est petit, mais c’est intéressant.",
+      "translation": "It is small, but it is interesting.",
+      "tag": "connections"
+    },
+    {
+      "fr": "ou",
+      "en": "or",
+      "example": "Deux ou douze ?",
+      "translation": "Two or twelve?",
+      "tag": "connections"
+    },
+    {
+      "fr": "aussi",
+      "en": "also; too",
+      "example": "J’apprends aussi.",
+      "translation": "I am learning too.",
+      "tag": "connections"
+    },
+    {
+      "fr": "ici",
+      "en": "here",
+      "example": "La gare est ici.",
+      "translation": "The station is here.",
+      "tag": "place"
+    },
+    {
+      "fr": "là",
+      "en": "there",
+      "example": "Le café est là.",
+      "translation": "The café is there.",
+      "tag": "place"
+    },
+    {
+      "fr": "où",
+      "en": "where",
+      "example": "Où est la table ?",
+      "translation": "Where is the table?",
+      "tag": "questions"
+    },
+    {
+      "fr": "quand",
+      "en": "when",
+      "example": "Le rendez-vous, c’est quand ?",
+      "translation": "When is the appointment?",
+      "tag": "questions"
+    },
+    {
+      "fr": "comment",
+      "en": "how",
+      "example": "Comment ça s’écrit ?",
+      "translation": "How is that written?",
+      "tag": "questions"
+    },
+    {
+      "fr": "pourquoi",
+      "en": "why",
+      "example": "Pourquoi le français ?",
+      "translation": "Why French?",
+      "tag": "questions"
+    },
+    {
+      "fr": "combien",
+      "en": "how much; how many",
+      "example": "Combien de livres ?",
+      "translation": "How many books?",
+      "tag": "questions"
+    },
+    {
+      "fr": "qui",
+      "en": "who",
+      "example": "Qui est là ?",
+      "translation": "Who is there?",
+      "tag": "questions"
+    },
+    {
+      "fr": "être",
+      "en": "to be",
+      "example": "Je suis à Paris.",
+      "translation": "I am in Paris.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "avoir",
+      "en": "to have",
+      "example": "J’ai un livre.",
+      "translation": "I have a book.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "s’appeler",
+      "en": "to be called",
+      "example": "Je m’appelle Sami.",
+      "translation": "My name is Sami.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "habiter",
+      "en": "to live; to reside",
+      "example": "J’habite à Boston.",
+      "translation": "I live in Boston.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "parler",
+      "en": "to speak",
+      "example": "Vous parlez anglais ?",
+      "translation": "Do you speak English?",
+      "tag": "verbs"
+    },
+    {
+      "fr": "apprendre",
+      "en": "to learn",
+      "example": "J’apprends le français.",
+      "translation": "I am learning French.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "comprendre",
+      "en": "to understand",
+      "example": "Je ne comprends pas.",
+      "translation": "I do not understand.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "répéter",
+      "en": "to repeat",
+      "example": "Vous pouvez répéter ?",
+      "translation": "Can you repeat?",
+      "tag": "verbs"
+    },
+    {
+      "fr": "écrire",
+      "en": "to write",
+      "example": "Comment ça s’écrit ?",
+      "translation": "How is that written?",
+      "tag": "verbs"
+    },
+    {
+      "fr": "le nom",
+      "en": "name; surname",
+      "example": "Votre nom, s’il vous plaît ?",
+      "translation": "Your name, please?",
+      "tag": "identity"
+    },
+    {
+      "fr": "le prénom",
+      "en": "first name",
+      "example": "Mon prénom est Nora.",
+      "translation": "My first name is Nora.",
+      "tag": "identity"
+    },
+    {
+      "fr": "la personne",
+      "en": "person",
+      "example": "C’est une personne intéressante.",
+      "translation": "That is an interesting person.",
+      "tag": "people"
+    },
+    {
+      "fr": "l’ami (m.)",
+      "en": "male friend",
+      "example": "C’est un ami.",
+      "translation": "He is a friend.",
+      "tag": "people"
+    },
+    {
+      "fr": "l’amie (f.)",
+      "en": "female friend",
+      "example": "C’est une amie.",
+      "translation": "She is a friend.",
+      "tag": "people"
+    },
+    {
+      "fr": "la famille",
+      "en": "family",
+      "example": "Ma famille est ici.",
+      "translation": "My family is here.",
+      "tag": "people"
+    },
+    {
+      "fr": "l’homme (m.)",
+      "en": "man",
+      "example": "L’homme est à la gare.",
+      "translation": "The man is at the station.",
+      "tag": "people"
+    },
+    {
+      "fr": "la femme",
+      "en": "woman",
+      "example": "La femme est ici.",
+      "translation": "The woman is here.",
+      "tag": "people"
+    },
+    {
+      "fr": "l’enfant (m. or f.)",
+      "en": "child",
+      "example": "L’enfant est à l’école.",
+      "translation": "The child is at school.",
+      "tag": "people"
+    },
+    {
+      "fr": "la ville",
+      "en": "city; town",
+      "example": "C’est une petite ville.",
+      "translation": "It is a small town.",
+      "tag": "places"
+    },
+    {
+      "fr": "le pays",
+      "en": "country",
+      "example": "C’est un grand pays.",
+      "translation": "It is a large country.",
+      "tag": "places"
+    },
+    {
+      "fr": "la maison",
+      "en": "house",
+      "example": "C’est une petite maison.",
+      "translation": "It is a small house.",
+      "tag": "places"
+    },
+    {
+      "fr": "l’école (f.)",
+      "en": "school",
+      "example": "L’école est ici.",
+      "translation": "The school is here.",
+      "tag": "places"
+    },
+    {
+      "fr": "la gare",
+      "en": "station",
+      "example": "Où est la gare ?",
+      "translation": "Where is the station?",
+      "tag": "places"
+    },
+    {
+      "fr": "le café",
+      "en": "café; coffee",
+      "example": "Le café est à Paris.",
+      "translation": "The café is in Paris.",
+      "tag": "places"
+    },
+    {
+      "fr": "la rue",
+      "en": "street",
+      "example": "C’est une petite rue.",
+      "translation": "It is a small street.",
+      "tag": "places"
+    },
+    {
+      "fr": "le livre",
+      "en": "book",
+      "example": "C’est un livre intéressant.",
+      "translation": "It is an interesting book.",
+      "tag": "objects"
+    },
+    {
+      "fr": "la table",
+      "en": "table",
+      "example": "Le livre est sur la table.",
+      "translation": "The book is on the table.",
+      "tag": "objects"
+    },
+    {
+      "fr": "la question",
+      "en": "question",
+      "example": "Je ne comprends pas la question.",
+      "translation": "I do not understand the question.",
+      "tag": "learning"
+    },
+    {
+      "fr": "le mot",
+      "en": "word",
+      "example": "Comment s’écrit ce mot ?",
+      "translation": "How is this word written?",
+      "tag": "learning"
+    },
+    {
+      "fr": "la phrase",
+      "en": "sentence; phrase",
+      "example": "C’est une petite phrase.",
+      "translation": "It is a short sentence.",
+      "tag": "learning"
+    },
+    {
+      "fr": "le français",
+      "en": "French (language)",
+      "example": "J’apprends le français.",
+      "translation": "I am learning French.",
+      "tag": "languages"
+    },
+    {
+      "fr": "l’anglais (m.)",
+      "en": "English (language)",
+      "example": "Je parle anglais.",
+      "translation": "I speak English.",
+      "tag": "languages"
+    },
+    {
+      "fr": "la langue",
+      "en": "language",
+      "example": "Le français est une langue.",
+      "translation": "French is a language.",
+      "tag": "languages"
+    },
+    {
+      "fr": "un peu",
+      "en": "a little",
+      "example": "Je parle un peu français.",
+      "translation": "I speak a little French.",
+      "tag": "quantity"
+    },
+    {
+      "fr": "beaucoup",
+      "en": "a lot; much",
+      "example": "Merci beaucoup.",
+      "translation": "Thank you very much.",
+      "tag": "quantity"
+    },
+    {
+      "fr": "bien",
+      "en": "well",
+      "example": "Je vais bien.",
+      "translation": "I am well.",
+      "tag": "basics"
+    },
+    {
+      "fr": "mal",
+      "en": "badly; poorly",
+      "example": "J’entends mal.",
+      "translation": "I cannot hear well.",
+      "tag": "basics"
+    },
+    {
+      "fr": "petit / petite",
+      "en": "small",
+      "example": "C’est une petite maison.",
+      "translation": "It is a small house.",
+      "tag": "description"
+    },
+    {
+      "fr": "grand / grande",
+      "en": "big; tall",
+      "example": "C’est une grande ville.",
+      "translation": "It is a big city.",
+      "tag": "description"
+    },
+    {
+      "fr": "facile",
+      "en": "easy",
+      "example": "Ce n’est pas facile.",
+      "translation": "It is not easy.",
+      "tag": "description"
+    },
+    {
+      "fr": "difficile",
+      "en": "difficult",
+      "example": "C’est une question difficile.",
+      "translation": "It is a difficult question.",
+      "tag": "description"
+    },
+    {
+      "fr": "intéressant / intéressante",
+      "en": "interesting",
+      "example": "Le livre est intéressant.",
+      "translation": "The book is interesting.",
+      "tag": "description"
+    },
+    {
+      "fr": "lentement",
+      "en": "slowly",
+      "example": "Plus lentement, s’il vous plaît.",
+      "translation": "More slowly, please.",
+      "tag": "repair"
+    },
+    {
+      "fr": "aujourd’hui",
+      "en": "today",
+      "example": "Je suis ici aujourd’hui.",
+      "translation": "I am here today.",
+      "tag": "time"
+    },
+    {
+      "fr": "demain",
+      "en": "tomorrow",
+      "example": "À demain !",
+      "translation": "See you tomorrow!",
+      "tag": "time"
+    },
+    {
+      "fr": "hier",
+      "en": "yesterday",
+      "example": "Hier, c’était lundi.",
+      "translation": "Yesterday was Monday.",
+      "tag": "time"
+    },
+    {
+      "fr": "le matin",
+      "en": "morning",
+      "example": "Le matin, je dis bonjour.",
+      "translation": "In the morning, I say hello.",
+      "tag": "time"
+    },
+    {
+      "fr": "le soir",
+      "en": "evening",
+      "example": "Le soir, je lis.",
+      "translation": "In the evening, I read.",
+      "tag": "time"
+    },
+    {
+      "fr": "le jour",
+      "en": "day",
+      "example": "C’est un grand jour.",
+      "translation": "It is a big day.",
+      "tag": "time"
+    },
+    {
+      "fr": "la semaine",
+      "en": "week",
+      "example": "Je suis ici pour une semaine.",
+      "translation": "I am here for a week.",
+      "tag": "time"
+    },
+    {
+      "fr": "l’heure (f.)",
+      "en": "hour; time of day",
+      "example": "Il est une heure.",
+      "translation": "It is one o’clock.",
+      "tag": "time"
+    },
+    {
+      "fr": "le rendez-vous",
+      "en": "appointment",
+      "example": "J’ai un rendez-vous lundi.",
+      "translation": "I have an appointment on Monday.",
+      "tag": "time"
+    },
+    {
+      "fr": "lundi",
+      "en": "Monday",
+      "example": "Le rendez-vous est lundi.",
+      "translation": "The appointment is on Monday.",
+      "tag": "time"
+    },
+    {
+      "fr": "mardi",
+      "en": "Tuesday",
+      "example": "À mardi !",
+      "translation": "See you on Tuesday!",
+      "tag": "time"
+    },
+    {
+      "fr": "mercredi",
+      "en": "Wednesday",
+      "example": "Nous parlons le mercredi.",
+      "translation": "We speak on Wednesdays.",
+      "tag": "time"
+    },
+    {
+      "fr": "jeudi",
+      "en": "Thursday",
+      "example": "Je suis ici jeudi.",
+      "translation": "I am here on Thursday.",
+      "tag": "time"
+    },
+    {
+      "fr": "vendredi",
+      "en": "Friday",
+      "example": "À vendredi !",
+      "translation": "See you on Friday!",
+      "tag": "time"
+    },
+    {
+      "fr": "samedi",
+      "en": "Saturday",
+      "example": "Le café est ouvert samedi.",
+      "translation": "The café is open on Saturday.",
+      "tag": "time"
+    },
+    {
+      "fr": "dimanche",
+      "en": "Sunday",
+      "example": "C’est dimanche.",
+      "translation": "It is Sunday.",
+      "tag": "time"
+    },
+    {
+      "fr": "avoir faim",
+      "en": "to be hungry",
+      "example": "J’ai faim.",
+      "translation": "I am hungry.",
+      "tag": "needs"
+    },
+    {
+      "fr": "avoir soif",
+      "en": "to be thirsty",
+      "example": "Vous avez soif ?",
+      "translation": "Are you thirsty?",
+      "tag": "needs"
+    },
+    {
+      "fr": "avoir froid",
+      "en": "to feel cold",
+      "example": "J’ai froid.",
+      "translation": "I am cold.",
+      "tag": "needs"
+    },
+    {
+      "fr": "avoir besoin de",
+      "en": "to need",
+      "example": "J’ai besoin d’aide.",
+      "translation": "I need help.",
+      "tag": "needs"
+    },
+    {
+      "fr": "l’aide (f.)",
+      "en": "help",
+      "example": "Merci pour votre aide.",
+      "translation": "Thank you for your help.",
+      "tag": "needs"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Bonjour, je m’appelle Nora.",
+      "en": "Hello, my name is Nora.",
+      "note": "S’appeler supplies the naming expression.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "J’habite à Boston.",
+      "en": "I live in Boston.",
+      "note": "Use à with a city in this construction.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Vous parlez anglais ?",
+      "en": "Do you speak English?",
+      "note": "A statement can become a conversational question through intonation.",
+      "alternativesFr": [
+        "Est-ce que vous parlez anglais ?"
+      ],
+      "alternativesEn": [
+        "Do you speak English"
+      ]
+    },
+    {
+      "fr": "Je ne comprends pas.",
+      "en": "I do not understand.",
+      "note": "Ne and pas frame the finite verb.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "I don’t understand."
+      ]
+    },
+    {
+      "fr": "Vous pouvez répéter, s’il vous plaît ?",
+      "en": "Can you repeat, please?",
+      "note": "Vous is appropriate for polite singular or plural address.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Nous sommes ici.",
+      "en": "We are here.",
+      "note": "Nous takes sommes.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "J’ai vingt ans.",
+      "en": "I am twenty years old.",
+      "note": "French uses avoir for age.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Il y a un livre sur la table.",
+      "en": "There is a book on the table.",
+      "note": "Il y a presents an existing object.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Où est la gare ?",
+      "en": "Where is the station?",
+      "note": "Où has an accent and asks about place.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "C’est une petite maison.",
+      "en": "It is a small house.",
+      "note": "Maison is feminine; petite agrees.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "This is a small house."
+      ]
+    },
+    {
+      "fr": "Je suis à Paris aujourd’hui.",
+      "en": "I am in Paris today.",
+      "note": "Être expresses location here.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "J’apprends le français.",
+      "en": "I am learning French.",
+      "note": "The language follows apprendre with the definite article here.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Je parle un peu français.",
+      "en": "I speak a little French.",
+      "note": "Un peu expresses a small amount.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Elle est ici pour une semaine.",
+      "en": "She is here for a week.",
+      "note": "Pour gives the intended length of the stay here.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "C’est intéressant, mais ce n’est pas facile.",
+      "en": "It is interesting, but it is not easy.",
+      "note": "Mais connects contrasting evaluations.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "J’ai un rendez-vous lundi.",
+      "en": "I have an appointment on Monday.",
+      "note": "Lundi without an article identifies a particular Monday in context.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "J’ai froid.",
+      "en": "I am cold.",
+      "note": "Avoir froid is a fixed expression.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Vous êtes ici ?",
+      "en": "Are you here?",
+      "note": "Vous requires êtes.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Comment ça s’écrit ?",
+      "en": "How is that written?",
+      "note": "Learn this useful repair phrase as a whole.",
+      "alternativesFr": [],
+      "alternativesEn": []
+    },
+    {
+      "fr": "Merci pour votre aide.",
+      "en": "Thank you for your help.",
+      "note": "Pour introduces what you are thanking someone for.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "Thanks for your help."
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Je ___ Nora.",
+      "options": [
+        "suis",
+        "est",
+        "êtes",
+        "sommes"
+      ],
+      "answer": 0,
+      "explanation": "Je takes suis, the first-person present of être."
+    },
+    {
+      "prompt": "Vous ___ ici.",
+      "options": [
+        "est",
+        "êtes",
+        "sont",
+        "es"
+      ],
+      "answer": 1,
+      "explanation": "Vous takes êtes."
+    },
+    {
+      "prompt": "I am twenty years old: J’___ vingt ans.",
+      "options": [
+        "ai",
+        "suis",
+        "est",
+        "être"
+      ],
+      "answer": 0,
+      "explanation": "Age uses avoir: j’ai vingt ans."
+    },
+    {
+      "prompt": "Choose the article for table.",
+      "options": [
+        "le",
+        "un",
+        "la",
+        "du"
+      ],
+      "answer": 2,
+      "explanation": "Table is feminine: la table."
+    },
+    {
+      "prompt": "Choose a correct negative.",
+      "options": [
+        "Je pas suis ici.",
+        "Je ne suis pas ici.",
+        "Je suis ne ici.",
+        "Je ne ici pas."
+      ],
+      "answer": 1,
+      "explanation": "Ne and pas surround the finite verb suis."
+    },
+    {
+      "prompt": "Nous ___ à Paris.",
+      "options": [
+        "suis",
+        "sommes",
+        "êtes",
+        "sont"
+      ],
+      "answer": 1,
+      "explanation": "Nous takes sommes."
+    },
+    {
+      "prompt": "There is a book: ___ un livre.",
+      "options": [
+        "Il est",
+        "Il y a",
+        "Il a y",
+        "C’est a"
+      ],
+      "answer": 1,
+      "explanation": "Il y a means there is or there are."
+    },
+    {
+      "prompt": "Where is the station? ___ est la gare ?",
+      "options": [
+        "Ou",
+        "Où",
+        "Qui",
+        "Combien"
+      ],
+      "answer": 1,
+      "explanation": "Où with a grave accent means where; ou means or."
+    },
+    {
+      "prompt": "A small house: une ___ maison.",
+      "options": [
+        "petit",
+        "petits",
+        "petite",
+        "petites"
+      ],
+      "answer": 2,
+      "explanation": "Maison is feminine singular, so petite agrees."
+    },
+    {
+      "prompt": "I am cold: J’___ froid.",
+      "options": [
+        "suis",
+        "être",
+        "ai",
+        "est"
+      ],
+      "answer": 2,
+      "explanation": "French uses avoir froid."
+    },
+    {
+      "prompt": "Polite speech to an unfamiliar adult: ___ parlez anglais ?",
+      "options": [
+        "Tu",
+        "Vous",
+        "Je",
+        "Nous"
+      ],
+      "answer": 1,
+      "explanation": "Vous is a useful polite opening to an unfamiliar adult."
+    },
+    {
+      "prompt": "Choose the ordinary written form.",
+      "options": [
+        "Je ai un livre.",
+        "J’ai un livre.",
+        "J’a un livre.",
+        "Je suis un livre avoir."
+      ],
+      "answer": 1,
+      "explanation": "Je elides before the vowel in ai."
+    },
+    {
+      "prompt": "In les amis, a common liaison sound is ___.",
+      "options": [
+        "z",
+        "t",
+        "k",
+        "none ever"
+      ],
+      "answer": 0,
+      "explanation": "The plural article commonly links with /z/ before amis."
+    },
+    {
+      "prompt": "Which phrase means I need help?",
+      "options": [
+        "J’ai besoin d’aide.",
+        "Je suis aide.",
+        "Je besoin aide.",
+        "J’ai aide besoin."
+      ],
+      "answer": 0,
+      "explanation": "Avoir besoin de is the construction; de elides before aide."
+    },
+    {
+      "prompt": "The plural of le livre is ___.",
+      "options": [
+        "la livres",
+        "les livre",
+        "les livres",
+        "le livres"
+      ],
+      "answer": 2,
+      "explanation": "Use plural article les and plural spelling livres."
+    }
+  ]
+}

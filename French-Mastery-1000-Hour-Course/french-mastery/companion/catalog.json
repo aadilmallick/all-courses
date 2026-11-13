@@ -1,0 +1,95 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "practice-1",
+      "title": "Stage 1: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-01",
+      "description": "Stage-specific authored exercises for Sounds, sense, and first conversations. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=1",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-2",
+      "title": "Stage 2: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-02",
+      "description": "Stage-specific authored exercises for Everyday sentences. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=2",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-3",
+      "title": "Stage 3: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-03",
+      "description": "Stage-specific authored exercises for Time and movement. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=3",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-4",
+      "title": "Stage 4: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-04",
+      "description": "Stage-specific authored exercises for Telling a story. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=4",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-5",
+      "title": "Stage 5: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-05",
+      "description": "Stage-specific authored exercises for Decisions and relationships. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=5",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-6",
+      "title": "Stage 6: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-06",
+      "description": "Stage-specific authored exercises for Mood and complex ideas. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=6",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-7",
+      "title": "Stage 7: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-07",
+      "description": "Stage-specific authored exercises for Argument and precise prose. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=7",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-8",
+      "title": "Stage 8: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-08",
+      "description": "Stage-specific authored exercises for Register, cohesion, and literary reading. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=8",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-9",
+      "title": "Stage 9: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-09",
+      "description": "Stage-specific authored exercises for Academic and professional French. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=9",
+      "speakingRoute": "/speaking/"
+    },
+    {
+      "id": "practice-10",
+      "title": "Stage 10: grammar, bilingual translation, vocabulary, dictation",
+      "chapter": "chapter-10",
+      "description": "Stage-specific authored exercises for C1 integration and independent mastery. Shared practice mount and optional speaking page.",
+      "module": "practice.ts",
+      "route": "/practice/?chapter=10",
+      "speakingRoute": "/speaking/"
+    }
+  ]
+}

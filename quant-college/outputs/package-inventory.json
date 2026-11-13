@@ -1,0 +1,660 @@
+{
+  "files": [
+    {
+      "path": "AUTHORING-BRIEF.md",
+      "bytes": 2165,
+      "sha256": "76b4105ffc7d0df36b44794c6a70db292dd201ced7796a55854a41e7637d9570"
+    },
+    {
+      "path": "book.json",
+      "bytes": 7837,
+      "sha256": "b4c8f07b59e1b65c572f0503d15064ffd9a186486dbdb878c4a75174a98a164f"
+    },
+    {
+      "path": "book.md",
+      "bytes": 455617,
+      "sha256": "3a63ccc78d0508be351f97e2c0dfb4f05234b8ed8e43ee1c857aaf8ccba6f079"
+    },
+    {
+      "path": "chapters/01-numbers-functions-and-reasoning.md",
+      "bytes": 20956,
+      "sha256": "2882f152969946c3d7663dfb1741a577feff7ea43cd01bf3031082d487f1ec23"
+    },
+    {
+      "path": "chapters/02-calculus-and-continuous-models.md",
+      "bytes": 21061,
+      "sha256": "037b7b1bbb7918066911045ff18b7ab5887f9dd425aa787c4cb47a95e21fb511"
+    },
+    {
+      "path": "chapters/03-linear-algebra-and-numerical-structure.md",
+      "bytes": 23065,
+      "sha256": "737443f1ebbfa6d3bc77ad90d7ed352c1c90875d6fd9d748e38b9df6c940434e"
+    },
+    {
+      "path": "chapters/04-python-and-reproducible-computation.md",
+      "bytes": 25393,
+      "sha256": "ad23e1d18d6d54c298007686ec1ae572b3fb7b8c1656c771e3c24f1cface6382"
+    },
+    {
+      "path": "chapters/05-probability-and-random-variables.md",
+      "bytes": 24127,
+      "sha256": "b91deacca92d99ee74ccda6d6eab2a4ad721c0dbe21b8215f2533d6472f20bcf"
+    },
+    {
+      "path": "chapters/06-statistical-inference-and-evidence.md",
+      "bytes": 26702,
+      "sha256": "4a6d039006646528f47807287e8f3b2db3992a84378636c01e0b0dcbd4126540"
+    },
+    {
+      "path": "chapters/07-financial-markets-and-valuation.md",
+      "bytes": 24149,
+      "sha256": "6d941e273d70fa6d1f3a9a1c6ece44b8378c625ea902871cc0c16fcd9c3bcece"
+    },
+    {
+      "path": "chapters/08-portfolios-asset-pricing-and-performance.md",
+      "bytes": 25235,
+      "sha256": "6dbef4df8f857de6a5858fb9d58b3fa39b9413c9341a71a22af22448f97f0294"
+    },
+    {
+      "path": "chapters/09-econometrics-identification-and-estimation.md",
+      "bytes": 26781,
+      "sha256": "045a89fa3158fa3a847263da7949ca2468d8870a592514d9687cce3dee7257f4"
+    },
+    {
+      "path": "chapters/10-time-series-forecasting-and-volatility.md",
+      "bytes": 25069,
+      "sha256": "eb77dfca5c24eb196992e5189f1c177c310bcb1427c52fe9854c691a41cc82e2"
+    },
+    {
+      "path": "chapters/11-multivariate-time-series-and-bayesian-computation.md",
+      "bytes": 26897,
+      "sha256": "e6277b4ac4623ab1e964887d9a5b3deca3e3d3dd4d973bd261f76792ef56cea8"
+    },
+    {
+      "path": "chapters/12-convex-optimization-and-numerical-methods.md",
+      "bytes": 25168,
+      "sha256": "c6851088b88a6280dcf631e16affa4f540c8a1d7c1db17dc98520e256e3c9e39"
+    },
+    {
+      "path": "chapters/13-stochastic-processes-and-ito-calculus.md",
+      "bytes": 23719,
+      "sha256": "2feed48fef08cf668015de686cfbf3c2a6fcd8d5f9d22662252660ecaf99f490"
+    },
+    {
+      "path": "chapters/14-derivatives-pricing-and-monte-carlo.md",
+      "bytes": 23626,
+      "sha256": "6e2402b9ffef9452538b396f09458439e9c73f67526390878804e5a440f6d2a2"
+    },
+    {
+      "path": "chapters/15-dynamic-choice-risk-and-execution.md",
+      "bytes": 25744,
+      "sha256": "706bd86c343fc1b6e714c7c475ee0606a6b5ad4cc6c8322528a46eb7680e768f"
+    },
+    {
+      "path": "chapters/16-machine-learning-for-quantitative-research.md",
+      "bytes": 27095,
+      "sha256": "e93c506c0480288db0bb999d3d8e23c5784273b250217e21fe636743daaefca0"
+    },
+    {
+      "path": "chapters/17-research-design-data-and-backtesting.md",
+      "bytes": 27331,
+      "sha256": "62d6465b5004bdf083328ff25e50615bf3acfb7e9eaf403051877aaf84cd151e"
+    },
+    {
+      "path": "chapters/18-project-studio-and-readiness.md",
+      "bytes": 27986,
+      "sha256": "5e3ab77696090924d32d6943c0ee82740e841a9478c0357fb636d365c6b52e17"
+    },
+    {
+      "path": "companion/catalog.json",
+      "bytes": 2544,
+      "sha256": "6ee6e80188a5b3b8ac1373853c1faf2d0c6815fefdb39113eb29f6f1c876e0f0"
+    },
+    {
+      "path": "companion/host.mjs",
+      "bytes": 919,
+      "sha256": "96ed02d3cbd643d78cad4c2c07ec6364eb94a9bdc8491e6f0e7c416ee71e3fdb"
+    },
+    {
+      "path": "companion/index.html",
+      "bytes": 1545,
+      "sha256": "bbbdb631d9d1ad66d86bac8b0142a505d8e0909022fba8d095939ba7a0dfdf2b"
+    },
+    {
+      "path": "companion/labs.mjs",
+      "bytes": 16693,
+      "sha256": "fcb2dc250d7aae77e6ca9c6e68fea4e14fd704733c54439a24226d51a6bd603c"
+    },
+    {
+      "path": "companion/server.mjs",
+      "bytes": 1238,
+      "sha256": "b96e452d04d104a1fab73cccdcd0263bf39ceda1d5b49f0a51f6e2f027a95210"
+    },
+    {
+      "path": "companion/style.css",
+      "bytes": 1592,
+      "sha256": "e83909c61ed93b3073e122a2fcb16a42fdbfc0b0dd26a7b0b11ad22b4ddfe801"
+    },
+    {
+      "path": "COURSE-COVERAGE.md",
+      "bytes": 7955,
+      "sha256": "227d7b59432a8d207ab9888d2b1e8eb98ea0fd16fa46a78253662d89a39e55ef"
+    },
+    {
+      "path": "depth-report.json",
+      "bytes": 3389,
+      "sha256": "5f05fc2c444603795cb1e1bd20902fe33d7544cc4139d9ffdaab0e0b47aa2a5a"
+    },
+    {
+      "path": "examples/core_labs.py",
+      "bytes": 6324,
+      "sha256": "06fa548b32ecad37875b217b70c64286f357e1743cde6430cce2f6758b3b903e"
+    },
+    {
+      "path": "GLOSSARY.md",
+      "bytes": 5395,
+      "sha256": "3b549fd20ee9bb81a9f465b63ad3d5c987a8ec59228e23c28078b0a9667dd8e8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 577296,
+      "sha256": "0f9d09d375be82ebf330d3ea2ca1f43b842b754f0a3f393de27b067371fa0cb8"
+    },
+    {
+      "path": "NOTICES.md",
+      "bytes": 1279,
+      "sha256": "cee5806abd60727ad8c390ebb06a747e2426d299e1e22cf129a537277816f91b"
+    },
+    {
+      "path": "outputs/browser-report.json",
+      "bytes": 1930,
+      "sha256": "0c87545de5fb487a984d1fd44ebcabf7da96cd1519d891f007cdeb1a53e2d000"
+    },
+    {
+      "path": "outputs/check-report.json",
+      "bytes": 291,
+      "sha256": "ab57b1177bf009d431a48e1fed09be655300920819bd202fec35618e16a0913a"
+    },
+    {
+      "path": "outputs/derivatives-desktop.png",
+      "bytes": 150289,
+      "sha256": "58e5cbbb97b0c860da680cc45c9cbeb9b9d69e5f9417fd795b698491808f9750"
+    },
+    {
+      "path": "outputs/javascript-test-results.txt",
+      "bytes": 718,
+      "sha256": "1b1000060e598815050b3d5416d9fe72283387e4c9a1130d3db1648d57dc3867"
+    },
+    {
+      "path": "outputs/laboratory-desktop.png",
+      "bytes": 67637,
+      "sha256": "e250dcfceb6925a076921624ff5789204ff42e59ae17a037e3e1550db6d25307"
+    },
+    {
+      "path": "outputs/laboratory-mobile.png",
+      "bytes": 25081,
+      "sha256": "c3f3c761438b2da13a219093a10768f0a4d4c3316dad5d6a65f4d25ae52c6b6a"
+    },
+    {
+      "path": "outputs/math-render-report.json",
+      "bytes": 70,
+      "sha256": "c2b3641193de679f8be8ed20dba666238e8f74ac3cd83b4e51447526554b97cf"
+    },
+    {
+      "path": "outputs/python-test-results.txt",
+      "bytes": 791,
+      "sha256": "fead80446c0f8c6959f5d1f901bf674da8f721dfe40f18ef97f6bfe3690f1bb6"
+    },
+    {
+      "path": "outputs/reader-desktop.png",
+      "bytes": 143997,
+      "sha256": "7877be84c861177188ea540831aeca08ec3510f70d1c63bc964d658d5529b4df"
+    },
+    {
+      "path": "outputs/reader-mobile.png",
+      "bytes": 32633,
+      "sha256": "6a349914c1be0f6da650632ee1ac46d2d0626691afda57e6952c791bb1c205b6"
+    },
+    {
+      "path": "outputs/runtime-versions.json",
+      "bytes": 248,
+      "sha256": "c3a59ec7e6dd8a1f6028b66c9240b0ad4ef70c82815e5107e304bc0e6ec1c6cd"
+    },
+    {
+      "path": "outputs/structure-report.json",
+      "bytes": 1468,
+      "sha256": "5ffb140ec1c82da6bf17ed8895c23b653cb71805163eff0da47a2ca34edf6ad1"
+    },
+    {
+      "path": "outputs/synthetic-project-results.json",
+      "bytes": 1514,
+      "sha256": "6edf1c17537ab62873da47a1a3772032463daa35c5da53c50e672b969e129546"
+    },
+    {
+      "path": "package.json",
+      "bytes": 348,
+      "sha256": "e406f3c41a4cdfcb8608700eda156a0c90f0ff69d5629407db14353fa5682e08"
+    },
+    {
+      "path": "preface.md",
+      "bytes": 3145,
+      "sha256": "9382a226cd57b6d6ed69336571e29f29165d38d329034395563034705e388f59"
+    },
+    {
+      "path": "reader/style.css",
+      "bytes": 2345,
+      "sha256": "d804434267f51edebffb59c06ae06a64df87a97fe115a5c896ecc5f308b29323"
+    },
+    {
+      "path": "reader/vendor/dependencies.json",
+      "bytes": 311,
+      "sha256": "13c587fc9504fef0df44e45074fafb172cf95011c8b2bf23b83ed55f39fce8e3"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_AMS-Regular.ttf",
+      "bytes": 63632,
+      "sha256": "68534840bcfdd2bffb6f0e8deb48684dd01e7f04ea2813267577afb906de1d13"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_AMS-Regular.woff",
+      "bytes": 33516,
+      "sha256": "30da91e84c893f875e252689faebdc590b2871145e8adc7f9a9d4dbd8ce0b251"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_AMS-Regular.woff2",
+      "bytes": 28076,
+      "sha256": "0cdd387c9590a1a9f9794560022dbb59654a7d86f187aa0c81495ad42d3a7308"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Caligraphic-Bold.ttf",
+      "bytes": 12368,
+      "sha256": "07d8e303ce4fc12b4bb54f1004170dd190a1f3db45d400fe68060df3e0897268"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Caligraphic-Bold.woff",
+      "bytes": 7716,
+      "sha256": "1ae6bd7475590e97e7f145a89e09ccde322f7a6bc0b91607b1c8b8ee28290fed"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Caligraphic-Bold.woff2",
+      "bytes": 6912,
+      "sha256": "de7701e42cf1f4cf0b766c03fb27977207eee2f4fd5d76fa82188406da43ea4c"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Caligraphic-Regular.ttf",
+      "bytes": 12344,
+      "sha256": "ed0b74372feefcbb9c0666b2e210da37b7e49fa7fbbf3eeb11db5f693dacfbb7"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Caligraphic-Regular.woff",
+      "bytes": 7656,
+      "sha256": "3398dd02302557a793f2863f88e02d96ce10df2abffa07c8e9fa90775116e65c"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Caligraphic-Regular.woff2",
+      "bytes": 6908,
+      "sha256": "5d53e70ad607c2352162dec9e0923fb54ecdafaccbf604cd8dcf7d00facb989b"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Fraktur-Bold.ttf",
+      "bytes": 19584,
+      "sha256": "9163df9c7122432e6495b4229fa9071cf9ae86a758ae5efc4924ec2e1a6dbce1"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Fraktur-Bold.woff",
+      "bytes": 13296,
+      "sha256": "9be7ceb88004ab8ad124082246fbfcca4091e36385d4ec6ed1df67375dad50fb"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Fraktur-Bold.woff2",
+      "bytes": 11348,
+      "sha256": "74444efd593c005e3f4573b44524704c0af0a937fe911cca9e94068d0d140d3f"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Fraktur-Regular.ttf",
+      "bytes": 19572,
+      "sha256": "1e6f9579e90e2cac37f8f60a597c436e075c114385652b7cbeb0dec0421291b3"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Fraktur-Regular.woff",
+      "bytes": 13208,
+      "sha256": "5e28753be717dac97f559f49bc10be9cf3c124ddcabda6659d11cb68febc6463"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Fraktur-Regular.woff2",
+      "bytes": 11316,
+      "sha256": "51814d270d06ff0255dba0799994fa4d8c84d11f09951d47595f4abb1f3602dc"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Bold.ttf",
+      "bytes": 51336,
+      "sha256": "138ac28d1663b3037e9c5f52371fa5c63d8324f4a38d22cd573e6ea3a3fd0cf8"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Bold.woff",
+      "bytes": 29912,
+      "sha256": "c76c5d696297d51b9cb1639c7da4334f0e7dec81b42b11213b5e25ef671bb822"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Bold.woff2",
+      "bytes": 25324,
+      "sha256": "0f60d1b897938ec918c8ce073092411baf9438f6739465693ff18b0f9d20b021"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-BoldItalic.ttf",
+      "bytes": 32968,
+      "sha256": "70ee1f64a20f2048c21940ef46d0144fd215baa953ca69afd1e31e98544f708f"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-BoldItalic.woff",
+      "bytes": 19412,
+      "sha256": "a6f7ec0d846ac7ad975adb8959c37ed49b94acbc4ae436db9ce9e20287e4a64c"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-BoldItalic.woff2",
+      "bytes": 16780,
+      "sha256": "99cd42a3c072d918f2f44984a807cf7aa16e13545fd0875fc07c6c65f99e715b"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Italic.ttf",
+      "bytes": 33580,
+      "sha256": "0d85ae7cc30f23790a7f1a58c4a112fdca8aae769b6ba11429af1d98b1b6cb3a"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Italic.woff",
+      "bytes": 19676,
+      "sha256": "f1d6ef86f3b11a528bd5185199bd2443ecb2b0dead96d88674b5a2c12be24bdf"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Italic.woff2",
+      "bytes": 16988,
+      "sha256": "97479ca6cce906abc961ecac96faa5f9ca2e61b8e7670d475826bcdee9a7c267"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Regular.ttf",
+      "bytes": 53580,
+      "sha256": "d0332f52868370fd83ae7fa46470f90c8f2eab2fcf12bc4f88080b340c95a830"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Regular.woff",
+      "bytes": 30772,
+      "sha256": "c6368d87e8a1a3a5d337623d83d8dc4b868f242a9ad476237d6f8d1e0f168cdc"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Main-Regular.woff2",
+      "bytes": 26272,
+      "sha256": "c2342cd8b869e01752a9321dc17213fc40d4d04c79688c1d43f2cf316abd7866"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Math-BoldItalic.ttf",
+      "bytes": 31196,
+      "sha256": "f9377ab0271cda59af24bcffbd46a4d0c8a3572ffafdbb38de2ad5ea7b0d5ee5"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Math-BoldItalic.woff",
+      "bytes": 18668,
+      "sha256": "850c0af5c2238497febaf5e461d880bf458c341f42f4f330f1b1ab5698b1998e"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Math-BoldItalic.woff2",
+      "bytes": 16400,
+      "sha256": "dc47344dbb6cb5b655c8460d561f4df5f501b90c804ad3c6cec65fe322351ab1"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Math-Italic.ttf",
+      "bytes": 31308,
+      "sha256": "08ce98e51b04d58945a301e639e02b6998af29fdfd61a7b8afdd07bbfc479d4a"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Math-Italic.woff",
+      "bytes": 18748,
+      "sha256": "8a8d244581371912b8f3f5a23e2437cb2a59cd9bcaebb0346e722c05737a2571"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Math-Italic.woff2",
+      "bytes": 16440,
+      "sha256": "7af58c5ec8f132a2ddde9027c6d7814decce4d3b822a11192a42a20e2e973264"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Bold.ttf",
+      "bytes": 24504,
+      "sha256": "1ece03f79f95277d57dc7f6b435a74e1379b0d46104a8530286b60ff49369ea0"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Bold.woff",
+      "bytes": 14408,
+      "sha256": "ece03cfd83e22c212cdef66feb8442d25a083beb988db3f1883f3f9738d750ba"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Bold.woff2",
+      "bytes": 12216,
+      "sha256": "e99ae51144bf1232efcc1bfe5add36262c6866b0faab24fa75740e1b98577a62"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Italic.ttf",
+      "bytes": 22364,
+      "sha256": "3931dd81faed86ba021bb2bbdc36f5bed9a38d6b4f4077aca59b265aa1b02083"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Italic.woff",
+      "bytes": 14112,
+      "sha256": "91ee67500cc0129aa0ace3ac5c61ff1692102f0f31d02b69347fba35dcb75bf2"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Italic.woff2",
+      "bytes": 12028,
+      "sha256": "00b26ac825e2095056396e0553b8ac26d3f8ad158c3826e28b4c45b385c4714a"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Regular.ttf",
+      "bytes": 19436,
+      "sha256": "f36ea897e19f4a2e571d1e900e4e3710e438deb05a842486045ba0a3e616a4ad"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Regular.woff",
+      "bytes": 12316,
+      "sha256": "11e4dc8a6471ff6d6ee561d53d10fde8f7489e798257ff449c5d37c197435605"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_SansSerif-Regular.woff2",
+      "bytes": 10344,
+      "sha256": "68e8c73ef42afd3ccec58bf0fba302cce448938e7fc020a5e31f8a952eee1342"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Script-Regular.ttf",
+      "bytes": 16648,
+      "sha256": "1c67f068fea8bb09bf099c088b1cf64bd27516a6e07f4684344873564bb66a67"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Script-Regular.woff",
+      "bytes": 10588,
+      "sha256": "d96cdf2b3bdd4d64a8fd5f74a4c467f123a8a73931cd435889f08ffaf9bf947a"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Script-Regular.woff2",
+      "bytes": 9644,
+      "sha256": "036d4e95149b69ff9bcc0cd55771efeb25ffa3947293e69acd78d5ac328c684b"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size1-Regular.ttf",
+      "bytes": 12228,
+      "sha256": "95b6d2f1a50173bfedb8c63e1d1c99b10427d0a4df4201cb44513b226951a22b"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size1-Regular.woff",
+      "bytes": 6496,
+      "sha256": "c943cc986384f59e86bea5fd7dc50a9c4dfe567a7c05eb40d6790720dead97c9"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size1-Regular.woff2",
+      "bytes": 5468,
+      "sha256": "6b47c40166b6dbe21a5dfca7718413f2147fd2399be1ba605d8ad39cedf25dfe"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size2-Regular.ttf",
+      "bytes": 11508,
+      "sha256": "a6b2099fb555c60e3a0db3a08842ebf1d732c6eb4e4bf44913613bed4fc4e39b"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size2-Regular.woff",
+      "bytes": 6188,
+      "sha256": "2014c523c3210bcc166648c4d4cc57f05b747df07a24277bf71c51e67dc79e3d"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size2-Regular.woff2",
+      "bytes": 5208,
+      "sha256": "d04c54219f9eaec6d4d4fd42dfb28785975a4794d6b2fc71e566b9cd6db842dd"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size3-Regular.ttf",
+      "bytes": 7588,
+      "sha256": "500e04d54f0d51666332c9d2089aa803be22aa878eca539e59fa53c6e522b082"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size3-Regular.woff",
+      "bytes": 4420,
+      "sha256": "6ab6b62e9b62dae2c00dd90f791bd10950be0ecc3490d7d6045f51c2e8fe0949"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size3-Regular.woff2",
+      "bytes": 3624,
+      "sha256": "73d591271b1604960cb10bb90fee021670af7297017e0e98480b332d11f51995"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size4-Regular.ttf",
+      "bytes": 10364,
+      "sha256": "c647367d1dd4e162468717d020e1fc0f1dc5c26ebfdffbe55261713bf88c5877"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size4-Regular.woff",
+      "bytes": 5980,
+      "sha256": "99f9c6750b489c9462bf04900bd3f939df9b829339daaaaa99ef5495cdddea58"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Size4-Regular.woff2",
+      "bytes": 4928,
+      "sha256": "a4af7d414440a1c1790825cfb700cf9cf43b0f2c4b04f0ebc523011ad9853ec0"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Typewriter-Regular.ttf",
+      "bytes": 27556,
+      "sha256": "f01f3e87d9c6a61c0c081ceb577abd864eb00a612f7ac1620dd6915fad2ef5aa"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Typewriter-Regular.woff",
+      "bytes": 16028,
+      "sha256": "e14fed02b1aba7ce9f5afd5844b5d0321b22351febc720e0de8b8723527609f7"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/KaTeX_Typewriter-Regular.woff2",
+      "bytes": 13568,
+      "sha256": "71d517d67827787cfabdf186914cc3358eda539e37931941f2b2fd4a21f68c0b"
+    },
+    {
+      "path": "reader/vendor/katex/fonts/UPSTREAM-LICENSE.txt",
+      "bytes": 1079,
+      "sha256": "a7bd44abd8419bf78185be51f34216356af1adb0806ce39d6a9ca0940bd49b70"
+    },
+    {
+      "path": "reader/vendor/katex/katex.cjs",
+      "bytes": 622663,
+      "sha256": "8f1f4fb1080439c012bb8fddf424fa253e9144ab4cdd7dc0eae0e92cd04a5e33"
+    },
+    {
+      "path": "reader/vendor/katex/katex.min.css",
+      "bytes": 23352,
+      "sha256": "19095127357ed6d29fe0a63a6b000c913a89f7f1963b765dd3715e97c9852e75"
+    },
+    {
+      "path": "reader/vendor/katex/LICENSE",
+      "bytes": 1107,
+      "sha256": "766ccc1f306c885aa45542a9846bbd0a505b27a0374f146778171c2254ce18e3"
+    },
+    {
+      "path": "reader/vendor/MARKED-LICENSE.md",
+      "bytes": 2942,
+      "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c"
+    },
+    {
+      "path": "reader/vendor/marked.esm.js",
+      "bytes": 41661,
+      "sha256": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3880,
+      "sha256": "1d2cce14bad187aa191448a517821813e0f814181bf7601dca6ba0dbee8525c5"
+    },
+    {
+      "path": "resources/audit-summary.json",
+      "bytes": 705,
+      "sha256": "ac8d87398cb10bb51c4d0f8661e32224128a70c38a1a88262ed15655265ed8ec"
+    },
+    {
+      "path": "resources/catalog.html",
+      "bytes": 264850,
+      "sha256": "6cb3273662442c8e571d2e60c8b6d02e05f17e0cadd97f95e5b75470f67c8cc6"
+    },
+    {
+      "path": "resources/course-resources.csv",
+      "bytes": 399640,
+      "sha256": "b058eec17da034ebb7c889a92fc95f94f4bf3251d64cd14028f5cebb49d57201"
+    },
+    {
+      "path": "resources/course-resources.json",
+      "bytes": 611879,
+      "sha256": "b3d437d3ec0ac3b666615978fd7a2a0b752cfdca41e8cc4e803eba393de595fa"
+    },
+    {
+      "path": "resources/RESOURCE-CATALOG.md",
+      "bytes": 211083,
+      "sha256": "b773c741817a96e6f4adc3949fda1a16ed06af54b31ae87d96c434a803449816"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 15558,
+      "sha256": "6e8d8615874a4f183d31b679c2c518148768f244a74b54067ebae3fb44bf68ad"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 7059,
+      "sha256": "dbad2625c4fe0e7cf6728e399987c03f33a83f036ef706a35db0ff793c78264c"
+    },
+    {
+      "path": "tests/test_core.py",
+      "bytes": 2277,
+      "sha256": "67aadbaf1c794c80dbf7636aef44f061d2b33b4230f1634bb2e24a6faaefcfe8"
+    },
+    {
+      "path": "tests/test_labs.mjs",
+      "bytes": 1017,
+      "sha256": "6000b8d3d000318ccd04cef79c8843acbb9a879c01c8a616857daf66e7df3817"
+    },
+    {
+      "path": "tools/assemble.py",
+      "bytes": 4461,
+      "sha256": "a538fe43721ad8534a6d7eae104fc491ea2fd1ac7183ddd7968974959c4f69db"
+    },
+    {
+      "path": "tools/build_reader.mjs",
+      "bytes": 2898,
+      "sha256": "c49f637323d57898ccf30cdf0470cb84b7e457ed5e1108ec5b02d5251966478b"
+    },
+    {
+      "path": "tools/package.py",
+      "bytes": 1883,
+      "sha256": "3819c6f8363043b82a1f84fcc0b485d34ad81a12c10419e932caaabd918649d4"
+    },
+    {
+      "path": "tools/verify.py",
+      "bytes": 2583,
+      "sha256": "1f75823db21f0ac35aa5b65131227eaebe1d5ba6b7a77e33639fb5dac16de207"
+    },
+    {
+      "path": "verification.md",
+      "bytes": 4942,
+      "sha256": "a6336fb5a3905233fefa316456b38f563dabb25f1c54bda59a97f00121ea05a0"
+    }
+  ],
+  "note": "This inventory excludes itself to avoid a recursive hash."
+}

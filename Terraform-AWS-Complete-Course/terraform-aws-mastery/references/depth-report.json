@@ -1,0 +1,70 @@
+{
+  "encoding": "cl100k_base",
+  "tokenizer": "tiktoken 0.12.0",
+  "minimum_tokens_per_chapter": 5000,
+  "counts_include": "Full canonical chapter Markdown including useful code; prose words exclude fenced code",
+  "chapters": [
+    {
+      "chapter": "01-foundations.md",
+      "tokens": 5035,
+      "prose_words": 3732
+    },
+    {
+      "chapter": "02-language.md",
+      "tokens": 5079,
+      "prose_words": 3598
+    },
+    {
+      "chapter": "03-aws-identity-storage.md",
+      "tokens": 5048,
+      "prose_words": 3455
+    },
+    {
+      "chapter": "04-networking.md",
+      "tokens": 5008,
+      "prose_words": 3665
+    },
+    {
+      "chapter": "05-compute-services.md",
+      "tokens": 5061,
+      "prose_words": 3639
+    },
+    {
+      "chapter": "06-state-backends.md",
+      "tokens": 5041,
+      "prose_words": 3981
+    },
+    {
+      "chapter": "07-modules-environments.md",
+      "tokens": 5049,
+      "prose_words": 3982
+    },
+    {
+      "chapter": "08-change-recovery.md",
+      "tokens": 5022,
+      "prose_words": 3790
+    },
+    {
+      "chapter": "09-testing-security.md",
+      "tokens": 5012,
+      "prose_words": 3778
+    },
+    {
+      "chapter": "10-delivery.md",
+      "tokens": 5009,
+      "prose_words": 4032
+    },
+    {
+      "chapter": "11-platform-scale.md",
+      "tokens": 5022,
+      "prose_words": 3946
+    },
+    {
+      "chapter": "12-capstone.md",
+      "tokens": 5052,
+      "prose_words": 3712
+    }
+  ],
+  "total_tokens": 60438,
+  "total_prose_words": 45310
+}

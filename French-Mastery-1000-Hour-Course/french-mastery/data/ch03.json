@@ -1,0 +1,1110 @@
+{
+  "chapter": 3,
+  "level": "A2",
+  "title": "Time and movement",
+  "units": [
+    {
+      "title": "Past events with avoir",
+      "outcome": "Build a completed past event with an auxiliary and participle.",
+      "tasks": [
+        "Place purchases and journeys on a timeline.",
+        "Build ten avoir-based event reports.",
+        "Dictate auxiliaries and participles in complete sentences."
+      ]
+    },
+    {
+      "title": "Irregular participles",
+      "outcome": "Retrieve frequent participles inside practical messages.",
+      "tasks": [
+        "Retrieve fait, pris, vu, lu, écrit, dit, mis, eu, été, bu.",
+        "Write a short travel message with five irregular participles.",
+        "Correct infinitive-versus-participle errors with reasons."
+      ]
+    },
+    {
+      "title": "Past events with être",
+      "outcome": "Choose an auxiliary by verb construction and apply agreement.",
+      "tasks": [
+        "Contrast elle est sortie and elle a sorti les clés.",
+        "Report a journey with aller, arriver, partir, and rester.",
+        "Explain silent subject agreement in a written account."
+      ]
+    },
+    {
+      "title": "A lost-property report",
+      "outcome": "Report when, where, what happened, and what help is needed.",
+      "tasks": [
+        "Write a lost-property report with location and time.",
+        "Describe a missing object without private identifying data.",
+        "Role-play a request for help and a clarification."
+      ]
+    },
+    {
+      "title": "Plans with aller",
+      "outcome": "Make and explain a coherent future plan.",
+      "tasks": [
+        "Create a weekend itinerary with aller plus infinitive.",
+        "Add negative plans and reflexive activities.",
+        "Interview a partner about a contingency."
+      ]
+    },
+    {
+      "title": "Simple future and contingencies",
+      "outcome": "Announce a future event and give a conditional alternative.",
+      "tasks": [
+        "Build future stems and endings with varied subjects.",
+        "Contrast quand tu arriveras and si tu arrives.",
+        "Write a confirmation and a weather alternative."
+      ]
+    },
+    {
+      "title": "Directions and imperatives",
+      "outcome": "Give and follow clear instructions.",
+      "tasks": [
+        "Give a route with four recognizable landmarks.",
+        "Contrast affirmative and negative commands.",
+        "Follow a spoken route before checking its written version."
+      ]
+    },
+    {
+      "title": "Food, quantities, and shopping",
+      "outcome": "Request food and amounts within constraints.",
+      "tasks": [
+        "Distinguish a countable unit from an unspecified amount.",
+        "Buy food within a budget and request an alternative.",
+        "Dictate quantities and payment details."
+      ]
+    },
+    {
+      "title": "Objects, transport, and duration",
+      "outcome": "Avoid repeated objects and preserve time relationships.",
+      "tasks": [
+        "Replace definite direct objects with le, la, les.",
+        "Practice téléphoner à with lui and leur.",
+        "Contrast depuis, pendant, il y a, and dans on a timeline."
+      ]
+    },
+    {
+      "title": "A three-day trip dossier",
+      "outcome": "Integrate plans, transactions, directions, and a past report.",
+      "tasks": [
+        "Write a 180-word itinerary and shopping list.",
+        "Record directions and respond to a disrupted plan.",
+        "Write a 180-word completed-trip report and review four dimensions."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le voyage",
+      "en": "trip; journey",
+      "example": "Le voyage a duré deux jours.",
+      "translation": "The trip lasted two days.",
+      "tag": "travel"
+    },
+    {
+      "fr": "le départ",
+      "en": "departure",
+      "example": "Le départ est prévu à huit heures.",
+      "translation": "Departure is scheduled for eight.",
+      "tag": "travel"
+    },
+    {
+      "fr": "l'arrivée",
+      "en": "arrival",
+      "example": "L'arrivée est à midi.",
+      "translation": "Arrival is at noon.",
+      "tag": "travel"
+    },
+    {
+      "fr": "le billet",
+      "en": "ticket",
+      "example": "J'ai acheté un billet.",
+      "translation": "I bought a ticket.",
+      "tag": "travel"
+    },
+    {
+      "fr": "le quai",
+      "en": "platform",
+      "example": "Le train est sur le quai trois.",
+      "translation": "The train is on platform three.",
+      "tag": "travel"
+    },
+    {
+      "fr": "la correspondance",
+      "en": "connection",
+      "example": "Nous avons raté la correspondance.",
+      "translation": "We missed the connection.",
+      "tag": "travel"
+    },
+    {
+      "fr": "le retard",
+      "en": "delay",
+      "example": "Le train a du retard.",
+      "translation": "The train is delayed.",
+      "tag": "travel"
+    },
+    {
+      "fr": "l'horaire",
+      "en": "schedule; timetable",
+      "example": "Vérifiez les horaires.",
+      "translation": "Check the timetable.",
+      "tag": "travel"
+    },
+    {
+      "fr": "la réservation",
+      "en": "reservation",
+      "example": "J'ai une réservation.",
+      "translation": "I have a reservation.",
+      "tag": "travel"
+    },
+    {
+      "fr": "la destination",
+      "en": "destination",
+      "example": "Quelle est votre destination ?",
+      "translation": "What is your destination?",
+      "tag": "travel"
+    },
+    {
+      "fr": "le trajet",
+      "en": "journey; route",
+      "example": "Le trajet est court.",
+      "translation": "The journey is short.",
+      "tag": "travel"
+    },
+    {
+      "fr": "le train",
+      "en": "train",
+      "example": "Nous avons pris le train.",
+      "translation": "We took the train.",
+      "tag": "transport"
+    },
+    {
+      "fr": "le métro",
+      "en": "metro; subway",
+      "example": "Elle prend le métro.",
+      "translation": "She takes the metro.",
+      "tag": "transport"
+    },
+    {
+      "fr": "le bus",
+      "en": "bus",
+      "example": "Le bus arrive demain.",
+      "translation": "The bus arrives tomorrow.",
+      "tag": "transport"
+    },
+    {
+      "fr": "le tramway",
+      "en": "tram",
+      "example": "Ce tramway va au centre-ville.",
+      "translation": "This tram goes downtown.",
+      "tag": "transport"
+    },
+    {
+      "fr": "la voiture",
+      "en": "car",
+      "example": "Nous avons loué une voiture.",
+      "translation": "We rented a car.",
+      "tag": "transport"
+    },
+    {
+      "fr": "le vélo",
+      "en": "bicycle",
+      "example": "Je vais louer un vélo.",
+      "translation": "I am going to rent a bicycle.",
+      "tag": "transport"
+    },
+    {
+      "fr": "l'avion",
+      "en": "plane",
+      "example": "L'avion part ce soir.",
+      "translation": "The plane leaves this evening.",
+      "tag": "transport"
+    },
+    {
+      "fr": "l'aéroport",
+      "en": "airport",
+      "example": "L'aéroport est loin.",
+      "translation": "The airport is far away.",
+      "tag": "transport"
+    },
+    {
+      "fr": "le taxi",
+      "en": "taxi",
+      "example": "Elle a appelé un taxi.",
+      "translation": "She called a taxi.",
+      "tag": "transport"
+    },
+    {
+      "fr": "le passeport",
+      "en": "passport",
+      "example": "N'oubliez pas votre passeport.",
+      "translation": "Do not forget your passport.",
+      "tag": "documents"
+    },
+    {
+      "fr": "la carte d'identité",
+      "en": "identity card",
+      "example": "Voici ma carte d'identité.",
+      "translation": "Here is my identity card.",
+      "tag": "documents"
+    },
+    {
+      "fr": "le portefeuille",
+      "en": "wallet",
+      "example": "J'ai perdu mon portefeuille.",
+      "translation": "I lost my wallet.",
+      "tag": "objects"
+    },
+    {
+      "fr": "la valise",
+      "en": "suitcase",
+      "example": "La valise est lourde.",
+      "translation": "The suitcase is heavy.",
+      "tag": "objects"
+    },
+    {
+      "fr": "le bagage",
+      "en": "piece of luggage",
+      "example": "Ce bagage est à moi.",
+      "translation": "This piece of luggage is mine.",
+      "tag": "objects"
+    },
+    {
+      "fr": "l'hôtel",
+      "en": "hotel",
+      "example": "Notre hôtel est près du musée.",
+      "translation": "Our hotel is near the museum.",
+      "tag": "accommodation"
+    },
+    {
+      "fr": "la chambre double",
+      "en": "double room",
+      "example": "Nous voulons une chambre double.",
+      "translation": "We want a double room.",
+      "tag": "accommodation"
+    },
+    {
+      "fr": "la réception",
+      "en": "reception desk",
+      "example": "La réception est ouverte.",
+      "translation": "The reception desk is open.",
+      "tag": "accommodation"
+    },
+    {
+      "fr": "la nuitée",
+      "en": "night's accommodation",
+      "example": "La nuitée coûte quatre-vingts euros.",
+      "translation": "A night's accommodation costs eighty euros.",
+      "tag": "accommodation"
+    },
+    {
+      "fr": "le petit déjeuner",
+      "en": "breakfast",
+      "example": "Le petit déjeuner est compris.",
+      "translation": "Breakfast is included.",
+      "tag": "food"
+    },
+    {
+      "fr": "le déjeuner",
+      "en": "lunch in France",
+      "example": "Nous allons déjeuner à midi.",
+      "translation": "We are going to have lunch at noon.",
+      "tag": "food"
+    },
+    {
+      "fr": "le dîner",
+      "en": "dinner in France",
+      "example": "Le dîner est à huit heures.",
+      "translation": "Dinner is at eight.",
+      "tag": "food"
+    },
+    {
+      "fr": "le pain",
+      "en": "bread",
+      "example": "Je voudrais du pain.",
+      "translation": "I would like some bread.",
+      "tag": "food"
+    },
+    {
+      "fr": "le fromage",
+      "en": "cheese",
+      "example": "Nous achetons du fromage.",
+      "translation": "We are buying some cheese.",
+      "tag": "food"
+    },
+    {
+      "fr": "la salade",
+      "en": "salad; lettuce",
+      "example": "Elle prend de la salade.",
+      "translation": "She is having some salad.",
+      "tag": "food"
+    },
+    {
+      "fr": "la tomate",
+      "en": "tomato",
+      "example": "Je prends un kilo de tomates.",
+      "translation": "I am taking a kilogram of tomatoes.",
+      "tag": "food"
+    },
+    {
+      "fr": "la pomme",
+      "en": "apple",
+      "example": "J'ai acheté six pommes.",
+      "translation": "I bought six apples.",
+      "tag": "food"
+    },
+    {
+      "fr": "la poire",
+      "en": "pear",
+      "example": "Ces poires sont mûres.",
+      "translation": "These pears are ripe.",
+      "tag": "food"
+    },
+    {
+      "fr": "la banane",
+      "en": "banana",
+      "example": "Je voudrais trois bananes.",
+      "translation": "I would like three bananas.",
+      "tag": "food"
+    },
+    {
+      "fr": "le légume",
+      "en": "vegetable",
+      "example": "Nous mangeons des légumes.",
+      "translation": "We eat vegetables.",
+      "tag": "food"
+    },
+    {
+      "fr": "le fruit",
+      "en": "fruit",
+      "example": "Elle achète des fruits.",
+      "translation": "She is buying fruit.",
+      "tag": "food"
+    },
+    {
+      "fr": "la viande",
+      "en": "meat",
+      "example": "Je ne mange pas de viande.",
+      "translation": "I do not eat meat.",
+      "tag": "food"
+    },
+    {
+      "fr": "le poisson",
+      "en": "fish",
+      "example": "Il prépare du poisson.",
+      "translation": "He is preparing fish.",
+      "tag": "food"
+    },
+    {
+      "fr": "l'œuf",
+      "en": "egg",
+      "example": "Il faut deux œufs.",
+      "translation": "Two eggs are needed.",
+      "tag": "food"
+    },
+    {
+      "fr": "le lait",
+      "en": "milk",
+      "example": "Il n'y a plus de lait.",
+      "translation": "There is no milk left.",
+      "tag": "food"
+    },
+    {
+      "fr": "le beurre",
+      "en": "butter",
+      "example": "Je prends un peu de beurre.",
+      "translation": "I am having a little butter.",
+      "tag": "food"
+    },
+    {
+      "fr": "l'huile d'olive",
+      "en": "olive oil",
+      "example": "Voici une bouteille d'huile d'olive.",
+      "translation": "Here is a bottle of olive oil.",
+      "tag": "food"
+    },
+    {
+      "fr": "le sel",
+      "en": "salt",
+      "example": "Ajoutez un peu de sel.",
+      "translation": "Add a little salt.",
+      "tag": "food"
+    },
+    {
+      "fr": "le sucre",
+      "en": "sugar",
+      "example": "Je ne prends pas de sucre.",
+      "translation": "I do not take sugar.",
+      "tag": "food"
+    },
+    {
+      "fr": "l'eau",
+      "en": "water",
+      "example": "Je voudrais de l'eau.",
+      "translation": "I would like some water.",
+      "tag": "drinks"
+    },
+    {
+      "fr": "le café",
+      "en": "coffee",
+      "example": "Vous voulez du café ?",
+      "translation": "Would you like some coffee?",
+      "tag": "drinks"
+    },
+    {
+      "fr": "le thé",
+      "en": "tea",
+      "example": "Nous buvons du thé.",
+      "translation": "We drink tea.",
+      "tag": "drinks"
+    },
+    {
+      "fr": "le jus",
+      "en": "juice",
+      "example": "Elle prend un jus d'orange.",
+      "translation": "She is having an orange juice.",
+      "tag": "drinks"
+    },
+    {
+      "fr": "la bouteille",
+      "en": "bottle",
+      "example": "Cette bouteille est vide.",
+      "translation": "This bottle is empty.",
+      "tag": "quantities"
+    },
+    {
+      "fr": "le verre",
+      "en": "glass",
+      "example": "Je voudrais un verre d'eau.",
+      "translation": "I would like a glass of water.",
+      "tag": "quantities"
+    },
+    {
+      "fr": "le kilo",
+      "en": "kilogram",
+      "example": "Un kilo de pommes, s'il vous plaît.",
+      "translation": "A kilogram of apples, please.",
+      "tag": "quantities"
+    },
+    {
+      "fr": "le gramme",
+      "en": "gram",
+      "example": "Je prends deux cents grammes.",
+      "translation": "I am taking two hundred grams.",
+      "tag": "quantities"
+    },
+    {
+      "fr": "le morceau",
+      "en": "piece",
+      "example": "Voici un morceau de pain.",
+      "translation": "Here is a piece of bread.",
+      "tag": "quantities"
+    },
+    {
+      "fr": "la tranche",
+      "en": "slice",
+      "example": "Je voudrais deux tranches.",
+      "translation": "I would like two slices.",
+      "tag": "quantities"
+    },
+    {
+      "fr": "la portion",
+      "en": "portion",
+      "example": "Une portion suffit.",
+      "translation": "One portion is enough.",
+      "tag": "quantities"
+    },
+    {
+      "fr": "acheter",
+      "en": "to buy",
+      "example": "J'ai acheté du pain.",
+      "translation": "I bought some bread.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "payer",
+      "en": "to pay",
+      "example": "Je peux payer par carte ?",
+      "translation": "Can I pay by card?",
+      "tag": "verbs"
+    },
+    {
+      "fr": "coûter",
+      "en": "to cost",
+      "example": "Combien coûte ce billet ?",
+      "translation": "How much does this ticket cost?",
+      "tag": "verbs"
+    },
+    {
+      "fr": "réserver",
+      "en": "to reserve; book",
+      "example": "Nous avons réservé une chambre.",
+      "translation": "We booked a room.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "annuler",
+      "en": "to cancel",
+      "example": "Elle a annulé le voyage.",
+      "translation": "She canceled the trip.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "louer",
+      "en": "to rent",
+      "example": "Ils vont louer des vélos.",
+      "translation": "They are going to rent bicycles.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "partir",
+      "en": "to leave",
+      "example": "Elle est partie hier.",
+      "translation": "She left yesterday.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "arriver",
+      "en": "to arrive",
+      "example": "Nous sommes arrivés tôt.",
+      "translation": "We arrived early.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "entrer",
+      "en": "to enter",
+      "example": "Entrez, s'il vous plaît.",
+      "translation": "Please come in.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "sortir",
+      "en": "to go out; take out",
+      "example": "Elle a sorti les billets.",
+      "translation": "She took out the tickets.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "monter",
+      "en": "to go up; carry up",
+      "example": "Nous sommes montés au deuxième étage.",
+      "translation": "We went up to the second floor.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "descendre",
+      "en": "to go down; get off",
+      "example": "Descendez au prochain arrêt.",
+      "translation": "Get off at the next stop.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "retourner",
+      "en": "to return",
+      "example": "Je vais retourner à l'hôtel.",
+      "translation": "I am going to return to the hotel.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "rester",
+      "en": "to stay",
+      "example": "Nous sommes restés deux nuits.",
+      "translation": "We stayed two nights.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "tomber",
+      "en": "to fall",
+      "example": "Le verre est tombé.",
+      "translation": "The glass fell.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "perdre",
+      "en": "to lose",
+      "example": "J'ai perdu ma carte.",
+      "translation": "I lost my card.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "oublier",
+      "en": "to forget",
+      "example": "N'oubliez pas les billets.",
+      "translation": "Do not forget the tickets.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "rater",
+      "en": "to miss",
+      "example": "Nous avons raté le train.",
+      "translation": "We missed the train.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "attendre",
+      "en": "to wait for",
+      "example": "J'attends mon amie.",
+      "translation": "I am waiting for my friend.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "rejoindre",
+      "en": "to meet up with; join",
+      "example": "Nous avons rejoint nos amis.",
+      "translation": "We met up with our friends.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "traverser",
+      "en": "to cross",
+      "example": "Traversez la place.",
+      "translation": "Cross the square.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "tourner",
+      "en": "to turn",
+      "example": "Tournez à droite.",
+      "translation": "Turn right.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "continuer",
+      "en": "to continue",
+      "example": "Continuez tout droit.",
+      "translation": "Keep going straight.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "vérifier",
+      "en": "to check",
+      "example": "Je vais vérifier les horaires.",
+      "translation": "I am going to check the timetable.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "recevoir",
+      "en": "to receive",
+      "example": "Vous recevrez une confirmation.",
+      "translation": "You will receive a confirmation.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "hier",
+      "en": "yesterday",
+      "example": "Je suis arrivé hier.",
+      "translation": "I arrived yesterday.",
+      "tag": "time"
+    },
+    {
+      "fr": "demain",
+      "en": "tomorrow",
+      "example": "Nous partirons demain.",
+      "translation": "We will leave tomorrow.",
+      "tag": "time"
+    },
+    {
+      "fr": "avant-hier",
+      "en": "the day before yesterday",
+      "example": "Elle a téléphoné avant-hier.",
+      "translation": "She called the day before yesterday.",
+      "tag": "time"
+    },
+    {
+      "fr": "après-demain",
+      "en": "the day after tomorrow",
+      "example": "Le cours commence après-demain.",
+      "translation": "The course starts the day after tomorrow.",
+      "tag": "time"
+    },
+    {
+      "fr": "la semaine dernière",
+      "en": "last week",
+      "example": "J'ai voyagé la semaine dernière.",
+      "translation": "I traveled last week.",
+      "tag": "time"
+    },
+    {
+      "fr": "la semaine prochaine",
+      "en": "next week",
+      "example": "Je vais partir la semaine prochaine.",
+      "translation": "I am going to leave next week.",
+      "tag": "time"
+    },
+    {
+      "fr": "déjà",
+      "en": "already",
+      "example": "J'ai déjà réservé.",
+      "translation": "I have already booked.",
+      "tag": "time"
+    },
+    {
+      "fr": "pendant",
+      "en": "for; during",
+      "example": "J'ai travaillé pendant deux heures.",
+      "translation": "I worked for two hours.",
+      "tag": "time"
+    },
+    {
+      "fr": "depuis",
+      "en": "since; for continuing situation",
+      "example": "J'habite ici depuis trois mois.",
+      "translation": "I have lived here for three months.",
+      "tag": "time"
+    },
+    {
+      "fr": "il y a",
+      "en": "ago after a duration",
+      "example": "Je suis arrivé il y a une heure.",
+      "translation": "I arrived an hour ago.",
+      "tag": "time"
+    },
+    {
+      "fr": "dans",
+      "en": "in a future interval",
+      "example": "Je partirai dans deux jours.",
+      "translation": "I will leave in two days.",
+      "tag": "time"
+    },
+    {
+      "fr": "à pied",
+      "en": "on foot",
+      "example": "Nous allons à pied.",
+      "translation": "We are going on foot.",
+      "tag": "transport"
+    },
+    {
+      "fr": "en espèces",
+      "en": "in cash",
+      "example": "Je vais payer en espèces.",
+      "translation": "I am going to pay in cash.",
+      "tag": "payment"
+    },
+    {
+      "fr": "par carte",
+      "en": "by card",
+      "example": "Vous pouvez payer par carte.",
+      "translation": "You can pay by card.",
+      "tag": "payment"
+    },
+    {
+      "fr": "le remboursement",
+      "en": "refund",
+      "example": "Je demande un remboursement.",
+      "translation": "I am requesting a refund.",
+      "tag": "payment"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Hier, j'ai acheté deux billets.",
+      "en": "Yesterday, I bought two tickets.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The completed purchase uses avoir plus acheté."
+    },
+    {
+      "fr": "Ma sœur est arrivée à neuf heures.",
+      "en": "My sister arrived at nine.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Arriver takes être here and arrivée agrees with the feminine subject."
+    },
+    {
+      "fr": "Nous n'avons pas trouvé la gare.",
+      "en": "We did not find the station.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Negation surrounds the auxiliary; the definite article remains."
+    },
+    {
+      "fr": "Demain, nous allons louer des vélos.",
+      "en": "Tomorrow, we are going to rent bicycles.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Allons is conjugated and louer remains an infinitive."
+    },
+    {
+      "fr": "Quand tu arriveras, je t'appellerai.",
+      "en": "When you arrive, I will call you.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "A future time clause with quand uses future in French."
+    },
+    {
+      "fr": "S'il pleut, nous prendrons le bus.",
+      "en": "If it rains, we will take the bus.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ordinary conditional si takes present, followed here by future in the main clause."
+    },
+    {
+      "fr": "Prenez cette rue et tournez à gauche.",
+      "en": "Take this street and turn left.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The imperative omits the subject pronoun."
+    },
+    {
+      "fr": "N'oubliez pas votre passeport.",
+      "en": "Do not forget your passport.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne and pas surround the negative imperative."
+    },
+    {
+      "fr": "Je voudrais une bouteille d'eau.",
+      "en": "I would like a bottle of water.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "A quantity container is followed by de, elided before eau."
+    },
+    {
+      "fr": "J'habite ici depuis trois mois.",
+      "en": "I have lived here for three months.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The residence continues now, so French uses present plus depuis."
+    },
+    {
+      "fr": "Elle a sorti les clés de son sac.",
+      "en": "She took the keys out of her bag.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Sortir takes avoir with a directly expressed object."
+    },
+    {
+      "fr": "Elle est sortie à huit heures.",
+      "en": "She went out at eight.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Intransitive sortir takes être, with feminine agreement here."
+    },
+    {
+      "fr": "Je vais les acheter demain.",
+      "en": "I am going to buy them tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Les belongs to the infinitive acheter."
+    },
+    {
+      "fr": "Il n'y a plus de pain.",
+      "en": "There is no bread left.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne…plus expresses no longer or no more; indefinite quantity becomes de."
+    },
+    {
+      "fr": "Vous recevrez une confirmation demain.",
+      "en": "You will receive a confirmation tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Recevoir has the future stem recevr-."
+    },
+    {
+      "fr": "Nous avons marché pendant une heure.",
+      "en": "We walked for an hour.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Marcher uses avoir despite describing movement; pendant gives a completed duration."
+    },
+    {
+      "fr": "Je lui ai téléphoné ce matin.",
+      "en": "I called her this morning.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "I called him this morning."
+      ],
+      "note": "Téléphoner à takes an indirect object; lui can mean him or her."
+    },
+    {
+      "fr": "Nous sommes allés au marché en bus.",
+      "en": "We went to the market by bus.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Aller takes être; allés is the standard mixed-group or all-male agreement."
+    },
+    {
+      "fr": "Je ne mange pas de viande.",
+      "en": "I do not eat meat.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The partitive becomes de in this ordinary negative."
+    },
+    {
+      "fr": "Vous pouvez payer par carte ou en espèces.",
+      "en": "You can pay by card or in cash.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Payer remains an infinitive after pouvez; learn payment methods as chunks."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Hier, j'___ acheté un billet.",
+      "options": [
+        "ai",
+        "suis",
+        "avais être",
+        "vais"
+      ],
+      "answer": 0,
+      "explanation": "Acheter forms the passé composé with avoir."
+    },
+    {
+      "prompt": "Ma sœur est ___ hier.",
+      "options": [
+        "arrivé",
+        "arrivée",
+        "arriver",
+        "arrivés"
+      ],
+      "answer": 1,
+      "explanation": "An être participle agrees with the feminine singular subject."
+    },
+    {
+      "prompt": "Nous avons ___ pendant une heure.",
+      "options": [
+        "marcher",
+        "marchons",
+        "marché",
+        "marchions"
+      ],
+      "answer": 2,
+      "explanation": "Avoir is followed by the past participle marché."
+    },
+    {
+      "prompt": "Elle ___ sorti les clés de son sac.",
+      "options": [
+        "est",
+        "sera",
+        "va",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "Sortir with the direct object les clés takes avoir."
+    },
+    {
+      "prompt": "Demain, nous allons ___ une chambre.",
+      "options": [
+        "réserver",
+        "réservé",
+        "réservons",
+        "réserverons"
+      ],
+      "answer": 0,
+      "explanation": "The future with aller is followed by an infinitive."
+    },
+    {
+      "prompt": "Quand tu ___, je t'appellerai.",
+      "options": [
+        "arrives hier",
+        "arriveras",
+        "es arrivé demain",
+        "arriver"
+      ],
+      "answer": 1,
+      "explanation": "A future time clause after quand uses a future form."
+    },
+    {
+      "prompt": "Si tu ___ tôt, nous dînerons ensemble.",
+      "options": [
+        "arriveras",
+        "arriverais",
+        "arrives",
+        "arrivé"
+      ],
+      "answer": 2,
+      "explanation": "Ordinary future conditions use si plus present, not future."
+    },
+    {
+      "prompt": "___ cette rue ! (vous)",
+      "options": [
+        "Prendre",
+        "Vous prenez",
+        "Prends",
+        "Prenez"
+      ],
+      "answer": 3,
+      "explanation": "The vous imperative is prenez with no expressed subject."
+    },
+    {
+      "prompt": "Je voudrais une bouteille ___ eau.",
+      "options": [
+        "d'",
+        "de la",
+        "du",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "A container quantity uses de, which elides before eau."
+    },
+    {
+      "prompt": "Je ne mange pas ___ viande. (I do not eat meat; ordinary denial, without a contrast)",
+      "options": [
+        "de la",
+        "de",
+        "la une",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "An ordinary negative indefinite quantity uses de."
+    },
+    {
+      "prompt": "Je vis ici ___ deux ans, et j'y vis toujours.",
+      "options": [
+        "pendant",
+        "dans",
+        "depuis",
+        "il y a"
+      ],
+      "answer": 2,
+      "explanation": "Depuis marks a situation continuing into the present."
+    },
+    {
+      "prompt": "Je partirai ___ deux heures. (from now)",
+      "options": [
+        "depuis",
+        "il y a",
+        "pendant hier",
+        "dans"
+      ],
+      "answer": 3,
+      "explanation": "Dans locates an event after a future interval."
+    },
+    {
+      "prompt": "Je téléphone à ma sœur. Je ___ téléphone.",
+      "options": [
+        "lui",
+        "la",
+        "le",
+        "les"
+      ],
+      "answer": 0,
+      "explanation": "Téléphoner à requires an indirect-object pronoun."
+    },
+    {
+      "prompt": "Je vais acheter les billets. Je vais ___ acheter.",
+      "options": [
+        "leur",
+        "les",
+        "lui",
+        "en les"
+      ],
+      "answer": 1,
+      "explanation": "Les replaces the definite direct object and goes with acheter."
+    },
+    {
+      "prompt": "Le trajet ___ vingt euros demain.",
+      "options": [
+        "coûtez",
+        "coûtent",
+        "coûtera",
+        "coûter"
+      ],
+      "answer": 2,
+      "explanation": "The third-person singular simple future is coûtera."
+    }
+  ]
+}

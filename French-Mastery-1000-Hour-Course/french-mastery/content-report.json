@@ -1,0 +1,86 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "words": 5989,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 2,
+      "words": 5083,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 3,
+      "words": 5230,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 4,
+      "words": 5037,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 5,
+      "words": 5588,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 6,
+      "words": 5820,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 7,
+      "words": 5645,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 8,
+      "words": 5098,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 9,
+      "words": 5257,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    },
+    {
+      "chapter": 10,
+      "words": 5692,
+      "vocab": 100,
+      "sentences": 20,
+      "grammar": 15,
+      "units": 10
+    }
+  ],
+  "whitespaceWords": 54439,
+  "method": "Whitespace-separated words. Not tokenizer counts. Generated data and duplicate book/site text excluded."
+}

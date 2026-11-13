@@ -1,0 +1,89 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "reconcile",
+      "title": "Reconciliation",
+      "chapter": "chapter-01",
+      "description": "Reconciliation \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "identity",
+      "title": "Collection identity",
+      "chapter": "chapter-02",
+      "description": "Collection identity \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "iam",
+      "title": "Policy reasoning",
+      "chapter": "chapter-03",
+      "description": "Policy reasoning \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "network",
+      "title": "CIDR and route explorer",
+      "chapter": "chapter-04",
+      "description": "CIDR and route explorer \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "capacity",
+      "title": "Capacity explorer",
+      "chapter": "chapter-05",
+      "description": "Capacity explorer \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "lock",
+      "title": "State lock",
+      "chapter": "chapter-06",
+      "description": "State lock \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "modules",
+      "title": "Module contract",
+      "chapter": "chapter-07",
+      "description": "Module contract \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "migration",
+      "title": "Migration planner",
+      "chapter": "chapter-08",
+      "description": "Migration planner \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "policy",
+      "title": "Plan policy",
+      "chapter": "chapter-09",
+      "description": "Plan policy \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "artifact",
+      "title": "Reviewed artifact",
+      "chapter": "chapter-10",
+      "description": "Reviewed artifact \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "architecture",
+      "title": "Architecture tradeoffs",
+      "chapter": "chapter-11",
+      "description": "Architecture tradeoffs \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    },
+    {
+      "id": "cost",
+      "title": "Cost sensitivity",
+      "chapter": "chapter-12",
+      "description": "Cost sensitivity \u2014 computed locally; model limits visible in the interface.",
+      "module": "app.mjs"
+    }
+  ]
+}

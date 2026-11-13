@@ -1,0 +1,1 @@
+{"name":"quantitative-finance-from-first-principles","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node companion/server.mjs","test":"node tests/test_labs.mjs","build":"node tools/build_reader.mjs"},"engines":{"node":">=22"},"description":"Offline quantitative finance textbook and dependency-free computational laboratory"}

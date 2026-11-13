@@ -1,0 +1,56 @@
+{
+  "notice": "Synthetic fixtures demonstrate methods, not market performance.",
+  "project_1": {
+    "returns": [
+      0.050000000000000044,
+      -0.02857142857142858,
+      0.05882352941176472,
+      -0.01851851851851849
+    ],
+    "final_wealth": 1.06,
+    "max_drawdown_loss": 0.02857142857142858
+  },
+  "project_2": {
+    "estimated_alpha": 0.000672951034004704,
+    "estimated_beta": 1.20478527500481,
+    "true_alpha": 0.0003,
+    "true_beta": 1.2
+  },
+  "project_3": {
+    "event_index": 240,
+    "three_observation_CAR": 0.020533642543157118,
+    "inserted_event_shock": 0.02,
+    "note": "CAR also includes noise and fitted-benchmark error."
+  },
+  "project_4": {
+    "EWMA_MSE": 1.4988605692075559e-07,
+    "first_forecast": 0.0001
+  },
+  "project_5": {
+    "test_MSE": 0.12788467880101936,
+    "baseline_test_MSE": 1.5999647498575615,
+    "train_end_exclusive": 200,
+    "test_start": 240
+  },
+  "project_6": {
+    "closed_form": {
+      "call": 10.450583572185565,
+      "put": 5.573526022256971,
+      "delta": 0.6368306511756191
+    },
+    "monte_carlo": {
+      "estimate": 10.455760703482065,
+      "standard_error": 0.05159589072224815,
+      "independent_pairs": 20000
+    },
+    "tree": {
+      "price": 9.523809523809526,
+      "delta": 0.6666666666666669,
+      "cash": -57.14285714285716,
+      "risk_neutral_probability": 0.5000000000000002
+    }
+  },
+  "project_7": {
+    "minimum_variance_weight_asset_1": 0.10526315789473682
+  }
+}

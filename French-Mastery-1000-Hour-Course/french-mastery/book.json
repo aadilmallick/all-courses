@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "title": "A thousand hours, a language for life",
+  "subtitle": "French from first conversations to C1",
+  "audience": "English-speaking adult beginners",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Sounds, sense, and first conversations",
+      "path": "chapters/01-sounds-sense-first-conversations.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [],
+      "experiments": [
+        "practice-1"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Everyday sentences",
+      "path": "chapters/02-everyday-sentences.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "practice-2"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Time and movement",
+      "path": "chapters/03-time-and-movement.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "practice-3"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Telling a story",
+      "path": "chapters/04-telling-a-story.md",
+      "part": "Independent French",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "practice-4"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Decisions and relationships",
+      "path": "chapters/05-decisions-and-relationships.md",
+      "part": "Independent French",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "practice-5"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Mood and complex ideas",
+      "path": "chapters/06-mood-and-complex-ideas.md",
+      "part": "Independent French",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "practice-6"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Argument and precise prose",
+      "path": "chapters/07-argument-and-precise-prose.md",
+      "part": "Independent French",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "practice-7"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Register, cohesion, and literary reading",
+      "path": "chapters/08-register-cohesion-literature.md",
+      "part": "Advanced French",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "practice-8"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Academic and professional French",
+      "path": "chapters/09-academic-professional-french.md",
+      "part": "Advanced French",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "practice-9"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "C1 integration and independent mastery",
+      "path": "chapters/10-c1-integration-independent-mastery.md",
+      "part": "Advanced French",
+      "status": "complete",
+      "minimum_prose_words": 4400,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "practice-10"
+      ]
+    }
+  ],
+  "assets": [],
+  "source_listings": [],
+  "companion": {
+    "path": "src/scripts",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

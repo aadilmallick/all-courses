@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows",
+  "node": "v26.7.0",
+  "reader_dependencies": {
+    "marked": "17.0.5",
+    "katex": "0.16.22"
+  },
+  "python_runtime_dependencies": "standard library only",
+  "browser": "157.0.4341.42"
+}

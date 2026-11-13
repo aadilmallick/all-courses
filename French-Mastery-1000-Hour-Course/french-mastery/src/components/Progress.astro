@@ -1,0 +1,66 @@
+<div id="progress-app" class="studio">
+  <div class="metric-grid"><div><strong id="logged-hours">0</strong><span>hours logged / 1,000</span></div><div><strong id="review-due">0</strong><span>items due for review</span></div><div><strong id="units-done">0</strong><span>units completed / 100</span></div></div>
+  <p id="progress-status" role="status">Progress is stored in this browser. Export a backup to move devices or protect your log.</p>
+  <form id="hours-form" class="control-grid"><label>Study hours<input id="hours-number" type="number" min="0.1" max="24" step="0.1" value="1" required /></label><label>What did you work on?<input id="hours-activity" maxlength="160" placeholder="e.g. Stage 3 listening and retelling" required /></label><button class="primary" type="submit">Log study time</button></form>
+  <h3>Your 100 learning units</h3><div id="unit-list"></div>
+  <h3>Recent study</h3><ul id="hours-log"></ul>
+  <h3>Keep your progress</h3><div class="button-row"><button id="progress-export">Export progress</button><label class="file-label">Import a backup<input id="progress-import" type="file" accept="application/json,.json" /></label><button id="progress-clear">Clear this device’s progress</button><button id="progress-confirm-clear" hidden>Confirm · erase local progress</button></div>
+  <p class="small-note">Imported progress replaces the current log. Export first if you want a backup. Completion checkboxes and logged hours record your work; they do not certify a language level.</p>
+</div>
+<script>
+import {readState,saveState,exportState,validateState} from '../scripts/storage';
+const $=(id:string)=>document.getElementById(id) as any;
+let chapters:any[]=[];
+function draw(){
+  const state=readState();
+  $('logged-hours').textContent=state.hours.reduce((sum:number,entry:any)=>sum+entry.hours,0).toFixed(1);
+  $('review-due').textContent=Object.values(state.reviews).filter((review:any)=>review.due<=Date.now()).length;
+  $('units-done').textContent=Object.values(state.units).filter(Boolean).length;
+  // Keep checkbox identity, keyboard focus, and expanded details on each update.
+  document.querySelectorAll<HTMLInputElement>('#unit-list input[data-unit]').forEach(check=>{check.checked=!!state.units[check.dataset.unit!];});
+  const log=$('hours-log');log.replaceChildren();
+  state.hours.slice(-15).reverse().forEach((entry:any)=>{const item=document.createElement('li');item.textContent=`${entry.date} · ${entry.hours}h · ${entry.activity}`;log.append(item);});
+}
+function renderUnits(){
+  const list=$('unit-list');list.replaceChildren();
+  for(const chapter of chapters){
+    const details=document.createElement('details'),summary=document.createElement('summary');
+    summary.textContent=`Stage ${chapter.chapter} · ${chapter.title} · 100 hours`;details.append(summary);
+    chapter.units.forEach((unit:any,index:number)=>{
+      const label=document.createElement('label');label.className='unit-check';
+      const check=document.createElement('input');check.type='checkbox';const id=`${chapter.chapter}-${index}`;check.dataset.unit=id;
+      check.onchange=()=>{
+        const state=readState();state.units[id]=check.checked;
+        $('progress-status').textContent=saveState(state)?'Learning-unit progress saved on this device.':'Storage is unavailable. Your change could not be saved.';
+        draw();
+      };
+      label.append(check,document.createTextNode(`${index+1}. ${unit.title} · 10h`));details.append(label);
+    });list.append(details);
+  }
+}
+$('hours-form').onsubmit=(event:Event)=>{
+  event.preventDefault();const hours=Number($('hours-number').value),activity=$('hours-activity').value.trim();
+  if(!Number.isFinite(hours)||hours<=0||hours>24||!activity)return;
+  const state=readState();state.hours.push({hours,activity,date:new Date().toLocaleDateString()});const saved=saveState(state);
+  $('progress-status').textContent=saved?'Study time saved on this device.':'Could not store progress in this browser. Your entry has not been saved.';
+  if(saved)$('hours-activity').value='';draw();
+};
+$('progress-export').onclick=exportState;
+$('progress-import').onchange=async(event:Event)=>{
+  const input=event.target as HTMLInputElement,file=input.files?.[0];if(!file)return;
+  try{
+    if(file.size>2000000)throw Error('Choose a progress export smaller than 2 MB.');
+    const state=validateState(JSON.parse(await file.text()));
+    if(!saveState(state))throw Error('Could not store imported progress. Your previous log was not replaced.');
+    $('progress-status').textContent='Progress imported. Your previous log was replaced.';draw();
+  }catch(error:any){$('progress-status').textContent=error.message;}
+  finally{input.value='';}
+};
+$('progress-clear').onclick=()=>{$('progress-confirm-clear').hidden=false;};
+$('progress-confirm-clear').onclick=()=>{
+  if(!saveState({hours:[],units:{},reviews:{}})){$('progress-status').textContent='Could not clear progress in this browser. Your log has not been changed.';return;}
+  $('progress-confirm-clear').hidden=true;$('progress-clear').focus();draw();$('progress-status').textContent='Local progress cleared.';
+};
+fetch('/data/course.json').then(response=>{if(!response.ok)throw Error('Course index unavailable.');return response.json();}).then(data=>{chapters=data.chapters;renderUnits();draw();}).catch(()=>$('progress-status').textContent='Course index unavailable. Study logs can still be exported.');
+draw();
+</script>

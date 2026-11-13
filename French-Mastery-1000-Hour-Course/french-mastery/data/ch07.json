@@ -1,0 +1,1128 @@
+{
+  "chapter": 7,
+  "level": "B2",
+  "title": "Argument and precise prose",
+  "units": [
+    {
+      "title": "Claim, reason, evidence",
+      "outcome": "Support a concrete claim with a reason, example, and limitation.",
+      "tasks": [
+        "Study section 1, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Cause and consequence",
+      "outcome": "Explain a problem without confusing sequence and causation.",
+      "tasks": [
+        "Study section 2, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Concession and purpose",
+      "outcome": "Represent an objection fairly and answer it.",
+      "tasks": [
+        "Study section 3, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Reporting across time",
+      "outcome": "Summarize a past interview with an accurate timeline.",
+      "tasks": [
+        "Study section 4, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Voices and sources",
+      "outcome": "Separate your view, a source claim, and an unconfirmed report.",
+      "tasks": [
+        "Study section 5, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Completed actions and infinitives",
+      "outcome": "Condense a sequence with a clear shared subject.",
+      "tasks": [
+        "Study section 6, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Participle agreement",
+      "outcome": "Edit participles by finding the direct object.",
+      "tasks": [
+        "Study section 7, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Negation, restriction, formal questions",
+      "outcome": "Read restriction and expletive ne without reversing meaning.",
+      "tasks": [
+        "Study section 8, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Media and public debate",
+      "outcome": "Compare two positions and identify missing evidence.",
+      "tasks": [
+        "Study section 9, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    },
+    {
+      "title": "Argument portfolio",
+      "outcome": "Defend and revise a structured argument.",
+      "tasks": [
+        "Study section 10, then explain each logical or grammatical relationship (2 h).",
+        "Review ten vocabulary entries, checking their collocations in original sentences (2 h).",
+        "Transcribe and translate companion examples, then take notes on a short human debate or report (2 h).",
+        "Give an oral explanation and respond to skeptical follow-up questions (2 h).",
+        "Write the unit product (1 h), edit meaning before spelling, and revise (1 h)."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le ministre / la ministre",
+      "en": "minister",
+      "example": "La ministre présente la réforme.",
+      "translation": "The minister presents the reform.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le maire / la maire",
+      "en": "mayor",
+      "example": "La maire consulte les habitants.",
+      "translation": "The mayor consults residents.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "l'élection (f.)",
+      "en": "election",
+      "example": "L'élection aura lieu dimanche.",
+      "translation": "The election will take place on Sunday.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le scrutin",
+      "en": "ballot",
+      "example": "Le scrutin est organisé par la commune.",
+      "translation": "The ballot is organized by the municipality.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le suffrage",
+      "en": "vote cast",
+      "example": "Chaque suffrage est compté.",
+      "translation": "Every vote is counted.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le citoyen / la citoyenne",
+      "en": "citizen",
+      "example": "Les citoyens posent des questions.",
+      "translation": "Citizens ask questions.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la citoyenneté",
+      "en": "citizenship",
+      "example": "Le cours aborde la citoyenneté.",
+      "translation": "The course addresses citizenship.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la loi",
+      "en": "law",
+      "example": "Cette loi a été adoptée.",
+      "translation": "This law has been passed.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le règlement",
+      "en": "regulation",
+      "example": "Le règlement précise les conditions.",
+      "translation": "The regulation specifies the conditions.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la réforme",
+      "en": "reform",
+      "example": "La réforme suscite un débat.",
+      "translation": "The reform generates debate.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la politique publique",
+      "en": "public policy",
+      "example": "Cette politique publique sera évaluée.",
+      "translation": "This public policy will be assessed.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la démocratie",
+      "en": "democracy",
+      "example": "La démocratie suppose un débat libre.",
+      "translation": "Democracy requires free debate.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le gouvernement",
+      "en": "government",
+      "example": "Le gouvernement annonce une consultation.",
+      "translation": "The government announces a consultation.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le parlement",
+      "en": "parliament",
+      "example": "Le parlement examine le texte.",
+      "translation": "Parliament examines the text.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "l'opposition (f.)",
+      "en": "political opposition",
+      "example": "L'opposition propose un amendement.",
+      "translation": "The opposition proposes an amendment.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la majorité",
+      "en": "majority",
+      "example": "La majorité soutient le projet.",
+      "translation": "The majority supports the project.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la minorité",
+      "en": "minority",
+      "example": "Une minorité exprime des réserves.",
+      "translation": "A minority expresses reservations.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la collectivité",
+      "en": "local community authority",
+      "example": "La collectivité finance la bibliothèque.",
+      "translation": "The local authority funds the library.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le service public",
+      "en": "public service",
+      "example": "Ce service public doit rester accessible.",
+      "translation": "This public service must remain accessible.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "la consultation publique",
+      "en": "public consultation",
+      "example": "Une consultation publique est prévue.",
+      "translation": "A public consultation is planned.",
+      "tag": "public-life"
+    },
+    {
+      "fr": "le budget",
+      "en": "budget",
+      "example": "Le budget sera discuté demain.",
+      "translation": "The budget will be discussed tomorrow.",
+      "tag": "economy"
+    },
+    {
+      "fr": "la dépense",
+      "en": "expenditure",
+      "example": "Cette dépense doit être justifiée.",
+      "translation": "This expenditure must be justified.",
+      "tag": "economy"
+    },
+    {
+      "fr": "la recette",
+      "en": "revenue",
+      "example": "Les recettes couvrent les dépenses.",
+      "translation": "Revenue covers expenditure.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'impôt (m.)",
+      "en": "tax",
+      "example": "L'impôt finance certains services.",
+      "translation": "Tax funds some services.",
+      "tag": "economy"
+    },
+    {
+      "fr": "la taxe",
+      "en": "levy",
+      "example": "Cette taxe s'applique à ce produit.",
+      "translation": "This levy applies to this product.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'investissement (m.)",
+      "en": "investment",
+      "example": "L'investissement aura des effets durables.",
+      "translation": "The investment will have lasting effects.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'épargne (f.)",
+      "en": "savings",
+      "example": "Elle souhaite protéger son épargne.",
+      "translation": "She wants to protect her savings.",
+      "tag": "economy"
+    },
+    {
+      "fr": "le prêt",
+      "en": "loan",
+      "example": "Il compare les conditions du prêt.",
+      "translation": "He compares the loan conditions.",
+      "tag": "economy"
+    },
+    {
+      "fr": "le taux d'intérêt",
+      "en": "interest rate",
+      "example": "Le taux d'intérêt est indiqué.",
+      "translation": "The interest rate is stated.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'inflation (f.)",
+      "en": "inflation",
+      "example": "L'article explique l'inflation.",
+      "translation": "The article explains inflation.",
+      "tag": "economy"
+    },
+    {
+      "fr": "le pouvoir d'achat",
+      "en": "purchasing power",
+      "example": "Le débat porte sur le pouvoir d'achat.",
+      "translation": "The debate concerns purchasing power.",
+      "tag": "economy"
+    },
+    {
+      "fr": "le chômage",
+      "en": "unemployment",
+      "example": "Le rapport étudie le chômage.",
+      "translation": "The report studies unemployment.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'emploi (m.)",
+      "en": "employment",
+      "example": "Cette mesure pourrait soutenir l'emploi.",
+      "translation": "This measure could support employment.",
+      "tag": "economy"
+    },
+    {
+      "fr": "la croissance",
+      "en": "growth",
+      "example": "La croissance reste faible.",
+      "translation": "Growth remains weak.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'entreprise (f.)",
+      "en": "company",
+      "example": "L'entreprise recrute deux personnes.",
+      "translation": "The company is recruiting two people.",
+      "tag": "economy"
+    },
+    {
+      "fr": "le secteur",
+      "en": "sector",
+      "example": "Ce secteur évolue rapidement.",
+      "translation": "This sector is changing rapidly.",
+      "tag": "economy"
+    },
+    {
+      "fr": "le marché",
+      "en": "market",
+      "example": "Le marché local est limité.",
+      "translation": "The local market is limited.",
+      "tag": "economy"
+    },
+    {
+      "fr": "la concurrence",
+      "en": "competition",
+      "example": "La concurrence peut faire baisser les prix.",
+      "translation": "Competition can bring prices down.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'inégalité (f.)",
+      "en": "inequality",
+      "example": "Le projet vise à réduire les inégalités.",
+      "translation": "The project aims to reduce inequalities.",
+      "tag": "economy"
+    },
+    {
+      "fr": "la subvention",
+      "en": "subsidy",
+      "example": "L'association a reçu une subvention.",
+      "translation": "The organization received a subsidy.",
+      "tag": "economy"
+    },
+    {
+      "fr": "l'actualité (f.)",
+      "en": "current affairs",
+      "example": "Je suis l'actualité locale.",
+      "translation": "I follow local current affairs.",
+      "tag": "media"
+    },
+    {
+      "fr": "l'information (f.)",
+      "en": "information",
+      "example": "Cette information reste à vérifier.",
+      "translation": "This information still needs checking.",
+      "tag": "media"
+    },
+    {
+      "fr": "la source",
+      "en": "source",
+      "example": "Il faut citer la source.",
+      "translation": "The source must be cited.",
+      "tag": "media"
+    },
+    {
+      "fr": "le témoignage",
+      "en": "testimony",
+      "example": "Ce témoignage décrit une expérience personnelle.",
+      "translation": "This testimony describes a personal experience.",
+      "tag": "media"
+    },
+    {
+      "fr": "l'enquête (f.)",
+      "en": "investigation",
+      "example": "L'enquête a duré plusieurs mois.",
+      "translation": "The investigation lasted several months.",
+      "tag": "media"
+    },
+    {
+      "fr": "le reportage",
+      "en": "news report",
+      "example": "Le reportage présente deux points de vue.",
+      "translation": "The news report presents two viewpoints.",
+      "tag": "media"
+    },
+    {
+      "fr": "l'article (m.)",
+      "en": "article",
+      "example": "Cet article distingue les faits des opinions.",
+      "translation": "This article distinguishes facts from opinions.",
+      "tag": "media"
+    },
+    {
+      "fr": "le titre",
+      "en": "headline",
+      "example": "Le titre simplifie le contenu.",
+      "translation": "The headline simplifies the content.",
+      "tag": "media"
+    },
+    {
+      "fr": "la rédaction",
+      "en": "editorial team",
+      "example": "La rédaction a publié un correctif.",
+      "translation": "The editorial team published a correction.",
+      "tag": "media"
+    },
+    {
+      "fr": "le journaliste / la journaliste",
+      "en": "journalist",
+      "example": "La journaliste vérifie les chiffres.",
+      "translation": "The journalist checks the figures.",
+      "tag": "media"
+    },
+    {
+      "fr": "l'éditorial (m.)",
+      "en": "editorial",
+      "example": "Cet éditorial défend une position.",
+      "translation": "This editorial defends a position.",
+      "tag": "media"
+    },
+    {
+      "fr": "la rumeur",
+      "en": "rumor",
+      "example": "Cette rumeur n'est pas confirmée.",
+      "translation": "This rumor is unconfirmed.",
+      "tag": "media"
+    },
+    {
+      "fr": "le démenti",
+      "en": "denial",
+      "example": "Le porte-parole a publié un démenti.",
+      "translation": "The spokesperson issued a denial.",
+      "tag": "media"
+    },
+    {
+      "fr": "la vérification",
+      "en": "fact checking",
+      "example": "La vérification prend du temps.",
+      "translation": "Fact checking takes time.",
+      "tag": "media"
+    },
+    {
+      "fr": "la désinformation",
+      "en": "disinformation",
+      "example": "La désinformation peut se diffuser rapidement.",
+      "translation": "Disinformation can spread quickly.",
+      "tag": "media"
+    },
+    {
+      "fr": "la diffusion",
+      "en": "broadcasting",
+      "example": "La diffusion commence ce soir.",
+      "translation": "Broadcasting begins this evening.",
+      "tag": "media"
+    },
+    {
+      "fr": "l'abonné / l'abonnée",
+      "en": "subscriber",
+      "example": "Les abonnés reçoivent une lettre.",
+      "translation": "Subscribers receive a newsletter.",
+      "tag": "media"
+    },
+    {
+      "fr": "la citation",
+      "en": "quotation",
+      "example": "Cette citation est exacte.",
+      "translation": "This quotation is exact.",
+      "tag": "media"
+    },
+    {
+      "fr": "la paraphrase",
+      "en": "paraphrase",
+      "example": "Une paraphrase doit respecter le sens.",
+      "translation": "A paraphrase must preserve the meaning.",
+      "tag": "media"
+    },
+    {
+      "fr": "la couverture médiatique",
+      "en": "media coverage",
+      "example": "La couverture médiatique reste inégale.",
+      "translation": "Media coverage remains uneven.",
+      "tag": "media"
+    },
+    {
+      "fr": "l'argument (m.)",
+      "en": "argument",
+      "example": "Cet argument repose sur une hypothèse.",
+      "translation": "This argument rests on a hypothesis.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la prise de position",
+      "en": "statement of a position",
+      "example": "Sa prise de position est claire.",
+      "translation": "Her statement of a position is clear.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "l'objection (f.)",
+      "en": "objection",
+      "example": "Cette objection mérite une réponse.",
+      "translation": "This objection deserves an answer.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la concession",
+      "en": "concession",
+      "example": "Cette concession ne supprime pas le problème.",
+      "translation": "This concession does not remove the problem.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la nuance",
+      "en": "nuance",
+      "example": "Il ajoute une nuance importante.",
+      "translation": "He adds an important nuance.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la réserve",
+      "en": "reservation",
+      "example": "Elle exprime une réserve sur le coût.",
+      "translation": "She expresses a reservation about the cost.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la conclusion",
+      "en": "conclusion",
+      "example": "La conclusion doit suivre les raisons.",
+      "translation": "The conclusion must follow the reasons.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "le constat",
+      "en": "observation of a fact",
+      "example": "Ce constat ne prouve pas la cause.",
+      "translation": "This factual observation does not prove the cause.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "l'interprétation (f.)",
+      "en": "interpretation",
+      "example": "Plusieurs interprétations sont possibles.",
+      "translation": "Several interpretations are possible.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "le point de vue",
+      "en": "viewpoint",
+      "example": "Je comprends votre point de vue.",
+      "translation": "I understand your viewpoint.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "l'enjeu (m.)",
+      "en": "issue at stake",
+      "example": "L'accès est un enjeu essentiel.",
+      "translation": "Access is a central issue at stake.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "le critère",
+      "en": "criterion",
+      "example": "Ce critère est trop vague.",
+      "translation": "This criterion is too vague.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "l'indicateur (m.)",
+      "en": "indicator",
+      "example": "Quel indicateur faut-il retenir ?",
+      "translation": "Which indicator should be selected?",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la comparaison",
+      "en": "comparison",
+      "example": "La comparaison exige des données similaires.",
+      "translation": "The comparison requires similar data.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "le lien",
+      "en": "link",
+      "example": "Le lien entre ces faits reste incertain.",
+      "translation": "The link between these facts remains uncertain.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la portée",
+      "en": "scope of implications",
+      "example": "La portée de l'étude est limitée.",
+      "translation": "The scope of the study's implications is limited.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la cohérence",
+      "en": "coherence",
+      "example": "La cohérence du raisonnement est importante.",
+      "translation": "The coherence of the reasoning is important.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la pertinence",
+      "en": "relevance",
+      "example": "La pertinence de cet exemple est discutable.",
+      "translation": "The relevance of this example is debatable.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "la contradiction",
+      "en": "contradiction",
+      "example": "Il existe une contradiction entre ces phrases.",
+      "translation": "There is a contradiction between these sentences.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "le paradoxe",
+      "en": "paradox",
+      "example": "Ce paradoxe demande une explication.",
+      "translation": "This paradox requires an explanation.",
+      "tag": "reasoning"
+    },
+    {
+      "fr": "soutenir",
+      "en": "maintain an argument",
+      "example": "Elle soutient que le projet est utile.",
+      "translation": "She maintains that the project is useful.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "affirmer",
+      "en": "assert",
+      "example": "Il affirme avoir vérifié les chiffres.",
+      "translation": "He asserts that he checked the figures.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "préciser",
+      "en": "specify",
+      "example": "La responsable précise les conditions.",
+      "translation": "The manager specifies the conditions.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "souligner",
+      "en": "emphasize",
+      "example": "Je voudrais souligner cette différence.",
+      "translation": "I would like to emphasize this difference.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "reconnaître",
+      "en": "acknowledge",
+      "example": "Il reconnaît les limites de l'étude.",
+      "translation": "He acknowledges the study's limitations.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "contester",
+      "en": "challenge",
+      "example": "Elle conteste cette interprétation.",
+      "translation": "She challenges this interpretation.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "remettre en cause",
+      "en": "call into question",
+      "example": "Ces résultats remettent la conclusion en cause.",
+      "translation": "These results call the conclusion into question.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "nuancer",
+      "en": "qualify a statement",
+      "example": "Il faut nuancer cette affirmation.",
+      "translation": "This assertion needs to be qualified.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "justifier",
+      "en": "justify",
+      "example": "Comment justifier cette dépense ?",
+      "translation": "How can this expenditure be justified?",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "étayer",
+      "en": "support with evidence",
+      "example": "Cet exemple étaye son argument.",
+      "translation": "This example supports her argument.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "réfuter",
+      "en": "refute",
+      "example": "Le texte tente de réfuter l'objection.",
+      "translation": "The text attempts to refute the objection.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "admettre",
+      "en": "concede",
+      "example": "J'admets que le coût est élevé.",
+      "translation": "I concede that the cost is high.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "prévoir",
+      "en": "anticipate",
+      "example": "Il faut prévoir une période d'essai.",
+      "translation": "A trial period needs to be planned.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "évaluer",
+      "en": "assess",
+      "example": "Nous évaluerons les effets du projet.",
+      "translation": "We will assess the project's effects.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "financer",
+      "en": "fund",
+      "example": "Qui financera cette mesure ?",
+      "translation": "Who will fund this measure?",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "consulter",
+      "en": "consult",
+      "example": "La ville consultera les habitants.",
+      "translation": "The city will consult residents.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "adopter",
+      "en": "adopt a proposal",
+      "example": "Le conseil a adopté la proposition.",
+      "translation": "The council adopted the proposal.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "rejeter",
+      "en": "reject",
+      "example": "Le comité a rejeté la demande.",
+      "translation": "The committee rejected the request.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "mettre en œuvre",
+      "en": "implement",
+      "example": "La mesure sera mise en œuvre en juin.",
+      "translation": "The measure will be implemented in June.",
+      "tag": "argument-verbs"
+    },
+    {
+      "fr": "rendre compte de",
+      "en": "give an account of",
+      "example": "Ce résumé rend compte du débat.",
+      "translation": "This summary gives an account of the debate.",
+      "tag": "argument-verbs"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Bien que la proposition soit utile, son coût reste incertain.",
+      "en": "Although the proposal is useful, its cost remains uncertain.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Bien que takes subjunctive."
+    },
+    {
+      "fr": "Puisque vous avez déjà le rapport, nous pouvons commencer.",
+      "en": "Since you already have the report, we can begin.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Puisque presents a reason as accepted."
+    },
+    {
+      "fr": "Ils ont changé les horaires pour que tout le monde puisse participer.",
+      "en": "They changed the schedule so that everyone could participate.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Purpose with a different subject uses subjunctive."
+    },
+    {
+      "fr": "Elle a dit qu'elle avait envoyé les documents.",
+      "en": "She said that she had sent the documents.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Sending precedes the past statement."
+    },
+    {
+      "fr": "Il a dit qu'il répondrait le lendemain.",
+      "en": "He said that he would answer the next day.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional marks future relative to a past statement."
+    },
+    {
+      "fr": "Après avoir lu l'article, j'ai changé d'avis.",
+      "en": "After reading the article, I changed my opinion.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Past infinitive has the same subject as the main clause."
+    },
+    {
+      "fr": "Les lettres qu'ils se sont envoyées sont longues.",
+      "en": "The letters that they sent each other are long.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Envoyées agrees with preceding direct object que, representing lettres."
+    },
+    {
+      "fr": "Ils se sont parlé hier.",
+      "en": "They spoke to each other yesterday.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Parler à is indirect, so parlé is invariable here."
+    },
+    {
+      "fr": "Elles se sont lavé les mains.",
+      "en": "They washed their hands.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Following direct object les mains means no agreement on lavé."
+    },
+    {
+      "fr": "La réunion ne durera qu'une heure.",
+      "en": "The meeting will last only one hour.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne...que expresses restriction."
+    },
+    {
+      "fr": "Il n'y a pas que le prix à considérer.",
+      "en": "Price is not the only thing to consider.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne...pas que means not only."
+    },
+    {
+      "fr": "Je crains que le projet ne soit retardé.",
+      "en": "I fear that the project will be delayed.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Expletive ne does not negate the feared delay."
+    },
+    {
+      "fr": "Elle est plus compétente que je ne le pensais.",
+      "en": "She is more competent than I thought.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne in the comparison is expletive."
+    },
+    {
+      "fr": "Le comité aurait accepté la proposition.",
+      "en": "The committee reportedly accepted the proposal.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional can signal unconfirmed reporting in context."
+    },
+    {
+      "fr": "Je voudrais savoir si les candidatures ont été examinées.",
+      "en": "I would like to know whether the applications have been examined.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Indirect question with statement order; passive agreement."
+    },
+    {
+      "fr": "Le comité a-t-il reçu le rapport ?",
+      "en": "Has the committee received the report?",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Formal question repeats the noun subject with il and links with t."
+    },
+    {
+      "fr": "Les informations que j'ai reçues sont utiles.",
+      "en": "The information that I received is useful.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Preceding feminine plural direct object controls reçues."
+    },
+    {
+      "fr": "Nous limiterons la durée pour ne pas fatiguer les participants.",
+      "en": "We will limit the duration so as not to tire the participants.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Negative purpose infinitive."
+    },
+    {
+      "fr": "Le bâtiment est fermé; la réunion aura donc lieu en ligne.",
+      "en": "The building is closed, so the meeting will take place online.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Donc marks a consequence."
+    },
+    {
+      "fr": "Malgré son coût, cette mesure pourrait être utile.",
+      "en": "Despite its cost, this measure could be useful.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Malgré takes a noun phrase; conditional expresses a possible benefit."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Complete a concession: Bien que le coût ___ élevé, la mesure est utile.",
+      "options": [
+        "est",
+        "sera",
+        "soit",
+        "était"
+      ],
+      "answer": 2,
+      "explanation": "Bien que takes the subjunctive in standard production."
+    },
+    {
+      "prompt": "Complete an ordinary factual even-though clause: Même si le coût ___ élevé, la mesure est utile.",
+      "options": [
+        "soit",
+        "est",
+        "être",
+        "été"
+      ],
+      "answer": 1,
+      "explanation": "Même si takes indicative, unlike bien que."
+    },
+    {
+      "prompt": "Choose the noun-phrase cause.",
+      "options": [
+        "en raison des travaux",
+        "parce que des travaux",
+        "puisque des travaux",
+        "comme des travaux a"
+      ],
+      "answer": 0,
+      "explanation": "En raison de takes a noun phrase, with de plus les becoming des."
+    },
+    {
+      "prompt": "Choose the purpose clause.",
+      "options": [
+        "pour que chacun peut participer",
+        "pour que chacun puisse participer",
+        "pour que chacun pouvoir participer",
+        "pour que chacun pourra participer"
+      ],
+      "answer": 1,
+      "explanation": "Purpose pour que takes subjunctive puisse."
+    },
+    {
+      "prompt": "Report a prior action: Elle a dit: J'ai envoyé le dossier. Elle a dit qu'elle ___ le dossier.",
+      "options": [
+        "enverra",
+        "avait envoyé",
+        "envoie",
+        "envoyer"
+      ],
+      "answer": 1,
+      "explanation": "Plus-que-parfait marks sending before a past reporting moment."
+    },
+    {
+      "prompt": "Report a later action: Elle a dit: Je viendrai. Elle a dit qu'elle ___.",
+      "options": [
+        "viendrait",
+        "était venue",
+        "vient",
+        "vienne"
+      ],
+      "answer": 0,
+      "explanation": "Conditional present can express future-in-the-past."
+    },
+    {
+      "prompt": "Choose a clear past-infinitive sentence.",
+      "options": [
+        "Après avoir lu, les conclusions sont fragiles.",
+        "Après avoir lu le rapport, j'ai posé une question.",
+        "Après avoir lire, j'ai posé une question.",
+        "Après être lu le rapport, j'ai posé une question."
+      ],
+      "answer": 1,
+      "explanation": "The reader and questioner share the subject; lire takes avoir."
+    },
+    {
+      "prompt": "Complete agreement: Les lettres que j'ai ___.",
+      "options": [
+        "reçu",
+        "reçus",
+        "reçues",
+        "recevoir"
+      ],
+      "answer": 2,
+      "explanation": "Preceding direct object que represents feminine plural lettres."
+    },
+    {
+      "prompt": "Choose the agreement for reciprocal parler.",
+      "options": [
+        "Elles se sont parlées.",
+        "Elles se sont parlé.",
+        "Elles se sont parlés.",
+        "Elles se sont parler."
+      ],
+      "answer": 1,
+      "explanation": "Parler à makes se an indirect complement; no direct object controls agreement."
+    },
+    {
+      "prompt": "Complete: Elles se sont ___ les mains.",
+      "options": [
+        "lavées",
+        "lavés",
+        "lavé",
+        "laver"
+      ],
+      "answer": 2,
+      "explanation": "Les mains is a following direct object; se is indirect here."
+    },
+    {
+      "prompt": "Complete: Les lettres qu'elles se sont ___ sont longues.",
+      "options": [
+        "écrit",
+        "écrits",
+        "écrites",
+        "écrire"
+      ],
+      "answer": 2,
+      "explanation": "Preceding direct object que represents feminine plural letters."
+    },
+    {
+      "prompt": "Translate only one hour.",
+      "options": [
+        "ne...pas une heure",
+        "ne...jamais une heure",
+        "ne...qu'une heure",
+        "ne...plus une heure"
+      ],
+      "answer": 2,
+      "explanation": "Ne...que expresses restriction, meaning only."
+    },
+    {
+      "prompt": "Interpret Je crains qu'il ne pleuve with expletive ne.",
+      "options": [
+        "I fear that it will rain.",
+        "I fear that it will not rain.",
+        "I do not fear rain.",
+        "It never rains."
+      ],
+      "answer": 0,
+      "explanation": "Expletive ne is not a negative; ne...pas would negate the event."
+    },
+    {
+      "prompt": "Choose the formal direct question.",
+      "options": [
+        "Le comité a-t-il reçu le rapport ?",
+        "Le comité a-il reçu le rapport ?",
+        "Le comité a-t-reçu il le rapport ?",
+        "Le comité a reçu-t-il le rapport ?"
+      ],
+      "answer": 0,
+      "explanation": "A noun subject is repeated by il; vowel-ending a needs linking t."
+    },
+    {
+      "prompt": "Choose an indirect question.",
+      "options": [
+        "Je demande où habitez-vous.",
+        "Je demande où vous habitez.",
+        "Je demande où est-ce que vous habitez.",
+        "Je demande où vous habiter."
+      ],
+      "answer": 1,
+      "explanation": "Indirect questions use statement order, without inversion or est-ce que."
+    }
+  ]
+}

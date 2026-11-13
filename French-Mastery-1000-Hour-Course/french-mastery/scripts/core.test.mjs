@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {normalize,judge,shuffle,makeDeck,scheduleReview,vocabularyAnswers} from '../src/scripts/core.mjs';
+test('Equivalent apostrophes, case, punctuation and whitespace do not cause a false mismatch',()=>{assert.equal(judge('  J\'AI un livre! ',['J’ai un livre.']).exact,true);});
+test('Accent loss is identified separately from a correct reference match',()=>{assert.deepEqual(judge('Ou est la gare',['Où est la gare ?']),{exact:false,near:true,kind:'accent'});});
+test('Different tense and negative meanings are not accepted',()=>{assert.equal(judge('Je ne suis pas ici',['Je suis ici']).kind,'compare');assert.equal(judge('Elle viendra',['Elle vient']).exact,false);});
+test('Explicit authored alternatives can match',()=>assert.equal(judge('Est-ce que vous parlez anglais',['Vous parlez anglais ?','Est-ce que vous parlez anglais ?']).exact,true));
+test('Review failure returns soon and resets the streak',()=>{const r=scheduleReview({streak:4,attempts:8,correct:6},false,1000);assert.equal(r.due,601000);assert.equal(r.streak,0);assert.equal(r.correct,6);});
+test('Review successes increase intervals without mutating prior state',()=>{const p={streak:1,attempts:2,correct:1};const r=scheduleReview(p,true,0);assert.equal(r.due,3*86400000);assert.equal(r.attempts,3);assert.equal(p.streak,1);});
+test('Deck identity separates directions and skills',()=>{const c=[{chapter:2,vocab:[{fr:'le pain',en:'bread'}],sentences:[{fr:'Bonjour.',en:'Hello.'}],grammar:[{prompt:'x',options:['a','b'],answer:0}]}];assert.notEqual(makeDeck(c,'en-fr')[0].id,makeDeck(c,'fr-en')[0].id);assert.equal(makeDeck(c,'grammar')[0].type,'grammar');assert.equal(makeDeck(c,'vocab-en-fr')[0].fr,'le pain');});
+test('Shuffle preserves the bank and every item',()=>{const a=[1,2,3,4];const b=shuffle(a,()=>0);assert.deepEqual(a,[1,2,3,4]);assert.deepEqual([...b].sort(),a);});
+test('Vocabulary accepts a listed sense or gender form without metadata',()=>{assert.equal(judge('coffee',vocabularyAnswers({en:'café; coffee'},false)).exact,true);assert.equal(judge('petite',vocabularyAnswers({fr:'petit / petite'},true)).exact,true);assert.equal(judge('l’ami',vocabularyAnswers({fr:'l’ami (m.)'},true)).exact,true);});

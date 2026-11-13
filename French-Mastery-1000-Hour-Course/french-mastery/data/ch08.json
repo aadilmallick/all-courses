@@ -1,0 +1,1108 @@
+{
+  "chapter": 8,
+  "level": "B2",
+  "title": "Register, cohesion, and literary reading",
+  "units": [
+    {
+      "title": "Register in three settings",
+      "outcome": "Adapt a message to audience and purpose.",
+      "tasks": [
+        "Rewrite the cancellation message for three audiences.",
+        "Explain two changes in politeness and information order.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Recognizing spoken reductions",
+      "outcome": "Identify reductions without confusing speech and edited writing.",
+      "tasks": [
+        "Transcribe conversational reductions from two extracts.",
+        "Compare what was heard with a reliable transcript.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Emphasis and clefts",
+      "outcome": "Highlight the intended element using correct relatives.",
+      "tasks": [
+        "Build ten clefts from neutral statements.",
+        "Name the implicit question answered by each cleft.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Reference and dislocation",
+      "outcome": "Maintain recoverable reference across a paragraph.",
+      "tasks": [
+        "Repair ambiguous pronouns in a paragraph.",
+        "Trace each demonstrative back to one intended idea.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Nominalization and agents",
+      "outcome": "Compress and unpack claims without hiding responsibility.",
+      "tasks": [
+        "Nominalize and unpack ten claims.",
+        "Check whether agents and causal strength were preserved.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Negation and scope",
+      "outcome": "Preserve scope in restrictions and negative statements.",
+      "tasks": [
+        "Contrast negatives and restrictions in twelve sentences.",
+        "Explain the scope of only in each translation.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Families and collocations",
+      "outcome": "Learn vocabulary with constructions and usage notes.",
+      "tasks": [
+        "Collect thirty collocations from sustained reading.",
+        "Record constructions, register, and a contrasting item.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Literary past narration",
+      "outcome": "Distinguish narrative events from background.",
+      "tasks": [
+        "Convert literary narration into an oral account.",
+        "Keep completed events distinct from background.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "Older subjunctive recognition",
+      "outcome": "Paraphrase literary subjunctives into current French.",
+      "tasks": [
+        "Paraphrase ten older subjunctive forms.",
+        "Explain anteriority and literary register.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    },
+    {
+      "title": "The station transformation project",
+      "outcome": "Defend a coherent proposal with a genuine reservation.",
+      "tasks": [
+        "Write a proposal for a vacant public building.",
+        "Present it and respond to an objection.",
+        "Time allocation: 2h close study, 2h reading/vocabulary, 2h listening, 2h writing/translation, 1h speaking, 1h review."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le registre",
+      "en": "register",
+      "example": "Le registre est formel.",
+      "translation": "The register is formal.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la nuance",
+      "en": "nuance",
+      "example": "Cette nuance compte.",
+      "translation": "This nuance matters.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la cohésion",
+      "en": "cohesion",
+      "example": "La cohésion reste fragile.",
+      "translation": "Cohesion remains fragile.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'énoncé",
+      "en": "statement",
+      "example": "Cet énoncé est ambigu.",
+      "translation": "This statement is ambiguous.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'interlocuteur",
+      "en": "interlocutor",
+      "example": "Mon interlocuteur hésite.",
+      "translation": "The person I am speaking to hesitates.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le destinataire",
+      "en": "recipient",
+      "example": "Le destinataire répondra demain.",
+      "translation": "The recipient will reply tomorrow.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le tutoiement",
+      "en": "use of tu",
+      "example": "Le tutoiement est courant ici.",
+      "translation": "Using tu is common here.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le vouvoiement",
+      "en": "use of vous",
+      "example": "Le vouvoiement marque une distance.",
+      "translation": "Using vous marks distance.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la familiarité",
+      "en": "familiarity",
+      "example": "Cette familiarité me surprend.",
+      "translation": "This familiarity surprises me.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la politesse",
+      "en": "politeness",
+      "example": "La politesse facilite l'échange.",
+      "translation": "Politeness helps the exchange.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "mettre en relief",
+      "en": "to emphasize",
+      "example": "Ce contraste met le risque en relief.",
+      "translation": "This contrast emphasizes the risk.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "insister sur",
+      "en": "to stress",
+      "example": "Elle insiste sur ce point.",
+      "translation": "She stresses this point.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "atténuer",
+      "en": "to soften",
+      "example": "Ce mot atténue la critique.",
+      "translation": "This word softens the criticism.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "reformuler",
+      "en": "to rephrase",
+      "example": "Je vais reformuler ma question.",
+      "translation": "I will rephrase my question.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "expliciter",
+      "en": "to make explicit",
+      "example": "Il faut expliciter le lien.",
+      "translation": "We must make the connection explicit.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "sous-entendre",
+      "en": "to imply",
+      "example": "Que sous-entendez-vous ?",
+      "translation": "What are you implying?",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le sous-entendu",
+      "en": "implied remark",
+      "example": "Ce propos contient un sous-entendu.",
+      "translation": "This remark contains an implication.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la mise en relief",
+      "en": "emphasis",
+      "example": "La mise en relief est utile.",
+      "translation": "Emphasis is useful.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la reprise",
+      "en": "resumption",
+      "example": "La reprise du nom évite l'ambiguïté.",
+      "translation": "Repeating the noun avoids ambiguity.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'antécédent",
+      "en": "antecedent",
+      "example": "L'antécédent reste identifiable.",
+      "translation": "The antecedent remains identifiable.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le renvoi",
+      "en": "reference back",
+      "example": "Ce renvoi est peu clair.",
+      "translation": "This reference back is unclear.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'ambiguïté",
+      "en": "ambiguity",
+      "example": "Il faut lever l'ambiguïté.",
+      "translation": "We must remove the ambiguity.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la portée",
+      "en": "scope",
+      "example": "La portée de « seulement » change.",
+      "translation": "The scope of only changes.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la restriction",
+      "en": "restriction",
+      "example": "Cette restriction est importante.",
+      "translation": "This restriction is important.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la concession",
+      "en": "concession",
+      "example": "La concession nuance l'argument.",
+      "translation": "The concession qualifies the argument.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la réserve",
+      "en": "reservation",
+      "example": "J'émets une réserve.",
+      "translation": "I have a reservation.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la tournure",
+      "en": "turn of phrase",
+      "example": "Cette tournure est naturelle.",
+      "translation": "This turn of phrase is natural.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la formulation",
+      "en": "wording",
+      "example": "La formulation reste vague.",
+      "translation": "The wording remains vague.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le propos",
+      "en": "remark",
+      "example": "Son propos est mesuré.",
+      "translation": "Her remark is measured.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le ton",
+      "en": "tone",
+      "example": "Le ton devient ironique.",
+      "translation": "The tone becomes ironic.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "néanmoins",
+      "en": "nevertheless",
+      "example": "Le projet reste néanmoins utile.",
+      "translation": "The project nevertheless remains useful.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "toutefois",
+      "en": "however",
+      "example": "Une réserve demeure toutefois.",
+      "translation": "One reservation remains, however.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "en revanche",
+      "en": "by contrast",
+      "example": "Le délai est court ; le coût, en revanche, reste élevé.",
+      "translation": "The time frame is short; the cost, by contrast, remains high.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "d'ailleurs",
+      "en": "besides",
+      "example": "Elle a d'ailleurs déjà répondu.",
+      "translation": "Besides, she has already replied.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "en somme",
+      "en": "all in all",
+      "example": "En somme, le bilan est positif.",
+      "translation": "All in all, the outcome is positive.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "autrement dit",
+      "en": "in other words",
+      "example": "Autrement dit, il faut attendre.",
+      "translation": "In other words, we must wait.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "à vrai dire",
+      "en": "to tell the truth",
+      "example": "À vrai dire, j'hésite.",
+      "translation": "To tell the truth, I am unsure.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "quant à",
+      "en": "as for",
+      "example": "Quant au budget, il reste stable.",
+      "translation": "As for the budget, it remains stable.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "à cet égard",
+      "en": "in this respect",
+      "example": "À cet égard, elle a raison.",
+      "translation": "In this respect, she is right.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "encore faut-il que",
+      "en": "it is still necessary that",
+      "example": "Encore faut-il que chacun participe.",
+      "translation": "Everyone still needs to participate.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'effacement",
+      "en": "erasure",
+      "example": "Elle redoute l'effacement du passé.",
+      "translation": "She fears the erasure of the past.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la mémoire",
+      "en": "memory",
+      "example": "La mémoire du lieu demeure.",
+      "translation": "The memory of the place remains.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le souvenir",
+      "en": "memory of an event",
+      "example": "Ce souvenir me revient.",
+      "translation": "This memory comes back to me.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le patrimoine",
+      "en": "heritage",
+      "example": "Le patrimoine mérite une protection.",
+      "translation": "Heritage deserves protection.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le récit",
+      "en": "narrative",
+      "example": "Le récit avance rapidement.",
+      "translation": "The narrative moves quickly.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le narrateur",
+      "en": "narrator",
+      "example": "Le narrateur connaît la suite.",
+      "translation": "The narrator knows what follows.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le point de vue",
+      "en": "point of view",
+      "example": "Le point de vue change.",
+      "translation": "The point of view changes.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'intrigue",
+      "en": "plot",
+      "example": "L'intrigue devient complexe.",
+      "translation": "The plot becomes complex.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le dénouement",
+      "en": "resolution of a plot",
+      "example": "Le dénouement surprend le lecteur.",
+      "translation": "The ending surprises the reader.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la vraisemblance",
+      "en": "plausibility",
+      "example": "La vraisemblance importe ici.",
+      "translation": "Plausibility matters here.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "apparaître",
+      "en": "to appear",
+      "example": "Une silhouette apparut.",
+      "translation": "A figure appeared.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "apercevoir",
+      "en": "to catch sight of",
+      "example": "Elle aperçut la gare.",
+      "translation": "She caught sight of the station.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "surgir",
+      "en": "to emerge suddenly",
+      "example": "Un souvenir surgit.",
+      "translation": "A memory suddenly emerged.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "s'effacer",
+      "en": "to fade away",
+      "example": "Le bruit s'efface peu à peu.",
+      "translation": "The noise gradually fades away.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "se souvenir de",
+      "en": "to remember",
+      "example": "Je me souviens de ce lieu.",
+      "translation": "I remember this place.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "évoquer",
+      "en": "to evoke",
+      "example": "Cette odeur évoque l'été.",
+      "translation": "This smell evokes summer.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "recueillir",
+      "en": "to collect",
+      "example": "Nous recueillons des témoignages.",
+      "translation": "We collect accounts.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "témoigner de",
+      "en": "to bear witness to",
+      "example": "Ces lettres témoignent de son engagement.",
+      "translation": "These letters bear witness to her commitment.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "préserver",
+      "en": "to preserve",
+      "example": "Il faut préserver ce lieu.",
+      "translation": "We must preserve this place.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "transformer",
+      "en": "to transform",
+      "example": "Le projet transforme le quartier.",
+      "translation": "The project transforms the neighborhood.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la nominalisation",
+      "en": "nominalization",
+      "example": "La nominalisation condense la phrase.",
+      "translation": "Nominalization compresses the sentence.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la réduction",
+      "en": "reduction",
+      "example": "La réduction des tarifs aide les familles.",
+      "translation": "The fare reduction helps families.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la hausse",
+      "en": "rise",
+      "example": "La hausse des prix continue.",
+      "translation": "The rise in prices continues.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la mise en œuvre",
+      "en": "implementation",
+      "example": "La mise en œuvre demande du temps.",
+      "translation": "Implementation takes time.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'attribution",
+      "en": "attribution",
+      "example": "L'attribution du propos est claire.",
+      "translation": "The attribution of the statement is clear.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la responsabilité",
+      "en": "responsibility",
+      "example": "La responsabilité doit être précisée.",
+      "translation": "Responsibility must be specified.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le flou",
+      "en": "vagueness",
+      "example": "Le flou gêne la lecture.",
+      "translation": "Vagueness impedes reading.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la concision",
+      "en": "concision",
+      "example": "La concision facilite la lecture.",
+      "translation": "Concision makes reading easier.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la lourdeur",
+      "en": "heaviness of style",
+      "example": "Cette lourdeur nuit au texte.",
+      "translation": "This heaviness harms the text.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la clarté",
+      "en": "clarity",
+      "example": "La clarté exige un effort.",
+      "translation": "Clarity requires effort.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "sensible",
+      "en": "sensitive",
+      "example": "Elle est sensible à cette critique.",
+      "translation": "She is sensitive to this criticism.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "sensé",
+      "en": "sensible",
+      "example": "Ce choix paraît sensé.",
+      "translation": "This choice seems sensible.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "actuellement",
+      "en": "currently",
+      "example": "Le centre est actuellement fermé.",
+      "translation": "The center is currently closed.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "éventuellement",
+      "en": "possibly",
+      "example": "Nous pourrons éventuellement reporter la réunion.",
+      "translation": "We may possibly postpone the meeting.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "finalement",
+      "en": "ultimately",
+      "example": "Elle a finalement accepté.",
+      "translation": "She ultimately agreed.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "une librairie",
+      "en": "bookshop",
+      "example": "La librairie ouvre demain.",
+      "translation": "The bookshop opens tomorrow.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "une bibliothèque",
+      "en": "library",
+      "example": "La bibliothèque ferme tard.",
+      "translation": "The library closes late.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "assister à",
+      "en": "to attend",
+      "example": "J'assiste à la conférence.",
+      "translation": "I am attending the lecture.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "réaliser",
+      "en": "to carry out",
+      "example": "Nous réalisons une enquête.",
+      "translation": "We are carrying out a survey.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "se rendre compte de",
+      "en": "to realize",
+      "example": "Elle se rend compte du risque.",
+      "translation": "She realizes the risk.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "prendre une décision",
+      "en": "to make a decision",
+      "example": "Il faut prendre une décision.",
+      "translation": "We must make a decision.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "mener une enquête",
+      "en": "to conduct a survey",
+      "example": "Ils mènent une enquête locale.",
+      "translation": "They are conducting a local survey.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "tirer une conclusion",
+      "en": "to draw a conclusion",
+      "example": "On peut tirer une conclusion prudente.",
+      "translation": "We can draw a cautious conclusion.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "porter atteinte à",
+      "en": "to infringe",
+      "example": "Cette règle porte atteinte à un droit.",
+      "translation": "This rule infringes a right.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "revenir sur",
+      "en": "to reconsider",
+      "example": "Elle revient sur sa décision.",
+      "translation": "She is reconsidering her decision.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "mettre la main à la pâte",
+      "en": "to lend a hand",
+      "example": "Chacun met la main à la pâte.",
+      "translation": "Everyone lends a hand.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "avoir du pain sur la planche",
+      "en": "to have plenty of work ahead",
+      "example": "Nous avons du pain sur la planche.",
+      "translation": "We have plenty of work ahead.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "faire le point",
+      "en": "to review the situation",
+      "example": "Faisons le point demain.",
+      "translation": "Let us review the situation tomorrow.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "aller de soi",
+      "en": "to go without saying",
+      "example": "Cela ne va pas de soi.",
+      "translation": "That does not go without saying.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "prendre du recul",
+      "en": "to gain perspective",
+      "example": "Elle prend du recul.",
+      "translation": "She is gaining perspective.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la phrase clivée",
+      "en": "cleft sentence",
+      "example": "La phrase clivée souligne le sujet.",
+      "translation": "The cleft sentence emphasizes the subject.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la dislocation",
+      "en": "dislocation",
+      "example": "La dislocation annonce le thème.",
+      "translation": "Dislocation introduces the topic.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'anaphore",
+      "en": "anaphora",
+      "example": "L'anaphore reprend une idée.",
+      "translation": "Anaphora refers back to an idea.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le passé simple",
+      "en": "literary simple past",
+      "example": "Le passé simple fait avancer le récit.",
+      "translation": "The literary simple past advances the narrative.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le passé antérieur",
+      "en": "literary past anterior",
+      "example": "Le passé antérieur marque l'antériorité.",
+      "translation": "The literary past anterior marks prior completion.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "l'imparfait du subjonctif",
+      "en": "imperfect subjunctive",
+      "example": "L'imparfait du subjonctif est littéraire ici.",
+      "translation": "The imperfect subjunctive is literary here.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la paraphrase",
+      "en": "paraphrase",
+      "example": "La paraphrase conserve le sens.",
+      "translation": "The paraphrase preserves the meaning.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "la collocation",
+      "en": "collocation",
+      "example": "Cette collocation est fréquente.",
+      "translation": "This collocation is frequent.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le contexte",
+      "en": "context",
+      "example": "Le contexte précise le sens.",
+      "translation": "Context clarifies the meaning.",
+      "tag": "register-literature"
+    },
+    {
+      "fr": "le champ lexical",
+      "en": "semantic field",
+      "example": "Le champ lexical évoque la mémoire.",
+      "translation": "The semantic field evokes memory.",
+      "tag": "register-literature"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "C'est Léa qui a envoyé le rapport.",
+      "en": "It is Léa who sent the report.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The highlighted noun is the subject of envoyer, so qui is required."
+    },
+    {
+      "fr": "C'est le rapport que Léa a envoyé.",
+      "en": "It is the report that Léa sent.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The highlighted element is the direct object, so que is required."
+    },
+    {
+      "fr": "C'est moi qui ai proposé cette solution.",
+      "en": "It is I who proposed this solution.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The relative verb agrees with first-person moi: ai."
+    },
+    {
+      "fr": "Ce qui m'inquiète, c'est le délai.",
+      "en": "What worries me is the deadline.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ce qui is the subject of inquiète."
+    },
+    {
+      "fr": "Ce dont nous avons besoin, c'est de temps.",
+      "en": "What we need is time.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Avoir besoin de requires dont in this relative construction."
+    },
+    {
+      "fr": "Cette question, j'y ai déjà réfléchi.",
+      "en": "I have already thought about this question.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Réfléchir à is represented by y."
+    },
+    {
+      "fr": "Cette proposition, nous l'avons étudiée.",
+      "en": "We have studied this proposal.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The preceding direct object is feminine singular, hence étudiée."
+    },
+    {
+      "fr": "Je n'ai lu que l'introduction.",
+      "en": "I have only read the introduction.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne...que restricts the object; it does not deny reading."
+    },
+    {
+      "fr": "Personne ne nous a rien dit.",
+      "en": "Nobody told us anything.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Personne and rien combine in ordinary negative French."
+    },
+    {
+      "fr": "Une tout autre explication est possible.",
+      "en": "An entirely different explanation is possible.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Tout modifies autre adverbially here."
+    },
+    {
+      "fr": "Toute autre réponse serait prématurée.",
+      "en": "Any other answer would be premature.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Toute determines the feminine noun réponse."
+    },
+    {
+      "fr": "La réduction des tarifs a favorisé la participation.",
+      "en": "The reduction in prices encouraged participation.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Nominalization packages an action as a noun phrase."
+    },
+    {
+      "fr": "Cette hypothèse reste néanmoins fragile.",
+      "en": "This hypothesis nevertheless remains weak.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Néanmoins introduces a qualification or contrast."
+    },
+    {
+      "fr": "Elle aperçut la gare et ralentit.",
+      "en": "She caught sight of the station and slowed down.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Passé simple advances a literary narrative."
+    },
+    {
+      "fr": "Quand elle eut terminé, elle sortit.",
+      "en": "When she had finished, she went out.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Passé antérieur expresses completion before a passé simple event."
+    },
+    {
+      "fr": "La rue était vide lorsqu'il arriva.",
+      "en": "The street was empty when he arrived.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Imparfait sets the scene; passé simple introduces the event."
+    },
+    {
+      "fr": "Bien qu'il fût tard, ils poursuivirent la discussion.",
+      "en": "Although it was late, they continued the discussion.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Fût is a literary imperfect subjunctive after bien que."
+    },
+    {
+      "fr": "Elle souhaitait qu'il vînt.",
+      "en": "She wanted him to come.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Vînt is the literary imperfect subjunctive of venir."
+    },
+    {
+      "fr": "Le projet pourrait éventuellement être reporté.",
+      "en": "The project could possibly be postponed.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Éventuellement means possibly, not eventually."
+    },
+    {
+      "fr": "Encore faudrait-il que nous disposions du temps nécessaire.",
+      "en": "We would still need to have enough time.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "This formal reservation uses conditional falloir and subjunctive disposer."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "C'est Léa ___ a appelé.",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Léa is the subject of appeler, so qui is required."
+    },
+    {
+      "prompt": "C'est Léa ___ j'ai appelée.",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Je is the subject; Léa is the direct object, represented by que."
+    },
+    {
+      "prompt": "C'est moi qui ___ envoyé le dossier.",
+      "options": [
+        "a",
+        "as",
+        "ai",
+        "ont"
+      ],
+      "answer": 2,
+      "explanation": "The relative verb agrees with moi, first person singular."
+    },
+    {
+      "prompt": "Le sujet ___ je parle est le budget.",
+      "options": [
+        "qui",
+        "que",
+        "où",
+        "dont"
+      ],
+      "answer": 3,
+      "explanation": "Parler de requires dont."
+    },
+    {
+      "prompt": "Cette question, j'___ ai réfléchi.",
+      "options": [
+        "y",
+        "en",
+        "la",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "Réfléchir à une question is represented by y."
+    },
+    {
+      "prompt": "Les lettres qu'elle a ___ sont anciennes.",
+      "options": [
+        "reçu",
+        "reçues",
+        "reçue",
+        "recevoir"
+      ],
+      "answer": 1,
+      "explanation": "Que represents preceding direct object les lettres, feminine plural."
+    },
+    {
+      "prompt": "I read only the introduction: Je n'ai lu ___ l'introduction.",
+      "options": [
+        "pas",
+        "rien",
+        "que",
+        "jamais"
+      ],
+      "answer": 2,
+      "explanation": "Ne...que expresses restriction."
+    },
+    {
+      "prompt": "Nobody replied: ___ n'a répondu.",
+      "options": [
+        "Quelqu’un",
+        "Chacun",
+        "Tout",
+        "Personne"
+      ],
+      "answer": 3,
+      "explanation": "Personne as subject combines with ne."
+    },
+    {
+      "prompt": "An entirely different solution: une ___ autre solution.",
+      "options": [
+        "tout",
+        "toute",
+        "tous",
+        "toutes"
+      ],
+      "answer": 0,
+      "explanation": "Tout is an adverb modifying autre here."
+    },
+    {
+      "prompt": "Any other solution: ___ autre solution.",
+      "options": [
+        "tout",
+        "toute",
+        "tous",
+        "toutes"
+      ],
+      "answer": 1,
+      "explanation": "Toute determines feminine singular solution."
+    },
+    {
+      "prompt": "Quand elle ___ terminé, elle sortit. (literary prior completion)",
+      "options": [
+        "a",
+        "avait",
+        "eut",
+        "aurait"
+      ],
+      "answer": 2,
+      "explanation": "Eut terminé is passé antérieur before passé simple sortit."
+    },
+    {
+      "prompt": "Bien qu'il ___ tard, ils poursuivirent leur route. (literary subjunctive)",
+      "options": [
+        "fut",
+        "était",
+        "sera",
+        "fût"
+      ],
+      "answer": 3,
+      "explanation": "Fût, with circumflex, is literary imperfect subjunctive after bien que."
+    },
+    {
+      "prompt": "Éventuellement most often means...",
+      "options": [
+        "possibly",
+        "eventually",
+        "currently",
+        "sensibly"
+      ],
+      "answer": 0,
+      "explanation": "The ordinary meaning is possibly or if appropriate."
+    },
+    {
+      "prompt": "Which collocation means to conduct a survey?",
+      "options": [
+        "faire une décision",
+        "mener une enquête",
+        "prendre une enquête",
+        "porter une conclusion"
+      ],
+      "answer": 1,
+      "explanation": "Mener une enquête is the standard collocation here."
+    },
+    {
+      "prompt": "Encore faudrait-il que chacun ___ du temps.",
+      "options": [
+        "disposez",
+        "disposera",
+        "dispose",
+        "disposait"
+      ],
+      "answer": 2,
+      "explanation": "Falloir que governs the subjunctive; dispose is third-person present subjunctive."
+    }
+  ]
+}

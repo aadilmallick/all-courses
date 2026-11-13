@@ -1,0 +1,26 @@
+{
+  "runtime": {
+    "terraform": "1.17.2 windows_amd64",
+    "python": "3.12.14"
+  },
+  "executed": [
+    "portable pipeline plan on built-in resources",
+    "real saved-plan JSON policy pass",
+    "wrong approval digest refused",
+    "changed source refused",
+    "tampered plan refused",
+    "invalid age interval refused",
+    "approved same-plan apply",
+    "expected manifest observed",
+    "reviewed local cleanup",
+    "real moved-block plan with no creates/deletes",
+    "managed ID preserved",
+    "migration cleanup",
+    "deterministic Lambda ZIP rebuilt and content verified"
+  ],
+  "migration_id_preserved": true,
+  "aws_calls_or_resources": false,
+  "limits": [
+    "No real AWS integration, hosted CI/OIDC, database connection, or multi-account role assumption executed"
+  ]
+}

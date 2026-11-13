@@ -1,0 +1,32 @@
+import {readFileSync,writeFileSync,readdirSync,mkdirSync,existsSync,copyFileSync} from 'node:fs';
+import {resolve} from 'node:path';
+const root=resolve(new URL('..',import.meta.url).pathname.replace(/^\/([A-Za-z]:)/,'$1'));
+const read=p=>readFileSync(new URL('../'+p,import.meta.url),'utf8').replace(/^\uFEFF/,'');
+const write=(p,t)=>writeFileSync(new URL('../'+p,import.meta.url),t);
+mkdirSync(new URL('../companion/',import.meta.url),{recursive:true});
+const files=readdirSync(new URL('../chapters/',import.meta.url)).filter(f=>/^\d\d-.*\.md$/.test(f)).sort();
+if(files.length!==10)throw Error('Expected all ten finished chapters.');
+const chapters=files.map((f,i)=>{const n=i+1;const text=read('chapters/'+f);const c=JSON.parse(read(`data/ch${String(n).padStart(2,'0')}.json`));if(c.chapter!==n)throw Error('Chapter identity mismatch.');const words=text.trim().split(/\s+/).length;if(words<5000)throw Error(`${f} needs deeper teaching: ${words} words`);return {...c,file:f,text,words};});
+const bank={version:1,title:'Atelier français',hours:1000,chapters:chapters.map(({file,text,words,...c})=>c)};
+write('public/data/course.json',JSON.stringify(bank));
+const manifest={schema_version:1,title:'A thousand hours, a language for life',subtitle:'French from first conversations to C1',audience:'English-speaking adult beginners',status:'complete',preface:'preface.md',output:'book.md',chapters:chapters.map(c=>({id:`chapter-${String(c.chapter).padStart(2,'0')}`,title:c.title,path:'chapters/'+c.file,part:c.chapter<=3?'Foundations':c.chapter<=7?'Independent French':'Advanced French',status:'complete',minimum_prose_words:4400,prerequisites:c.chapter===1?[]:[`chapter-${String(c.chapter-1).padStart(2,'0')}`],experiments:[`practice-${c.chapter}`]})),assets:[],source_listings:[],companion:{path:'src/scripts',catalog:'companion/catalog.json',run:'node companion/server.mjs',starter:false},provenance:'sources.json',verification:'verification.md'};
+write('book.json',JSON.stringify(manifest,null,2));
+const catalog={starter:false,experiments:chapters.map(c=>({id:`practice-${c.chapter}`,title:`Stage ${c.chapter}: grammar, bilingual translation, vocabulary, dictation`,chapter:`chapter-${String(c.chapter).padStart(2,'0')}`,description:`Stage-specific authored exercises for ${c.title}. Shared practice mount and optional speaking page.`,module:'practice.ts',route:`/practice/?chapter=${c.chapter}`,speakingRoute:'/speaking/'}))};
+write('companion/catalog.json',JSON.stringify(catalog,null,2));
+let contents='# Contents\n\n'+chapters.map(c=>`- [${String(c.chapter).padStart(2,'0')} · ${c.title}](#chapter-${String(c.chapter).padStart(2,'0')})`).join('\n')+'\n- [Grammar reference](#grammar-reference)\n- [Sources and support](#sources-and-support)\n';
+let book=read('preface.md')+'\n\n'+contents+'\n\n';
+for(const c of chapters){const id=String(c.chapter).padStart(2,'0');const body=c.text.replace(/^# .*\r?\n/,'');write(`src/content/docs/course/${id}.md`,`---\ntitle: ${JSON.stringify(id+' · '+c.title)}\ndescription: ${JSON.stringify('100-hour French learning stage · '+c.level)}\nsidebar:\n  order: ${c.chapter}\n---\n\n[Practice this stage →](/practice/?chapter=${c.chapter}) · [Speaking workbench](/speaking/) · [Hour plan](/journey/)\n\n${body}\n\n[Continue your practice →](/practice/?chapter=${c.chapter})\n`);book+=`\n\n<a id="chapter-${id}"></a>\n\n${c.text}\n`;}
+if(existsSync(new URL('../grammar-reference.md',import.meta.url)))book+='\n\n<a id="grammar-reference"></a>\n\n'+read('grammar-reference.md');
+book+='\n\n<a id="sources-and-support"></a>\n\n'+read('sources.md');
+write('book.md',book);
+let curriculum='# Your 1,000-hour French journey\n\nTen stages × ten units × ten hours = **1,000 hours**. Units include lesson study, independent input, vocabulary, use, and review. Exact CEFR progress varies by learner. At ten hours weekly this is about 100 weeks; at fifteen, about 67; at twenty, 50.\n\n';
+curriculum+='## Stage map\n\n| Stage | Working level | Hours | Main work |\n| --- | --- | --- | --- |\n'+chapters.map(c=>`| ${c.chapter} | ${c.level} | ${(c.chapter-1)*100+1}–${c.chapter*100} | ${c.title} |`).join('\n')+'\n\n';
+for(const c of chapters){curriculum+=`## ${String(c.chapter).padStart(2,'0')} · ${c.title}\n\n`;for(const[u,i]of c.units.map((u,i)=>[u,i])){const start=(c.chapter-1)*100+i*10+1;curriculum+=`### ${c.chapter}.${i+1} · ${u.title} · hours ${start}–${start+9}\n\n**Outcome:** ${u.outcome}\n\n${u.tasks.map(t=>'- '+t).join('\n')}\n\n`;}}
+write('curriculum.md',curriculum);write('src/content/docs/journey.md','---\ntitle: Your 1,000-hour journey\ndescription: The complete timetable with 100 guided ten-hour units.\n---\n\n'+curriculum.replace(/^# .*\n/,''));
+write('src/content/docs/sources.md','---\ntitle: Sources & browser support\n---\n\n'+read('sources.md').replace(/^# .*\n/,''));
+if(existsSync(new URL('../grammar-reference.md',import.meta.url)))write('src/content/docs/grammar-reference.md','---\ntitle: Grammar desk reference\n---\n\n'+read('grammar-reference.md').replace(/^# .*\n/,''));
+write('sources.json',JSON.stringify({accessed:'2026-11-13',ledger:'sources.md',original_content:true,official_exam_pages:'access-denied',framework:'CEFR instructional alignment, not endorsement',runtime:{node:process.version,...JSON.parse(read('package.json')).dependencies}},null,2));
+write('content-report.json',JSON.stringify({chapters:chapters.map(c=>({chapter:c.chapter,words:c.words,vocab:c.vocab.length,sentences:c.sentences.length,grammar:c.grammar.length,units:c.units.length})),whitespaceWords:chapters.reduce((s,c)=>s+c.words,0),method:'Whitespace-separated words. Not tokenizer counts. Generated data and duplicate book/site text excluded.'},null,2));
+copyFileSync(new URL('../book.md',import.meta.url),new URL('../public/book.md',import.meta.url));
+copyFileSync(new URL('../curriculum.md',import.meta.url),new URL('../public/curriculum.md',import.meta.url));
+console.log(`Assembled ${chapters.length} chapters, ${chapters.reduce((s,c)=>s+c.words,0)} whitespace words, ${chapters.reduce((s,c)=>s+c.vocab.length,0)} vocabulary entries.`);

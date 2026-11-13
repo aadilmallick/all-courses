@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "title": "Terraform on AWS: From First Principles to Expert Practice",
+  "subtitle": "A complete course in understandable infrastructure, controlled change, and accountable operation",
+  "audience": "Beginners through advanced practitioners; no Terraform or AWS infrastructure experience assumed",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "From a changed setting to a reproducible system",
+      "path": "chapters/01-foundations.md",
+      "part": "First principles",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [],
+      "experiments": [
+        "reconcile"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "HCL as a language for values, relationships, and identity",
+      "path": "chapters/02-language.md",
+      "part": "First principles",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "identity"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "AWS identity, permissions, and the first private bucket",
+      "path": "chapters/03-aws-identity-storage.md",
+      "part": "First principles",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "iam"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Build a network by tracing a packet",
+      "path": "chapters/04-networking.md",
+      "part": "AWS systems",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "network"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Turn infrastructure into an observable HTTP service",
+      "path": "chapters/05-compute-services.md",
+      "part": "AWS systems",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "capacity"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "State as a shared operational system",
+      "path": "chapters/06-state-backends.md",
+      "part": "Ownership and change",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "lock"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Reusable modules and independent environments",
+      "path": "chapters/07-modules-environments.md",
+      "part": "Ownership and change",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "modules"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Change, import, refactor, and recover without losing identity",
+      "path": "chapters/08-change-recovery.md",
+      "part": "Ownership and change",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "migration"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Testing, policy, and security as different kinds of evidence",
+      "path": "chapters/09-testing-security.md",
+      "part": "Evidence and delivery",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "policy"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Deliver the change that was actually reviewed",
+      "path": "chapters/10-delivery.md",
+      "part": "Evidence and delivery",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "artifact"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Multi-account architecture, data services, and platform operations",
+      "path": "chapters/11-platform-scale.md",
+      "part": "Expert practice",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-10"
+      ],
+      "experiments": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Capstone: operate Field Notes as an engineering system",
+      "path": "chapters/12-capstone.md",
+      "part": "Expert practice",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "minimum_tokens": 5000,
+      "prerequisites": [
+        "chapter-11"
+      ],
+      "experiments": [
+        "cost"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/handler.py",
+    "assets/health.zip"
+  ],
+  "source_listings": [],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

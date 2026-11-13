@@ -1,0 +1,1128 @@
+{
+  "chapter": 5,
+  "level": "B1",
+  "title": "Decisions and relationships",
+  "units": [
+    {
+      "title": "Commitments and predictions",
+      "outcome": "Give a plan with scheduled actions, intentions, and predictions.",
+      "tasks": [
+        "Study section 1 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Open conditions",
+      "outcome": "Agree six practical if–then arrangements.",
+      "tasks": [
+        "Study section 2 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Hypothetical choices",
+      "outcome": "Compare two hypothetical jobs or courses.",
+      "tasks": [
+        "Study section 3 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Tact and advice",
+      "outcome": "Make a polite request, refusal, and alternative.",
+      "tasks": [
+        "Study section 4 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Regret and alternatives",
+      "outcome": "Explain an unrealized past alternative with a clear timeline.",
+      "tasks": [
+        "Study section 5 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Getting things done",
+      "outcome": "Arrange a service and identify who performs the action.",
+      "tasks": [
+        "Study section 6 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Passing on a message",
+      "outcome": "Relay a message with correct people and times.",
+      "tasks": [
+        "Study section 7 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Work and wellbeing",
+      "outcome": "Negotiate a manageable workload and describe a concern.",
+      "tasks": [
+        "Study section 8 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Relationships and mediation",
+      "outcome": "Summarize a disagreement fairly and propose a compromise.",
+      "tasks": [
+        "Study section 9 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    },
+    {
+      "title": "Decision portfolio",
+      "outcome": "Defend a decision and adapt to two unexpected questions.",
+      "tasks": [
+        "Study section 10 and explain each worked contrast in your own words (2 h).",
+        "Review ten chapter vocabulary items and write five original examples (2 h).",
+        "Listen, transcribe, and translate matching companion sentences, then a short human recording (2 h).",
+        "Record or role-play the unit outcome, then repeat with a changed constraint (2 h).",
+        "Write the unit product (1 h), check it against the explanations, and revise it (1 h)."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le poste",
+      "en": "job position",
+      "example": "Ce poste exige de la patience.",
+      "translation": "This position requires patience.",
+      "tag": "work"
+    },
+    {
+      "fr": "la candidature",
+      "en": "application",
+      "example": "Je prépare ma candidature.",
+      "translation": "I am preparing my application.",
+      "tag": "work"
+    },
+    {
+      "fr": "l'entretien (m.)",
+      "en": "interview",
+      "example": "L'entretien aura lieu mardi.",
+      "translation": "The interview will take place on Tuesday.",
+      "tag": "work"
+    },
+    {
+      "fr": "l'expérience (f.)",
+      "en": "experience",
+      "example": "Elle a une solide expérience.",
+      "translation": "She has solid experience.",
+      "tag": "work"
+    },
+    {
+      "fr": "la compétence",
+      "en": "skill",
+      "example": "Cette compétence est utile.",
+      "translation": "This skill is useful.",
+      "tag": "work"
+    },
+    {
+      "fr": "le salaire",
+      "en": "salary",
+      "example": "Le salaire dépend de l'expérience.",
+      "translation": "The salary depends on experience.",
+      "tag": "work"
+    },
+    {
+      "fr": "le contrat",
+      "en": "contract",
+      "example": "Lisez le contrat avant de signer.",
+      "translation": "Read the contract before signing.",
+      "tag": "work"
+    },
+    {
+      "fr": "l'horaire (m.)",
+      "en": "schedule",
+      "example": "Cet horaire me convient.",
+      "translation": "This schedule suits me.",
+      "tag": "work"
+    },
+    {
+      "fr": "le congé",
+      "en": "leave",
+      "example": "Elle prendra un congé en juin.",
+      "translation": "She will take leave in June.",
+      "tag": "work"
+    },
+    {
+      "fr": "le responsable / la responsable",
+      "en": "manager",
+      "example": "Parlez-en à votre responsable.",
+      "translation": "Discuss it with your manager.",
+      "tag": "work"
+    },
+    {
+      "fr": "le collègue / la collègue",
+      "en": "colleague",
+      "example": "Ma collègue me remplacera.",
+      "translation": "My colleague will cover for me.",
+      "tag": "work"
+    },
+    {
+      "fr": "l'équipe (f.)",
+      "en": "team",
+      "example": "Notre équipe cherche une solution.",
+      "translation": "Our team is looking for a solution.",
+      "tag": "work"
+    },
+    {
+      "fr": "la mission",
+      "en": "assignment",
+      "example": "Cette mission durera un mois.",
+      "translation": "This assignment will last a month.",
+      "tag": "work"
+    },
+    {
+      "fr": "la formation",
+      "en": "training course",
+      "example": "Je suivrai une formation.",
+      "translation": "I will take a training course.",
+      "tag": "work"
+    },
+    {
+      "fr": "le télétravail",
+      "en": "remote work",
+      "example": "Le télétravail réduit mes trajets.",
+      "translation": "Remote work reduces my commuting.",
+      "tag": "work"
+    },
+    {
+      "fr": "le déplacement",
+      "en": "business trip",
+      "example": "Je serai en déplacement jeudi.",
+      "translation": "I will be away on business on Thursday.",
+      "tag": "work"
+    },
+    {
+      "fr": "l'embauche (f.)",
+      "en": "hiring",
+      "example": "L'embauche sera confirmée demain.",
+      "translation": "The hiring will be confirmed tomorrow.",
+      "tag": "work"
+    },
+    {
+      "fr": "la période d'essai",
+      "en": "probationary period",
+      "example": "La période d'essai se termine bientôt.",
+      "translation": "The probationary period ends soon.",
+      "tag": "work"
+    },
+    {
+      "fr": "la démission",
+      "en": "resignation",
+      "example": "Il a annoncé sa démission.",
+      "translation": "He announced his resignation.",
+      "tag": "work"
+    },
+    {
+      "fr": "la retraite",
+      "en": "retirement",
+      "example": "Elle prépare sa retraite.",
+      "translation": "She is preparing for retirement.",
+      "tag": "work"
+    },
+    {
+      "fr": "la décision",
+      "en": "decision",
+      "example": "Cette décision demande du temps.",
+      "translation": "This decision takes time.",
+      "tag": "choices"
+    },
+    {
+      "fr": "le choix",
+      "en": "choice",
+      "example": "Vous avez le choix.",
+      "translation": "You have a choice.",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'avantage (m.)",
+      "en": "advantage",
+      "example": "Quel est le principal avantage ?",
+      "translation": "What is the main advantage?",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'inconvénient (m.)",
+      "en": "drawback",
+      "example": "Le prix est un inconvénient.",
+      "translation": "The price is a drawback.",
+      "tag": "choices"
+    },
+    {
+      "fr": "la conséquence",
+      "en": "consequence",
+      "example": "Il faut prévoir les conséquences.",
+      "translation": "We need to anticipate the consequences.",
+      "tag": "choices"
+    },
+    {
+      "fr": "la condition",
+      "en": "condition",
+      "example": "J'accepte à cette condition.",
+      "translation": "I accept on this condition.",
+      "tag": "choices"
+    },
+    {
+      "fr": "la possibilité",
+      "en": "possibility",
+      "example": "Nous examinerons cette possibilité.",
+      "translation": "We will consider this possibility.",
+      "tag": "choices"
+    },
+    {
+      "fr": "le risque",
+      "en": "risk",
+      "example": "Je ne veux pas prendre ce risque.",
+      "translation": "I do not want to take this risk.",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'occasion (f.)",
+      "en": "opportunity",
+      "example": "C'est une bonne occasion d'apprendre.",
+      "translation": "It is a good opportunity to learn.",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'objectif (m.)",
+      "en": "goal",
+      "example": "Notre objectif reste réaliste.",
+      "translation": "Our goal remains realistic.",
+      "tag": "choices"
+    },
+    {
+      "fr": "la priorité",
+      "en": "priority",
+      "example": "La sécurité est une priorité.",
+      "translation": "Safety is a priority.",
+      "tag": "choices"
+    },
+    {
+      "fr": "le délai",
+      "en": "time allowed",
+      "example": "Quel délai proposez-vous ?",
+      "translation": "How much time do you propose allowing?",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'échéance (f.)",
+      "en": "deadline",
+      "example": "Nous respecterons cette échéance.",
+      "translation": "We will meet this deadline.",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'engagement (m.)",
+      "en": "commitment",
+      "example": "Elle respecte ses engagements.",
+      "translation": "She keeps her commitments.",
+      "tag": "choices"
+    },
+    {
+      "fr": "le compromis",
+      "en": "compromise",
+      "example": "Nous avons trouvé un compromis.",
+      "translation": "We found a compromise.",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'accord (m.)",
+      "en": "agreement",
+      "example": "Cet accord satisfait les deux parties.",
+      "translation": "This agreement satisfies both parties.",
+      "tag": "choices"
+    },
+    {
+      "fr": "le refus",
+      "en": "refusal",
+      "example": "Son refus était poli.",
+      "translation": "His refusal was polite.",
+      "tag": "choices"
+    },
+    {
+      "fr": "l'autorisation (f.)",
+      "en": "permission",
+      "example": "Il faut demander une autorisation.",
+      "translation": "Permission must be requested.",
+      "tag": "choices"
+    },
+    {
+      "fr": "le conseil",
+      "en": "piece of advice",
+      "example": "Merci pour ce conseil.",
+      "translation": "Thank you for this advice.",
+      "tag": "choices"
+    },
+    {
+      "fr": "la prévision",
+      "en": "forecast",
+      "example": "Cette prévision reste incertaine.",
+      "translation": "This forecast remains uncertain.",
+      "tag": "choices"
+    },
+    {
+      "fr": "la fatigue",
+      "en": "tiredness",
+      "example": "La fatigue réduit ma concentration.",
+      "translation": "Tiredness reduces my concentration.",
+      "tag": "health"
+    },
+    {
+      "fr": "le sommeil",
+      "en": "sleep",
+      "example": "J'ai besoin de sommeil.",
+      "translation": "I need sleep.",
+      "tag": "health"
+    },
+    {
+      "fr": "la douleur",
+      "en": "pain",
+      "example": "La douleur a diminué.",
+      "translation": "The pain has decreased.",
+      "tag": "health"
+    },
+    {
+      "fr": "le symptôme",
+      "en": "symptom",
+      "example": "Décrivez vos symptômes.",
+      "translation": "Describe your symptoms.",
+      "tag": "health"
+    },
+    {
+      "fr": "le rendez-vous",
+      "en": "appointment",
+      "example": "Je voudrais prendre rendez-vous.",
+      "translation": "I would like to make an appointment.",
+      "tag": "health"
+    },
+    {
+      "fr": "la consultation",
+      "en": "consultation",
+      "example": "La consultation dure vingt minutes.",
+      "translation": "The consultation lasts twenty minutes.",
+      "tag": "health"
+    },
+    {
+      "fr": "l'ordonnance (f.)",
+      "en": "prescription",
+      "example": "Le médecin a rédigé une ordonnance.",
+      "translation": "The doctor wrote a prescription.",
+      "tag": "health"
+    },
+    {
+      "fr": "le traitement",
+      "en": "treatment",
+      "example": "Ce traitement a été expliqué au patient.",
+      "translation": "This treatment was explained to the patient.",
+      "tag": "health"
+    },
+    {
+      "fr": "le repos",
+      "en": "rest",
+      "example": "Elle a besoin de repos.",
+      "translation": "She needs rest.",
+      "tag": "health"
+    },
+    {
+      "fr": "le stress",
+      "en": "stress",
+      "example": "Le stress perturbe son sommeil.",
+      "translation": "Stress disrupts his sleep.",
+      "tag": "health"
+    },
+    {
+      "fr": "la blessure",
+      "en": "injury",
+      "example": "Sa blessure l'empêche de courir.",
+      "translation": "Her injury prevents her from running.",
+      "tag": "health"
+    },
+    {
+      "fr": "l'urgence (f.)",
+      "en": "emergency",
+      "example": "En cas d'urgence, demandez de l'aide.",
+      "translation": "In an emergency, ask for help.",
+      "tag": "health"
+    },
+    {
+      "fr": "l'assurance (f.)",
+      "en": "insurance",
+      "example": "Vérifiez votre assurance.",
+      "translation": "Check your insurance.",
+      "tag": "health"
+    },
+    {
+      "fr": "la santé",
+      "en": "health",
+      "example": "La santé compte plus que ce délai.",
+      "translation": "Health matters more than this deadline.",
+      "tag": "health"
+    },
+    {
+      "fr": "le bien-être",
+      "en": "wellbeing",
+      "example": "Le bien-être du personnel est important.",
+      "translation": "Staff wellbeing is important.",
+      "tag": "health"
+    },
+    {
+      "fr": "l'activité physique (f.)",
+      "en": "physical activity",
+      "example": "Elle préfère une activité physique douce.",
+      "translation": "She prefers gentle physical activity.",
+      "tag": "health"
+    },
+    {
+      "fr": "l'alimentation (f.)",
+      "en": "diet",
+      "example": "Il souhaite améliorer son alimentation.",
+      "translation": "He wants to improve his diet.",
+      "tag": "health"
+    },
+    {
+      "fr": "la prévention",
+      "en": "prevention",
+      "example": "Cette campagne concerne la prévention.",
+      "translation": "This campaign concerns prevention.",
+      "tag": "health"
+    },
+    {
+      "fr": "la récupération",
+      "en": "recovery",
+      "example": "La récupération prendra du temps.",
+      "translation": "Recovery will take time.",
+      "tag": "health"
+    },
+    {
+      "fr": "l'équilibre (m.)",
+      "en": "balance",
+      "example": "Je cherche un meilleur équilibre.",
+      "translation": "I am seeking a better balance.",
+      "tag": "health"
+    },
+    {
+      "fr": "la confiance",
+      "en": "trust",
+      "example": "La confiance se construit avec le temps.",
+      "translation": "Trust is built over time.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "le respect",
+      "en": "respect",
+      "example": "Le respect facilite la discussion.",
+      "translation": "Respect makes discussion easier.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "le soutien",
+      "en": "support",
+      "example": "Merci pour votre soutien.",
+      "translation": "Thank you for your support.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "le désaccord",
+      "en": "disagreement",
+      "example": "Nous avons un désaccord sur les horaires.",
+      "translation": "We disagree about the hours.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "le malentendu",
+      "en": "misunderstanding",
+      "example": "C'était un simple malentendu.",
+      "translation": "It was a simple misunderstanding.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "l'excuse (f.)",
+      "en": "apology",
+      "example": "Elle a présenté ses excuses.",
+      "translation": "She offered her apologies.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "la promesse",
+      "en": "promise",
+      "example": "Il a tenu sa promesse.",
+      "translation": "He kept his promise.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "l'habitude (f.)",
+      "en": "habit",
+      "example": "Cette habitude me rassure.",
+      "translation": "This habit reassures me.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "l'attitude (f.)",
+      "en": "attitude",
+      "example": "Son attitude a changé.",
+      "translation": "Her attitude has changed.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "la responsabilité",
+      "en": "responsibility",
+      "example": "Chacun connaît sa responsabilité.",
+      "translation": "Everyone knows their responsibility.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "se confier à",
+      "en": "confide in",
+      "example": "Elle se confie à sa sœur.",
+      "translation": "She confides in her sister.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "s'entendre avec",
+      "en": "get along with",
+      "example": "Je m'entends bien avec lui.",
+      "translation": "I get along well with him.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "s'excuser de",
+      "en": "apologize for",
+      "example": "Il s'excuse de son retard.",
+      "translation": "He apologizes for being late.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "prévenir",
+      "en": "let know in advance",
+      "example": "Prévenez-moi si vous êtes absent.",
+      "translation": "Let me know if you will be absent.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "encourager",
+      "en": "encourage",
+      "example": "Elle encourage ses amis.",
+      "translation": "She encourages her friends.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "rassurer",
+      "en": "reassure",
+      "example": "Cette réponse me rassure.",
+      "translation": "This answer reassures me.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "proposer",
+      "en": "suggest",
+      "example": "Je propose une autre solution.",
+      "translation": "I suggest another solution.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "accepter",
+      "en": "accept",
+      "example": "Il accepterait une offre raisonnable.",
+      "translation": "He would accept a reasonable offer.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "refuser",
+      "en": "refuse",
+      "example": "Elle a refusé poliment.",
+      "translation": "She refused politely.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "négocier",
+      "en": "negotiate",
+      "example": "Nous devons négocier les conditions.",
+      "translation": "We need to negotiate the conditions.",
+      "tag": "relationships"
+    },
+    {
+      "fr": "le devis",
+      "en": "estimate",
+      "example": "Pourriez-vous envoyer un devis ?",
+      "translation": "Could you send an estimate?",
+      "tag": "services"
+    },
+    {
+      "fr": "la réparation",
+      "en": "repair",
+      "example": "La réparation prendra deux jours.",
+      "translation": "The repair will take two days.",
+      "tag": "services"
+    },
+    {
+      "fr": "la livraison",
+      "en": "delivery",
+      "example": "La livraison est prévue demain.",
+      "translation": "Delivery is scheduled for tomorrow.",
+      "tag": "services"
+    },
+    {
+      "fr": "le remboursement",
+      "en": "refund",
+      "example": "Je souhaite demander un remboursement.",
+      "translation": "I would like to request a refund.",
+      "tag": "services"
+    },
+    {
+      "fr": "la garantie",
+      "en": "warranty",
+      "example": "L'appareil est encore sous garantie.",
+      "translation": "The appliance is still under warranty.",
+      "tag": "services"
+    },
+    {
+      "fr": "la facture",
+      "en": "invoice",
+      "example": "La facture contient une erreur.",
+      "translation": "The invoice contains an error.",
+      "tag": "services"
+    },
+    {
+      "fr": "le reçu",
+      "en": "receipt",
+      "example": "Conservez ce reçu.",
+      "translation": "Keep this receipt.",
+      "tag": "services"
+    },
+    {
+      "fr": "la confirmation",
+      "en": "confirmation",
+      "example": "J'attends votre confirmation écrite.",
+      "translation": "I am waiting for your written confirmation.",
+      "tag": "services"
+    },
+    {
+      "fr": "le report",
+      "en": "postponement",
+      "example": "Le report de la réunion est confirmé.",
+      "translation": "The postponement of the meeting is confirmed.",
+      "tag": "services"
+    },
+    {
+      "fr": "le créneau",
+      "en": "time slot",
+      "example": "Quel créneau vous conviendrait ?",
+      "translation": "Which time slot would suit you?",
+      "tag": "services"
+    },
+    {
+      "fr": "reporter",
+      "en": "postpone",
+      "example": "Nous pourrions reporter la visite.",
+      "translation": "We could postpone the visit.",
+      "tag": "services"
+    },
+    {
+      "fr": "annuler",
+      "en": "cancel",
+      "example": "Je dois annuler ma réservation.",
+      "translation": "I have to cancel my booking.",
+      "tag": "services"
+    },
+    {
+      "fr": "remplacer",
+      "en": "replace",
+      "example": "Faut-il remplacer cette pièce ?",
+      "translation": "Does this part need replacing?",
+      "tag": "services"
+    },
+    {
+      "fr": "faire réparer",
+      "en": "have repaired",
+      "example": "Je vais faire réparer mon vélo.",
+      "translation": "I am going to have my bicycle repaired.",
+      "tag": "services"
+    },
+    {
+      "fr": "laisser choisir",
+      "en": "let choose",
+      "example": "Laissez-les choisir leur activité.",
+      "translation": "Let them choose their activity.",
+      "tag": "services"
+    },
+    {
+      "fr": "se renseigner",
+      "en": "find out information",
+      "example": "Je vais me renseigner sur les tarifs.",
+      "translation": "I am going to find out about the prices.",
+      "tag": "services"
+    },
+    {
+      "fr": "tenir compte de",
+      "en": "take into account",
+      "example": "Il faut tenir compte du délai.",
+      "translation": "We need to take the deadline into account.",
+      "tag": "services"
+    },
+    {
+      "fr": "prendre en charge",
+      "en": "take responsibility for",
+      "example": "Qui prendra en charge les frais ?",
+      "translation": "Who will cover the costs?",
+      "tag": "services"
+    },
+    {
+      "fr": "à votre place",
+      "en": "in your position",
+      "example": "À votre place, je vérifierais.",
+      "translation": "In your position, I would check.",
+      "tag": "services"
+    },
+    {
+      "fr": "en revanche",
+      "en": "on the other hand",
+      "example": "C'est cher; en revanche, c'est solide.",
+      "translation": "It is expensive; on the other hand, it is sturdy.",
+      "tag": "services"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Si vous confirmez aujourd'hui, nous réserverons la salle.",
+      "en": "If you confirm today, we will book the room.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Open condition: present after conditional si, future consequence."
+    },
+    {
+      "fr": "Quand tu arriveras, je t'appellerai.",
+      "en": "When you arrive, I will call you.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Future after quand for a future event."
+    },
+    {
+      "fr": "Si j'avais plus de temps, je suivrais cette formation.",
+      "en": "If I had more time, I would take this training course.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Hypothetical present: imparfait and conditional."
+    },
+    {
+      "fr": "À ta place, je demanderais des précisions.",
+      "en": "In your position, I would ask for details.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional gives advice."
+    },
+    {
+      "fr": "Pourriez-vous m'envoyer le devis ?",
+      "en": "Could you send me the estimate?",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional request with vous."
+    },
+    {
+      "fr": "Nous pourrions reporter la réunion à vendredi.",
+      "en": "We could postpone the meeting until Friday.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional presents an option."
+    },
+    {
+      "fr": "Tu devrais en parler à ta responsable.",
+      "en": "You should discuss it with your manager.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "En replaces the topic introduced by de."
+    },
+    {
+      "fr": "Si elle avait reçu le message, elle serait venue.",
+      "en": "If she had received the message, she would have come.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Past counterfactual; venir takes être and venue agrees with elle."
+    },
+    {
+      "fr": "J'aurais dû vérifier l'adresse.",
+      "en": "I should have checked the address.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional past of devoir expresses regret."
+    },
+    {
+      "fr": "Si j'avais accepté ce poste, j'habiterais à Lyon maintenant.",
+      "en": "If I had accepted that job, I would live in Lyon now.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Past condition and present consequence."
+    },
+    {
+      "fr": "Je fais réparer mon ordinateur.",
+      "en": "I am having my computer repaired.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Faire plus infinitive expresses arranging an action."
+    },
+    {
+      "fr": "Elle laisse ses enfants choisir leurs vêtements.",
+      "en": "She lets her children choose their clothes.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Laisser expresses permission."
+    },
+    {
+      "fr": "Il me demande de rappeler demain.",
+      "en": "He asks me to call back tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Demander à quelqu'un de plus infinitive reports a request."
+    },
+    {
+      "fr": "Elle nous demande de ne pas arriver en retard.",
+      "en": "She asks us not to arrive late.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Ne pas precedes the infinitive."
+    },
+    {
+      "fr": "Je ne sais pas s'il viendra.",
+      "en": "I do not know whether he will come.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Si means whether here, allowing the future."
+    },
+    {
+      "fr": "Léa dit qu'elle est disponible demain.",
+      "en": "Léa says that she is available tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Present reporting keeps the current frame."
+    },
+    {
+      "fr": "Elle a dit qu'elle viendrait mardi.",
+      "en": "She said that she would come on Tuesday.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Conditional can be future relative to a past statement."
+    },
+    {
+      "fr": "Nous pourrons le lui envoyer demain.",
+      "en": "We will be able to send it to her tomorrow.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Pronouns belong to envoyer and precede that infinitive."
+    },
+    {
+      "fr": "Oui, je lui en ai parlé.",
+      "en": "Yes, I discussed it with her.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Lui replaces the person and en replaces the topic."
+    },
+    {
+      "fr": "Si vous avez un problème, appelez-moi.",
+      "en": "If you have a problem, call me.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Open condition with an imperative consequence."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "Complete an open future condition: Si tu ___ aujourd'hui, je réserverai.",
+      "options": [
+        "confirmes",
+        "confirmeras",
+        "confirmerais",
+        "confirmé"
+      ],
+      "answer": 0,
+      "explanation": "Conditional si takes the present in an open future condition."
+    },
+    {
+      "prompt": "Complete a hypothetical present: Si j'avais le temps, je ___.",
+      "options": [
+        "viendrai",
+        "viendrais",
+        "viens",
+        "venu"
+      ],
+      "answer": 1,
+      "explanation": "An imparfait condition normally takes a conditional consequence."
+    },
+    {
+      "prompt": "Choose the polite request.",
+      "options": [
+        "Pourriez-vous m'aider ?",
+        "Pouvez-vous m'aidez ?",
+        "Pourrez-vous m'aidé ?",
+        "Pouvoir vous m'aider ?"
+      ],
+      "answer": 0,
+      "explanation": "Pourriez is the conditional of pouvoir; aider remains infinitive."
+    },
+    {
+      "prompt": "Complete the past counterfactual: Si elle avait su, elle ___.",
+      "options": [
+        "vient",
+        "viendra",
+        "serait venue",
+        "était venue"
+      ],
+      "answer": 2,
+      "explanation": "The unreal past consequence takes the conditional past; venir uses être."
+    },
+    {
+      "prompt": "Choose the regret meaning I should have checked.",
+      "options": [
+        "Je dois vérifier.",
+        "J'ai dû vérifier.",
+        "Je devrai vérifier.",
+        "J'aurais dû vérifier."
+      ],
+      "answer": 3,
+      "explanation": "Conditional past of devoir expresses a missed desirable action."
+    },
+    {
+      "prompt": "Choose the future of être with nous.",
+      "options": [
+        "nous serions",
+        "nous serons",
+        "nous sommes",
+        "nous étions"
+      ],
+      "answer": 1,
+      "explanation": "Serons is future; serions is conditional."
+    },
+    {
+      "prompt": "Complete a future time clause: Quand tu ___, je partirai.",
+      "options": [
+        "arriveras",
+        "arriverais",
+        "arrivé",
+        "arriver"
+      ],
+      "answer": 0,
+      "explanation": "French uses the future after quand for a future event."
+    },
+    {
+      "prompt": "Choose the correct whether clause.",
+      "options": [
+        "Je ne sais pas s'il viendra.",
+        "Je ne sais pas si viendra-t-il.",
+        "Je ne sais pas est-ce qu'il viendra.",
+        "Je ne sais pas s'il venir."
+      ],
+      "answer": 0,
+      "explanation": "Indirect yes–no questions use si with statement order; future is allowed."
+    },
+    {
+      "prompt": "Choose I am having my bicycle repaired.",
+      "options": [
+        "Je répare mon vélo.",
+        "Je suis réparer mon vélo.",
+        "Je fais réparer mon vélo.",
+        "Je fais réparé mon vélo."
+      ],
+      "answer": 2,
+      "explanation": "Faire plus infinitive expresses arranging repair by someone else."
+    },
+    {
+      "prompt": "Complete the reported request: Elle nous demande ___ attendre.",
+      "options": [
+        "que",
+        "d'",
+        "à",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "Demander à quelqu'un de plus infinitive reports a request."
+    },
+    {
+      "prompt": "Choose a negative infinitive.",
+      "options": [
+        "de pas attendre ne",
+        "de n'attendre est pas",
+        "de ne pas attendre",
+        "de ne attendre pas"
+      ],
+      "answer": 2,
+      "explanation": "Ne pas stays together before an ordinary negative infinitive."
+    },
+    {
+      "prompt": "Complete the pronouns: Je donne le dossier à Nadia. Je ___ donne.",
+      "options": [
+        "lui le",
+        "le lui",
+        "y en",
+        "leur lui"
+      ],
+      "answer": 1,
+      "explanation": "Le precedes lui in ordinary preverbal pronoun order."
+    },
+    {
+      "prompt": "Choose the present hypothetical condition.",
+      "options": [
+        "Si j'aurais une voiture",
+        "Si j'avais une voiture",
+        "Si j'aurai une voiture",
+        "Si j'aie une voiture"
+      ],
+      "answer": 1,
+      "explanation": "Ordinary hypothetical conditional si takes the imparfait, not conditional."
+    },
+    {
+      "prompt": "Choose the mixed-time consequence: Si j'avais accepté, je ___ ici maintenant.",
+      "options": [
+        "serais",
+        "serai",
+        "ai été",
+        "serait"
+      ],
+      "answer": 0,
+      "explanation": "A present imagined consequence takes the conditional present."
+    },
+    {
+      "prompt": "Complete: Je promets de ___ demain, meaning I promise to call her tomorrow.",
+      "options": [
+        "la téléphoner",
+        "lui téléphoner",
+        "téléphoner lui",
+        "lui téléphoné"
+      ],
+      "answer": 1,
+      "explanation": "Téléphoner à quelqu'un takes an indirect pronoun before the infinitive."
+    }
+  ]
+}

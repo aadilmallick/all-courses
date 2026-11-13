@@ -1,0 +1,10 @@
+{
+  "chapters": 18,
+  "measured_chapter_tokens": 90378,
+  "minimum_chapter_tokens": 5001,
+  "prose_words_excluding_fenced_code": 64928,
+  "python_snippets_syntax_checked_including_book_duplicates": 12,
+  "local_markdown_link_checks": 30,
+  "resource_records": 1321,
+  "errors": []
+}

@@ -1,0 +1,1116 @@
+{
+  "chapter": 4,
+  "level": "A2–B1",
+  "title": "Telling a story",
+  "units": [
+    {
+      "title": "Forming the imparfait",
+      "outcome": "Build imparfait forms from present nous stems.",
+      "tasks": [
+        "Build imparfait stems from ten present nous forms.",
+        "Explain être's exceptional stem and spelling changes.",
+        "Write and record a past routine."
+      ]
+    },
+    {
+      "title": "Background and completed events",
+      "outcome": "Use viewpoint to distinguish background and bounded events.",
+      "tasks": [
+        "Contrast a closed ten-year period with a background residence.",
+        "Revise an event list into a coherent account.",
+        "Justify five tense choices using event relationships."
+      ]
+    },
+    {
+      "title": "Habits and interrupted activities",
+      "outcome": "Explain past routines and overlapping events.",
+      "tasks": [
+        "Describe childhood holidays and repeated habits.",
+        "Contrast simultaneous activity with sequential actions.",
+        "Dictate a narrative and reconstruct its timeline."
+      ]
+    },
+    {
+      "title": "The earlier past",
+      "outcome": "Place one past event before another.",
+      "tasks": [
+        "Compare she left at arrival with she had already left.",
+        "Explain a missed train using an earlier cause.",
+        "Retell one event in chronological and explanatory order."
+      ]
+    },
+    {
+      "title": "Direct and indirect objects",
+      "outcome": "Follow French verb frames to replace objects.",
+      "tasks": [
+        "Classify objects using French verb constructions.",
+        "Replace repeated noun phrases with direct or indirect pronouns.",
+        "Compare parler à, parler de, and penser à with people."
+      ]
+    },
+    {
+      "title": "Y and en in context",
+      "outcome": "Track places, selected complements, and quantities.",
+      "tasks": [
+        "Replace places and selected à-complements with y.",
+        "Replace quantities and selected de-complements with en.",
+        "Explain definite les billets versus indefinite des billets."
+      ]
+    },
+    {
+      "title": "Two pronouns and agreement",
+      "outcome": "Order compatible pronouns and justify common participle agreement.",
+      "tasks": [
+        "Build a two-pronoun sentence from a full noun phrase.",
+        "Contrast affirmative and negative imperatives.",
+        "Correct trouvé/trouvées and lavées/lavé les mains by role analysis."
+      ]
+    },
+    {
+      "title": "Relative clauses",
+      "outcome": "Connect information with qui, que, où, and dont.",
+      "tasks": [
+        "Combine short sentences with each major relative.",
+        "Reconstruct the underlying sentences to identify roles.",
+        "Write a description with clear antecedents and no redundant de after dont."
+      ]
+    },
+    {
+      "title": "Comparisons and administration",
+      "outcome": "Compare options and complete a clear administrative request.",
+      "tasks": [
+        "Compare two routes, rooms, or services using meilleur and mieux.",
+        "Write a fictional document request and attachment message.",
+        "Role-play a missing-document problem and clarify the next step."
+      ]
+    },
+    {
+      "title": "A narrative portfolio",
+      "outcome": "Tell a coherent story and respond to questions.",
+      "tasks": [
+        "Write a 250-word story, 150-word comparison, and 120-word administrative message.",
+        "Explain a disruption orally and answer three follow-ups.",
+        "Complete mixed practice and revise temporal organization, reference, control, and purpose."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'enfance",
+      "en": "childhood",
+      "example": "Mon enfance était heureuse.",
+      "translation": "My childhood was happy.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "le souvenir",
+      "en": "memory",
+      "example": "J'en garde un bon souvenir.",
+      "translation": "I have fond memories of it.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "l'habitude",
+      "en": "habit",
+      "example": "J'avais cette habitude.",
+      "translation": "I had this habit.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "l'époque",
+      "en": "period; era",
+      "example": "À cette époque, je travaillais ici.",
+      "translation": "At that time, I worked here.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "la situation",
+      "en": "situation",
+      "example": "La situation était difficile.",
+      "translation": "The situation was difficult.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "l'événement",
+      "en": "event",
+      "example": "Cet événement a changé ma vie.",
+      "translation": "This event changed my life.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "la cause",
+      "en": "cause",
+      "example": "Je comprends la cause du retard.",
+      "translation": "I understand the cause of the delay.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "la conséquence",
+      "en": "consequence",
+      "example": "Cette erreur a une conséquence.",
+      "translation": "This mistake has a consequence.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "le résultat",
+      "en": "result",
+      "example": "Le résultat est clair.",
+      "translation": "The result is clear.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "l'explication",
+      "en": "explanation",
+      "example": "Merci pour votre explication.",
+      "translation": "Thank you for your explanation.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "l'accident",
+      "en": "accident",
+      "example": "J'ai vu un accident.",
+      "translation": "I saw an accident.",
+      "tag": "travel"
+    },
+    {
+      "fr": "la panne",
+      "en": "breakdown",
+      "example": "Le bus est tombé en panne.",
+      "translation": "The bus broke down.",
+      "tag": "travel"
+    },
+    {
+      "fr": "la circulation",
+      "en": "traffic",
+      "example": "La circulation était lente.",
+      "translation": "The traffic was slow.",
+      "tag": "travel"
+    },
+    {
+      "fr": "la grève",
+      "en": "strike",
+      "example": "Il y avait une grève.",
+      "translation": "There was a strike.",
+      "tag": "travel"
+    },
+    {
+      "fr": "l'embouteillage",
+      "en": "traffic jam",
+      "example": "Nous étions dans un embouteillage.",
+      "translation": "We were in a traffic jam.",
+      "tag": "travel"
+    },
+    {
+      "fr": "le détour",
+      "en": "detour",
+      "example": "Nous avons fait un détour.",
+      "translation": "We made a detour.",
+      "tag": "travel"
+    },
+    {
+      "fr": "le rendez-vous",
+      "en": "appointment",
+      "example": "J'avais pris rendez-vous.",
+      "translation": "I had made an appointment.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la mairie",
+      "en": "town hall",
+      "example": "Je vais à la mairie.",
+      "translation": "I am going to the town hall.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la préfecture",
+      "en": "prefecture; local state office",
+      "example": "La préfecture ouvre à neuf heures.",
+      "translation": "The prefecture opens at nine.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le guichet",
+      "en": "service counter",
+      "example": "Adressez-vous au guichet trois.",
+      "translation": "Go to counter three.",
+      "tag": "administration"
+    },
+    {
+      "fr": "l'accueil",
+      "en": "reception; welcome desk",
+      "example": "Demandez à l'accueil.",
+      "translation": "Ask at reception.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le dossier",
+      "en": "file; application dossier",
+      "example": "Mon dossier est complet.",
+      "translation": "My application file is complete.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le formulaire",
+      "en": "form",
+      "example": "Remplissez ce formulaire.",
+      "translation": "Fill in this form.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le document",
+      "en": "document",
+      "example": "J'ai oublié ce document.",
+      "translation": "I forgot this document.",
+      "tag": "administration"
+    },
+    {
+      "fr": "l'attestation",
+      "en": "certificate; statement",
+      "example": "Il me faut une attestation.",
+      "translation": "I need a certificate.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le justificatif",
+      "en": "supporting document",
+      "example": "Voici le justificatif demandé.",
+      "translation": "Here is the requested supporting document.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le justificatif de domicile",
+      "en": "proof of address",
+      "example": "Apportez un justificatif de domicile.",
+      "translation": "Bring proof of address.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la pièce jointe",
+      "en": "attachment",
+      "example": "Le document est en pièce jointe.",
+      "translation": "The document is attached.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la copie",
+      "en": "copy",
+      "example": "Je vous envoie une copie.",
+      "translation": "I am sending you a copy.",
+      "tag": "administration"
+    },
+    {
+      "fr": "l'original",
+      "en": "original document",
+      "example": "Gardez l'original.",
+      "translation": "Keep the original.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la signature",
+      "en": "signature",
+      "example": "Votre signature est nécessaire.",
+      "translation": "Your signature is necessary.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la date de naissance",
+      "en": "date of birth",
+      "example": "Indiquez votre date de naissance.",
+      "translation": "State your date of birth.",
+      "tag": "administration"
+    },
+    {
+      "fr": "l'adresse",
+      "en": "address",
+      "example": "Votre adresse a changé ?",
+      "translation": "Has your address changed?",
+      "tag": "administration"
+    },
+    {
+      "fr": "le numéro",
+      "en": "number",
+      "example": "Voici mon numéro de dossier.",
+      "translation": "Here is my file number.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la demande",
+      "en": "request; application",
+      "example": "J'ai envoyé ma demande.",
+      "translation": "I sent my application.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la réponse",
+      "en": "answer; reply",
+      "example": "J'attends votre réponse.",
+      "translation": "I am waiting for your reply.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la confirmation",
+      "en": "confirmation",
+      "example": "J'avais reçu une confirmation.",
+      "translation": "I had received a confirmation.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la réception",
+      "en": "receipt; reception",
+      "example": "Merci de confirmer la réception.",
+      "translation": "Please confirm receipt.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le courrier",
+      "en": "mail; formal letter",
+      "example": "Le document est arrivé par courrier.",
+      "translation": "The document arrived by mail.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le courriel",
+      "en": "email",
+      "example": "Je vous ai envoyé un courriel.",
+      "translation": "I sent you an email.",
+      "tag": "administration"
+    },
+    {
+      "fr": "l'expéditeur",
+      "en": "sender",
+      "example": "L'expéditeur a oublié la pièce jointe.",
+      "translation": "The sender forgot the attachment.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le destinataire",
+      "en": "recipient",
+      "example": "Le destinataire a répondu.",
+      "translation": "The recipient replied.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le délai",
+      "en": "time limit; processing period",
+      "example": "Le délai est de quinze jours.",
+      "translation": "The processing period is fifteen days.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la démarche",
+      "en": "procedure; administrative step",
+      "example": "Cette démarche est simple.",
+      "translation": "This procedure is simple.",
+      "tag": "administration"
+    },
+    {
+      "fr": "le renseignement",
+      "en": "information; detail",
+      "example": "Je voudrais un renseignement.",
+      "translation": "I would like some information.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la conseillère",
+      "en": "female adviser",
+      "example": "La conseillère m'a aidé.",
+      "translation": "The adviser helped me.",
+      "tag": "people"
+    },
+    {
+      "fr": "le conseiller",
+      "en": "male adviser",
+      "example": "Le conseiller a vérifié le dossier.",
+      "translation": "The adviser checked the file.",
+      "tag": "people"
+    },
+    {
+      "fr": "le responsable",
+      "en": "person in charge",
+      "example": "Je voudrais parler au responsable.",
+      "translation": "I would like to speak to the person in charge.",
+      "tag": "people"
+    },
+    {
+      "fr": "la pièce d'identité",
+      "en": "identity document",
+      "example": "Présentez une pièce d'identité.",
+      "translation": "Present an identity document.",
+      "tag": "administration"
+    },
+    {
+      "fr": "la solution",
+      "en": "solution",
+      "example": "Cette solution est meilleure.",
+      "translation": "This solution is better.",
+      "tag": "decisions"
+    },
+    {
+      "fr": "raconter",
+      "en": "to tell; narrate",
+      "example": "Elle raconte une histoire.",
+      "translation": "She is telling a story.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "expliquer",
+      "en": "to explain",
+      "example": "Je lui ai expliqué le problème.",
+      "translation": "I explained the problem to her.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "se souvenir de",
+      "en": "to remember",
+      "example": "Je me souviens de ce jour.",
+      "translation": "I remember that day.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "se rappeler",
+      "en": "to remember; recall",
+      "example": "Je me rappelle cette adresse.",
+      "translation": "I remember this address.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "grandir",
+      "en": "to grow up",
+      "example": "J'ai grandi dans cette ville.",
+      "translation": "I grew up in this town.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "habiter autrefois",
+      "en": "to live in former times",
+      "example": "Autrefois, j'habitais ici.",
+      "translation": "I used to live here.",
+      "tag": "narrative"
+    },
+    {
+      "fr": "se passer",
+      "en": "to happen",
+      "example": "Que s'est-il passé ?",
+      "translation": "What happened?",
+      "tag": "verbs"
+    },
+    {
+      "fr": "survenir",
+      "en": "to occur; arise",
+      "example": "Un problème est survenu.",
+      "translation": "A problem occurred.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "interrompre",
+      "en": "to interrupt",
+      "example": "Le bruit a interrompu la réunion.",
+      "translation": "The noise interrupted the meeting.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "reprendre",
+      "en": "to resume; take again",
+      "example": "Nous avons repris le travail.",
+      "translation": "We resumed work.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "remplir",
+      "en": "to fill in; fill",
+      "example": "J'ai rempli le formulaire.",
+      "translation": "I filled in the form.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "signer",
+      "en": "to sign",
+      "example": "Vous devez signer ici.",
+      "translation": "You must sign here.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "envoyer",
+      "en": "to send",
+      "example": "Je lui ai envoyé la copie.",
+      "translation": "I sent her the copy.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "joindre",
+      "en": "to attach; reach",
+      "example": "Je joins le document.",
+      "translation": "I am attaching the document.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "déposer",
+      "en": "to submit; put down",
+      "example": "J'ai déposé ma demande.",
+      "translation": "I submitted my application.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "fournir",
+      "en": "to provide",
+      "example": "Vous devez fournir une copie.",
+      "translation": "You must provide a copy.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "confirmer",
+      "en": "to confirm",
+      "example": "Pouvez-vous confirmer la date ?",
+      "translation": "Can you confirm the date?",
+      "tag": "verbs"
+    },
+    {
+      "fr": "indiquer",
+      "en": "to indicate; state",
+      "example": "Indiquez votre adresse.",
+      "translation": "State your address.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "demander",
+      "en": "to ask for; request",
+      "example": "Elle demande une attestation.",
+      "translation": "She is requesting a certificate.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "répondre à",
+      "en": "to answer; reply to",
+      "example": "Il a répondu au courriel.",
+      "translation": "He replied to the email.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "dépendre de",
+      "en": "to depend on",
+      "example": "Cela dépend du délai.",
+      "translation": "That depends on the time limit.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "participer à",
+      "en": "to take part in",
+      "example": "Je participe à la réunion.",
+      "translation": "I am taking part in the meeting.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "penser à",
+      "en": "to think about; remember to",
+      "example": "Je pense à ce problème.",
+      "translation": "I am thinking about this problem.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "parler de",
+      "en": "to talk about",
+      "example": "Nous parlons de ce dossier.",
+      "translation": "We are talking about this file.",
+      "tag": "verbs"
+    },
+    {
+      "fr": "avoir peur de",
+      "en": "to be afraid of",
+      "example": "J'avais peur du bruit.",
+      "translation": "I was afraid of the noise.",
+      "tag": "expressions"
+    },
+    {
+      "fr": "être en retard",
+      "en": "to be late",
+      "example": "Je suis en retard.",
+      "translation": "I am late.",
+      "tag": "expressions"
+    },
+    {
+      "fr": "être en panne",
+      "en": "to be broken down",
+      "example": "La voiture était en panne.",
+      "translation": "The car had broken down.",
+      "tag": "expressions"
+    },
+    {
+      "fr": "avoir lieu",
+      "en": "to take place",
+      "example": "La réunion a eu lieu lundi.",
+      "translation": "The meeting took place on Monday.",
+      "tag": "expressions"
+    },
+    {
+      "fr": "prendre rendez-vous",
+      "en": "to make an appointment",
+      "example": "J'ai pris rendez-vous hier.",
+      "translation": "I made an appointment yesterday.",
+      "tag": "expressions"
+    },
+    {
+      "fr": "faire une erreur",
+      "en": "to make a mistake",
+      "example": "J'avais fait une erreur.",
+      "translation": "I had made a mistake.",
+      "tag": "expressions"
+    },
+    {
+      "fr": "soudain",
+      "en": "suddenly",
+      "example": "Soudain, le téléphone a sonné.",
+      "translation": "Suddenly, the phone rang.",
+      "tag": "connectors"
+    },
+    {
+      "fr": "pendant que",
+      "en": "while",
+      "example": "Je lisais pendant qu'elle écrivait.",
+      "translation": "I was reading while she was writing.",
+      "tag": "connectors"
+    },
+    {
+      "fr": "lorsque",
+      "en": "when",
+      "example": "Il pleuvait lorsque je suis sorti.",
+      "translation": "It was raining when I went out.",
+      "tag": "connectors"
+    },
+    {
+      "fr": "autrefois",
+      "en": "formerly; in the past",
+      "example": "Autrefois, nous habitions ici.",
+      "translation": "We used to live here.",
+      "tag": "time"
+    },
+    {
+      "fr": "à cette époque",
+      "en": "at that time",
+      "example": "À cette époque, j'étais étudiant.",
+      "translation": "At that time, I was a student.",
+      "tag": "time"
+    },
+    {
+      "fr": "d'habitude",
+      "en": "usually",
+      "example": "D'habitude, je prenais le bus.",
+      "translation": "I usually took the bus.",
+      "tag": "frequency"
+    },
+    {
+      "fr": "le lendemain",
+      "en": "the following day",
+      "example": "Le lendemain, nous sommes partis.",
+      "translation": "The following day, we left.",
+      "tag": "time"
+    },
+    {
+      "fr": "la veille",
+      "en": "the previous day; eve",
+      "example": "J'avais appelé la veille.",
+      "translation": "I had called the previous day.",
+      "tag": "time"
+    },
+    {
+      "fr": "auparavant",
+      "en": "before; previously",
+      "example": "Je l'avais vu auparavant.",
+      "translation": "I had seen him before.",
+      "tag": "time"
+    },
+    {
+      "fr": "finalement",
+      "en": "in the end; ultimately",
+      "example": "Finalement, nous avons trouvé.",
+      "translation": "In the end, we found it.",
+      "tag": "connectors"
+    },
+    {
+      "fr": "pourtant",
+      "en": "yet; however",
+      "example": "Il était tard, pourtant elle attendait.",
+      "translation": "It was late, yet she was waiting.",
+      "tag": "connectors"
+    },
+    {
+      "fr": "comme",
+      "en": "as; since; like",
+      "example": "Comme il pleuvait, nous sommes restés.",
+      "translation": "As it was raining, we stayed.",
+      "tag": "connectors"
+    },
+    {
+      "fr": "meilleur; meilleure",
+      "en": "better as an adjective",
+      "example": "Cette idée est meilleure.",
+      "translation": "This idea is better.",
+      "tag": "comparison"
+    },
+    {
+      "fr": "mieux",
+      "en": "better as an adverb",
+      "example": "Je comprends mieux maintenant.",
+      "translation": "I understand better now.",
+      "tag": "comparison"
+    },
+    {
+      "fr": "aussi…que",
+      "en": "as…as",
+      "example": "Il est aussi grand que moi.",
+      "translation": "He is as tall as I am.",
+      "tag": "comparison"
+    },
+    {
+      "fr": "autant de…que",
+      "en": "as much/many…as",
+      "example": "J'ai autant de travail que toi.",
+      "translation": "I have as much work as you.",
+      "tag": "comparison"
+    },
+    {
+      "fr": "de plus en plus",
+      "en": "more and more; increasingly",
+      "example": "Je lis de plus en plus.",
+      "translation": "I read more and more.",
+      "tag": "comparison"
+    },
+    {
+      "fr": "de moins en moins",
+      "en": "less and less",
+      "example": "Je fais de moins en moins d'erreurs.",
+      "translation": "I make fewer and fewer mistakes.",
+      "tag": "comparison"
+    },
+    {
+      "fr": "nécessaire",
+      "en": "necessary",
+      "example": "Cette copie est nécessaire.",
+      "translation": "This copy is necessary.",
+      "tag": "adjectives"
+    },
+    {
+      "fr": "complet; complète",
+      "en": "complete",
+      "example": "Votre demande est complète.",
+      "translation": "Your application is complete.",
+      "tag": "adjectives"
+    }
+  ],
+  "sentences": [
+    {
+      "fr": "Je préparais le dîner quand tu as appelé.",
+      "en": "I was preparing dinner when you called.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The ongoing preparation is background; the call is a bounded event."
+    },
+    {
+      "fr": "Quand je suis arrivé, elles étaient déjà parties.",
+      "en": "When I arrived, they had already left.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The plus-que-parfait places their departure before the past arrival; the group is feminine."
+    },
+    {
+      "fr": "Je les lui ai données hier.",
+      "en": "I gave them to her yesterday.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "I gave them to him yesterday."
+      ],
+      "note": "In this context les refers to les clés; direct les precedes indirect lui and triggers données."
+    },
+    {
+      "fr": "Tu as trois billets ? Oui, j'en ai trois.",
+      "en": "Do you have three tickets? Yes, I have three.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "En replaces the counted noun while trois remains."
+    },
+    {
+      "fr": "Le document que vous avez envoyé est utile.",
+      "en": "The document that you sent is useful.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Que is the direct object of avez envoyé in the relative clause."
+    },
+    {
+      "fr": "C'est la ville où j'ai grandi.",
+      "en": "This is the town where I grew up.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Où introduces a relative referring to location."
+    },
+    {
+      "fr": "Le dossier dont je parle est sur la table.",
+      "en": "The file I am talking about is on the table.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Parler de creates the de-relationship replaced by dont."
+    },
+    {
+      "fr": "Cette solution est meilleure, mais elle coûte plus cher.",
+      "en": "This solution is better, but it costs more.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Meilleure modifies feminine solution; plus cher belongs to the cost expression."
+    },
+    {
+      "fr": "Nous y allions tous les étés.",
+      "en": "We used to go there every summer.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Imparfait presents a past routine; y replaces the destination."
+    },
+    {
+      "fr": "Ne me le donnez pas maintenant.",
+      "en": "Do not give it to me now.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The negative imperative uses ordinary pre-verbal pronoun order."
+    },
+    {
+      "fr": "J'avais oublié mon billet à la maison.",
+      "en": "I had forgotten my ticket at home.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "The earlier forgetting is located before an understood past reference point."
+    },
+    {
+      "fr": "Je lui en ai parlé.",
+      "en": "I spoke to her about it.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "I spoke to him about it.",
+        "I have spoken to her about it.",
+        "I have spoken to him about it."
+      ],
+      "note": "Lui replaces the addressee; en replaces the topic introduced by de."
+    },
+    {
+      "fr": "Les lettres que j'ai écrites sont sur le bureau.",
+      "en": "The letters I wrote are on the desk.",
+      "alternativesFr": [],
+      "alternativesEn": [
+        "The letters I have written are on the desk."
+      ],
+      "note": "Que refers to feminine plural lettres and precedes the avoir participle."
+    },
+    {
+      "fr": "Il travaillait quand nous sommes entrés.",
+      "en": "He was working when we came in.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Working is background to the completed entrance."
+    },
+    {
+      "fr": "Cette chambre est moins chère que l'autre.",
+      "en": "This room is cheaper than the other.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Moins chère que literally means less expensive than; chère agrees with chambre."
+    },
+    {
+      "fr": "Elles se sont lavé les mains.",
+      "en": "They washed their hands.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Les mains is the following direct object; se is indirect, so lavé does not agree."
+    },
+    {
+      "fr": "Je vous envoie le document en pièce jointe.",
+      "en": "I am sending you the document as an attachment.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Vous is the indirect recipient; en pièce jointe is a fixed administrative phrase."
+    },
+    {
+      "fr": "La circulation était lente parce qu'il pleuvait.",
+      "en": "The traffic was slow because it was raining.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Both clauses describe the background situation."
+    },
+    {
+      "fr": "J'ai autant de travail que toi.",
+      "en": "I have as much work as you.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "A comparison of noun quantities uses autant de…que."
+    },
+    {
+      "fr": "La conseillère m'a indiqué les pièces dont j'avais besoin.",
+      "en": "The adviser told me which documents I needed.",
+      "alternativesFr": [],
+      "alternativesEn": [],
+      "note": "Avoir besoin de supplies the de-relationship for dont; avait besoin becomes avais besoin with je."
+    }
+  ],
+  "grammar": [
+    {
+      "prompt": "À cette époque, nous ___ à Lyon. (habitual background)",
+      "options": [
+        "habitions",
+        "avons habité demain",
+        "habiterons",
+        "habiter"
+      ],
+      "answer": 0,
+      "explanation": "The imparfait presents the past residence as background."
+    },
+    {
+      "prompt": "Je préparais le dîner quand tu ___ appelé. (You called; the call is a bounded event.)",
+      "options": [
+        "étais",
+        "as",
+        "avais être",
+        "vas"
+      ],
+      "answer": 1,
+      "explanation": "A bounded call interrupting an ongoing background is naturally expressed in passé composé."
+    },
+    {
+      "prompt": "Quand je suis arrivé, elle ___ déjà partie.",
+      "options": [
+        "a",
+        "est demain",
+        "était",
+        "avait"
+      ],
+      "answer": 2,
+      "explanation": "The earlier departure uses plus-que-parfait with être."
+    },
+    {
+      "prompt": "Nous étudi___ chaque soir à cette époque.",
+      "options": [
+        "ons",
+        "erons",
+        "é",
+        "ions"
+      ],
+      "answer": 3,
+      "explanation": "Étudier forms the imparfait nous étudiions, including two written i's."
+    },
+    {
+      "prompt": "Je téléphone à Léa. Je ___ téléphone.",
+      "options": [
+        "lui",
+        "la",
+        "le",
+        "en"
+      ],
+      "answer": 0,
+      "explanation": "Téléphoner à takes an indirect object; lui can refer to Léa."
+    },
+    {
+      "prompt": "Je pense à ce problème. J'___ pense.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "Y replaces a selected à plus thing complement."
+    },
+    {
+      "prompt": "J'ai trois billets. J'___ ai trois.",
+      "options": [
+        "y",
+        "les",
+        "en",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the noun introduced by a quantity while three remains."
+    },
+    {
+      "prompt": "Je donne le formulaire à Léa. Je ___ donne.",
+      "options": [
+        "lui le",
+        "la lui",
+        "le la",
+        "le lui"
+      ],
+      "answer": 3,
+      "explanation": "Direct le precedes indirect lui before the conjugated verb."
+    },
+    {
+      "prompt": "Je vais donner le document à Léa. Je vais ___ donner.",
+      "options": [
+        "le lui",
+        "lui le",
+        "le la",
+        "leur lui"
+      ],
+      "answer": 0,
+      "explanation": "Both pronouns belong before donner and follow the normal order le then lui."
+    },
+    {
+      "prompt": "Les clés que j'ai ___ sont ici.",
+      "options": [
+        "trouvé",
+        "trouvées",
+        "trouvés",
+        "trouvée"
+      ],
+      "answer": 1,
+      "explanation": "The preceding direct object que refers to feminine plural clés."
+    },
+    {
+      "prompt": "Elles se sont ___ les mains.",
+      "options": [
+        "lavées",
+        "lavée",
+        "lavé",
+        "lavés"
+      ],
+      "answer": 2,
+      "explanation": "Les mains is a following direct object; se is indirect, so lavé does not agree."
+    },
+    {
+      "prompt": "Voici le voisin ___ travaille à la mairie.",
+      "options": [
+        "que",
+        "dont",
+        "où",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "Qui is the subject of travaille inside the relative clause."
+    },
+    {
+      "prompt": "Voici le dossier ___ je parle.",
+      "options": [
+        "dont",
+        "que",
+        "qui",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Parler de requires the de-relationship expressed by dont."
+    },
+    {
+      "prompt": "Cette solution est ___ que l'autre. (Describe solution in edited standard French.)",
+      "options": [
+        "mieux",
+        "meilleure",
+        "meilleur",
+        "bien"
+      ],
+      "answer": 1,
+      "explanation": "An adjective modifying feminine solution uses meilleure."
+    },
+    {
+      "prompt": "Ne ___ donnez pas ! (it to me)",
+      "options": [
+        "le moi",
+        "le me",
+        "me le",
+        "moi le"
+      ],
+      "answer": 2,
+      "explanation": "A negative imperative uses ordinary pre-verbal order me then le."
+    }
+  ]
+}

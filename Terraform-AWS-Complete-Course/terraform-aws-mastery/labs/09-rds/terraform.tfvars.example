@@ -1,0 +1,7 @@
+expected_account_id       = "123456789012"
+region                    = "us-east-1"
+engine_version            = "REPLACE_WITH_CURRENT_SUPPORTED_POSTGRES_VERSION"
+instance_class            = "REPLACE_WITH_CURRENT_SUPPORTED_INSTANCE_CLASS"
+final_snapshot_identifier = "tf-mastery-final-REPLACE-WITH-UNIQUE-RUN-ID"
+# Creation has recurring cost. Deletion protection must be deliberately changed
+# and applied before destruction. The final snapshot has its own retention cost.

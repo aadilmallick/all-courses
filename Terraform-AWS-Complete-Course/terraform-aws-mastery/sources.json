@@ -1,0 +1,547 @@
+{
+  "review_date": "2026-11-13",
+  "baseline": {
+    "terraform": "1.17.2",
+    "aws_provider": "6.0.0"
+  },
+  "sources": [
+    {
+      "id": "TF-INSTALL",
+      "title": "Install Terraform",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/install",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Installation and declared release route",
+      "chapters": [
+        1
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-RELEASES",
+      "title": "Terraform release index",
+      "publisher": "HashiCorp",
+      "url": "https://releases.hashicorp.com/terraform/",
+      "accessed": "2026-11-13",
+      "status": "index-only",
+      "inspected": "Index inspected; 1.17.2 listed; executable actually downloaded and version executed",
+      "chapters": [
+        1,
+        11
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-PLAN",
+      "title": "Plan command",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/cli/commands/plan",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Plan options and workflow; partial page inspection",
+      "chapters": [
+        1,
+        8,
+        10
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-TYPES",
+      "title": "Types and values",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/expressions/types",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Language reference; partial inspection",
+      "chapters": [
+        2
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-EACH",
+      "title": "for_each",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/meta-arguments/for_each",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Identity/known-key reference; partial inspection",
+      "chapters": [
+        2,
+        7
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-MODULE-PROVIDERS",
+      "title": "Providers within modules",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/modules/develop/providers",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Provider mapping and inheritance; partial inspection",
+      "chapters": [
+        7,
+        11
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-LIFECYCLE",
+      "title": "Lifecycle reference",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Lifecycle control reference; partial inspection",
+      "chapters": [
+        8
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-MOVED",
+      "title": "Refactor modules",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/modules/develop/refactoring",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Address-move reference; partial inspection plus local executable migration",
+      "chapters": [
+        7,
+        8
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-IMPORT",
+      "title": "Import overview",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/import",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Import adoption workflow; partial inspection",
+      "chapters": [
+        8
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-REMOVED",
+      "title": "Removed block",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/block/removed",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Ownership-removal reference; partial inspection",
+      "chapters": [
+        8
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-STATE",
+      "title": "State overview",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/state",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "State role; partial inspection",
+      "chapters": [
+        6
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-S3",
+      "title": "S3 backend",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/backend/s3",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Native lock setting, DynamoDB deprecation, workspace paths, permissions sections inspected",
+      "chapters": [
+        6
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-TESTS",
+      "title": "Terraform tests",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/tests",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Default apply, plan override, test structure inspected; local tests executed",
+      "chapters": [
+        9
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-MOCKS",
+      "title": "Provider mocking",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/tests/mocking",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Mock-provider behavior and data defaults; local tests executed",
+      "chapters": [
+        9
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-SECRETS",
+      "title": "Manage sensitive data",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/manage-sensitive-data",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Persistence and feature-version distinctions inspected",
+      "chapters": [
+        6,
+        9
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-EPHEMERAL",
+      "title": "Ephemeral resource values",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/manage-sensitive-data/ephemeral",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Feature survey; partial inspection; no real secret handling executed",
+      "chapters": [
+        9
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-SHOW",
+      "title": "Show command",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/cli/commands/show",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "JSON-output reference; actual local plan JSON parsed",
+      "chapters": [
+        9,
+        10
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-STACKS",
+      "title": "Stacks overview",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/stacks",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Component/deployment and platform distinction inspected; no hosted run",
+      "chapters": [
+        11
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "TF-ACTIONS",
+      "title": "Invoke actions",
+      "publisher": "HashiCorp",
+      "url": "https://developer.hashicorp.com/terraform/language/invoke-actions",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Provider support and operation model inspected; no action executed",
+      "chapters": [
+        11
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-SSO",
+      "title": "CLI IAM Identity Center authentication",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Prerequisites and profile/login workflow; no user sign-in performed",
+      "chapters": [
+        3
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-IAM",
+      "title": "IAM security practices",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Temporary human/workload identity and permission guidance inspected",
+      "chapters": [
+        3,
+        9
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-EVALUATION",
+      "title": "IAM policy evaluation logic",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Policy-type/deny distinctions inspected",
+      "chapters": [
+        3,
+        11
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-VPC",
+      "title": "How VPC works",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "VPC, subnet, route concepts inspected",
+      "chapters": [
+        4
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-SG",
+      "title": "Security groups",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Group model and traffic control; partial inspection",
+      "chapters": [
+        4
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-NACL",
+      "title": "Network ACLs",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Subnet control and comparison; partial inspection",
+      "chapters": [
+        4
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-RUNTIME",
+      "title": "Lambda runtimes",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Runtime identifiers/support policy; partial inspection; Python 3.13 course selection",
+      "chapters": [
+        5
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-HTTP-IAM",
+      "title": "HTTP API IAM authorization",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-access-control-iam.html",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "SigV4 and execute-api permission requirement inspected",
+      "chapters": [
+        5
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-TF",
+      "title": "Terraform AWS provider practices",
+      "publisher": "AWS",
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/introduction.html",
+      "accessed": "2026-11-13",
+      "status": "index-only",
+      "inspected": "Introduction/index only, not a claim to read every linked chapter",
+      "chapters": [
+        11
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "GH-OIDC",
+      "title": "GitHub OIDC in AWS",
+      "publisher": "GitHub/AWS Actions",
+      "url": "https://docs.github.com/en/actions/how-tos/secure-your-work/security-harden-deployments/oidc-in-aws",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Trust audience/subject integration overview inspected; no hosted workflow executed",
+      "chapters": [
+        10
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "GH-ENV",
+      "title": "GitHub deployment environments",
+      "publisher": "GitHub/AWS Actions",
+      "url": "https://docs.github.com/en/actions/how-tos/deploy/configure-and-manage-deployments/manage-environments",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Protection/settings availability inspected; no repository settings changed",
+      "chapters": [
+        10
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "GH-TF",
+      "title": "HashiCorp setup-terraform",
+      "publisher": "GitHub/AWS Actions",
+      "url": "https://github.com/hashicorp/setup-terraform",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Official action repository partial inspection; no action dependency distributed",
+      "chapters": [
+        10
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "GH-AWS",
+      "title": "AWS configure-aws-credentials",
+      "publisher": "GitHub/AWS Actions",
+      "url": "https://github.com/aws-actions/configure-aws-credentials",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Official action repository partial inspection; no action dependency distributed",
+      "chapters": [
+        10
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-PROVIDER-S3_BUCKET",
+      "title": "AWS provider 6.0.0 s3_bucket schema",
+      "publisher": "HashiCorp",
+      "url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/s3_bucket.html.markdown",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally",
+      "chapters": [
+        3
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-PROVIDER-LAMBDA_FUNCTION",
+      "title": "AWS provider 6.0.0 lambda_function schema",
+      "publisher": "HashiCorp",
+      "url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/lambda_function.html.markdown",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally",
+      "chapters": [
+        5
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-PROVIDER-APIGATEWAYV2_INTEGRATION",
+      "title": "AWS provider 6.0.0 apigatewayv2_integration schema",
+      "publisher": "HashiCorp",
+      "url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/apigatewayv2_integration.html.markdown",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally",
+      "chapters": [
+        5
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-PROVIDER-INSTANCE",
+      "title": "AWS provider 6.0.0 instance schema",
+      "publisher": "HashiCorp",
+      "url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/instance.html.markdown",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally",
+      "chapters": [
+        5
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-PROVIDER-LAUNCH_TEMPLATE",
+      "title": "AWS provider 6.0.0 launch_template schema",
+      "publisher": "HashiCorp",
+      "url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/launch_template.html.markdown",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally",
+      "chapters": [
+        5
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "AWS-PROVIDER-DB_INSTANCE",
+      "title": "AWS provider 6.0.0 db_instance schema",
+      "publisher": "HashiCorp",
+      "url": "https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/db_instance.html.markdown",
+      "accessed": "2026-11-13",
+      "status": "partially-inspected",
+      "inspected": "Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally",
+      "chapters": [
+        9,
+        11
+      ],
+      "rights": "Linked as a reference. No full source prose or proprietary source extraction redistributed."
+    },
+    {
+      "id": "UNAVAILABLE-38",
+      "title": "Limited research access",
+      "url": "https://registry.terraform.io/providers/hashicorp/aws/latest/docs",
+      "accessed": "2026-11-13",
+      "status": "unavailable",
+      "inspected": "Registry returned a JavaScript shell or reference URL was unavailable. Version-matched provider source and executed schemas used where applicable. No invented runnable list/query API.",
+      "chapters": [
+        11
+      ]
+    },
+    {
+      "id": "UNAVAILABLE-39",
+      "title": "Limited research access",
+      "url": "https://developer.hashicorp.com/terraform/language/list",
+      "accessed": "2026-11-13",
+      "status": "unavailable",
+      "inspected": "Registry returned a JavaScript shell or reference URL was unavailable. Version-matched provider source and executed schemas used where applicable. No invented runnable list/query API.",
+      "chapters": [
+        11
+      ]
+    },
+    {
+      "id": "UNAVAILABLE-40",
+      "title": "Limited research access",
+      "url": "https://developer.hashicorp.com/terraform/language/block/list",
+      "accessed": "2026-11-13",
+      "status": "unavailable",
+      "inspected": "Registry returned a JavaScript shell or reference URL was unavailable. Version-matched provider source and executed schemas used where applicable. No invented runnable list/query API.",
+      "chapters": [
+        11
+      ]
+    }
+  ]
+}

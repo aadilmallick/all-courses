@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "title": "Quantitative Finance from First Principles",
+  "subtitle": "From arithmetic to independent quantitative research",
+  "audience": "Beginner; no university mathematics, programming, or finance assumed",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "1. Numbers, functions, and mathematical reasoning",
+      "path": "chapters/01-numbers-functions-and-reasoning.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "growth"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "2. Calculus and continuous models",
+      "path": "chapters/02-calculus-and-continuous-models.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "growth"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "3. Linear algebra and numerical structure",
+      "path": "chapters/03-linear-algebra-and-numerical-structure.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "portfolio"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "4. Python and reproducible computation",
+      "path": "chapters/04-python-and-reproducible-computation.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03"
+      ],
+      "experiments": [
+        "regression"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "5. Probability and random variables",
+      "path": "chapters/05-probability-and-random-variables.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "sampling"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "6. Statistical inference and evidence",
+      "path": "chapters/06-statistical-inference-and-evidence.md",
+      "part": "Foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "inference"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "7. Financial markets and valuation",
+      "path": "chapters/07-financial-markets-and-valuation.md",
+      "part": "Financial economics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06"
+      ],
+      "experiments": [
+        "growth",
+        "options"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "8. Portfolios, asset pricing, and performance",
+      "path": "chapters/08-portfolios-asset-pricing-and-performance.md",
+      "part": "Financial economics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "portfolio"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "9. Econometrics: identification and estimation",
+      "path": "chapters/09-econometrics-identification-and-estimation.md",
+      "part": "Empirical methods",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08"
+      ],
+      "experiments": [
+        "regression"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "10. Time series, forecasting, and volatility",
+      "path": "chapters/10-time-series-forecasting-and-volatility.md",
+      "part": "Empirical methods",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-09"
+      ],
+      "experiments": [
+        "ar1"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "11. Multivariate time series and Bayesian computation",
+      "path": "chapters/11-multivariate-time-series-and-bayesian-computation.md",
+      "part": "Empirical methods",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-10"
+      ],
+      "experiments": [
+        "kalman"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "12. Convex optimization and numerical methods",
+      "path": "chapters/12-convex-optimization-and-numerical-methods.md",
+      "part": "Optimization",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-11"
+      ],
+      "experiments": [
+        "convex"
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "title": "13. Stochastic processes and It\u00f4 calculus",
+      "path": "chapters/13-stochastic-processes-and-ito-calculus.md",
+      "part": "Continuous-time finance",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-12"
+      ],
+      "experiments": [
+        "gbm"
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "title": "14. Derivatives pricing and Monte Carlo",
+      "path": "chapters/14-derivatives-pricing-and-monte-carlo.md",
+      "part": "Continuous-time finance",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-13"
+      ],
+      "experiments": [
+        "options"
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "title": "15. Dynamic choice, risk, and execution",
+      "path": "chapters/15-dynamic-choice-risk-and-execution.md",
+      "part": "Continuous-time finance",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-14"
+      ],
+      "experiments": [
+        "dynamic",
+        "risk"
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "title": "16. Machine learning for quantitative research",
+      "path": "chapters/16-machine-learning-for-quantitative-research.md",
+      "part": "Learning and research",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-15"
+      ],
+      "experiments": [
+        "learning"
+      ]
+    },
+    {
+      "id": "chapter-17",
+      "title": "17. Research design, data, and backtesting",
+      "path": "chapters/17-research-design-data-and-backtesting.md",
+      "part": "Learning and research",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-16"
+      ],
+      "experiments": [
+        "leakage"
+      ]
+    },
+    {
+      "id": "chapter-18",
+      "title": "18. Project studio and readiness",
+      "path": "chapters/18-project-studio-and-readiness.md",
+      "part": "Learning and research",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-17"
+      ],
+      "experiments": [
+        "portfolio",
+        "regression",
+        "options"
+      ]
+    }
+  ],
+  "assets": [],
+  "source_listings": [
+    {
+      "id": "python-reference",
+      "title": "Python reference calculations",
+      "path": "examples/core_labs.py"
+    },
+    {
+      "id": "browser-labs",
+      "title": "Browser experiments",
+      "path": "companion/labs.mjs"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

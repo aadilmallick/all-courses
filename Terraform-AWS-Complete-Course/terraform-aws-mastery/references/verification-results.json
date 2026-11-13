@@ -1,0 +1,14 @@
+{
+  "parser": "python-hcl2 7.3.1",
+  "parsed_hcl_files": 37,
+  "terraform_cli": "1.17.2 windows_amd64",
+  "aws_provider": "6.0.0",
+  "validated_roots_and_modules": 14,
+  "validation_errors": 0,
+  "validation_warnings": 0,
+  "local_terraform_test_runs": 3,
+  "mocked_aws_test_runs": 5,
+  "python_unittest_methods": 15,
+  "companion_experiments": 12,
+  "full_aws_apply": false
+}

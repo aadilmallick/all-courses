@@ -1,0 +1,5 @@
+# Module contract: health-api
+
+Creates a Python 3.13 Lambda health handler deployment, execution role with scoped log-writing permissions, seven-day log group, HTTP API, public GET /health route, integration/stage, modest throttle settings, and route-scoped function invocation permission. Inputs: name, package_path, optional release, optional nonsecret context map. Outputs: url and function_name. Inherits caller AWS configuration. Baseline: Terraform 1.17.2, AWS provider 6.0.0.
+
+Complete usage: labs/03-serverless and labs/07-capstone. Package source: assets/handler.py; rebuild using python scripts/package_lambda.py from the course root. The handler has no third-party dependency. It does not access a table or bucket, implement authentication/CRUD, configure a custom domain/VPC, or provide complete production observability. Public health is intentional. Throttles are not a hard spending cap. Cloud use can incur charges. Mock tests check selected configuration and use schema-shaped policy JSON; real IAM/API behavior requires sandbox integration. See Chapters 5 and 9.

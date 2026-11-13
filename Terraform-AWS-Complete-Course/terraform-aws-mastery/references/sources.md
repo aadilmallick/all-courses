@@ -1,0 +1,51 @@
+# Sources and provenance
+
+Reviewed November 13, 2026. These are primary references, not copied textbook source. Reading claims are bounded by the inspected fields in [the full ledger](../sources.json). No AWS deployment, hosted CI, action, or Stack execution is implied by source inspection.
+
+| ID | Source | Access and coverage | Chapters |
+|---|---|---|---|
+| TF-INSTALL | [Install Terraform](https://developer.hashicorp.com/terraform/install) | partially-inspected: Installation and declared release route | 1 |
+| TF-RELEASES | [Terraform release index](https://releases.hashicorp.com/terraform/) | index-only: Index inspected; 1.17.2 listed; executable actually downloaded and version executed | 1, 11 |
+| TF-PLAN | [Plan command](https://developer.hashicorp.com/terraform/cli/commands/plan) | partially-inspected: Plan options and workflow; partial page inspection | 1, 8, 10 |
+| TF-TYPES | [Types and values](https://developer.hashicorp.com/terraform/language/expressions/types) | partially-inspected: Language reference; partial inspection | 2 |
+| TF-EACH | [for_each](https://developer.hashicorp.com/terraform/language/meta-arguments/for_each) | partially-inspected: Identity/known-key reference; partial inspection | 2, 7 |
+| TF-MODULE-PROVIDERS | [Providers within modules](https://developer.hashicorp.com/terraform/language/modules/develop/providers) | partially-inspected: Provider mapping and inheritance; partial inspection | 7, 11 |
+| TF-LIFECYCLE | [Lifecycle reference](https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle) | partially-inspected: Lifecycle control reference; partial inspection | 8 |
+| TF-MOVED | [Refactor modules](https://developer.hashicorp.com/terraform/language/modules/develop/refactoring) | partially-inspected: Address-move reference; partial inspection plus local executable migration | 7, 8 |
+| TF-IMPORT | [Import overview](https://developer.hashicorp.com/terraform/language/import) | partially-inspected: Import adoption workflow; partial inspection | 8 |
+| TF-REMOVED | [Removed block](https://developer.hashicorp.com/terraform/language/block/removed) | partially-inspected: Ownership-removal reference; partial inspection | 8 |
+| TF-STATE | [State overview](https://developer.hashicorp.com/terraform/language/state) | partially-inspected: State role; partial inspection | 6 |
+| TF-S3 | [S3 backend](https://developer.hashicorp.com/terraform/language/backend/s3) | partially-inspected: Native lock setting, DynamoDB deprecation, workspace paths, permissions sections inspected | 6 |
+| TF-TESTS | [Terraform tests](https://developer.hashicorp.com/terraform/language/tests) | partially-inspected: Default apply, plan override, test structure inspected; local tests executed | 9 |
+| TF-MOCKS | [Provider mocking](https://developer.hashicorp.com/terraform/language/tests/mocking) | partially-inspected: Mock-provider behavior and data defaults; local tests executed | 9 |
+| TF-SECRETS | [Manage sensitive data](https://developer.hashicorp.com/terraform/language/manage-sensitive-data) | partially-inspected: Persistence and feature-version distinctions inspected | 6, 9 |
+| TF-EPHEMERAL | [Ephemeral resource values](https://developer.hashicorp.com/terraform/language/manage-sensitive-data/ephemeral) | partially-inspected: Feature survey; partial inspection; no real secret handling executed | 9 |
+| TF-SHOW | [Show command](https://developer.hashicorp.com/terraform/cli/commands/show) | partially-inspected: JSON-output reference; actual local plan JSON parsed | 9, 10 |
+| TF-STACKS | [Stacks overview](https://developer.hashicorp.com/terraform/language/stacks) | partially-inspected: Component/deployment and platform distinction inspected; no hosted run | 11 |
+| TF-ACTIONS | [Invoke actions](https://developer.hashicorp.com/terraform/language/invoke-actions) | partially-inspected: Provider support and operation model inspected; no action executed | 11 |
+| AWS-SSO | [CLI IAM Identity Center authentication](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html) | partially-inspected: Prerequisites and profile/login workflow; no user sign-in performed | 3 |
+| AWS-IAM | [IAM security practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html) | partially-inspected: Temporary human/workload identity and permission guidance inspected | 3, 9 |
+| AWS-EVALUATION | [IAM policy evaluation logic](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html) | partially-inspected: Policy-type/deny distinctions inspected | 3, 11 |
+| AWS-VPC | [How VPC works](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html) | partially-inspected: VPC, subnet, route concepts inspected | 4 |
+| AWS-SG | [Security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html) | partially-inspected: Group model and traffic control; partial inspection | 4 |
+| AWS-NACL | [Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html) | partially-inspected: Subnet control and comparison; partial inspection | 4 |
+| AWS-RUNTIME | [Lambda runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html) | partially-inspected: Runtime identifiers/support policy; partial inspection; Python 3.13 course selection | 5 |
+| AWS-HTTP-IAM | [HTTP API IAM authorization](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-access-control-iam.html) | partially-inspected: SigV4 and execute-api permission requirement inspected | 5 |
+| AWS-TF | [Terraform AWS provider practices](https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/introduction.html) | index-only: Introduction/index only, not a claim to read every linked chapter | 11 |
+| GH-OIDC | [GitHub OIDC in AWS](https://docs.github.com/en/actions/how-tos/secure-your-work/security-harden-deployments/oidc-in-aws) | partially-inspected: Trust audience/subject integration overview inspected; no hosted workflow executed | 10 |
+| GH-ENV | [GitHub deployment environments](https://docs.github.com/en/actions/how-tos/deploy/configure-and-manage-deployments/manage-environments) | partially-inspected: Protection/settings availability inspected; no repository settings changed | 10 |
+| GH-TF | [HashiCorp setup-terraform](https://github.com/hashicorp/setup-terraform) | partially-inspected: Official action repository partial inspection; no action dependency distributed | 10 |
+| GH-AWS | [AWS configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) | partially-inspected: Official action repository partial inspection; no action dependency distributed | 10 |
+| AWS-PROVIDER-S3_BUCKET | [AWS provider 6.0.0 s3_bucket schema](https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/s3_bucket.html.markdown) | partially-inspected: Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally | 3 |
+| AWS-PROVIDER-LAMBDA_FUNCTION | [AWS provider 6.0.0 lambda_function schema](https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/lambda_function.html.markdown) | partially-inspected: Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally | 5 |
+| AWS-PROVIDER-APIGATEWAYV2_INTEGRATION | [AWS provider 6.0.0 apigatewayv2_integration schema](https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/apigatewayv2_integration.html.markdown) | partially-inspected: Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally | 5 |
+| AWS-PROVIDER-INSTANCE | [AWS provider 6.0.0 instance schema](https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/instance.html.markdown) | partially-inspected: Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally | 5 |
+| AWS-PROVIDER-LAUNCH_TEMPLATE | [AWS provider 6.0.0 launch_template schema](https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/launch_template.html.markdown) | partially-inspected: Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally | 5 |
+| AWS-PROVIDER-DB_INSTANCE | [AWS provider 6.0.0 db_instance schema](https://raw.githubusercontent.com/hashicorp/terraform-provider-aws/v6.0.0/website/docs/r/db_instance.html.markdown) | partially-inspected: Version-matched official provider source documentation, partially inspected; selected implemented schemas also validated locally | 9, 11 |
+| UNAVAILABLE-38 | [Limited research access](https://registry.terraform.io/providers/hashicorp/aws/latest/docs) | unavailable: Registry returned a JavaScript shell or reference URL was unavailable. Version-matched provider source and executed schemas used where applicable. No invented runnable list/query API. | 11 |
+| UNAVAILABLE-39 | [Limited research access](https://developer.hashicorp.com/terraform/language/list) | unavailable: Registry returned a JavaScript shell or reference URL was unavailable. Version-matched provider source and executed schemas used where applicable. No invented runnable list/query API. | 11 |
+| UNAVAILABLE-40 | [Limited research access](https://developer.hashicorp.com/terraform/language/block/list) | unavailable: Registry returned a JavaScript shell or reference URL was unavailable. Version-matched provider source and executed schemas used where applicable. No invented runnable list/query API. | 11 |
+
+## Coverage model
+
+Chapters 1–2 develop language and lifecycle with executed built-in-provider examples. Chapters 3–5 map AWS concepts to pinned provider schemas. Chapters 6–8 cover state and identity transitions. Chapters 9–10 connect claims to tests and delivery artifacts. Chapters 11–12 cover organizational design and the integrated reference. Each chapter has an associated computed companion experiment. Source references are original-synthesis inputs; no exhaustive inspection of linked sites is claimed.

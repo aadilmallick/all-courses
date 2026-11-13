@@ -1,0 +1,103 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "growth",
+      "title": "Growth and discounting",
+      "chapter": "chapter-01",
+      "description": "Growth and discounting",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "portfolio",
+      "title": "Diversification",
+      "chapter": "chapter-08",
+      "description": "Diversification",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "sampling",
+      "title": "Repeated sampling",
+      "chapter": "chapter-05",
+      "description": "Repeated sampling",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "inference",
+      "title": "Intervals and testing",
+      "chapter": "chapter-06",
+      "description": "Intervals and testing",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "regression",
+      "title": "Regression projection",
+      "chapter": "chapter-09",
+      "description": "Regression projection",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "ar1",
+      "title": "Autoregression",
+      "chapter": "chapter-10",
+      "description": "Autoregression",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "kalman",
+      "title": "Hidden-state filtering",
+      "chapter": "chapter-11",
+      "description": "Hidden-state filtering",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "convex",
+      "title": "Bounded optimization",
+      "chapter": "chapter-12",
+      "description": "Bounded optimization",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "gbm",
+      "title": "Stochastic paths",
+      "chapter": "chapter-13",
+      "description": "Stochastic paths",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "options",
+      "title": "Option pricing",
+      "chapter": "chapter-14",
+      "description": "Option pricing",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "dynamic",
+      "title": "Dynamic choice",
+      "chapter": "chapter-15",
+      "description": "Dynamic choice",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "learning",
+      "title": "Overfitting",
+      "chapter": "chapter-16",
+      "description": "Overfitting",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "leakage",
+      "title": "Information leakage",
+      "chapter": "chapter-17",
+      "description": "Information leakage",
+      "module": "labs.mjs"
+    },
+    {
+      "id": "risk",
+      "title": "Tail risk",
+      "chapter": "chapter-15",
+      "description": "Tail risk",
+      "module": "labs.mjs"
+    }
+  ]
+}

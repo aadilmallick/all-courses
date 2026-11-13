@@ -1,0 +1,5 @@
+---
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+const home = Astro.url.pathname === '/';
+---
+{!home && <Default {...Astro.props} />}

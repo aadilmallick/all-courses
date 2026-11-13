@@ -1,0 +1,188 @@
+# 07 · Argument and precise prose
+
+**Working level:** B2. **Study budget:** 100 hours, course hours 601–700. **Prerequisites:** chapters five and six, especially time relationships, reported speech, subjunctive frames, relative clauses, passive voice, and participles. This chapter helps you build a defensible argument, report another person's position fairly, and edit the grammatical details of careful French.
+
+An argument is not a pile of impressive connecting words. It is a relationship between a claim, reasons, evidence, limitations, and a response to a reasonable objection. French grammar helps make those relationships explicit. A reader should know what you assert, where the information comes from, what remains uncertain, and why your recommendation follows. The same skills support work messages, public discussion, study, and examination tasks.
+
+## The 100-hour plan
+
+For each ten-hour unit, devote two hours to explanation and worked examples, two to vocabulary and spaced review, two to listening and note-taking, two to speaking and interaction, one to writing, and one to editing and a new attempt. During listening work, include human discussion with at least two viewpoints. Start with a short segment you can follow; length is less important than accurate representation.
+
+| Unit | Hours | Product |
+| --- | --- | --- |
+| 1. Claim, reason, evidence | 601–610 | A paragraph whose claim is supported by a concrete reason |
+| 2. Cause and consequence | 611–620 | Explain a local problem without confusing correlation and cause |
+| 3. Concession and purpose | 621–630 | Present an objection fairly and answer it |
+| 4. Reporting across time | 631–640 | Summarize a past interview with an accurate timeline |
+| 5. Voices and sources | 641–650 | Separate your view from a speaker's claim and an unconfirmed report |
+| 6. Completed actions and infinitives | 651–660 | Condense a process with clear subjects and time relationships |
+| 7. Participle agreement | 661–670 | Edit a text using direct-object analysis |
+| 8. Negation, restriction, formal questions | 671–680 | Read careful prose without reversing its meaning |
+| 9. Media and public debate | 681–690 | Compare two positions and identify missing evidence |
+| 10. Argument portfolio | 691–700 | A structured essay, short oral defense, and revised final version |
+
+The final tasks are local learning checkpoints. They do not reproduce an official examination or guarantee a B2 certificate. Real competence also requires broad input, an increasingly flexible vocabulary, pronunciation that listeners can follow, and the ability to react to unfamiliar questions. Use the companion as a practice tool inside that wider activity.
+
+## 1. An argument the reader can inspect
+
+Begin with a question small enough to discuss concretely: should a town extend its library's opening hours? *Il faut prolonger les horaires* — “Opening hours should be extended” is a claim, but it does not yet explain why. Add a reason: *de nombreux habitants travaillent pendant les heures d'ouverture actuelles* — “many residents work during the current opening hours.” Add evidence if available: a local survey, attendance figures, or a clearly described observation. Do not invent a statistic to make the paragraph sound authoritative.
+
+A useful paragraph can follow **claim → reason → example → limitation → implication**. *La bibliothèque devrait ouvrir plus tard deux soirs par semaine. Cette mesure permettrait aux habitants qui travaillent en journée d'utiliser ses services. Par exemple, une personne qui termine à dix-huit heures pourrait emprunter un livre sans prendre un congé. Il faudrait toutefois vérifier le coût et les disponibilités du personnel. Une expérimentation limitée serait donc préférable à une extension immédiate de tous les horaires.*
+
+Translation: “The library should open later two evenings a week. This measure would allow residents who work during the day to use its services. For example, someone who finishes at six could borrow a book without taking time off. However, costs and staff availability would need to be checked. A limited trial would therefore be preferable to an immediate extension of all opening hours.” The paragraph does not claim that one example proves demand. It shows a plausible benefit and proposes a way to investigate the uncertainty.
+
+Notice how grammar supports the argument. *Devrait* recommends rather than reports a current obligation. *Permettrait* describes an anticipated consequence. *Qui travaillent* identifies the intended group. *Il faudrait* introduces a requirement before action. *Donc* marks a conclusion drawn from those considerations. Each form has a job. Adding *en outre*, *néanmoins*, and *par conséquent* without clear relationships would not make the reasoning stronger.
+
+Use **selon** to identify a source: *Selon le rapport, la fréquentation a augmenté* — “According to the report, attendance increased.” The phrase attributes the information; it does not independently verify it. Use **d'après** similarly for a source or basis: *D'après les chiffres disponibles…* Say *à mon avis* for a personal view and *dans ce cas* for a conclusion tied to a particular situation. These signals prevent the reader from confusing observation, inference, and opinion.
+
+Practice by writing a paragraph without any connector beyond *parce que*, *mais*, and *donc*. Ask whether each sentence actually follows from the previous one. Then introduce a more precise connector only when it clarifies the relationship. Good B2 prose can be plain. Accuracy and relevance matter more than the number of formal expressions displayed.
+
+## 2. Cause is not the same as consequence
+
+**Parce que** introduces a cause or reason that answers why: *Le service ferme plus tôt parce que deux employés sont absents*. **Puisque** presents a reason treated as known or accepted: *Puisque vous avez déjà les documents, nous pouvons commencer*. **Comme**, at the beginning of a clause, can supply background cause: *Comme le bâtiment est fermé, la réunion aura lieu en ligne*. The same word *comme* has other uses, so inspect the whole sentence.
+
+Prepositional expressions take a noun phrase rather than a finite clause. **À cause de** often introduces an unwelcome cause: *à cause d'une panne*. **Grâce à** commonly credits a beneficial cause: *grâce au soutien des bénévoles*. **En raison de** is more neutral or formal: *en raison des travaux*. Their evaluations can be used ironically, but start with ordinary meanings. A phrase such as *grâce à la pollution* will sound intentionally surprising unless the context explains the favorable effect.
+
+Build “The event was postponed because of the storm.” Name the event and completed passive: *L'événement a été reporté*. Add the noun cause: **L'événement a été reporté à cause de la tempête.** To use a full clause, say *parce qu'une tempête était annoncée*. Do not write *à cause que* in standard edited prose. Regional uses exist, but this course's production target is widely understood careful French.
+
+Consequence can use **donc**, **alors**, **par conséquent**, or **c'est pourquoi**. *Le bâtiment est fermé; la réunion aura donc lieu en ligne.* *C'est pourquoi* generally links to the result as a new clause: *Le bâtiment est fermé. C'est pourquoi nous avons changé de lieu.* Match punctuation to the structure rather than joining a page of independent clauses with commas. A semicolon can separate closely related independent clauses, while a full stop is often the clearest choice.
+
+Degree-result constructions include **si + adjective/adverb + que** and **tellement + adjective/adverb + que**: *Le débat était si long que plusieurs participants sont partis* — “The debate was so long that several participants left.” With nouns, use *tellement de*: *Il y avait tellement de bruit que nous n'entendions rien*. With *tel*, agreement matters: *une telle différence que…*, *de tels écarts que…*. Choose a simple structure you can control before expanding it.
+
+Distinguish a reported consequence from a purpose. *Elle a expliqué la règle, de sorte que nous avons compris* reports understanding as a result. *Elle explique la règle pour que nous comprenions* presents understanding as the goal. The first takes an indicative result; the second takes the subjunctive after *pour que*. An intended effect may fail, while a reported effect is presented as having occurred. That distinction is central to evaluating proposals and studies.
+
+When discussing data, avoid automatically inferring cause from two things occurring together. *La fréquentation a augmenté après le changement* states sequence; *la fréquentation a augmenté grâce au changement* attributes a favorable cause. If evidence is limited, write *Le changement a peut-être contribué à cette hausse*. The cautious wording is more accurate because it identifies an inference rather than disguising it as an observation.
+
+## 3. Conceding a point and defining a purpose
+
+A concession acknowledges something that could count against the main claim while maintaining the claim. **Bien que + subjunctive**: *Bien que cette mesure soit coûteuse, elle pourrait être utile* — “Although this measure is costly, it could be useful.” **Même si + indicative**: *Même si cette mesure est coûteuse, elle pourrait être utile*. *Même si* can also introduce hypothetical situations with the appropriate indicative tense. Do not put the subjunctive after it merely because English says “even if.”
+
+**Malgré + noun** provides a shorter structure: *Malgré son coût, cette mesure pourrait être utile*. *Malgré que* exists in usage and is treated differently by reference works and registers; for your own careful writing here, choose the uncontroversial *bien que* with a clause or *malgré* with a noun. You do not need a disputed construction to make a precise concession.
+
+Contrastive connectors include *cependant*, *pourtant*, *toutefois*, and *néanmoins*. They overlap but can emphasize different relationships. *Pourtant* often highlights an unexpected contrast: *Le service est gratuit; pourtant, il reste peu utilisé*. *Toutefois* often introduces a qualification: *La proposition est intéressante. Toutefois, son financement reste incertain*. Read the sentence aloud and identify exactly what expectation is being challenged or limited.
+
+Opposition compares contrasting facts: *Tandis que certains habitants souhaitent une ouverture le soir, d'autres préfèrent le dimanche* — “While some residents want evening opening, others prefer Sunday.” Here *tandis que* is contrastive, not merely temporal. **En revanche** can introduce a compensating contrast: *Le bâtiment est petit; en revanche, il est bien situé*. **Au contraire** contradicts or reverses a preceding idea: *Ce service n'est pas inutile; au contraire, il répond à un besoin réel*. They are not interchangeable decorative words.
+
+Purpose with a shared subject uses **pour/afin de + infinitive**: *La ville consulte les habitants pour mieux comprendre leurs besoins*. A different subject commonly uses **pour que/afin que + subjunctive**: *La ville consulte les habitants pour que chacun puisse s'exprimer*. The city consults, and each person expresses an opinion. The clause structure makes that change of subject explicit.
+
+Negative purpose can use *pour ne pas*: *Nous limitons la durée pour ne pas fatiguer les participants* — “We limit the duration so as not to tire participants.” With another subject: *Nous faisons une pause pour que les participants ne soient pas trop fatigués*. Keep negation with the verb whose action you negate. *Nous ne faisons pas une pause pour…* can instead deny the making of a pause or challenge its purpose, depending on context.
+
+Write a balanced pair of paragraphs. In the first, give the strongest reasonable objection to your preferred policy. In the second, answer it without pretending it has disappeared. Begin *Il est vrai que…*, then *Cependant…*. A fair concession preserves the opponent's actual claim; it does not replace that claim with an easier, exaggerated version. Grammatical sophistication cannot repair an unfair summary.
+
+## 4. Reported speech and a moving timeline
+
+The key question in reported speech is “From which time are we viewing the events?” Suppose on Monday a manager says *Je suis occupée, j'ai reçu votre dossier et je vous répondrai mercredi*. When reporting later with a past reporting verb, say *Elle a dit qu'elle était occupée, qu'elle avait reçu notre dossier et qu'elle nous répondrait mercredi*. The three embedded verbs represent simultaneity, earlier completion, and later action relative to Monday's statement.
+
+This gives a useful ordinary pattern: present becomes **imparfait**, passé composé becomes **plus-que-parfait**, future becomes **conditional present**, and future perfect becomes **conditional past** when the viewpoint shifts to a past reporting moment. *Elle a dit : « J'aurai terminé avant midi. » → Elle a dit qu'elle aurait terminé avant midi.* The conditional here marks future completion relative to her earlier statement. It does not necessarily signal an unreal condition.
+
+Do not treat the pattern as an instruction to change every verb blindly. If the narrator explicitly maintains a statement's current validity, the present can remain: *Le professeur a expliqué que l'eau bout à cent degrés à la pression atmosphérique normale*. The general claim is presented as still valid, with its physical condition specified. *Il m'a dit qu'il habite à Lyon* can emphasize his continuing residence; *qu'il habitait à Lyon* situates it at the time of the statement. Context and intended viewpoint guide the choice.
+
+Pronouns and possessives require the same attention as tense. *Nadia m'a dit : « Je t'enverrai mon document. »* becomes *Nadia m'a dit qu'elle m'enverrait son document*. *Je* becomes *elle*, *te* refers to the narrator and becomes *me*, and *mon* becomes *son*. *Son* agrees with masculine singular *document*, not with Nadia's gender. The owner is identified by the sentence context.
+
+Time and place words can shift: *aujourd'hui → ce jour-là*, *demain → le lendemain*, *hier → la veille*, *ici → là* when the reporting perspective changes. These are not mandatory replacements regardless of context. If you report the same morning in the same room, *ici* may still be accurate. If the date matters operationally, use the date: *Elle a dit le 4 mai qu'elle répondrait le 6 mai*. A clear calendar reference can prevent mistakes that elegant grammatical transformation would leave unresolved.
+
+Indirect questions use statement order: *Il a demandé où nous habitions*, not *où habitions-nous*. A yes–no question uses *si*: *Elle a demandé si nous avions reçu le message*. An instruction often uses *de + infinitive*: *Il nous a demandé de patienter*. For a negative instruction: *Elle nous a demandé de ne pas ouvrir la pièce jointe*. Identify the speech act—statement, question, or request—before choosing the reporting structure.
+
+The OQLF's [temporal value of the conditional](https://vitrinelinguistique.oqlf.gouv.qc.ca/24138/la-grammaire/le-verbe/temps-grammaticaux/conditionnel/valeur-temporelle-du-conditionnel), inspected 13 November 2026, is a useful reference for the future-from-a-past-viewpoint interpretation. Practice with a three-column timeline: original speech date, embedded event date, and reporting date. If those dates are clear, the tense decision becomes a meaningful representation rather than a puzzle about labels.
+
+## 5. Distinguishing voices and degrees of commitment
+
+Reporting verbs communicate stance. *Dire* is relatively neutral. *Affirmer* presents a confident assertion, *reconnaître* acknowledges something, *préciser* adds specificity, *souligner* emphasizes, and *prétendre* can suggest that a claim is disputed or doubtful. If a journalist simply reported something, translating the verb as *prétendre* may unfairly make the journalist sound suspicious. Choose a verb that matches the actual speech act.
+
+Compare *Le rapport montre que…* with *Le rapport suggère que…*. The first presents stronger evidential support, while the second indicates a tentative interpretation. If you have only a short abstract or a secondhand summary, do not pretend to know exactly what the full report demonstrates. Language practice is an opportunity to develop honest sourcing: *D'après le résumé disponible, les auteurs estiment que…* makes your access and attribution clearer.
+
+The conditional can report information that the speaker does not confirm: *Le projet coûterait deux millions d'euros* — “The project reportedly would cost / is said to cost two million euros.” This **conditional of reported information** differs from the conditional in an explicit hypothetical and from future-in-the-past. Context usually identifies which use is intended. Add a source when possible: *Selon le journal local, le projet coûterait…*. This form should not be used to spread an invented rumor.
+
+Separate direct quotation from paraphrase. Direct quotation preserves the actual wording and needs an identifiable source. A paraphrase uses your own wording while preserving the point: *La responsable estime que la période d'essai est trop courte*. Do not put your improved or simplified sentence in quotation marks as if the person said it exactly. In the learning portfolio, use fictional sources clearly labeled as fictional if you need a dialogue without relying on a real article.
+
+For an oral summary, try a three-part frame: *Le premier intervenant soutient que… Le second reconnaît…mais estime que… Pour ma part…*. The final marker separates your view from the preceding views. Give each person a fair reason before evaluating it. When someone challenges your summary, use repair language: *Si je vous ai bien compris…*, *Vous voulez dire que… ?*, *Je reformule…*. Interaction includes revising your interpretation, not merely defending the first version.
+
+Listen to a short human interview and take notes in two columns: speaker's claim and supporting reason. Add a third column for your own questions after listening. Then summarize without looking at a transcript. Check whether you accidentally turned a possibility into a certainty, omitted a condition, or attributed your own inference to the speaker. Those are meaning errors even if every verb ending is correct.
+
+## 6. Completed infinitives and concise sequencing
+
+The **past infinitive** uses **avoir or être + past participle**: *avoir compris*, *être arrivé*, *s'être trompé*. It expresses an action viewed as completed relative to another point. *Je suis content d'avoir participé* — “I am happy to have participated”; *Après avoir lu le rapport, elle a posé une question* — “After reading the report, she asked a question.” The infinitive's subject is understood from the construction, so it must remain clear.
+
+Build “After sending the files, we called the client.” The sending and calling have the same subject, *nous*. Use *après avoir envoyé les fichiers*, then the main clause: **Après avoir envoyé les fichiers, nous avons appelé le client.** In a compound infinitive, a direct object following the participle does not trigger agreement with *avoir*. If the direct object pronoun precedes, agreement applies where required: *Après les avoir envoyés, nous avons appelé le client*, with *les* referring to masculine plural *fichiers*.
+
+With *être*, agreement follows the appropriate subject relationship: *Après être arrivée, elle a téléphoné* — “After arriving, she called.” The final *-e* marks a feminine speaker or subject in this example. For a pronominal verb: *Après s'être reposée, elle s'est remise au travail*. Harder pronominal participles require direct-object analysis, explained below. Do not replace every *être* participle agreement with an unqualified “agree with the subject” rule.
+
+The negative infinitive often places *ne pas* before the whole compound: *Il regrette de ne pas avoir répondu* — “He regrets not having replied.” *Merci de ne pas avoir oublié* — “Thank you for not having forgotten.” The pronoun stays with the auxiliary: *Je regrette de ne pas lui avoir répondu*. In speech, *ne* may disappear, but retain it in careful writing. A local grammar checker that accepts the sentence cannot decide whether the regret is sincere or contextually appropriate.
+
+An infinitive can prevent an overloaded chain of *que* clauses, but only when the subject relation is valid. *Après avoir lu le rapport, les conclusions semblent fragiles* incorrectly makes the conclusions appear to have read the report. Repair *Après avoir lu le rapport, je trouve les conclusions fragiles*, or *Après la lecture du rapport, les conclusions semblent fragiles*, with a suitable context identifying the evaluator. The underlying actor must remain accessible.
+
+Practice converting pairs of clauses in both directions: *Elle a terminé son exposé. Elle a répondu aux questions. → Après avoir terminé son exposé, elle a répondu aux questions.* Then explain why a pair with different subjects cannot use the same shortcut. This reversible exercise reveals whether condensation preserves meaning. Advanced writing is not measured by how many subjects you can omit.
+
+## 7. Participle agreement: find the direct object first
+
+With **avoir**, the ordinary past participle agrees with a **preceding direct object**, not with the subject. *J'ai lu les lettres* has the object after the participle, so *lu* remains unchanged. *Les lettres que j'ai lues* has *que* representing feminine plural *lettres* before the participle, so write *lues*. Ask “I read what?” to identify the object, then ask where that object appears. Perform both steps; a nearby feminine noun alone is not enough.
+
+Pronouns make the same relationship compact. *Tu as reçu les invitations ? — Oui, je les ai reçues.* *Les* represents feminine plural *invitations* and precedes *ai reçues*. In *Je leur ai répondu*, *leur* represents an indirect recipient because one *répond à quelqu'un*. There is no direct object represented by *leur*, so *répondu* does not agree with it. Learn the verb's complement pattern before deciding on an ending.
+
+With an ordinary **être** passive or nonpronominal compound, the participle agrees with the subject: *Les portes sont fermées*; *Les étudiantes sont arrivées*. But pronominal verbs require more discrimination. *Elles se sont lavées* has *se* as the direct object: they washed themselves. *Elles se sont lavé les mains* has *les mains* as the following direct object and *se* as the indirect possessor or beneficiary, so *lavé* remains unchanged.
+
+Compare reciprocal actions: *Elles se sont vues* because *voir quelqu'un* is direct, but *elles se sont parlé* because *parler à quelqu'un* is indirect. Another contrast is *elles se sont écrit* versus *les lettres qu'elles se sont écrites*. In the first, the recipients are indirect and no preceding direct object controls agreement. In the second, *que* represents preceding feminine plural *lettres*, so *écrites* agrees with those letters. The subjects are identical; the object structure changes the spelling.
+
+Some verbs are essentially pronominal or have a pronominal meaning that cannot be analyzed as an ordinary direct/indirect object pattern. They generally agree with the subject: *elles se sont souvenues de la réunion*, *elles se sont enfuies*. A few expressions have special behavior, such as invariable *se rendre compte*: *elles se sont rendu compte de l'erreur*. Keep a reference for these lexical cases rather than forcing every verb into a simplified slogan.
+
+The OQLF's [occasionally pronominal participle agreement](https://vitrinelinguistique.oqlf.gouv.qc.ca/22942/la-grammaire/le-verbe/accord-du-participe-passe/avec-lauxiliaire-etre/accord-du-participe-passe-des-verbes-occasionnellement-pronominaux), inspected 13 November 2026, supports this direct-object analysis. The chapter's examples are original. For an editing routine, underline the verb, reconstruct its nonpronominal complement pattern when appropriate, label the direct object, and mark whether it comes before the participle. Consult a reference for a special verb rather than guessing from the auxiliary alone.
+
+Before an infinitive, additional distinctions arise. *Les chanteuses que j'ai entendues chanter* has preceding singers who perform *chanter*, so agreement applies. *Les chansons que j'ai entendu chanter* has songs being sung, so *entendu* remains invariable in this construction. *Fait* immediately before an infinitive is invariable: *les robes qu'elle a fait retoucher*. For *laissé + infinitive*, traditional and rectified conventions differ; the 1990 rectifications permit invariability. Use a consistent convention and consult a reference when editing for a particular institution.
+
+Many of these endings are silent. Dictation therefore requires grammatical reasoning as well as sound recognition. Do not infer that an inaudible written distinction is unimportant in an edited document, or that a speaker must articulate an extra consonant that ordinary French leaves silent. Speaking and orthographic editing draw on overlapping but different skills.
+
+## 8. Negation, restriction, and formal questions
+
+**Ne…que** expresses restriction, usually “only”: *La réunion ne durera qu'une heure* — “The meeting will last only one hour.” The restricted element follows *que*. *Je n'ai parlé qu'à Nadia* means I spoke only to Nadia. *Je n'ai fait que parler à Nadia* means all I did was speak to Nadia. Moving the focus can change the claim. Do not translate a sentence with *ne…que* as an ordinary negative.
+
+**Ne…pas que** commonly means “not only”: *Il n'y a pas que le prix à considérer* — “Price is not the only thing to consider.” Compare *Il n'y a que le prix à considérer* — “Only the price needs to be considered.” A single *pas* reverses the restriction's implication. Also distinguish *ne…plus* — “no longer,” *ne…jamais* — “never,” *ne…rien* — “nothing/not anything,” and *ne…personne* — “no one/not anyone.” The second element provides much of the negative meaning.
+
+An **expletive ne** does not negate the event. *Je crains qu'il ne pleuve* means “I fear that it will rain,” not “I fear that it will not rain.” *Je crains qu'il ne pleuve pas* expresses the fear that it will not rain. Expletive *ne* appears especially in careful written language after some fear expressions, *avant que*, *à moins que*, and certain comparisons. It is often omitted in everyday speech without changing the affirmative event's meaning.
+
+Compare *Elle est plus compétente que je ne le pensais* — “She is more competent than I thought.” The *ne* does not turn *pensais* negative. In *Partons avant qu'il ne soit trop tard*, the meaning is “Let us leave before it is too late.” You can produce *avant qu'il soit trop tard* as well. The OQLF's [expletive ne reference](https://vitrinelinguistique.oqlf.gouv.qc.ca/22467/la-syntaxe/la-negation-et-la-restriction/constructions-avec-un-ne-expletif), inspected 13 November 2026, distinguishes this optional element from negation.
+
+Formal yes–no questions can invert a pronoun subject: *Avez-vous reçu le rapport ?* With a noun subject, repeat it through a pronoun: *Le comité a-t-il reçu le rapport ?* The linking *-t-* occurs where needed between a verb ending in a written vowel and *il/elle/on*: *a-t-il*, *parle-t-elle*. Do not add it after an existing *t*: *vient-il*, not *vient-t-il*. Hyphens are part of the written construction.
+
+Question words require their proper complement relationship: *À qui avez-vous répondu ?* because *répondre à*; *De quoi parle ce rapport ?* because *parler de*. Formal inversion is not compulsory in all speech. *Est-ce que vous avez reçu le rapport ?* and conversational rising intonation are normal in suitable contexts. Inside an indirect question, return to statement order: *Je voudrais savoir si le comité a reçu le rapport*. A common editing error mixes direct and indirect patterns into *je voudrais savoir a-t-il reçu*.
+
+## 9. Reading a public debate without adopting every claim
+
+The following original text describes a fictional debate. No numerical or institutional claim in it is presented as a real local finding. Read first for the disagreement, then label each speaker's reasons and uncertainties.
+
+> **Faut-il supprimer les impressions automatiques ?**
+>
+> Une université envisage de ne plus imprimer automatiquement les documents distribués en cours. Selon la direction, cette mesure permettrait de réduire le gaspillage et de dégager un budget pour l'accessibilité numérique. Les documents resteraient disponibles en ligne et les étudiants qui en auraient besoin pourraient demander une version papier.
+>
+> Lors d'une réunion, une représentante étudiante a reconnu que certaines impressions finissaient à la poubelle sans avoir été lues. Elle a toutefois souligné que tous les étudiants ne disposaient pas d'un appareil adapté. Elle a demandé comment les personnes qui rencontrent des difficultés de lecture à l'écran seraient accompagnées. « Il ne suffit pas que le fichier existe, a-t-elle ajouté. Il faut qu'il soit réellement utilisable. »
+>
+> Un enseignant a expliqué qu'il avait déjà réduit le nombre de pages distribuées. Après avoir interrogé son groupe, il avait conservé une courte synthèse imprimée et publié les exercices supplémentaires en ligne. Cette organisation lui avait paru satisfaisante, bien qu'il n'ait pas encore évalué ses effets à long terme.
+>
+> La direction a proposé une période d'essai. Elle a précisé que les économies éventuelles seraient mesurées et que les demandes de documents papier ne seraient pas facturées aux étudiants. Plusieurs participants ont accepté ce principe, à condition que les procédures restent simples. D'autres ont demandé une consultation plus large avant qu'une décision définitive ne soit prise.
+>
+> Le débat ne porte donc pas uniquement sur la quantité de papier. Il concerne aussi l'accès aux ressources, le temps de travail des enseignants et la manière d'évaluer une politique. Une expérimentation pourrait éclairer la décision, pourvu que ses critères soient définis à l'avance et que les difficultés rencontrées soient effectivement prises en compte.
+
+**Full translation.** A university is considering no longer automatically printing documents handed out in classes. According to management, the measure would reduce waste and free up a budget for digital accessibility. Documents would remain available online, and students who needed them could request a paper version. At a meeting, a student representative acknowledged that some printouts ended up in the bin without being read. She nevertheless emphasized that not all students had a suitable device. She asked how people who experience difficulty reading on a screen would be supported. “It is not enough for the file to exist,” she added. “It has to be genuinely usable.” A teacher explained that he had already reduced the number of pages distributed. After asking his group, he had kept a short printed summary and published additional exercises online. This arrangement had seemed satisfactory to him, although he had not yet evaluated its long-term effects. Management proposed a trial period. It stated that any savings would be measured and that students would not be charged for paper documents. Several participants accepted this principle provided that procedures remained simple. Others requested wider consultation before a final decision was taken. The debate therefore is not solely about paper quantity. It also concerns access to resources, teachers' work time, and how a policy is evaluated. A trial could inform the decision provided that its criteria were defined in advance and difficulties encountered were actually taken into account.
+
+The text distinguishes a proposed benefit from a measured outcome. *Permettrait* and *pourrait* remain conditional because the proposed system has not established its effects. *Elle a demandé comment…seraient accompagnées* is an indirect question with future-in-the-past. *Avant qu'une décision…ne soit prise* has expletive *ne*, not negation. *Sans avoir été lues* is a past passive infinitive whose participle agrees with the understood feminine plural printouts.
+
+Write a neutral 90-word summary before giving your opinion. Include the proposed change, the central accessibility concern, and the trial's conditions. Do not claim that every student opposes the measure or that printing has already ended. Then write a 90-word response recommending one criterion for evaluation. A clear recommendation could consider timely access, not only the number of printed pages.
+
+## 10. Translation, correction, and an argument portfolio
+
+Translate into French: 1. Although the proposal is useful, its cost remains uncertain. 2. Since you already have the report, we can begin. 3. They changed the schedule so that everyone could participate. 4. She said that she had sent the documents. 5. He said that he would answer the next day. 6. After reading the article, I changed my opinion. 7. The letters that they sent each other are long. 8. They spoke to each other yesterday. 9. The meeting will last only one hour. 10. I fear that the project will be delayed. 11. The committee reportedly has accepted the proposal. 12. I would like to know whether the applications have been examined.
+
+**Explained models.** 1. *Bien que la proposition soit utile, son coût reste incertain.* Subjunctive after the concession frame. 2. *Puisque vous avez déjà le rapport, nous pouvons commencer.* A reason treated as accepted. 3. *Ils ont changé les horaires pour que tout le monde puisse participer.* Purpose, not an asserted result; singular *tout le monde*. 4. *Elle a dit qu'elle avait envoyé les documents.* The sending precedes the past statement. 5. *Il a dit qu'il répondrait le lendemain.* Conditional as future-in-the-past. 6. *Après avoir lu l'article, j'ai changé d'avis.* Shared subject and completed infinitive; *changer d'avis* is the collocation.
+
+7. *Les lettres qu'ils se sont envoyées sont longues.* Preceding direct object *que*, representing feminine plural letters, controls *envoyées*. 8. *Ils se sont parlé hier.* The reciprocal participants are indirect complements of *parler à*, so no agreement on *parlé*. 9. *La réunion ne durera qu'une heure.* Restriction means only. 10. *Je crains que le projet soit retardé* or *ne soit retardé*. Optional expletive *ne* does not reverse the event. 11. *Le comité aurait accepté la proposition.* Add the actual source in real writing; the conditional signals unconfirmed reporting here. 12. *Je voudrais savoir si les candidatures ont été examinées.* Indirect question has statement order; passive participle agrees with feminine plural *candidatures*.
+
+Correct these: *Bien que le coût est élevé, nous acceptons.* *Elle a demandé où habitions-nous.* *Les informations que j'ai reçu sont utiles.* *Elles se sont téléphonées.* *La réunion ne durera pas qu'une heure* when the intended meaning is “only one hour.” Repairs: *Bien que le coût soit élevé…*; *Elle a demandé où nous habitions*; *Les informations que j'ai reçues…*; *Elles se sont téléphoné* because *téléphoner à* is indirect; *La réunion ne durera qu'une heure*. Explain each repair before copying it.
+
+For listening, use ten companion sentences with the written text hidden, then a two-minute human report. Type the French and an English meaning for the sentence task. For the report, take notes rather than attempting a complete transcript. Identify an attribution, a concession, and a proposed consequence. Check whether an unfamiliar connector caused you to reverse the speaker's position. Replay that relationship in its whole sentence, not as an isolated word.
+
+For speaking, deliver a four-minute recommendation on a manageable issue: a workplace schedule, library service, university resource, or local transport change. State a claim, provide two reasons and one concrete example, concede a real limitation, and propose a next step. A partner should ask two skeptical questions. Use clarification when needed and revise a point if the objection exposes missing evidence. Reasonable adaptation is a strength.
+
+Write a 300–350-word argument, then edit in separate passes. First check the argument and source attribution. Next check subjects, clause connections, and times. Then check direct objects and participle agreement. Finally check accents, punctuation, and repeated vocabulary. Separate passes reduce the chance that a small spelling issue distracts you from a missing reason. Keep your first and final versions to make improvement visible.
+
+Use the four dimensions from previous chapters—task completion, coherence, language control, interaction—each from zero to four. Add a written note on evidential honesty: did you preserve uncertainty and represent opposing views fairly? A useful milestone is a clear argument that another reader can summarize accurately, with errors that do not repeatedly distort relationships. This is evidence of progress on these tasks, not an official proficiency verdict.
+
+The next stage expands the vocabulary, register, and discourse flexibility needed for demanding B2 and C1 work. Continue revisiting these structures through authentic reading and conversation. Grammar becomes durable when you use it to solve new communication problems, notice the result, and repair what did not work.
