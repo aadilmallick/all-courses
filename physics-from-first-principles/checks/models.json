@@ -1,0 +1,40 @@
+{
+  "runtime": "v26.7.0",
+  "groups": 28,
+  "assertions": 316,
+  "checks": [
+    "Unit conversion and squared length",
+    "Vector addition, dot and oriented area",
+    "Projectile exact special case and landing",
+    "Circular orbit dimensional relationships",
+    "Solid disk rotation",
+    "Driven oscillator frequency and amplitude",
+    "Fourier odd symmetry and finite truncation",
+    "Single-slit central limit and first zero",
+    "Lorentz gamma and invariant contraction factor",
+    "Nonlinear pendulum quadrature small-angle limit and increase",
+    "Gaussian diffusion width, mass and t=0 identity",
+    "Carnot energy and reversible entropy balance",
+    "Boltzmann probabilities normalize and match limits",
+    "Coulomb radial field and potential relation",
+    "RC time constant and exponential limit",
+    "Plane wave amplitude/intensity scale",
+    "Rabi resonant inversion and detuned maximum",
+    "Electron well energy n² and inverse-width² scaling",
+    "Tight-binding bandwidth and endpoints",
+    "Expected decay half-life and activity",
+    "Constant-H model expansion law",
+    "Euler oscillator exact multiplier, symplectic bound and convergence",
+    "Synthetic regression and shared offset",
+    "Diffusion resolves initial and evolved widths independently",
+    "Carnot plot stays in its physical domain below one kelvin",
+    "Diffraction plot actually reaches its first zero",
+    "Geometric plots request equal metre scales",
+    "Invalid-domain input paths"
+  ],
+  "limits": [
+    "Selected invariants and analytic special cases; not a proof for all inputs",
+    "No physical measurement was performed",
+    "Browser behavior checked separately"
+  ]
+}

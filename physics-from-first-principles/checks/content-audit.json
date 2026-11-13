@@ -1,0 +1,215 @@
+{
+  "tokenizer": "tiktoken 0.14.0",
+  "encoding": "cl100k_base",
+  "minimum_chapter_tokens": 5000,
+  "minimum_words_outside_code_fences": 2500,
+  "chapter_count": 28,
+  "chapter_tokens_total": 151630,
+  "chapter_words_outside_code_fences_total": 82376,
+  "local_markdown_links_checked": 159,
+  "counts": [
+    {
+      "id": "chapter-01",
+      "path": "chapters/01-measurement-and-the-language-of-physics.md",
+      "cl100k_base_tokens": 5128,
+      "whitespace_words_outside_code_fences": 3118,
+      "sha256": "3ec590eb1185d78befdcfd10b54ebb5310e0a3ea6b6f287d9a79e229d482f4b7"
+    },
+    {
+      "id": "chapter-02",
+      "path": "chapters/02-geometry-trigonometry-and-vectors.md",
+      "cl100k_base_tokens": 5126,
+      "whitespace_words_outside_code_fences": 3105,
+      "sha256": "0d9cbe3307f4b448ab3fa2cb9457ce2a0740336732bcfacda88ae72303e2556e"
+    },
+    {
+      "id": "chapter-03",
+      "path": "chapters/03-motion-and-calculus.md",
+      "cl100k_base_tokens": 5181,
+      "whitespace_words_outside_code_fences": 2824,
+      "sha256": "2926c7c70e5bafc54dfdd9d47872fb821f0db08e888b5b51d543a29bfdcf7842"
+    },
+    {
+      "id": "chapter-04",
+      "path": "chapters/04-newton-laws-and-differential-equations.md",
+      "cl100k_base_tokens": 5613,
+      "whitespace_words_outside_code_fences": 3181,
+      "sha256": "fd50126a6e427454c6ecf6fd787945122caa6393f582cd238050be174f3f3624"
+    },
+    {
+      "id": "chapter-05",
+      "path": "chapters/05-energy-momentum-and-gravitation.md",
+      "cl100k_base_tokens": 5905,
+      "whitespace_words_outside_code_fences": 3054,
+      "sha256": "bed14acd4a65094cd0c6a3fd8e97334eac2a2b0466c3c0912cc5d8bd50a94ca6"
+    },
+    {
+      "id": "chapter-06",
+      "path": "chapters/06-rotation-and-angular-momentum.md",
+      "cl100k_base_tokens": 5745,
+      "whitespace_words_outside_code_fences": 3035,
+      "sha256": "3e4222e0521ab1215a65e277c35a8bff95f5e0bd42116592312202d02fd2a000"
+    },
+    {
+      "id": "chapter-07",
+      "path": "chapters/07-oscillations-complex-numbers-and-resonance.md",
+      "cl100k_base_tokens": 5506,
+      "whitespace_words_outside_code_fences": 2604,
+      "sha256": "648c10f4c301b256e5a167fb9b0e2bedad47c9e4999b3e3e6d1135632ae61f35"
+    },
+    {
+      "id": "chapter-08",
+      "path": "chapters/08-waves-fourier-analysis-and-partial-equations.md",
+      "cl100k_base_tokens": 5129,
+      "whitespace_words_outside_code_fences": 2629,
+      "sha256": "a1447d361fd7ce18d8d0520de57920feba5cb3eb44a23c0a5328d8fdb10b4cd1"
+    },
+    {
+      "id": "chapter-09",
+      "path": "chapters/09-optics-rays-interference-and-polarization.md",
+      "cl100k_base_tokens": 5337,
+      "whitespace_words_outside_code_fences": 3002,
+      "sha256": "0638a11fdd045cfb763e59133152ec7d9d10df02cc84a7ff7c9f5867054db335"
+    },
+    {
+      "id": "chapter-10",
+      "path": "chapters/10-special-relativity-and-relativistic-dynamics.md",
+      "cl100k_base_tokens": 5500,
+      "whitespace_words_outside_code_fences": 3057,
+      "sha256": "fceb33f312f50f0472f3a212c06ccdd3e97d7555e227360fe9dd3f470712c656"
+    },
+    {
+      "id": "chapter-11",
+      "path": "chapters/11-action-hamiltonian-mechanics-and-chaos.md",
+      "cl100k_base_tokens": 5937,
+      "whitespace_words_outside_code_fences": 3153,
+      "sha256": "e2afcad7be771e13b0a03ca909a36c36bc76cb4cb18a9b39fdc51ec84911b704"
+    },
+    {
+      "id": "chapter-12",
+      "path": "chapters/12-continuum-fluids-elasticity-diffusion.md",
+      "cl100k_base_tokens": 5757,
+      "whitespace_words_outside_code_fences": 3173,
+      "sha256": "950442b02c2bf31bd92a069bfa67a103a0a89b6a937e37b44840bc9245890e4b"
+    },
+    {
+      "id": "chapter-13",
+      "path": "chapters/13-thermodynamics-entropy-logarithms.md",
+      "cl100k_base_tokens": 5055,
+      "whitespace_words_outside_code_fences": 2916,
+      "sha256": "40c0c5462b6da2125482873f7ce27438e31a4032caf33faa2fa627583f109911"
+    },
+    {
+      "id": "chapter-14",
+      "path": "chapters/14-probability-statistical-mechanics.md",
+      "cl100k_base_tokens": 5297,
+      "whitespace_words_outside_code_fences": 2936,
+      "sha256": "88cb6d8cd94f501b814eaf539aeb5c47b1e06cbed7f4db459a59013374190cd8"
+    },
+    {
+      "id": "chapter-15",
+      "path": "chapters/15-vector-calculus-electrostatics.md",
+      "cl100k_base_tokens": 5143,
+      "whitespace_words_outside_code_fences": 2817,
+      "sha256": "e103958937491516fc55f93d9eea3a3b8f90e1a5281e71ff681efb8100a75f4c"
+    },
+    {
+      "id": "chapter-16",
+      "path": "chapters/16-potentials-boundaries-multipoles-matter.md",
+      "cl100k_base_tokens": 5146,
+      "whitespace_words_outside_code_fences": 2864,
+      "sha256": "a7b4c401048322718926168a43f8a8b4e5b5a708534e8f6fefc22c30c906f1c1"
+    },
+    {
+      "id": "chapter-17",
+      "path": "chapters/17-currents-circuits-magnetism-induction.md",
+      "cl100k_base_tokens": 5119,
+      "whitespace_words_outside_code_fences": 2763,
+      "sha256": "9537fb2328c789eabaf2f183fdfba6195d170c790eec7a8f2148b98f740e6e02"
+    },
+    {
+      "id": "chapter-18",
+      "path": "chapters/18-maxwell-waves-radiation-energy.md",
+      "cl100k_base_tokens": 5179,
+      "whitespace_words_outside_code_fences": 2717,
+      "sha256": "b7f40619051bffe23272e524d720e52fce0ea4c0f0482bb7d8a4c561a3d1f334"
+    },
+    {
+      "id": "chapter-19",
+      "path": "chapters/19-quantum-amplitudes-linear-algebra.md",
+      "cl100k_base_tokens": 5307,
+      "whitespace_words_outside_code_fences": 2659,
+      "sha256": "8df64c3ffa735af4cb97846747119d860caee4e5ccb812791a86a1badae8ae91"
+    },
+    {
+      "id": "chapter-20",
+      "path": "chapters/20-schrodinger-bound-states-and-tunneling.md",
+      "cl100k_base_tokens": 5502,
+      "whitespace_words_outside_code_fences": 2766,
+      "sha256": "07d18f433c57c3f7ec0f888c9dbc979eac037253095bd766b971a7a835c5cbeb"
+    },
+    {
+      "id": "chapter-21",
+      "path": "chapters/21-angular-momentum-spin-and-hydrogen.md",
+      "cl100k_base_tokens": 5758,
+      "whitespace_words_outside_code_fences": 2576,
+      "sha256": "e8e6aec320149608c6ad2b57441d159f480ecaa66d9fa4308b8f9b97813459b4"
+    },
+    {
+      "id": "chapter-22",
+      "path": "chapters/22-approximation-scattering-and-quantum-correlations.md",
+      "cl100k_base_tokens": 5479,
+      "whitespace_words_outside_code_fences": 2691,
+      "sha256": "708f491040edfada58fede577036f013f8a6fdb942afea1374d7352fc222ee87"
+    },
+    {
+      "id": "chapter-23",
+      "path": "chapters/23-condensed-matter-bands-and-collective-behavior.md",
+      "cl100k_base_tokens": 5418,
+      "whitespace_words_outside_code_fences": 3043,
+      "sha256": "16a5b0e30faa05cb2088c5dead4f7f92bc39c50bee471d2aa2cd1ed404ed63dc"
+    },
+    {
+      "id": "chapter-24",
+      "path": "chapters/24-atoms-nuclei-and-elementary-particles.md",
+      "cl100k_base_tokens": 5153,
+      "whitespace_words_outside_code_fences": 2988,
+      "sha256": "7d16f625ca3c4b572cf0cda1416fa2fafbe6c360c7690b909df7366f2444e41c"
+    },
+    {
+      "id": "chapter-25",
+      "path": "chapters/25-gravity-tensors-and-cosmology.md",
+      "cl100k_base_tokens": 5779,
+      "whitespace_words_outside_code_fences": 3037,
+      "sha256": "c5d3db48249673f2c620bad825c6e199cad9465a0edc599c4df678854e0b23cc"
+    },
+    {
+      "id": "chapter-26",
+      "path": "chapters/26-bridges-to-graduate-physics.md",
+      "cl100k_base_tokens": 6021,
+      "whitespace_words_outside_code_fences": 3122,
+      "sha256": "0c6d16ad674916c48b1c9c94e79ea6aa01c4d2221835d36fe94d86c46ccc9fa7"
+    },
+    {
+      "id": "chapter-27",
+      "path": "chapters/27-computational-physics-and-numerical-reliability.md",
+      "cl100k_base_tokens": 5030,
+      "whitespace_words_outside_code_fences": 2963,
+      "sha256": "0803f3f0aff3ec74bdbc48166229c34e3310c6eb8f93d007f472f93aa61a8144"
+    },
+    {
+      "id": "chapter-28",
+      "path": "chapters/28-experiments-uncertainty-and-research.md",
+      "cl100k_base_tokens": 5380,
+      "whitespace_words_outside_code_fences": 3583,
+      "sha256": "c485c82b46aef3a41580e11d60c48f88bd4b31858de8434c34cfe8cc3ac77c31"
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "Token counts include equations, original questions and headings; count alone does not establish teaching quality",
+    "Whitespace words outside code fences are a precisely named count, not tokenizer output",
+    "Link existence does not establish destination content accuracy",
+    "Not a proof of all mathematics or physics"
+  ]
+}

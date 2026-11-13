@@ -1,0 +1,14 @@
+# 06. Complete solutions
+
+1. $\tau=rF\sin60^\circ=(0.50)(40)(\sqrt3/2)=17.32\,\mathrm{N\,m}$. A parallel force has zero cross product with the wrench's position vector and therefore produces zero torque about the pivot, even though it can exert a nonzero force on it.
+2. Direct integration gives $I=(M/L)\int_0^Lx^2dx=ML^2/3$. The midpoint result is $ML^2/12$; adding $M(L/2)^2$ gives $ML^2(1/12+1/4)=ML^2/3$, in agreement. Both results concern an axis perpendicular to the rod.
+3. $I=\tfrac12(3.0)(0.20)^2=0.060\,\mathrm{kg\,m^2}$. $\alpha=30/5=6.0\,\mathrm{rad\,s^{-2}}$, so $\tau=I\alpha=0.36\,\mathrm{N\,m}$. The angle turned is $\tfrac12\alpha t^2=75$ rad. Thus $W=0.36(75)=27\,\mathrm J$, equal to $\tfrac12(0.060)(30)^2$.
+4. The hoop has $V_h=\sqrt{gh}=\sqrt{9.81}=3.132\,\mathrm{m\,s^{-1}}$. Its translational and rotational energies are each $Mgh/2$. The disk has $V_d=\sqrt{4gh/3}=3.617\,\mathrm{m\,s^{-1}}$. Its translational energy is $2Mgh/3$ and rotational energy $Mgh/3$. Both have total kinetic energy $Mgh$; the faster disk has a smaller fraction stored in rotation.
+5. With $\beta=I/(MR^2)=2/5$, $a=g\sin\theta/(1+\beta)=5g\sin\theta/7$. Required uphill friction is $f=\beta Ma=2Mg\sin\theta/7$. Since $N=Mg\cos\theta$, $\mu_s\geq f/N=(2/7)\tan\theta$. This applies while the ideal no-slip rolling solution is maintained.
+6. Initial $L=I_i\omega_i=12\,\mathrm{kg\,m^2\,s^{-1}}$. Final $\omega_f=L/I_f=12/2.5=4.8\,\mathrm{rad\,s^{-1}}$. Initial kinetic energy is $18\,\mathrm J$ and final is $28.8\,\mathrm J$, so it increases by $10.8\,\mathrm J$. Internal chemical energy and muscular work supply that increase as the mass distribution changes. Zero external torque does not require constant rotational kinetic energy for a deforming body.
+7. If $r_f=r_i/2$, $r_f^2\dot\theta_f=r_i^2\dot\theta_i$ gives $\dot\theta_f=4\dot\theta_i$. Tangential speed becomes $r_f\dot\theta_f=2r_i\dot\theta_i$, twice the original. No assumption about the radial speed is needed for these instantaneous relations.
+8. The linearized torque-free equations are $\dot\omega_1=[(I_2-I_3)/I_1]\Omega\omega_3$ and $\dot\omega_3=[(I_1-I_2)/I_3]\Omega\omega_1$. Thus
+
+$$\ddot\omega_1=\frac{(I_3-I_2)(I_2-I_1)}{I_1I_3}\Omega^2\omega_1.$$
+
+Both factors in the numerator are positive. Writing the coefficient as $\lambda^2>0$, solutions are $Ae^{\lambda t}+Be^{-\lambda t}$, so generic small perturbations grow. The linear approximation eventually fails when the perturbation is no longer small; it does not predict unbounded physical angular speed. Energy and angular momentum constrain the motion to intersecting surfaces in angular-velocity space, but near the intermediate-axis trajectory those allowed surfaces admit motion away from the exact spin. A conserved quantity constrains a trajectory without necessarily making every special trajectory stable.

@@ -1,0 +1,25 @@
+{
+  "runtime": "Browser native JavaScript; Node.js optional for rebuild/server",
+  "bundled": [
+    {
+      "name": "katex",
+      "version": "0.16.22",
+      "license": "MIT",
+      "path": "companion/vendor/katex"
+    },
+    {
+      "name": "marked",
+      "version": "17.0.5",
+      "license": "MIT",
+      "path": "companion/vendor/marked"
+    }
+  ],
+  "authoring": [
+    {
+      "name": "tiktoken",
+      "version": "0.14.0",
+      "encoding": "cl100k_base",
+      "requiredByReader": false
+    }
+  ]
+}

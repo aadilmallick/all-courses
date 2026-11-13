@@ -1,0 +1,81 @@
+{
+  "access_date": "2026-11-13",
+  "attachment": {
+    "filename": "feynman-lectures.pdf",
+    "pages": 1376,
+    "access": "partially-inspected",
+    "inspected_text_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      9
+    ],
+    "inspected_visual_pdf_pages": [
+      90,
+      726,
+      1055
+    ],
+    "outline_teaching_chapters": 114,
+    "precise_print_edition": "not established",
+    "redistributed": false
+  },
+  "official_indexes": [
+    {
+      "volume": "I",
+      "url": "https://www.feynmanlectures.caltech.edu/I_toc.html",
+      "access": "index-only"
+    },
+    {
+      "volume": "II",
+      "url": "https://www.feynmanlectures.caltech.edu/II_toc.html",
+      "access": "index-only"
+    },
+    {
+      "volume": "III",
+      "url": "https://www.feynmanlectures.caltech.edu/III_toc.html",
+      "access": "index-only"
+    }
+  ],
+  "online_supplement": {
+    "url": "https://www.feynmanlectures.caltech.edu/II_42.html",
+    "access": "opening sections inspected"
+  },
+  "benchmarks": [
+    {
+      "url": "https://physics.mit.edu/academic-programs/undergrads/major/",
+      "access": "overview or listed section inspected"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/physics-course-8/",
+      "access": "overview or listed section inspected"
+    },
+    {
+      "url": "https://physics.mit.edu/academic-programs/graduate-students/information-on-graduate-course-requirements/",
+      "access": "overview or listed section inspected"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/syllabus/",
+      "access": "overview or listed section inspected"
+    },
+    {
+      "url": "https://ocw.mit.edu/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/",
+      "access": "overview or listed section inspected"
+    },
+    {
+      "url": "https://physics.nist.gov/cuu/Constants/",
+      "access": "overview or listed section inspected"
+    },
+    {
+      "url": "https://www.physics.nist.gov/cuu/pdf/wallet_2022.pdf",
+      "access": "overview or listed section inspected"
+    },
+    {
+      "url": "https://www.bipm.org/en/measurement-units/",
+      "access": "overview or listed section inspected"
+    }
+  ],
+  "originality": "Original exposition, numerical examples, problems, solutions, diagrams and software; no copied source prose or figures",
+  "limits": "Indexes establish coverage listings; not every linked chapter was inspected."
+}

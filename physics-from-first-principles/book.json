@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "title": "Physics from First Principles",
+  "subtitle": "A beginner-first course through undergraduate core physics, with mathematics on demand and selected graduate bridges",
+  "audience": "Complete beginners; no prior algebra or calculus assumed",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Measurement and the language of physics",
+      "path": "chapters/01-measurement-and-the-language-of-physics.md",
+      "part": "I · The mathematical language",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "units"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Geometry, trigonometry and vectors",
+      "path": "chapters/02-geometry-trigonometry-and-vectors.md",
+      "part": "I · The mathematical language",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01"
+      ],
+      "experiments": [
+        "vectors"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Motion, change and accumulation",
+      "path": "chapters/03-motion-and-calculus.md",
+      "part": "I · The mathematical language",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01",
+        "chapter-02"
+      ],
+      "experiments": [
+        "projectile"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "Newton’s laws and differential equations",
+      "path": "chapters/04-newton-laws-and-differential-equations.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01",
+        "chapter-02",
+        "chapter-03"
+      ],
+      "experiments": [
+        "projectile"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Energy, momentum and gravitation",
+      "path": "chapters/05-energy-momentum-and-gravitation.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "orbit"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Rotation and angular momentum",
+      "path": "chapters/06-rotation-and-angular-momentum.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-04",
+        "chapter-05"
+      ],
+      "experiments": [
+        "rotation"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Oscillations, complex numbers and resonance",
+      "path": "chapters/07-oscillations-complex-numbers-and-resonance.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-04",
+        "chapter-05"
+      ],
+      "experiments": [
+        "resonance",
+        "pendulum"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Waves, Fourier analysis and partial differential equations",
+      "path": "chapters/08-waves-fourier-analysis-and-partial-equations.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07"
+      ],
+      "experiments": [
+        "fourier"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Optics, interference and polarization",
+      "path": "chapters/09-optics-rays-interference-and-polarization.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-08"
+      ],
+      "experiments": [
+        "diffraction"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Special relativity and relativistic dynamics",
+      "path": "chapters/10-special-relativity-and-relativistic-dynamics.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-05"
+      ],
+      "experiments": [
+        "relativity"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Analytical mechanics and chaos",
+      "path": "chapters/11-action-hamiltonian-mechanics-and-chaos.md",
+      "part": "II · Mechanics and waves",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-05",
+        "chapter-06",
+        "chapter-07"
+      ],
+      "experiments": [
+        "pendulum"
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Fluids, elasticity and diffusion",
+      "path": "chapters/12-continuum-fluids-elasticity-diffusion.md",
+      "part": "III · Matter, heat and probability",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-04",
+        "chapter-05",
+        "chapter-08"
+      ],
+      "experiments": [
+        "diffusion"
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "title": "Thermodynamics and entropy",
+      "path": "chapters/13-thermodynamics-entropy-logarithms.md",
+      "part": "III · Matter, heat and probability",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-01",
+        "chapter-03",
+        "chapter-05",
+        "chapter-12"
+      ],
+      "experiments": [
+        "thermal"
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "title": "Probability and statistical mechanics",
+      "path": "chapters/14-probability-statistical-mechanics.md",
+      "part": "III · Matter, heat and probability",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-13"
+      ],
+      "experiments": [
+        "boltzmann"
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "title": "Vector calculus and electrostatics",
+      "path": "chapters/15-vector-calculus-electrostatics.md",
+      "part": "IV · Fields and electromagnetism",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-03",
+        "chapter-05"
+      ],
+      "experiments": [
+        "electrostatic"
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "title": "Potentials, boundaries, multipoles and matter",
+      "path": "chapters/16-potentials-boundaries-multipoles-matter.md",
+      "part": "IV · Fields and electromagnetism",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-15"
+      ],
+      "experiments": [
+        "electrostatic"
+      ]
+    },
+    {
+      "id": "chapter-17",
+      "title": "Currents, circuits, magnetism and induction",
+      "path": "chapters/17-currents-circuits-magnetism-induction.md",
+      "part": "IV · Fields and electromagnetism",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-07",
+        "chapter-15",
+        "chapter-16"
+      ],
+      "experiments": [
+        "rc"
+      ]
+    },
+    {
+      "id": "chapter-18",
+      "title": "Maxwell equations, waves, radiation and energy",
+      "path": "chapters/18-maxwell-waves-radiation-energy.md",
+      "part": "IV · Fields and electromagnetism",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-08",
+        "chapter-10",
+        "chapter-15",
+        "chapter-17"
+      ],
+      "experiments": [
+        "radiation"
+      ]
+    },
+    {
+      "id": "chapter-19",
+      "title": "Quantum amplitudes, linear algebra and two-state systems",
+      "path": "chapters/19-quantum-amplitudes-linear-algebra.md",
+      "part": "V · Quantum and modern physics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-03",
+        "chapter-07",
+        "chapter-14"
+      ],
+      "experiments": [
+        "rabi"
+      ]
+    },
+    {
+      "id": "chapter-20",
+      "title": "Schrödinger mechanics, bound states and tunneling",
+      "path": "chapters/20-schrodinger-bound-states-and-tunneling.md",
+      "part": "V · Quantum and modern physics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-08",
+        "chapter-19"
+      ],
+      "experiments": [
+        "well"
+      ]
+    },
+    {
+      "id": "chapter-21",
+      "title": "Angular momentum, spin and hydrogen",
+      "path": "chapters/21-angular-momentum-spin-and-hydrogen.md",
+      "part": "V · Quantum and modern physics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-06",
+        "chapter-19",
+        "chapter-20"
+      ],
+      "experiments": [
+        "well"
+      ]
+    },
+    {
+      "id": "chapter-22",
+      "title": "Approximation, scattering and quantum correlations",
+      "path": "chapters/22-approximation-scattering-and-quantum-correlations.md",
+      "part": "V · Quantum and modern physics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-19",
+        "chapter-20",
+        "chapter-21"
+      ],
+      "experiments": [
+        "rabi"
+      ]
+    },
+    {
+      "id": "chapter-23",
+      "title": "Condensed matter and collective behavior",
+      "path": "chapters/23-condensed-matter-bands-and-collective-behavior.md",
+      "part": "V · Quantum and modern physics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-14",
+        "chapter-19",
+        "chapter-20",
+        "chapter-22"
+      ],
+      "experiments": [
+        "band"
+      ]
+    },
+    {
+      "id": "chapter-24",
+      "title": "Atoms, nuclei and elementary particles",
+      "path": "chapters/24-atoms-nuclei-and-elementary-particles.md",
+      "part": "V · Quantum and modern physics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-10",
+        "chapter-19",
+        "chapter-20",
+        "chapter-21",
+        "chapter-22"
+      ],
+      "experiments": [
+        "decay"
+      ]
+    },
+    {
+      "id": "chapter-25",
+      "title": "Gravity, tensors and cosmology",
+      "path": "chapters/25-gravity-tensors-and-cosmology.md",
+      "part": "V · Quantum and modern physics",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-10",
+        "chapter-11",
+        "chapter-15"
+      ],
+      "experiments": [
+        "cosmology"
+      ]
+    },
+    {
+      "id": "chapter-26",
+      "title": "Bridges to graduate physics",
+      "path": "chapters/26-bridges-to-graduate-physics.md",
+      "part": "VI · Graduate tools and independent work",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-11",
+        "chapter-14",
+        "chapter-18",
+        "chapter-19",
+        "chapter-20",
+        "chapter-25"
+      ],
+      "experiments": [
+        "cosmology"
+      ]
+    },
+    {
+      "id": "chapter-27",
+      "title": "Computational physics and numerical reliability",
+      "path": "chapters/27-computational-physics-and-numerical-reliability.md",
+      "part": "VI · Graduate tools and independent work",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-04",
+        "chapter-07",
+        "chapter-08",
+        "chapter-14",
+        "chapter-19"
+      ],
+      "experiments": [
+        "numerics"
+      ]
+    },
+    {
+      "id": "chapter-28",
+      "title": "Experimental physics, uncertainty and research",
+      "path": "chapters/28-experiments-uncertainty-and-research.md",
+      "part": "VI · Graduate tools and independent work",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-14",
+        "chapter-27"
+      ],
+      "experiments": [
+        "regression"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/learning-map.svg"
+  ],
+  "source_listings": [
+    {
+      "id": "physics-models",
+      "path": "companion/models.js",
+      "language": "javascript"
+    },
+    {
+      "id": "physics-laboratories",
+      "path": "companion/labs.js",
+      "language": "javascript"
+    }
+  ],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "Open companion/index.html; optional node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

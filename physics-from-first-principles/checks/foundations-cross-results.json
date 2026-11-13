@@ -1,0 +1,132 @@
+{
+  "scope": "Independent selected arithmetic and linear-algebra checks, not exhaustive proof or experimental validation.",
+  "passed_checks": 21,
+  "checks": [
+    {
+      "name": "01 density from 15 cubic cm",
+      "actual": 7999.999999999998,
+      "expected": 8000.0,
+      "passed": true
+    },
+    {
+      "name": "01 percentage bases",
+      "actual": 0.96,
+      "expected": 0.96,
+      "passed": true
+    },
+    {
+      "name": "02 three-dimensional separation",
+      "actual": 13.0,
+      "expected": 13.0,
+      "passed": true
+    },
+    {
+      "name": "02 orthogonal dot",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "02 oriented cross z",
+      "actual": -5.0,
+      "expected": -5.0,
+      "passed": true
+    },
+    {
+      "name": "02 passive rotation norm",
+      "actual": 2.0,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "03 projectile flight time",
+      "actual": 1.4416040391163047,
+      "expected": 1.4416,
+      "passed": true
+    },
+    {
+      "name": "03 projectile range",
+      "actual": 10.19367991845056,
+      "expected": 10.1937,
+      "passed": true
+    },
+    {
+      "name": "03 constant acceleration distance with reversal",
+      "actual": 8.5,
+      "expected": 8.5,
+      "passed": true
+    },
+    {
+      "name": "03 integrated velocity with reversal",
+      "actual": 8.0,
+      "expected": 8.0,
+      "passed": true
+    },
+    {
+      "name": "27 centred difference error",
+      "actual": 0.0024999999999781863,
+      "expected": 0.0025,
+      "passed": true
+    },
+    {
+      "name": "27 diffusion maximum step",
+      "actual": 0.02,
+      "expected": 0.02,
+      "passed": true
+    },
+    {
+      "name": "27 Monte Carlo standard error",
+      "actual": 0.00298142396999972,
+      "expected": 0.00298142397,
+      "passed": true
+    },
+    {
+      "name": "28 sample mean",
+      "actual": 2.0,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "28 unbiased sample deviation",
+      "actual": 0.020000000000000018,
+      "expected": 0.02,
+      "passed": true
+    },
+    {
+      "name": "28 synthetic fit intercept",
+      "actual": 0.039999999999999425,
+      "expected": 0.04,
+      "passed": true
+    },
+    {
+      "name": "28 synthetic fit slope",
+      "actual": 4.000000000000001,
+      "expected": 4.0,
+      "passed": true
+    },
+    {
+      "name": "28 synthetic fit RSS",
+      "actual": 0.00039999999999998294,
+      "expected": 0.0004,
+      "passed": true
+    },
+    {
+      "name": "28 fitted slope standard error",
+      "actual": 0.042163702135577484,
+      "expected": 0.0421637021356,
+      "passed": true
+    },
+    {
+      "name": "28 pendulum g",
+      "actual": 9.810652192067229,
+      "expected": 9.81065,
+      "passed": true
+    },
+    {
+      "name": "28 pendulum standard uncertainty",
+      "actual": 0.043769617869513736,
+      "expected": 0.0438,
+      "passed": true
+    }
+  ]
+}

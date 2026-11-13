@@ -1,0 +1,1338 @@
+[
+  {
+    "volume": "I",
+    "number": 1,
+    "title": "Atoms in Motion",
+    "pdf_page": 6,
+    "course_chapters": [
+      1
+    ],
+    "treatment": "Context and foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 2,
+    "title": "Basic Physics",
+    "pdf_page": 19,
+    "course_chapters": [
+      1
+    ],
+    "treatment": "Context and foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 3,
+    "title": "The Relation of Physics to Other Sciences",
+    "pdf_page": 30,
+    "course_chapters": [
+      1
+    ],
+    "treatment": "Contextual optional reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 4,
+    "title": "Conservation of Energy",
+    "pdf_page": 40,
+    "course_chapters": [
+      5
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 5,
+    "title": "Time and Distance",
+    "pdf_page": 48,
+    "course_chapters": [
+      1
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 6,
+    "title": "Probability",
+    "pdf_page": 58,
+    "course_chapters": [
+      14
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 7,
+    "title": "The Theory of Gravitation",
+    "pdf_page": 69,
+    "course_chapters": [
+      5
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 8,
+    "title": "Motion",
+    "pdf_page": 80,
+    "course_chapters": [
+      3
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 9,
+    "title": "Newton's Laws of Dynamics",
+    "pdf_page": 90,
+    "course_chapters": [
+      4,
+      27
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 10,
+    "title": "Conservation of Mementum",
+    "pdf_page": 99,
+    "course_chapters": [
+      5
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 11,
+    "title": "Vectors",
+    "pdf_page": 108,
+    "course_chapters": [
+      2
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 12,
+    "title": "Characteristics of Force",
+    "pdf_page": 118,
+    "course_chapters": [
+      4
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 13,
+    "title": "Work and Potential Energy (A)",
+    "pdf_page": 130,
+    "course_chapters": [
+      5
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 14,
+    "title": "Work and Potential Energy (conclusion)",
+    "pdf_page": 139,
+    "course_chapters": [
+      5
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 15,
+    "title": "The Special Theory of Relativity",
+    "pdf_page": 148,
+    "course_chapters": [
+      10
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 16,
+    "title": "Relativistic Energy and Momentum",
+    "pdf_page": 160,
+    "course_chapters": [
+      10
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 17,
+    "title": "Space-Time",
+    "pdf_page": 170,
+    "course_chapters": [
+      10
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 18,
+    "title": "Rotation in Two Dimensions",
+    "pdf_page": 178,
+    "course_chapters": [
+      6
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 19,
+    "title": "Center of Mass; Moment of Inertia",
+    "pdf_page": 186,
+    "course_chapters": [
+      6
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 20,
+    "title": "Rotation in space",
+    "pdf_page": 195,
+    "course_chapters": [
+      6
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 21,
+    "title": "The Harmonic Oscillator",
+    "pdf_page": 203,
+    "course_chapters": [
+      7
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 22,
+    "title": "Algebra",
+    "pdf_page": 208,
+    "course_chapters": [
+      7
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 23,
+    "title": "Resonance",
+    "pdf_page": 219,
+    "course_chapters": [
+      7
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 24,
+    "title": "Transients",
+    "pdf_page": 228,
+    "course_chapters": [
+      7
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 25,
+    "title": "Linear Systems and Review",
+    "pdf_page": 234,
+    "course_chapters": [
+      7
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 26,
+    "title": "Optics: The Principle of Least Time",
+    "pdf_page": 243,
+    "course_chapters": [
+      9
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 27,
+    "title": "Geometrical Optics",
+    "pdf_page": 251,
+    "course_chapters": [
+      9
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 28,
+    "title": "Electromagnetic Radiation",
+    "pdf_page": 259,
+    "course_chapters": [
+      18
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 29,
+    "title": "Interference",
+    "pdf_page": 265,
+    "course_chapters": [
+      9
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 30,
+    "title": "Diffraction",
+    "pdf_page": 272,
+    "course_chapters": [
+      9
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 31,
+    "title": "The Origin of the Refractive Index",
+    "pdf_page": 284,
+    "course_chapters": [
+      9,
+      18
+    ],
+    "treatment": "Selected physical mechanisms",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 32,
+    "title": "Radiation Damping. Light Scattering",
+    "pdf_page": 295,
+    "course_chapters": [
+      9,
+      18
+    ],
+    "treatment": "Selected physical mechanisms",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 33,
+    "title": "Polarization",
+    "pdf_page": 304,
+    "course_chapters": [
+      9
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 34,
+    "title": "Relativistic Effects in Radiation",
+    "pdf_page": 314,
+    "course_chapters": [
+      10,
+      18
+    ],
+    "treatment": "Selected relativistic connections",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 35,
+    "title": "Color Vision",
+    "pdf_page": 325,
+    "course_chapters": [
+      9,
+      24
+    ],
+    "treatment": "Contextual optional reading: perception not fully developed",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 36,
+    "title": "Mechanism of Seeing",
+    "pdf_page": 335,
+    "course_chapters": [
+      9,
+      24
+    ],
+    "treatment": "Contextual optional reading: perception not fully developed",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 37,
+    "title": "Quantum Behavior",
+    "pdf_page": 347,
+    "course_chapters": [
+      19,
+      20
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 38,
+    "title": "The Relation of Wave and Particle Viewpoints",
+    "pdf_page": 359,
+    "course_chapters": [
+      19,
+      20
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 39,
+    "title": "The Kinetic Theory of Gases",
+    "pdf_page": 369,
+    "course_chapters": [
+      14
+    ],
+    "treatment": "Worked core and selected transport applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 40,
+    "title": "The Principles of Statistical Mechanics",
+    "pdf_page": 381,
+    "course_chapters": [
+      14
+    ],
+    "treatment": "Worked core and selected transport applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 41,
+    "title": "The Brownian Movement",
+    "pdf_page": 391,
+    "course_chapters": [
+      14
+    ],
+    "treatment": "Worked core and selected transport applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 42,
+    "title": "Applications of Kinetic Theory",
+    "pdf_page": 401,
+    "course_chapters": [
+      14
+    ],
+    "treatment": "Worked core and selected transport applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 43,
+    "title": "Diffusion",
+    "pdf_page": 411,
+    "course_chapters": [
+      12
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 44,
+    "title": "The Laws of Thermodynamics",
+    "pdf_page": 421,
+    "course_chapters": [
+      13,
+      14
+    ],
+    "treatment": "Worked core; ratchet is an optional source case",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 45,
+    "title": "Illustrations of Thermodynamics",
+    "pdf_page": 434,
+    "course_chapters": [
+      13,
+      14
+    ],
+    "treatment": "Worked core; ratchet is an optional source case",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 46,
+    "title": "Ratchet and Pawl",
+    "pdf_page": 442,
+    "course_chapters": [
+      13,
+      14
+    ],
+    "treatment": "Worked core; ratchet is an optional source case",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 47,
+    "title": "Sound. the wave equation",
+    "pdf_page": 452,
+    "course_chapters": [
+      8
+    ],
+    "treatment": "Worked core and selected wave applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 48,
+    "title": "Beats",
+    "pdf_page": 460,
+    "course_chapters": [
+      8
+    ],
+    "treatment": "Worked core and selected wave applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 49,
+    "title": "Modes",
+    "pdf_page": 471,
+    "course_chapters": [
+      8
+    ],
+    "treatment": "Worked core and selected wave applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 50,
+    "title": "Harmonics",
+    "pdf_page": 479,
+    "course_chapters": [
+      8
+    ],
+    "treatment": "Worked core and selected wave applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 51,
+    "title": "Waves",
+    "pdf_page": 489,
+    "course_chapters": [
+      8
+    ],
+    "treatment": "Worked core and selected wave applications",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "I",
+    "number": 52,
+    "title": "Symmetry in Physical Laws",
+    "pdf_page": 499,
+    "course_chapters": [
+      11,
+      22,
+      26
+    ],
+    "treatment": "Symmetry tools and selected extensions",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 1,
+    "title": "Electromagnetism",
+    "pdf_page": 525,
+    "course_chapters": [
+      15,
+      18
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 2,
+    "title": "Differential Calcululs of Vector Fields",
+    "pdf_page": 536,
+    "course_chapters": [
+      15
+    ],
+    "treatment": "Worked mathematical prerequisites",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 3,
+    "title": "Vector Integral Calculus",
+    "pdf_page": 549,
+    "course_chapters": [
+      15
+    ],
+    "treatment": "Worked mathematical prerequisites",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 4,
+    "title": "Electrostatics",
+    "pdf_page": 561,
+    "course_chapters": [
+      15,
+      16
+    ],
+    "treatment": "Worked core and selected geometries",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 5,
+    "title": "Application of Gauss' Law",
+    "pdf_page": 573,
+    "course_chapters": [
+      15,
+      16
+    ],
+    "treatment": "Worked core and selected geometries",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 6,
+    "title": "The Electric Field in Various Circumstances",
+    "pdf_page": 582,
+    "course_chapters": [
+      15,
+      16
+    ],
+    "treatment": "Worked core and selected geometries",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 7,
+    "title": "The Electric Field in Various Circumstances (continued)",
+    "pdf_page": 596,
+    "course_chapters": [
+      15,
+      16
+    ],
+    "treatment": "Worked core and selected geometries",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 8,
+    "title": "Electrostatic Energy",
+    "pdf_page": 607,
+    "course_chapters": [
+      15,
+      16
+    ],
+    "treatment": "Worked core and selected geometries",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 9,
+    "title": "Electricity in the Atmosphere",
+    "pdf_page": 619,
+    "course_chapters": [
+      15
+    ],
+    "treatment": "Contextual optional reading: atmospheric detail not developed",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 10,
+    "title": "Dielectrics",
+    "pdf_page": 630,
+    "course_chapters": [
+      16
+    ],
+    "treatment": "Worked core and selected material models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 11,
+    "title": "Inside Dielectrics",
+    "pdf_page": 639,
+    "course_chapters": [
+      16
+    ],
+    "treatment": "Worked core and selected material models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 12,
+    "title": "Electrostatic Analogs",
+    "pdf_page": 650,
+    "course_chapters": [
+      16
+    ],
+    "treatment": "Worked core and selected material models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 13,
+    "title": "Magnetostatics",
+    "pdf_page": 663,
+    "course_chapters": [
+      17
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 14,
+    "title": "The Magnetic Field in Various Situations",
+    "pdf_page": 675,
+    "course_chapters": [
+      17
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 15,
+    "title": "The Vector Potential",
+    "pdf_page": 685,
+    "course_chapters": [
+      17
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 16,
+    "title": "Induced Currents",
+    "pdf_page": 701,
+    "course_chapters": [
+      17
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 17,
+    "title": "The Laws of Induction",
+    "pdf_page": 711,
+    "course_chapters": [
+      17
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 18,
+    "title": "The Maxwell Equations",
+    "pdf_page": 726,
+    "course_chapters": [
+      18
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 19,
+    "title": "The Principle of Least Action",
+    "pdf_page": 737,
+    "course_chapters": [
+      11
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 20,
+    "title": "Solutions of Maxwell's Equations in Free Space",
+    "pdf_page": 751,
+    "course_chapters": [
+      18,
+      26
+    ],
+    "treatment": "Selected wave, retardation and Green-function treatments",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 21,
+    "title": "Solution's of Maxwell's Equations with Currents and Charges",
+    "pdf_page": 766,
+    "course_chapters": [
+      18,
+      26
+    ],
+    "treatment": "Selected wave, retardation and Green-function treatments",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 22,
+    "title": "AC Circuits",
+    "pdf_page": 779,
+    "course_chapters": [
+      17
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 23,
+    "title": "Cavity Resonators",
+    "pdf_page": 797,
+    "course_chapters": [
+      8,
+      18
+    ],
+    "treatment": "Selected mode ideas; specialized waveguide design is further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 24,
+    "title": "Waveguides",
+    "pdf_page": 808,
+    "course_chapters": [
+      8,
+      18
+    ],
+    "treatment": "Selected mode ideas; specialized waveguide design is further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 25,
+    "title": "Electrodynamics in Relativistic Notation",
+    "pdf_page": 820,
+    "course_chapters": [
+      10,
+      18,
+      26
+    ],
+    "treatment": "Selected covariant/energy connections",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 26,
+    "title": "Lorentz Transformations of the Fields",
+    "pdf_page": 831,
+    "course_chapters": [
+      10,
+      18,
+      26
+    ],
+    "treatment": "Selected covariant/energy connections",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 27,
+    "title": "Field Energy and Field Momentum",
+    "pdf_page": 844,
+    "course_chapters": [
+      10,
+      18,
+      26
+    ],
+    "treatment": "Selected covariant/energy connections",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 28,
+    "title": "Electromagnetic Mass",
+    "pdf_page": 855,
+    "course_chapters": [
+      18,
+      24
+    ],
+    "treatment": "Historical/contextual reading; no complete self-force theory",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 29,
+    "title": "The Motion of Charges in Electric and Magnetic Fields",
+    "pdf_page": 869,
+    "course_chapters": [
+      17,
+      24
+    ],
+    "treatment": "Selected particle dynamics",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 30,
+    "title": "The Internal Geometry of Crystals",
+    "pdf_page": 877,
+    "course_chapters": [
+      23
+    ],
+    "treatment": "Worked lattice foundation and selected structure",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 31,
+    "title": "Tensors",
+    "pdf_page": 903,
+    "course_chapters": [
+      6,
+      12,
+      25
+    ],
+    "treatment": "Worked tensor bridges",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 32,
+    "title": "Refractive Index of Dense Materials",
+    "pdf_page": 917,
+    "course_chapters": [
+      9,
+      16,
+      18
+    ],
+    "treatment": "Selected material/optical treatments",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 33,
+    "title": "Reflection from Surfaces",
+    "pdf_page": 930,
+    "course_chapters": [
+      9,
+      16,
+      18
+    ],
+    "treatment": "Selected material/optical treatments",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 34,
+    "title": "The Magnetism of Matter",
+    "pdf_page": 943,
+    "course_chapters": [
+      14,
+      21,
+      23
+    ],
+    "treatment": "Selected magnetic and collective models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 35,
+    "title": "Paramagnetism and Magnetic Resonance",
+    "pdf_page": 955,
+    "course_chapters": [
+      14,
+      21,
+      23
+    ],
+    "treatment": "Selected magnetic and collective models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 36,
+    "title": "Ferromagnetism",
+    "pdf_page": 967,
+    "course_chapters": [
+      14,
+      21,
+      23
+    ],
+    "treatment": "Selected magnetic and collective models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 37,
+    "title": "Magnetic Materials",
+    "pdf_page": 982,
+    "course_chapters": [
+      14,
+      21,
+      23
+    ],
+    "treatment": "Selected magnetic and collective models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 38,
+    "title": "Elasticity",
+    "pdf_page": 995,
+    "course_chapters": [
+      12
+    ],
+    "treatment": "Worked continuum foundation and selected flow models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 39,
+    "title": "Elastic Materials",
+    "pdf_page": 1007,
+    "course_chapters": [
+      12
+    ],
+    "treatment": "Worked continuum foundation and selected flow models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 40,
+    "title": "The Flow of Dry Water",
+    "pdf_page": 1020,
+    "course_chapters": [
+      12
+    ],
+    "treatment": "Worked continuum foundation and selected flow models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 41,
+    "title": "The Flow of Wet Water",
+    "pdf_page": 1032,
+    "course_chapters": [
+      12
+    ],
+    "treatment": "Worked continuum foundation and selected flow models",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 1,
+    "title": "Quantum Behavior",
+    "pdf_page": 1055,
+    "course_chapters": [
+      19
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 2,
+    "title": "The Relation of Wave and Particle Viewpoint",
+    "pdf_page": 1066,
+    "course_chapters": [
+      19
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 3,
+    "title": "Probability Amplitudes",
+    "pdf_page": 1074,
+    "course_chapters": [
+      19
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 4,
+    "title": "Identical Particles",
+    "pdf_page": 1087,
+    "course_chapters": [
+      14,
+      22
+    ],
+    "treatment": "Worked identical-particle/statistical foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 5,
+    "title": "Spin One",
+    "pdf_page": 1102,
+    "course_chapters": [
+      19,
+      21
+    ],
+    "treatment": "Worked spin foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 6,
+    "title": "Spin One-Half",
+    "pdf_page": 1119,
+    "course_chapters": [
+      19,
+      21
+    ],
+    "treatment": "Worked spin foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 7,
+    "title": "The Dependence of Amplitude on Time",
+    "pdf_page": 1133,
+    "course_chapters": [
+      19,
+      21,
+      22
+    ],
+    "treatment": "Two-state foundations and selected applications; maser/hyperfine details further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 8,
+    "title": "The Hamiltonian Matrix",
+    "pdf_page": 1146,
+    "course_chapters": [
+      19,
+      21,
+      22
+    ],
+    "treatment": "Two-state foundations and selected applications; maser/hyperfine details further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 9,
+    "title": "The Ammonia Maser",
+    "pdf_page": 1160,
+    "course_chapters": [
+      19,
+      21,
+      22
+    ],
+    "treatment": "Two-state foundations and selected applications; maser/hyperfine details further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 10,
+    "title": "Other Two-State Systems",
+    "pdf_page": 1175,
+    "course_chapters": [
+      19,
+      21,
+      22
+    ],
+    "treatment": "Two-state foundations and selected applications; maser/hyperfine details further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 11,
+    "title": "More Two-State Systems",
+    "pdf_page": 1192,
+    "course_chapters": [
+      19,
+      21,
+      22
+    ],
+    "treatment": "Two-state foundations and selected applications; maser/hyperfine details further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 12,
+    "title": "The Hyperfine Splitting in Hydrogen",
+    "pdf_page": 1216,
+    "course_chapters": [
+      19,
+      21,
+      22
+    ],
+    "treatment": "Two-state foundations and selected applications; maser/hyperfine details further reading",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 13,
+    "title": "Propagation in a Crystal Lattice",
+    "pdf_page": 1232,
+    "course_chapters": [
+      22,
+      23
+    ],
+    "treatment": "Worked approximations and lattice/material foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 14,
+    "title": "Semiconductors",
+    "pdf_page": 1245,
+    "course_chapters": [
+      22,
+      23
+    ],
+    "treatment": "Worked approximations and lattice/material foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 15,
+    "title": "The Independent Particle Approximation",
+    "pdf_page": 1257,
+    "course_chapters": [
+      22,
+      23
+    ],
+    "treatment": "Worked approximations and lattice/material foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 16,
+    "title": "The Dependence of Amplitudes on Position",
+    "pdf_page": 1270,
+    "course_chapters": [
+      20
+    ],
+    "treatment": "Worked core",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 17,
+    "title": "Symmetry and Conservation Laws",
+    "pdf_page": 1286,
+    "course_chapters": [
+      21,
+      22,
+      26
+    ],
+    "treatment": "Worked angular/symmetry foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 18,
+    "title": "Angular Momentum",
+    "pdf_page": 1302,
+    "course_chapters": [
+      21,
+      22,
+      26
+    ],
+    "treatment": "Worked angular/symmetry foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 19,
+    "title": "The Hydrogen Atom and The Periodic Table",
+    "pdf_page": 1323,
+    "course_chapters": [
+      21,
+      24
+    ],
+    "treatment": "Worked hydrogen and selected atomic structure",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 20,
+    "title": "Operators",
+    "pdf_page": 1341,
+    "course_chapters": [
+      19,
+      20,
+      26
+    ],
+    "treatment": "Worked operator foundations",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "III",
+    "number": 21,
+    "title": "The Schrödinger Equation in a Classical Context",
+    "pdf_page": 1358,
+    "course_chapters": [
+      20,
+      23
+    ],
+    "treatment": "Selected continuum/collective connections",
+    "source": "supplied PDF outline"
+  },
+  {
+    "volume": "II",
+    "number": 42,
+    "title": "Curved Space",
+    "pdf_page": null,
+    "course_chapters": [
+      25
+    ],
+    "treatment": "Worked geometry bridge; online supplement absent from supplied outline",
+    "source": "official online supplement"
+  }
+]

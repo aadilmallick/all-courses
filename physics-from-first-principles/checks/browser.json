@@ -1,0 +1,27 @@
+{
+  "browser": "157.0.8103.51",
+  "viewports": [
+    "1440x1000",
+    "390x844"
+  ],
+  "checks": [
+    "Offline reader assets load over optional local server",
+    "All 28 chapter routes load with no equation error markup",
+    "All 23 laboratories compute finite results and reset deterministically",
+    "Parameter changes update computed results",
+    "Invalid input hides stale plot and reset recovers",
+    "Chapter practice links open separate hints",
+    "Navigation filtering works",
+    "390px reader, equation chapter and laboratory have no document overflow",
+    "Continuous HTML textbook loads rendered mathematics",
+    "Optional embedding mount computes and cleans up",
+    "Direct file opening works with network offline, including a quantum experiment"
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "limits": [
+    "Chromium-based browser on this Windows host; not all browsers or assistive technologies",
+    "No physical experiment performed",
+    "Plots checked visually in representative screenshots, all models numerically checked separately"
+  ]
+}

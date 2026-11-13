@@ -1,0 +1,241 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "units",
+      "title": "units",
+      "chapter": "chapter-01",
+      "chapters": [
+        "chapter-01"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "vectors",
+      "title": "vectors",
+      "chapter": "chapter-02",
+      "chapters": [
+        "chapter-02"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "projectile",
+      "title": "projectile",
+      "chapter": "chapter-03",
+      "chapters": [
+        "chapter-03",
+        "chapter-04"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "orbit",
+      "title": "orbit",
+      "chapter": "chapter-05",
+      "chapters": [
+        "chapter-05"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "rotation",
+      "title": "rotation",
+      "chapter": "chapter-06",
+      "chapters": [
+        "chapter-06"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "resonance",
+      "title": "resonance",
+      "chapter": "chapter-07",
+      "chapters": [
+        "chapter-07"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "fourier",
+      "title": "fourier",
+      "chapter": "chapter-08",
+      "chapters": [
+        "chapter-08"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "diffraction",
+      "title": "diffraction",
+      "chapter": "chapter-09",
+      "chapters": [
+        "chapter-09"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "relativity",
+      "title": "relativity",
+      "chapter": "chapter-10",
+      "chapters": [
+        "chapter-10"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "pendulum",
+      "title": "pendulum",
+      "chapter": "chapter-07",
+      "chapters": [
+        "chapter-07",
+        "chapter-11"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "diffusion",
+      "title": "diffusion",
+      "chapter": "chapter-12",
+      "chapters": [
+        "chapter-12"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "thermal",
+      "title": "thermal",
+      "chapter": "chapter-13",
+      "chapters": [
+        "chapter-13"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "boltzmann",
+      "title": "boltzmann",
+      "chapter": "chapter-14",
+      "chapters": [
+        "chapter-14"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "electrostatic",
+      "title": "electrostatic",
+      "chapter": "chapter-15",
+      "chapters": [
+        "chapter-15",
+        "chapter-16"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "rc",
+      "title": "rc",
+      "chapter": "chapter-17",
+      "chapters": [
+        "chapter-17"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "radiation",
+      "title": "radiation",
+      "chapter": "chapter-18",
+      "chapters": [
+        "chapter-18"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "rabi",
+      "title": "rabi",
+      "chapter": "chapter-19",
+      "chapters": [
+        "chapter-19",
+        "chapter-22"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "well",
+      "title": "well",
+      "chapter": "chapter-20",
+      "chapters": [
+        "chapter-20",
+        "chapter-21"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "band",
+      "title": "band",
+      "chapter": "chapter-23",
+      "chapters": [
+        "chapter-23"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "decay",
+      "title": "decay",
+      "chapter": "chapter-24",
+      "chapters": [
+        "chapter-24"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "cosmology",
+      "title": "cosmology",
+      "chapter": "chapter-25",
+      "chapters": [
+        "chapter-25",
+        "chapter-26"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "numerics",
+      "title": "numerics",
+      "chapter": "chapter-27",
+      "chapters": [
+        "chapter-27"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    },
+    {
+      "id": "regression",
+      "title": "regression",
+      "chapter": "chapter-28",
+      "chapters": [
+        "chapter-28"
+      ],
+      "description": "Original numeric model; controls and interpretation in the offline reader.",
+      "module": "mount.mjs"
+    }
+  ]
+}

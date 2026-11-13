@@ -1,0 +1,80 @@
+{
+  "runtime": "v26.7.0",
+  "independent_checks": 14,
+  "checks": [
+    {
+      "name": "Schrodinger ODE norm 2,0,0.71",
+      "actual": 0.9999999999999925,
+      "expected": 1
+    },
+    {
+      "name": "Rabi compared with integrated amplitudes 2,0,0.71",
+      "actual": 0.424887265044157,
+      "expected": 0.42488726504415514
+    },
+    {
+      "name": "Schrodinger ODE norm 2,3,1.7",
+      "actual": 1.0000000000000027,
+      "expected": 1
+    },
+    {
+      "name": "Rabi compared with integrated amplitudes 2,3,1.7",
+      "actual": 0.001814766310464248,
+      "expected": 0.0018147663104643719
+    },
+    {
+      "name": "Schrodinger ODE norm 0.7,-2,4",
+      "actual": 0.9999999999999931,
+      "expected": 1
+    },
+    {
+      "name": "Rabi compared with integrated amplitudes 0.7,-2,4",
+      "actual": 0.08635312427218264,
+      "expected": 0.08635312427218117
+    },
+    {
+      "name": "Schrodinger ODE norm 5,1,0.9",
+      "actual": 0.9999999999999976,
+      "expected": 1
+    },
+    {
+      "name": "Rabi compared with integrated amplitudes 5,1,0.9",
+      "actual": 0.5398843524507814,
+      "expected": 0.5398843524507784
+    },
+    {
+      "name": "Plane-wave intensity from sampled field 0",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "Plane-wave intensity from sampled field 10",
+      "actual": 0.13272093648958552,
+      "expected": 0.13272093648958547
+    },
+    {
+      "name": "Plane-wave intensity from sampled field 1000",
+      "actual": 1327.209364895855,
+      "expected": 1327.2093648958576
+    },
+    {
+      "name": "Canvas circular orbit pixel aspect at width 700",
+      "actual": 0.9999999999999999,
+      "expected": 1
+    },
+    {
+      "name": "Canvas circular orbit pixel aspect at width 290",
+      "actual": 0.9999999999999999,
+      "expected": 1
+    },
+    {
+      "name": "Canvas vector slope preserves physical 4:3 components",
+      "actual": 1.3333333333333333,
+      "expected": 1.3333333333333333
+    }
+  ],
+  "limits": [
+    "Recorded-canvas tests establish actual coordinate scaling, not visual browser appearance.",
+    "Numerical Schrodinger and sampled plane-wave comparisons cover selected inputs, not all model regimes."
+  ]
+}

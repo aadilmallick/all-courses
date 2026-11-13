@@ -1,0 +1,652 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "passed_assertions": 161,
+  "checks": [
+    {
+      "check": "12 hydrostatic gauge pressure",
+      "status": "passed"
+    },
+    {
+      "check": "12 Poiseuille mean speed",
+      "status": "passed"
+    },
+    {
+      "check": "12 tube Reynolds number",
+      "status": "passed"
+    },
+    {
+      "check": "12 rod extension",
+      "status": "passed"
+    },
+    {
+      "check": "12 longitudinal rod speed",
+      "status": "passed"
+    },
+    {
+      "check": "12 diffusion rms time",
+      "status": "passed"
+    },
+    {
+      "check": "12 Gaussian total amount",
+      "status": "passed"
+    },
+    {
+      "check": "12 Gaussian mean-square displacement",
+      "status": "passed"
+    },
+    {
+      "check": "13 isothermal work",
+      "status": "passed"
+    },
+    {
+      "check": "13 reversible adiabatic cooling",
+      "status": "passed"
+    },
+    {
+      "check": "13 finite-body entropy production",
+      "status": "passed"
+    },
+    {
+      "check": "13 practice finite-body entropy",
+      "status": "passed"
+    },
+    {
+      "check": "13 refrigerator reversible entropy",
+      "status": "passed"
+    },
+    {
+      "check": "13 Carnot energy balance",
+      "status": "passed"
+    },
+    {
+      "check": "14 binomial normalization",
+      "status": "passed"
+    },
+    {
+      "check": "14 degenerate two-level occupation",
+      "status": "passed"
+    },
+    {
+      "check": "14 fermion occupation",
+      "status": "passed"
+    },
+    {
+      "check": "14 boson occupation",
+      "status": "passed"
+    },
+    {
+      "check": "14 rms gas speed",
+      "status": "passed"
+    },
+    {
+      "check": "14 canonical energy fluctuation derivative",
+      "status": "passed"
+    },
+    {
+      "check": "14 magnetic state mean at aligned weight ratio3",
+      "status": "passed"
+    },
+    {
+      "check": "15 sphere field from potential derivative",
+      "status": "passed"
+    },
+    {
+      "check": "15 sphere potential continuity",
+      "status": "passed"
+    },
+    {
+      "check": "15 two-sheet example",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded sphere image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded plane image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded plane image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded plane image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 grounded plane image boundary",
+      "status": "passed"
+    },
+    {
+      "check": "16 isolated dielectric voltage ratio",
+      "status": "passed"
+    },
+    {
+      "check": "16 fixed-voltage capacitor energy ratio",
+      "status": "passed"
+    },
+    {
+      "check": "17 RC source energy integral",
+      "status": "passed"
+    },
+    {
+      "check": "17 RC resistor energy integral",
+      "status": "passed"
+    },
+    {
+      "check": "17 LC angular frequency",
+      "status": "passed"
+    },
+    {
+      "check": "17 inductor energy",
+      "status": "passed"
+    },
+    {
+      "check": "17 induction emf",
+      "status": "passed"
+    },
+    {
+      "check": "17 capacitor negative-frequency phasor relation",
+      "status": "passed"
+    },
+    {
+      "check": "18 vacuum constant relation",
+      "status": "passed"
+    },
+    {
+      "check": "18 intensity from peak electric amplitude",
+      "status": "passed"
+    },
+    {
+      "check": "18 Fresnel reflected fraction",
+      "status": "passed"
+    },
+    {
+      "check": "18 Fresnel energy conservation",
+      "status": "passed"
+    },
+    {
+      "check": "18 dipole angular factor integral",
+      "status": "passed"
+    },
+    {
+      "check": "18 reflecting force",
+      "status": "passed"
+    },
+    {
+      "check": "19 Pauli XY commutator",
+      "status": "passed"
+    },
+    {
+      "check": "19 Pauli XZ commutator",
+      "status": "passed"
+    },
+    {
+      "check": "19 complex-state normalization",
+      "status": "passed"
+    },
+    {
+      "check": "19 plus measurement probability",
+      "status": "passed"
+    },
+    {
+      "check": "19 Z expectation",
+      "status": "passed"
+    },
+    {
+      "check": "19 coupled eigenvalues",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    },
+    {
+      "check": "19 propagator unitarity",
+      "status": "passed"
+    },
+    {
+      "check": "19 detuned transition against independent eigensolver",
+      "status": "passed"
+    }
+  ],
+  "limits": "Selected arithmetic, known limits, boundary values, numerical integrals and matrix invariants. Not an exhaustive proof or validation of every textual claim."
+}

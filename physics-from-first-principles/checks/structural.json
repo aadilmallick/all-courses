@@ -1,0 +1,123 @@
+{
+  "mode": "final",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "prose_words": 3118
+    },
+    {
+      "id": "chapter-02",
+      "prose_words": 3105
+    },
+    {
+      "id": "chapter-03",
+      "prose_words": 2824
+    },
+    {
+      "id": "chapter-04",
+      "prose_words": 3181
+    },
+    {
+      "id": "chapter-05",
+      "prose_words": 3054
+    },
+    {
+      "id": "chapter-06",
+      "prose_words": 3035
+    },
+    {
+      "id": "chapter-07",
+      "prose_words": 2604
+    },
+    {
+      "id": "chapter-08",
+      "prose_words": 2629
+    },
+    {
+      "id": "chapter-09",
+      "prose_words": 3002
+    },
+    {
+      "id": "chapter-10",
+      "prose_words": 3057
+    },
+    {
+      "id": "chapter-11",
+      "prose_words": 3153
+    },
+    {
+      "id": "chapter-12",
+      "prose_words": 3173
+    },
+    {
+      "id": "chapter-13",
+      "prose_words": 2916
+    },
+    {
+      "id": "chapter-14",
+      "prose_words": 2936
+    },
+    {
+      "id": "chapter-15",
+      "prose_words": 2817
+    },
+    {
+      "id": "chapter-16",
+      "prose_words": 2864
+    },
+    {
+      "id": "chapter-17",
+      "prose_words": 2763
+    },
+    {
+      "id": "chapter-18",
+      "prose_words": 2717
+    },
+    {
+      "id": "chapter-19",
+      "prose_words": 2659
+    },
+    {
+      "id": "chapter-20",
+      "prose_words": 2766
+    },
+    {
+      "id": "chapter-21",
+      "prose_words": 2576
+    },
+    {
+      "id": "chapter-22",
+      "prose_words": 2691
+    },
+    {
+      "id": "chapter-23",
+      "prose_words": 3043
+    },
+    {
+      "id": "chapter-24",
+      "prose_words": 2988
+    },
+    {
+      "id": "chapter-25",
+      "prose_words": 3037
+    },
+    {
+      "id": "chapter-26",
+      "prose_words": 3122
+    },
+    {
+      "id": "chapter-27",
+      "prose_words": 2963
+    },
+    {
+      "id": "chapter-28",
+      "prose_words": 3583
+    }
+  ],
+  "prose_words": 82376,
+  "errors": [],
+  "limits": [
+    "Structural and depth checks only",
+    "Math syntax/truth and companion execution require separate evidence"
+  ]
+}
