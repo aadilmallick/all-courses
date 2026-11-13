@@ -1,0 +1,10 @@
+#usda 1.0
+
+over "World"
+{
+    over "PartA"
+    {
+        custom double telemetry:position_m = 0.84
+    }
+}
+

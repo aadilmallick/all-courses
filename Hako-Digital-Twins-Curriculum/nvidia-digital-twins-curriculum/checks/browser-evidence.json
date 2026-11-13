@@ -1,0 +1,111 @@
+{
+  "browser": "156.0.8078.80",
+  "viewport": [
+    1440,
+    1000
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "id": "warehouse",
+      "initial": "Bound: 750.0 orders/hour; limiting stage: grid",
+      "changed": "Bound: 950.0 orders/hour; limiting stage: pack",
+      "reset": true
+    },
+    {
+      "id": "frames",
+      "initial": "World point: (2.000, 1.500) m",
+      "changed": "World point: (1.500, 1.000) m",
+      "reset": true
+    },
+    {
+      "id": "arm",
+      "initial": "Tool: (0.400, 0.300) m",
+      "changed": "Tool: (-0.400, -0.300) m",
+      "reset": true
+    },
+    {
+      "id": "layers",
+      "initial": "Resolved teaching value: 0.84",
+      "changed": "Resolved teaching value: 1.00",
+      "reset": true
+    },
+    {
+      "id": "clocks",
+      "initial": "8.00 physics intervals per camera interval",
+      "changed": "16.00 physics intervals per camera interval",
+      "reset": true
+    },
+    {
+      "id": "control",
+      "initial": "Position after 6 s: 1.000 m; peak 1.011 m; target 1 m",
+      "changed": "Position after 6 s: 1.000 m; peak 1.063 m; target 1 m",
+      "reset": true
+    },
+    {
+      "id": "drive",
+      "initial": "Wheel rates: left 2.50, right 5.50 rad/s",
+      "changed": "Wheel rates: left 8.50, right 11.50 rad/s",
+      "reset": true
+    },
+    {
+      "id": "projection",
+      "initial": "Pixel: (370.0, 240.0)",
+      "changed": "Pixel: (570.0, 240.0)",
+      "reset": true
+    },
+    {
+      "id": "sensors",
+      "initial": "Filtered RMSE to current truth: 0.193 m",
+      "changed": "Filtered RMSE to current truth: 0.639 m",
+      "reset": true
+    },
+    {
+      "id": "action",
+      "initial": "Accepted: Accepted bounded local proposal",
+      "changed": "Rejected: X must be finite and within [-2,2] m",
+      "reset": true
+    },
+    {
+      "id": "detection",
+      "initial": "Precision 30.8%; recall 81.0%",
+      "changed": "Precision 100.0%; recall 2.0%",
+      "reset": true
+    },
+    {
+      "id": "reward",
+      "initial": "Learned greedy route: 0 → 1 → 2 → 3 → 4",
+      "changed": "Learned greedy route: 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0 → 0",
+      "reset": true
+    },
+    {
+      "id": "twin",
+      "initial": "Last state fresh; age 0.20 s",
+      "changed": "Last state stale; age 0.80 s",
+      "reset": true
+    },
+    {
+      "id": "conveyor",
+      "initial": "2.00 s visible; 0.40 mm travel during exposure",
+      "changed": "5.00 s visible; 0.40 mm travel during exposure",
+      "reset": true
+    },
+    {
+      "id": "policy",
+      "initial": "At simulation time 0.0 s",
+      "changed": "At simulation time 160.0 s",
+      "reset": true
+    }
+  ],
+  "playPause": true,
+  "navigationRace": true,
+  "failedLoadRecovery": true,
+  "bookAnchors": 10,
+  "architectureLoaded": true,
+  "guideLoaded": true,
+  "mobileOverflow": false
+}

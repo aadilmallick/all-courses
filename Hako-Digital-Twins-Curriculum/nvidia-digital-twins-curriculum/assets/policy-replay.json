@@ -1,0 +1,6437 @@
+{
+  "notice": "Synthetic teaching model, not Hako operating results.",
+  "runs": [
+    {
+      "manifest": {
+        "model": "original_teaching_des_v1",
+        "policy": "baseline",
+        "time_unit": "seconds",
+        "cutoff_s": 100.0,
+        "horizon_s": 160.0,
+        "fault_enabled": true,
+        "fault_semantics": "active cycle finishes; queued starts wait; observed repair estimate known",
+        "demand_sha256": "4466bda3b558fc1732dcc3e7e8d6a8c51005f6c96a2646de48cea39a67251199",
+        "assumptions": [
+          "unlimited eligible inventory",
+          "two pick ports",
+          "6 s per order pick",
+          "2 s pack",
+          "deterministic teaching demand; no grid or geometry"
+        ]
+      },
+      "demand": [
+        {
+          "order_id": "order-000",
+          "arrival_s": 0.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-001",
+          "arrival_s": 2.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-002",
+          "arrival_s": 4.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-003",
+          "arrival_s": 6.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-004",
+          "arrival_s": 8.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-005",
+          "arrival_s": 10.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-006",
+          "arrival_s": 12.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-007",
+          "arrival_s": 14.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-008",
+          "arrival_s": 16.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-009",
+          "arrival_s": 18.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-010",
+          "arrival_s": 20.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-011",
+          "arrival_s": 22.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-012",
+          "arrival_s": 24.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-013",
+          "arrival_s": 26.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-014",
+          "arrival_s": 28.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-015",
+          "arrival_s": 30.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-016",
+          "arrival_s": 32.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-017",
+          "arrival_s": 34.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-018",
+          "arrival_s": 36.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-019",
+          "arrival_s": 38.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-020",
+          "arrival_s": 40.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-021",
+          "arrival_s": 42.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-022",
+          "arrival_s": 44.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-023",
+          "arrival_s": 46.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-024",
+          "arrival_s": 48.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-025",
+          "arrival_s": 50.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-026",
+          "arrival_s": 52.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-027",
+          "arrival_s": 54.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-028",
+          "arrival_s": 56.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-029",
+          "arrival_s": 58.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-030",
+          "arrival_s": 60.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-031",
+          "arrival_s": 62.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-032",
+          "arrival_s": 64.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-033",
+          "arrival_s": 66.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-034",
+          "arrival_s": 68.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-035",
+          "arrival_s": 70.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-036",
+          "arrival_s": 72.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-037",
+          "arrival_s": 74.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-038",
+          "arrival_s": 76.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-039",
+          "arrival_s": 78.0,
+          "service_s": 6.0
+        }
+      ],
+      "events": [
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00000",
+          "time_s": 0.0,
+          "type": "order_arrived",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00001",
+          "time_s": 0.0,
+          "type": "assigned",
+          "order_id": "order-000",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00002",
+          "time_s": 0.0,
+          "type": "pick_started",
+          "order_id": "order-000",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00003",
+          "time_s": 2.0,
+          "type": "order_arrived",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00004",
+          "time_s": 2.0,
+          "type": "assigned",
+          "order_id": "order-001",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00005",
+          "time_s": 2.0,
+          "type": "pick_started",
+          "order_id": "order-001",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00006",
+          "time_s": 4.0,
+          "type": "order_arrived",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00007",
+          "time_s": 4.0,
+          "type": "assigned",
+          "order_id": "order-002",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00008",
+          "time_s": 6.0,
+          "type": "pick_completed",
+          "order_id": "order-000",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00009",
+          "time_s": 6.0,
+          "type": "waiting_pack",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00010",
+          "time_s": 6.0,
+          "type": "order_arrived",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00011",
+          "time_s": 6.0,
+          "type": "assigned",
+          "order_id": "order-003",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00012",
+          "time_s": 6.0,
+          "type": "pick_started",
+          "order_id": "order-002",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00013",
+          "time_s": 6.0,
+          "type": "pack_started",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00014",
+          "time_s": 8.0,
+          "type": "pick_completed",
+          "order_id": "order-001",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00015",
+          "time_s": 8.0,
+          "type": "waiting_pack",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00016",
+          "time_s": 8.0,
+          "type": "shipped",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00017",
+          "time_s": 8.0,
+          "type": "order_arrived",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00018",
+          "time_s": 8.0,
+          "type": "assigned",
+          "order_id": "order-004",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00019",
+          "time_s": 8.0,
+          "type": "pick_started",
+          "order_id": "order-003",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00020",
+          "time_s": 8.0,
+          "type": "pack_started",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00021",
+          "time_s": 10.0,
+          "type": "order_arrived",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00022",
+          "time_s": 10.0,
+          "type": "assigned",
+          "order_id": "order-005",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00023",
+          "time_s": 10.0,
+          "type": "shipped",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00024",
+          "time_s": 12.0,
+          "type": "pick_completed",
+          "order_id": "order-002",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00025",
+          "time_s": 12.0,
+          "type": "waiting_pack",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00026",
+          "time_s": 12.0,
+          "type": "order_arrived",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00027",
+          "time_s": 12.0,
+          "type": "assigned",
+          "order_id": "order-006",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00028",
+          "time_s": 12.0,
+          "type": "pick_started",
+          "order_id": "order-004",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00029",
+          "time_s": 12.0,
+          "type": "pack_started",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00030",
+          "time_s": 14.0,
+          "type": "pick_completed",
+          "order_id": "order-003",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00031",
+          "time_s": 14.0,
+          "type": "waiting_pack",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00032",
+          "time_s": 14.0,
+          "type": "shipped",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00033",
+          "time_s": 14.0,
+          "type": "order_arrived",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00034",
+          "time_s": 14.0,
+          "type": "assigned",
+          "order_id": "order-007",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00035",
+          "time_s": 14.0,
+          "type": "pick_started",
+          "order_id": "order-005",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00036",
+          "time_s": 14.0,
+          "type": "pack_started",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00037",
+          "time_s": 16.0,
+          "type": "order_arrived",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00038",
+          "time_s": 16.0,
+          "type": "assigned",
+          "order_id": "order-008",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00039",
+          "time_s": 16.0,
+          "type": "shipped",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00040",
+          "time_s": 18.0,
+          "type": "pick_completed",
+          "order_id": "order-004",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00041",
+          "time_s": 18.0,
+          "type": "waiting_pack",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00042",
+          "time_s": 18.0,
+          "type": "order_arrived",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00043",
+          "time_s": 18.0,
+          "type": "assigned",
+          "order_id": "order-009",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00044",
+          "time_s": 18.0,
+          "type": "pick_started",
+          "order_id": "order-006",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00045",
+          "time_s": 18.0,
+          "type": "pack_started",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00046",
+          "time_s": 20,
+          "type": "fault_started",
+          "order_id": null,
+          "resource_id": "pick-01",
+          "payload": {
+            "recovery_estimate_s": 50.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00047",
+          "time_s": 20.0,
+          "type": "pick_completed",
+          "order_id": "order-005",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00048",
+          "time_s": 20.0,
+          "type": "waiting_pack",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00049",
+          "time_s": 20.0,
+          "type": "shipped",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00050",
+          "time_s": 20.0,
+          "type": "order_arrived",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00051",
+          "time_s": 20.0,
+          "type": "assigned",
+          "order_id": "order-010",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00052",
+          "time_s": 20.0,
+          "type": "pick_started",
+          "order_id": "order-007",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00053",
+          "time_s": 20.0,
+          "type": "pack_started",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00054",
+          "time_s": 22.0,
+          "type": "order_arrived",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00055",
+          "time_s": 22.0,
+          "type": "assigned",
+          "order_id": "order-011",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00056",
+          "time_s": 22.0,
+          "type": "shipped",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00057",
+          "time_s": 24.0,
+          "type": "pick_completed",
+          "order_id": "order-006",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00058",
+          "time_s": 24.0,
+          "type": "waiting_pack",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00059",
+          "time_s": 24.0,
+          "type": "order_arrived",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00060",
+          "time_s": 24.0,
+          "type": "assigned",
+          "order_id": "order-012",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00061",
+          "time_s": 24.0,
+          "type": "pack_started",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00062",
+          "time_s": 26.0,
+          "type": "pick_completed",
+          "order_id": "order-007",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00063",
+          "time_s": 26.0,
+          "type": "waiting_pack",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00064",
+          "time_s": 26.0,
+          "type": "shipped",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00065",
+          "time_s": 26.0,
+          "type": "order_arrived",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00066",
+          "time_s": 26.0,
+          "type": "assigned",
+          "order_id": "order-013",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00067",
+          "time_s": 26.0,
+          "type": "pick_started",
+          "order_id": "order-009",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00068",
+          "time_s": 26.0,
+          "type": "pack_started",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00069",
+          "time_s": 28.0,
+          "type": "order_arrived",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00070",
+          "time_s": 28.0,
+          "type": "assigned",
+          "order_id": "order-014",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00071",
+          "time_s": 28.0,
+          "type": "shipped",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00072",
+          "time_s": 30.0,
+          "type": "order_arrived",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00073",
+          "time_s": 30.0,
+          "type": "assigned",
+          "order_id": "order-015",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00074",
+          "time_s": 32.0,
+          "type": "pick_completed",
+          "order_id": "order-009",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00075",
+          "time_s": 32.0,
+          "type": "waiting_pack",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00076",
+          "time_s": 32.0,
+          "type": "order_arrived",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00077",
+          "time_s": 32.0,
+          "type": "assigned",
+          "order_id": "order-016",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00078",
+          "time_s": 32.0,
+          "type": "pick_started",
+          "order_id": "order-011",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00079",
+          "time_s": 32.0,
+          "type": "pack_started",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00080",
+          "time_s": 34.0,
+          "type": "shipped",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00081",
+          "time_s": 34.0,
+          "type": "order_arrived",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00082",
+          "time_s": 34.0,
+          "type": "assigned",
+          "order_id": "order-017",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00083",
+          "time_s": 36.0,
+          "type": "order_arrived",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00084",
+          "time_s": 36.0,
+          "type": "assigned",
+          "order_id": "order-018",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00085",
+          "time_s": 38.0,
+          "type": "pick_completed",
+          "order_id": "order-011",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00086",
+          "time_s": 38.0,
+          "type": "waiting_pack",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00087",
+          "time_s": 38.0,
+          "type": "order_arrived",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00088",
+          "time_s": 38.0,
+          "type": "assigned",
+          "order_id": "order-019",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00089",
+          "time_s": 38.0,
+          "type": "pick_started",
+          "order_id": "order-013",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00090",
+          "time_s": 38.0,
+          "type": "pack_started",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00091",
+          "time_s": 40.0,
+          "type": "shipped",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00092",
+          "time_s": 40.0,
+          "type": "order_arrived",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00093",
+          "time_s": 40.0,
+          "type": "assigned",
+          "order_id": "order-020",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00094",
+          "time_s": 42.0,
+          "type": "order_arrived",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00095",
+          "time_s": 42.0,
+          "type": "assigned",
+          "order_id": "order-021",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00096",
+          "time_s": 44.0,
+          "type": "pick_completed",
+          "order_id": "order-013",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00097",
+          "time_s": 44.0,
+          "type": "waiting_pack",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00098",
+          "time_s": 44.0,
+          "type": "order_arrived",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00099",
+          "time_s": 44.0,
+          "type": "assigned",
+          "order_id": "order-022",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00100",
+          "time_s": 44.0,
+          "type": "pick_started",
+          "order_id": "order-015",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00101",
+          "time_s": 44.0,
+          "type": "pack_started",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00102",
+          "time_s": 46.0,
+          "type": "shipped",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00103",
+          "time_s": 46.0,
+          "type": "order_arrived",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00104",
+          "time_s": 46.0,
+          "type": "assigned",
+          "order_id": "order-023",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00105",
+          "time_s": 48.0,
+          "type": "order_arrived",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00106",
+          "time_s": 48.0,
+          "type": "assigned",
+          "order_id": "order-024",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00107",
+          "time_s": 50,
+          "type": "fault_ended",
+          "order_id": null,
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00108",
+          "time_s": 50.0,
+          "type": "pick_started",
+          "order_id": "order-008",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00109",
+          "time_s": 50.0,
+          "type": "pick_completed",
+          "order_id": "order-015",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00110",
+          "time_s": 50.0,
+          "type": "waiting_pack",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00111",
+          "time_s": 50.0,
+          "type": "order_arrived",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00112",
+          "time_s": 50.0,
+          "type": "assigned",
+          "order_id": "order-025",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00113",
+          "time_s": 50.0,
+          "type": "pick_started",
+          "order_id": "order-017",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00114",
+          "time_s": 50.0,
+          "type": "pack_started",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00115",
+          "time_s": 52.0,
+          "type": "shipped",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00116",
+          "time_s": 52.0,
+          "type": "order_arrived",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00117",
+          "time_s": 52.0,
+          "type": "assigned",
+          "order_id": "order-026",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00118",
+          "time_s": 54.0,
+          "type": "order_arrived",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00119",
+          "time_s": 54.0,
+          "type": "assigned",
+          "order_id": "order-027",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00120",
+          "time_s": 56.0,
+          "type": "pick_completed",
+          "order_id": "order-008",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00121",
+          "time_s": 56.0,
+          "type": "waiting_pack",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00122",
+          "time_s": 56.0,
+          "type": "pick_completed",
+          "order_id": "order-017",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00123",
+          "time_s": 56.0,
+          "type": "waiting_pack",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00124",
+          "time_s": 56.0,
+          "type": "order_arrived",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00125",
+          "time_s": 56.0,
+          "type": "assigned",
+          "order_id": "order-028",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00126",
+          "time_s": 56.0,
+          "type": "pick_started",
+          "order_id": "order-010",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00127",
+          "time_s": 56.0,
+          "type": "pack_started",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00128",
+          "time_s": 56.0,
+          "type": "pick_started",
+          "order_id": "order-019",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00129",
+          "time_s": 58.0,
+          "type": "shipped",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00130",
+          "time_s": 58.0,
+          "type": "order_arrived",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00131",
+          "time_s": 58.0,
+          "type": "assigned",
+          "order_id": "order-029",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00132",
+          "time_s": 58.0,
+          "type": "pack_started",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00133",
+          "time_s": 60.0,
+          "type": "order_arrived",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00134",
+          "time_s": 60.0,
+          "type": "assigned",
+          "order_id": "order-030",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00135",
+          "time_s": 60.0,
+          "type": "shipped",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00136",
+          "time_s": 62.0,
+          "type": "pick_completed",
+          "order_id": "order-010",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00137",
+          "time_s": 62.0,
+          "type": "waiting_pack",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00138",
+          "time_s": 62.0,
+          "type": "pick_completed",
+          "order_id": "order-019",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00139",
+          "time_s": 62.0,
+          "type": "waiting_pack",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00140",
+          "time_s": 62.0,
+          "type": "order_arrived",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00141",
+          "time_s": 62.0,
+          "type": "assigned",
+          "order_id": "order-031",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00142",
+          "time_s": 62.0,
+          "type": "pick_started",
+          "order_id": "order-012",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00143",
+          "time_s": 62.0,
+          "type": "pack_started",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00144",
+          "time_s": 62.0,
+          "type": "pick_started",
+          "order_id": "order-021",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00145",
+          "time_s": 64.0,
+          "type": "shipped",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00146",
+          "time_s": 64.0,
+          "type": "order_arrived",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00147",
+          "time_s": 64.0,
+          "type": "assigned",
+          "order_id": "order-032",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00148",
+          "time_s": 64.0,
+          "type": "pack_started",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00149",
+          "time_s": 66.0,
+          "type": "order_arrived",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00150",
+          "time_s": 66.0,
+          "type": "assigned",
+          "order_id": "order-033",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00151",
+          "time_s": 66.0,
+          "type": "shipped",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00152",
+          "time_s": 68.0,
+          "type": "pick_completed",
+          "order_id": "order-012",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00153",
+          "time_s": 68.0,
+          "type": "waiting_pack",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00154",
+          "time_s": 68.0,
+          "type": "pick_completed",
+          "order_id": "order-021",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00155",
+          "time_s": 68.0,
+          "type": "waiting_pack",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00156",
+          "time_s": 68.0,
+          "type": "order_arrived",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00157",
+          "time_s": 68.0,
+          "type": "assigned",
+          "order_id": "order-034",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00158",
+          "time_s": 68.0,
+          "type": "pick_started",
+          "order_id": "order-014",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00159",
+          "time_s": 68.0,
+          "type": "pack_started",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00160",
+          "time_s": 68.0,
+          "type": "pick_started",
+          "order_id": "order-023",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00161",
+          "time_s": 70.0,
+          "type": "shipped",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00162",
+          "time_s": 70.0,
+          "type": "order_arrived",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00163",
+          "time_s": 70.0,
+          "type": "assigned",
+          "order_id": "order-035",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00164",
+          "time_s": 70.0,
+          "type": "pack_started",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00165",
+          "time_s": 72.0,
+          "type": "order_arrived",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00166",
+          "time_s": 72.0,
+          "type": "assigned",
+          "order_id": "order-036",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00167",
+          "time_s": 72.0,
+          "type": "shipped",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00168",
+          "time_s": 74.0,
+          "type": "pick_completed",
+          "order_id": "order-014",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00169",
+          "time_s": 74.0,
+          "type": "waiting_pack",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00170",
+          "time_s": 74.0,
+          "type": "pick_completed",
+          "order_id": "order-023",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00171",
+          "time_s": 74.0,
+          "type": "waiting_pack",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00172",
+          "time_s": 74.0,
+          "type": "order_arrived",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00173",
+          "time_s": 74.0,
+          "type": "assigned",
+          "order_id": "order-037",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00174",
+          "time_s": 74.0,
+          "type": "pick_started",
+          "order_id": "order-016",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00175",
+          "time_s": 74.0,
+          "type": "pack_started",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00176",
+          "time_s": 74.0,
+          "type": "pick_started",
+          "order_id": "order-025",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00177",
+          "time_s": 76.0,
+          "type": "shipped",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00178",
+          "time_s": 76.0,
+          "type": "order_arrived",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00179",
+          "time_s": 76.0,
+          "type": "assigned",
+          "order_id": "order-038",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00180",
+          "time_s": 76.0,
+          "type": "pack_started",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00181",
+          "time_s": 78.0,
+          "type": "order_arrived",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00182",
+          "time_s": 78.0,
+          "type": "assigned",
+          "order_id": "order-039",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "round_robin"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00183",
+          "time_s": 78.0,
+          "type": "shipped",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00184",
+          "time_s": 80.0,
+          "type": "pick_completed",
+          "order_id": "order-016",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00185",
+          "time_s": 80.0,
+          "type": "waiting_pack",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00186",
+          "time_s": 80.0,
+          "type": "pick_completed",
+          "order_id": "order-025",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00187",
+          "time_s": 80.0,
+          "type": "waiting_pack",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00188",
+          "time_s": 80.0,
+          "type": "pick_started",
+          "order_id": "order-018",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00189",
+          "time_s": 80.0,
+          "type": "pack_started",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00190",
+          "time_s": 80.0,
+          "type": "pick_started",
+          "order_id": "order-027",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00191",
+          "time_s": 82.0,
+          "type": "shipped",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00192",
+          "time_s": 82.0,
+          "type": "pack_started",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00193",
+          "time_s": 84.0,
+          "type": "shipped",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00194",
+          "time_s": 86.0,
+          "type": "pick_completed",
+          "order_id": "order-018",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00195",
+          "time_s": 86.0,
+          "type": "waiting_pack",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00196",
+          "time_s": 86.0,
+          "type": "pick_completed",
+          "order_id": "order-027",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00197",
+          "time_s": 86.0,
+          "type": "waiting_pack",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00198",
+          "time_s": 86.0,
+          "type": "pick_started",
+          "order_id": "order-020",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00199",
+          "time_s": 86.0,
+          "type": "pack_started",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00200",
+          "time_s": 86.0,
+          "type": "pick_started",
+          "order_id": "order-029",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00201",
+          "time_s": 88.0,
+          "type": "shipped",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00202",
+          "time_s": 88.0,
+          "type": "pack_started",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00203",
+          "time_s": 90.0,
+          "type": "shipped",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00204",
+          "time_s": 92.0,
+          "type": "pick_completed",
+          "order_id": "order-020",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00205",
+          "time_s": 92.0,
+          "type": "waiting_pack",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00206",
+          "time_s": 92.0,
+          "type": "pick_completed",
+          "order_id": "order-029",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00207",
+          "time_s": 92.0,
+          "type": "waiting_pack",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00208",
+          "time_s": 92.0,
+          "type": "pick_started",
+          "order_id": "order-022",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00209",
+          "time_s": 92.0,
+          "type": "pack_started",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00210",
+          "time_s": 92.0,
+          "type": "pick_started",
+          "order_id": "order-031",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00211",
+          "time_s": 94.0,
+          "type": "shipped",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00212",
+          "time_s": 94.0,
+          "type": "pack_started",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00213",
+          "time_s": 96.0,
+          "type": "shipped",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00214",
+          "time_s": 98.0,
+          "type": "pick_completed",
+          "order_id": "order-022",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00215",
+          "time_s": 98.0,
+          "type": "waiting_pack",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00216",
+          "time_s": 98.0,
+          "type": "pick_completed",
+          "order_id": "order-031",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00217",
+          "time_s": 98.0,
+          "type": "waiting_pack",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00218",
+          "time_s": 98.0,
+          "type": "pick_started",
+          "order_id": "order-024",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00219",
+          "time_s": 98.0,
+          "type": "pack_started",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00220",
+          "time_s": 98.0,
+          "type": "pick_started",
+          "order_id": "order-033",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00221",
+          "time_s": 100.0,
+          "type": "shipped",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00222",
+          "time_s": 100.0,
+          "type": "pack_started",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00223",
+          "time_s": 102.0,
+          "type": "shipped",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00224",
+          "time_s": 104.0,
+          "type": "pick_completed",
+          "order_id": "order-024",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00225",
+          "time_s": 104.0,
+          "type": "waiting_pack",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00226",
+          "time_s": 104.0,
+          "type": "pick_completed",
+          "order_id": "order-033",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00227",
+          "time_s": 104.0,
+          "type": "waiting_pack",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00228",
+          "time_s": 104.0,
+          "type": "pick_started",
+          "order_id": "order-026",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00229",
+          "time_s": 104.0,
+          "type": "pack_started",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00230",
+          "time_s": 104.0,
+          "type": "pick_started",
+          "order_id": "order-035",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00231",
+          "time_s": 106.0,
+          "type": "shipped",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00232",
+          "time_s": 106.0,
+          "type": "pack_started",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00233",
+          "time_s": 108.0,
+          "type": "shipped",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00234",
+          "time_s": 110.0,
+          "type": "pick_completed",
+          "order_id": "order-026",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00235",
+          "time_s": 110.0,
+          "type": "waiting_pack",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00236",
+          "time_s": 110.0,
+          "type": "pick_completed",
+          "order_id": "order-035",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00237",
+          "time_s": 110.0,
+          "type": "waiting_pack",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00238",
+          "time_s": 110.0,
+          "type": "pick_started",
+          "order_id": "order-028",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00239",
+          "time_s": 110.0,
+          "type": "pack_started",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00240",
+          "time_s": 110.0,
+          "type": "pick_started",
+          "order_id": "order-037",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00241",
+          "time_s": 112.0,
+          "type": "shipped",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00242",
+          "time_s": 112.0,
+          "type": "pack_started",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00243",
+          "time_s": 114.0,
+          "type": "shipped",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00244",
+          "time_s": 116.0,
+          "type": "pick_completed",
+          "order_id": "order-028",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00245",
+          "time_s": 116.0,
+          "type": "waiting_pack",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00246",
+          "time_s": 116.0,
+          "type": "pick_completed",
+          "order_id": "order-037",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00247",
+          "time_s": 116.0,
+          "type": "waiting_pack",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00248",
+          "time_s": 116.0,
+          "type": "pick_started",
+          "order_id": "order-030",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00249",
+          "time_s": 116.0,
+          "type": "pack_started",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00250",
+          "time_s": 116.0,
+          "type": "pick_started",
+          "order_id": "order-039",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00251",
+          "time_s": 118.0,
+          "type": "shipped",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00252",
+          "time_s": 118.0,
+          "type": "pack_started",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00253",
+          "time_s": 120.0,
+          "type": "shipped",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00254",
+          "time_s": 122.0,
+          "type": "pick_completed",
+          "order_id": "order-030",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00255",
+          "time_s": 122.0,
+          "type": "waiting_pack",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00256",
+          "time_s": 122.0,
+          "type": "pick_completed",
+          "order_id": "order-039",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00257",
+          "time_s": 122.0,
+          "type": "waiting_pack",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00258",
+          "time_s": 122.0,
+          "type": "pick_started",
+          "order_id": "order-032",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00259",
+          "time_s": 122.0,
+          "type": "pack_started",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00260",
+          "time_s": 124.0,
+          "type": "shipped",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00261",
+          "time_s": 124.0,
+          "type": "pack_started",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00262",
+          "time_s": 126.0,
+          "type": "shipped",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00263",
+          "time_s": 128.0,
+          "type": "pick_completed",
+          "order_id": "order-032",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00264",
+          "time_s": 128.0,
+          "type": "waiting_pack",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00265",
+          "time_s": 128.0,
+          "type": "pick_started",
+          "order_id": "order-034",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00266",
+          "time_s": 128.0,
+          "type": "pack_started",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00267",
+          "time_s": 130.0,
+          "type": "shipped",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00268",
+          "time_s": 134.0,
+          "type": "pick_completed",
+          "order_id": "order-034",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00269",
+          "time_s": 134.0,
+          "type": "waiting_pack",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00270",
+          "time_s": 134.0,
+          "type": "pick_started",
+          "order_id": "order-036",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00271",
+          "time_s": 134.0,
+          "type": "pack_started",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00272",
+          "time_s": 136.0,
+          "type": "shipped",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00273",
+          "time_s": 140.0,
+          "type": "pick_completed",
+          "order_id": "order-036",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00274",
+          "time_s": 140.0,
+          "type": "waiting_pack",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00275",
+          "time_s": 140.0,
+          "type": "pick_started",
+          "order_id": "order-038",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00276",
+          "time_s": 140.0,
+          "type": "pack_started",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00277",
+          "time_s": 142.0,
+          "type": "shipped",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00278",
+          "time_s": 146.0,
+          "type": "pick_completed",
+          "order_id": "order-038",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00279",
+          "time_s": 146.0,
+          "type": "waiting_pack",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00280",
+          "time_s": 146.0,
+          "type": "pack_started",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "baseline",
+          "event_id": "baseline-00281",
+          "time_s": 148.0,
+          "type": "shipped",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        }
+      ],
+      "metrics": {
+        "arrived": 40,
+        "shipped_before_cutoff": 26,
+        "unfinished_at_cutoff": 14,
+        "mean_completed_lead_s": 27.846153846153847,
+        "p95_completed_lead_s": 52.0,
+        "pick_calendar_utilization": [
+          0.74,
+          0.98
+        ]
+      }
+    },
+    {
+      "manifest": {
+        "model": "original_teaching_des_v1",
+        "policy": "fault_aware",
+        "time_unit": "seconds",
+        "cutoff_s": 100.0,
+        "horizon_s": 160.0,
+        "fault_enabled": true,
+        "fault_semantics": "active cycle finishes; queued starts wait; observed repair estimate known",
+        "demand_sha256": "4466bda3b558fc1732dcc3e7e8d6a8c51005f6c96a2646de48cea39a67251199",
+        "assumptions": [
+          "unlimited eligible inventory",
+          "two pick ports",
+          "6 s per order pick",
+          "2 s pack",
+          "deterministic teaching demand; no grid or geometry"
+        ]
+      },
+      "demand": [
+        {
+          "order_id": "order-000",
+          "arrival_s": 0.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-001",
+          "arrival_s": 2.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-002",
+          "arrival_s": 4.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-003",
+          "arrival_s": 6.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-004",
+          "arrival_s": 8.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-005",
+          "arrival_s": 10.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-006",
+          "arrival_s": 12.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-007",
+          "arrival_s": 14.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-008",
+          "arrival_s": 16.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-009",
+          "arrival_s": 18.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-010",
+          "arrival_s": 20.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-011",
+          "arrival_s": 22.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-012",
+          "arrival_s": 24.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-013",
+          "arrival_s": 26.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-014",
+          "arrival_s": 28.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-015",
+          "arrival_s": 30.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-016",
+          "arrival_s": 32.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-017",
+          "arrival_s": 34.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-018",
+          "arrival_s": 36.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-019",
+          "arrival_s": 38.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-020",
+          "arrival_s": 40.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-021",
+          "arrival_s": 42.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-022",
+          "arrival_s": 44.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-023",
+          "arrival_s": 46.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-024",
+          "arrival_s": 48.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-025",
+          "arrival_s": 50.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-026",
+          "arrival_s": 52.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-027",
+          "arrival_s": 54.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-028",
+          "arrival_s": 56.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-029",
+          "arrival_s": 58.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-030",
+          "arrival_s": 60.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-031",
+          "arrival_s": 62.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-032",
+          "arrival_s": 64.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-033",
+          "arrival_s": 66.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-034",
+          "arrival_s": 68.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-035",
+          "arrival_s": 70.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-036",
+          "arrival_s": 72.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-037",
+          "arrival_s": 74.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-038",
+          "arrival_s": 76.0,
+          "service_s": 6.0
+        },
+        {
+          "order_id": "order-039",
+          "arrival_s": 78.0,
+          "service_s": 6.0
+        }
+      ],
+      "events": [
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00000",
+          "time_s": 0.0,
+          "type": "order_arrived",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00001",
+          "time_s": 0.0,
+          "type": "assigned",
+          "order_id": "order-000",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00002",
+          "time_s": 0.0,
+          "type": "pick_started",
+          "order_id": "order-000",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00003",
+          "time_s": 2.0,
+          "type": "order_arrived",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00004",
+          "time_s": 2.0,
+          "type": "assigned",
+          "order_id": "order-001",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00005",
+          "time_s": 2.0,
+          "type": "pick_started",
+          "order_id": "order-001",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00006",
+          "time_s": 4.0,
+          "type": "order_arrived",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00007",
+          "time_s": 4.0,
+          "type": "assigned",
+          "order_id": "order-002",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00008",
+          "time_s": 6.0,
+          "type": "pick_completed",
+          "order_id": "order-000",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00009",
+          "time_s": 6.0,
+          "type": "waiting_pack",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00010",
+          "time_s": 6.0,
+          "type": "order_arrived",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00011",
+          "time_s": 6.0,
+          "type": "assigned",
+          "order_id": "order-003",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00012",
+          "time_s": 6.0,
+          "type": "pick_started",
+          "order_id": "order-002",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00013",
+          "time_s": 6.0,
+          "type": "pack_started",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00014",
+          "time_s": 8.0,
+          "type": "pick_completed",
+          "order_id": "order-001",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00015",
+          "time_s": 8.0,
+          "type": "waiting_pack",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00016",
+          "time_s": 8.0,
+          "type": "shipped",
+          "order_id": "order-000",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00017",
+          "time_s": 8.0,
+          "type": "order_arrived",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00018",
+          "time_s": 8.0,
+          "type": "assigned",
+          "order_id": "order-004",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00019",
+          "time_s": 8.0,
+          "type": "pack_started",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00020",
+          "time_s": 8.0,
+          "type": "pick_started",
+          "order_id": "order-004",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00021",
+          "time_s": 10.0,
+          "type": "order_arrived",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00022",
+          "time_s": 10.0,
+          "type": "assigned",
+          "order_id": "order-005",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00023",
+          "time_s": 10.0,
+          "type": "shipped",
+          "order_id": "order-001",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00024",
+          "time_s": 12.0,
+          "type": "pick_completed",
+          "order_id": "order-002",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00025",
+          "time_s": 12.0,
+          "type": "waiting_pack",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00026",
+          "time_s": 12.0,
+          "type": "order_arrived",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00027",
+          "time_s": 12.0,
+          "type": "assigned",
+          "order_id": "order-006",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00028",
+          "time_s": 12.0,
+          "type": "pick_started",
+          "order_id": "order-003",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00029",
+          "time_s": 12.0,
+          "type": "pack_started",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00030",
+          "time_s": 14.0,
+          "type": "pick_completed",
+          "order_id": "order-004",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00031",
+          "time_s": 14.0,
+          "type": "waiting_pack",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00032",
+          "time_s": 14.0,
+          "type": "shipped",
+          "order_id": "order-002",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00033",
+          "time_s": 14.0,
+          "type": "order_arrived",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00034",
+          "time_s": 14.0,
+          "type": "assigned",
+          "order_id": "order-007",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00035",
+          "time_s": 14.0,
+          "type": "pick_started",
+          "order_id": "order-005",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00036",
+          "time_s": 14.0,
+          "type": "pack_started",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00037",
+          "time_s": 16.0,
+          "type": "order_arrived",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00038",
+          "time_s": 16.0,
+          "type": "assigned",
+          "order_id": "order-008",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00039",
+          "time_s": 16.0,
+          "type": "shipped",
+          "order_id": "order-004",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00040",
+          "time_s": 18.0,
+          "type": "pick_completed",
+          "order_id": "order-003",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00041",
+          "time_s": 18.0,
+          "type": "waiting_pack",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00042",
+          "time_s": 18.0,
+          "type": "order_arrived",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00043",
+          "time_s": 18.0,
+          "type": "assigned",
+          "order_id": "order-009",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00044",
+          "time_s": 18.0,
+          "type": "pick_started",
+          "order_id": "order-006",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00045",
+          "time_s": 18.0,
+          "type": "pack_started",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00046",
+          "time_s": 20,
+          "type": "fault_started",
+          "order_id": null,
+          "resource_id": "pick-01",
+          "payload": {
+            "recovery_estimate_s": 50.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00047",
+          "time_s": 20.0,
+          "type": "pick_completed",
+          "order_id": "order-005",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00048",
+          "time_s": 20.0,
+          "type": "waiting_pack",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00049",
+          "time_s": 20.0,
+          "type": "shipped",
+          "order_id": "order-003",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00050",
+          "time_s": 20.0,
+          "type": "order_arrived",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00051",
+          "time_s": 20.0,
+          "type": "assigned",
+          "order_id": "order-010",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00052",
+          "time_s": 20.0,
+          "type": "pick_started",
+          "order_id": "order-007",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00053",
+          "time_s": 20.0,
+          "type": "pack_started",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00054",
+          "time_s": 22.0,
+          "type": "order_arrived",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00055",
+          "time_s": 22.0,
+          "type": "assigned",
+          "order_id": "order-011",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00056",
+          "time_s": 22.0,
+          "type": "shipped",
+          "order_id": "order-005",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00057",
+          "time_s": 24.0,
+          "type": "pick_completed",
+          "order_id": "order-006",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00058",
+          "time_s": 24.0,
+          "type": "waiting_pack",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00059",
+          "time_s": 24.0,
+          "type": "order_arrived",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00060",
+          "time_s": 24.0,
+          "type": "assigned",
+          "order_id": "order-012",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00061",
+          "time_s": 24.0,
+          "type": "pack_started",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00062",
+          "time_s": 26.0,
+          "type": "pick_completed",
+          "order_id": "order-007",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00063",
+          "time_s": 26.0,
+          "type": "waiting_pack",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00064",
+          "time_s": 26.0,
+          "type": "shipped",
+          "order_id": "order-006",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00065",
+          "time_s": 26.0,
+          "type": "order_arrived",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00066",
+          "time_s": 26.0,
+          "type": "assigned",
+          "order_id": "order-013",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00067",
+          "time_s": 26.0,
+          "type": "pick_started",
+          "order_id": "order-010",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00068",
+          "time_s": 26.0,
+          "type": "pack_started",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00069",
+          "time_s": 28.0,
+          "type": "order_arrived",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00070",
+          "time_s": 28.0,
+          "type": "assigned",
+          "order_id": "order-014",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00071",
+          "time_s": 28.0,
+          "type": "shipped",
+          "order_id": "order-007",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00072",
+          "time_s": 30.0,
+          "type": "order_arrived",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00073",
+          "time_s": 30.0,
+          "type": "assigned",
+          "order_id": "order-015",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00074",
+          "time_s": 32.0,
+          "type": "pick_completed",
+          "order_id": "order-010",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00075",
+          "time_s": 32.0,
+          "type": "waiting_pack",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00076",
+          "time_s": 32.0,
+          "type": "order_arrived",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00077",
+          "time_s": 32.0,
+          "type": "assigned",
+          "order_id": "order-016",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00078",
+          "time_s": 32.0,
+          "type": "pick_started",
+          "order_id": "order-011",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00079",
+          "time_s": 32.0,
+          "type": "pack_started",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00080",
+          "time_s": 34.0,
+          "type": "shipped",
+          "order_id": "order-010",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00081",
+          "time_s": 34.0,
+          "type": "order_arrived",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00082",
+          "time_s": 34.0,
+          "type": "assigned",
+          "order_id": "order-017",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00083",
+          "time_s": 36.0,
+          "type": "order_arrived",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00084",
+          "time_s": 36.0,
+          "type": "assigned",
+          "order_id": "order-018",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00085",
+          "time_s": 38.0,
+          "type": "pick_completed",
+          "order_id": "order-011",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00086",
+          "time_s": 38.0,
+          "type": "waiting_pack",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00087",
+          "time_s": 38.0,
+          "type": "order_arrived",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00088",
+          "time_s": 38.0,
+          "type": "assigned",
+          "order_id": "order-019",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00089",
+          "time_s": 38.0,
+          "type": "pick_started",
+          "order_id": "order-012",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00090",
+          "time_s": 38.0,
+          "type": "pack_started",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00091",
+          "time_s": 40.0,
+          "type": "shipped",
+          "order_id": "order-011",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00092",
+          "time_s": 40.0,
+          "type": "order_arrived",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00093",
+          "time_s": 40.0,
+          "type": "assigned",
+          "order_id": "order-020",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00094",
+          "time_s": 42.0,
+          "type": "order_arrived",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00095",
+          "time_s": 42.0,
+          "type": "assigned",
+          "order_id": "order-021",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00096",
+          "time_s": 44.0,
+          "type": "pick_completed",
+          "order_id": "order-012",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00097",
+          "time_s": 44.0,
+          "type": "waiting_pack",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00098",
+          "time_s": 44.0,
+          "type": "order_arrived",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00099",
+          "time_s": 44.0,
+          "type": "assigned",
+          "order_id": "order-022",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00100",
+          "time_s": 44.0,
+          "type": "pick_started",
+          "order_id": "order-013",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00101",
+          "time_s": 44.0,
+          "type": "pack_started",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00102",
+          "time_s": 46.0,
+          "type": "shipped",
+          "order_id": "order-012",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00103",
+          "time_s": 46.0,
+          "type": "order_arrived",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00104",
+          "time_s": 46.0,
+          "type": "assigned",
+          "order_id": "order-023",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00105",
+          "time_s": 48.0,
+          "type": "order_arrived",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00106",
+          "time_s": 48.0,
+          "type": "assigned",
+          "order_id": "order-024",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00107",
+          "time_s": 50,
+          "type": "fault_ended",
+          "order_id": null,
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00108",
+          "time_s": 50.0,
+          "type": "pick_started",
+          "order_id": "order-008",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00109",
+          "time_s": 50.0,
+          "type": "pick_completed",
+          "order_id": "order-013",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00110",
+          "time_s": 50.0,
+          "type": "waiting_pack",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00111",
+          "time_s": 50.0,
+          "type": "order_arrived",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00112",
+          "time_s": 50.0,
+          "type": "assigned",
+          "order_id": "order-025",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00113",
+          "time_s": 50.0,
+          "type": "pick_started",
+          "order_id": "order-014",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00114",
+          "time_s": 50.0,
+          "type": "pack_started",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00115",
+          "time_s": 52.0,
+          "type": "shipped",
+          "order_id": "order-013",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00116",
+          "time_s": 52.0,
+          "type": "order_arrived",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00117",
+          "time_s": 52.0,
+          "type": "assigned",
+          "order_id": "order-026",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00118",
+          "time_s": 54.0,
+          "type": "order_arrived",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00119",
+          "time_s": 54.0,
+          "type": "assigned",
+          "order_id": "order-027",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00120",
+          "time_s": 56.0,
+          "type": "pick_completed",
+          "order_id": "order-008",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00121",
+          "time_s": 56.0,
+          "type": "waiting_pack",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00122",
+          "time_s": 56.0,
+          "type": "pick_completed",
+          "order_id": "order-014",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00123",
+          "time_s": 56.0,
+          "type": "waiting_pack",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00124",
+          "time_s": 56.0,
+          "type": "order_arrived",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00125",
+          "time_s": 56.0,
+          "type": "assigned",
+          "order_id": "order-028",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00126",
+          "time_s": 56.0,
+          "type": "pick_started",
+          "order_id": "order-009",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00127",
+          "time_s": 56.0,
+          "type": "pack_started",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00128",
+          "time_s": 56.0,
+          "type": "pick_started",
+          "order_id": "order-016",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00129",
+          "time_s": 58.0,
+          "type": "shipped",
+          "order_id": "order-008",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00130",
+          "time_s": 58.0,
+          "type": "order_arrived",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00131",
+          "time_s": 58.0,
+          "type": "assigned",
+          "order_id": "order-029",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00132",
+          "time_s": 58.0,
+          "type": "pack_started",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00133",
+          "time_s": 60.0,
+          "type": "order_arrived",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00134",
+          "time_s": 60.0,
+          "type": "assigned",
+          "order_id": "order-030",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00135",
+          "time_s": 60.0,
+          "type": "shipped",
+          "order_id": "order-014",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00136",
+          "time_s": 62.0,
+          "type": "pick_completed",
+          "order_id": "order-009",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00137",
+          "time_s": 62.0,
+          "type": "waiting_pack",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00138",
+          "time_s": 62.0,
+          "type": "pick_completed",
+          "order_id": "order-016",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00139",
+          "time_s": 62.0,
+          "type": "waiting_pack",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00140",
+          "time_s": 62.0,
+          "type": "order_arrived",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00141",
+          "time_s": 62.0,
+          "type": "assigned",
+          "order_id": "order-031",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00142",
+          "time_s": 62.0,
+          "type": "pick_started",
+          "order_id": "order-015",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00143",
+          "time_s": 62.0,
+          "type": "pack_started",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00144",
+          "time_s": 62.0,
+          "type": "pick_started",
+          "order_id": "order-018",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00145",
+          "time_s": 64.0,
+          "type": "shipped",
+          "order_id": "order-009",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00146",
+          "time_s": 64.0,
+          "type": "order_arrived",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00147",
+          "time_s": 64.0,
+          "type": "assigned",
+          "order_id": "order-032",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00148",
+          "time_s": 64.0,
+          "type": "pack_started",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00149",
+          "time_s": 66.0,
+          "type": "order_arrived",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00150",
+          "time_s": 66.0,
+          "type": "assigned",
+          "order_id": "order-033",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00151",
+          "time_s": 66.0,
+          "type": "shipped",
+          "order_id": "order-016",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00152",
+          "time_s": 68.0,
+          "type": "pick_completed",
+          "order_id": "order-015",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00153",
+          "time_s": 68.0,
+          "type": "waiting_pack",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00154",
+          "time_s": 68.0,
+          "type": "pick_completed",
+          "order_id": "order-018",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00155",
+          "time_s": 68.0,
+          "type": "waiting_pack",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00156",
+          "time_s": 68.0,
+          "type": "order_arrived",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00157",
+          "time_s": 68.0,
+          "type": "assigned",
+          "order_id": "order-034",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00158",
+          "time_s": 68.0,
+          "type": "pick_started",
+          "order_id": "order-017",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00159",
+          "time_s": 68.0,
+          "type": "pack_started",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00160",
+          "time_s": 68.0,
+          "type": "pick_started",
+          "order_id": "order-019",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00161",
+          "time_s": 70.0,
+          "type": "shipped",
+          "order_id": "order-015",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00162",
+          "time_s": 70.0,
+          "type": "order_arrived",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00163",
+          "time_s": 70.0,
+          "type": "assigned",
+          "order_id": "order-035",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00164",
+          "time_s": 70.0,
+          "type": "pack_started",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00165",
+          "time_s": 72.0,
+          "type": "order_arrived",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00166",
+          "time_s": 72.0,
+          "type": "assigned",
+          "order_id": "order-036",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00167",
+          "time_s": 72.0,
+          "type": "shipped",
+          "order_id": "order-018",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00168",
+          "time_s": 74.0,
+          "type": "pick_completed",
+          "order_id": "order-017",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00169",
+          "time_s": 74.0,
+          "type": "waiting_pack",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00170",
+          "time_s": 74.0,
+          "type": "pick_completed",
+          "order_id": "order-019",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00171",
+          "time_s": 74.0,
+          "type": "waiting_pack",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00172",
+          "time_s": 74.0,
+          "type": "order_arrived",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00173",
+          "time_s": 74.0,
+          "type": "assigned",
+          "order_id": "order-037",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00174",
+          "time_s": 74.0,
+          "type": "pick_started",
+          "order_id": "order-020",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00175",
+          "time_s": 74.0,
+          "type": "pack_started",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00176",
+          "time_s": 74.0,
+          "type": "pick_started",
+          "order_id": "order-022",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00177",
+          "time_s": 76.0,
+          "type": "shipped",
+          "order_id": "order-017",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00178",
+          "time_s": 76.0,
+          "type": "order_arrived",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00179",
+          "time_s": 76.0,
+          "type": "assigned",
+          "order_id": "order-038",
+          "resource_id": "pick-01",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00180",
+          "time_s": 76.0,
+          "type": "pack_started",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00181",
+          "time_s": 78.0,
+          "type": "order_arrived",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00182",
+          "time_s": 78.0,
+          "type": "assigned",
+          "order_id": "order-039",
+          "resource_id": "pick-02",
+          "payload": {
+            "reason": "least_estimated_work_with_observed_outage"
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00183",
+          "time_s": 78.0,
+          "type": "shipped",
+          "order_id": "order-019",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00184",
+          "time_s": 80.0,
+          "type": "pick_completed",
+          "order_id": "order-020",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00185",
+          "time_s": 80.0,
+          "type": "waiting_pack",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00186",
+          "time_s": 80.0,
+          "type": "pick_completed",
+          "order_id": "order-022",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00187",
+          "time_s": 80.0,
+          "type": "waiting_pack",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00188",
+          "time_s": 80.0,
+          "type": "pick_started",
+          "order_id": "order-021",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00189",
+          "time_s": 80.0,
+          "type": "pack_started",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00190",
+          "time_s": 80.0,
+          "type": "pick_started",
+          "order_id": "order-024",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00191",
+          "time_s": 82.0,
+          "type": "shipped",
+          "order_id": "order-020",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00192",
+          "time_s": 82.0,
+          "type": "pack_started",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00193",
+          "time_s": 84.0,
+          "type": "shipped",
+          "order_id": "order-022",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00194",
+          "time_s": 86.0,
+          "type": "pick_completed",
+          "order_id": "order-021",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00195",
+          "time_s": 86.0,
+          "type": "waiting_pack",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00196",
+          "time_s": 86.0,
+          "type": "pick_completed",
+          "order_id": "order-024",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00197",
+          "time_s": 86.0,
+          "type": "waiting_pack",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00198",
+          "time_s": 86.0,
+          "type": "pick_started",
+          "order_id": "order-023",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00199",
+          "time_s": 86.0,
+          "type": "pack_started",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00200",
+          "time_s": 86.0,
+          "type": "pick_started",
+          "order_id": "order-025",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00201",
+          "time_s": 88.0,
+          "type": "shipped",
+          "order_id": "order-021",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00202",
+          "time_s": 88.0,
+          "type": "pack_started",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00203",
+          "time_s": 90.0,
+          "type": "shipped",
+          "order_id": "order-024",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00204",
+          "time_s": 92.0,
+          "type": "pick_completed",
+          "order_id": "order-023",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00205",
+          "time_s": 92.0,
+          "type": "waiting_pack",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00206",
+          "time_s": 92.0,
+          "type": "pick_completed",
+          "order_id": "order-025",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00207",
+          "time_s": 92.0,
+          "type": "waiting_pack",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00208",
+          "time_s": 92.0,
+          "type": "pick_started",
+          "order_id": "order-026",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00209",
+          "time_s": 92.0,
+          "type": "pack_started",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00210",
+          "time_s": 92.0,
+          "type": "pick_started",
+          "order_id": "order-027",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00211",
+          "time_s": 94.0,
+          "type": "shipped",
+          "order_id": "order-023",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00212",
+          "time_s": 94.0,
+          "type": "pack_started",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00213",
+          "time_s": 96.0,
+          "type": "shipped",
+          "order_id": "order-025",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00214",
+          "time_s": 98.0,
+          "type": "pick_completed",
+          "order_id": "order-026",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00215",
+          "time_s": 98.0,
+          "type": "waiting_pack",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00216",
+          "time_s": 98.0,
+          "type": "pick_completed",
+          "order_id": "order-027",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00217",
+          "time_s": 98.0,
+          "type": "waiting_pack",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00218",
+          "time_s": 98.0,
+          "type": "pick_started",
+          "order_id": "order-028",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00219",
+          "time_s": 98.0,
+          "type": "pack_started",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00220",
+          "time_s": 98.0,
+          "type": "pick_started",
+          "order_id": "order-029",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00221",
+          "time_s": 100.0,
+          "type": "shipped",
+          "order_id": "order-026",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00222",
+          "time_s": 100.0,
+          "type": "pack_started",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00223",
+          "time_s": 102.0,
+          "type": "shipped",
+          "order_id": "order-027",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00224",
+          "time_s": 104.0,
+          "type": "pick_completed",
+          "order_id": "order-028",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00225",
+          "time_s": 104.0,
+          "type": "waiting_pack",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00226",
+          "time_s": 104.0,
+          "type": "pick_completed",
+          "order_id": "order-029",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00227",
+          "time_s": 104.0,
+          "type": "waiting_pack",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00228",
+          "time_s": 104.0,
+          "type": "pick_started",
+          "order_id": "order-030",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00229",
+          "time_s": 104.0,
+          "type": "pack_started",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00230",
+          "time_s": 104.0,
+          "type": "pick_started",
+          "order_id": "order-031",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00231",
+          "time_s": 106.0,
+          "type": "shipped",
+          "order_id": "order-028",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00232",
+          "time_s": 106.0,
+          "type": "pack_started",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00233",
+          "time_s": 108.0,
+          "type": "shipped",
+          "order_id": "order-029",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00234",
+          "time_s": 110.0,
+          "type": "pick_completed",
+          "order_id": "order-030",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00235",
+          "time_s": 110.0,
+          "type": "waiting_pack",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00236",
+          "time_s": 110.0,
+          "type": "pick_completed",
+          "order_id": "order-031",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00237",
+          "time_s": 110.0,
+          "type": "waiting_pack",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00238",
+          "time_s": 110.0,
+          "type": "pick_started",
+          "order_id": "order-032",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00239",
+          "time_s": 110.0,
+          "type": "pack_started",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00240",
+          "time_s": 110.0,
+          "type": "pick_started",
+          "order_id": "order-033",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00241",
+          "time_s": 112.0,
+          "type": "shipped",
+          "order_id": "order-030",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00242",
+          "time_s": 112.0,
+          "type": "pack_started",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00243",
+          "time_s": 114.0,
+          "type": "shipped",
+          "order_id": "order-031",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00244",
+          "time_s": 116.0,
+          "type": "pick_completed",
+          "order_id": "order-032",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00245",
+          "time_s": 116.0,
+          "type": "waiting_pack",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00246",
+          "time_s": 116.0,
+          "type": "pick_completed",
+          "order_id": "order-033",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00247",
+          "time_s": 116.0,
+          "type": "waiting_pack",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00248",
+          "time_s": 116.0,
+          "type": "pick_started",
+          "order_id": "order-034",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00249",
+          "time_s": 116.0,
+          "type": "pack_started",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00250",
+          "time_s": 116.0,
+          "type": "pick_started",
+          "order_id": "order-035",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00251",
+          "time_s": 118.0,
+          "type": "shipped",
+          "order_id": "order-032",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00252",
+          "time_s": 118.0,
+          "type": "pack_started",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00253",
+          "time_s": 120.0,
+          "type": "shipped",
+          "order_id": "order-033",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00254",
+          "time_s": 122.0,
+          "type": "pick_completed",
+          "order_id": "order-034",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00255",
+          "time_s": 122.0,
+          "type": "waiting_pack",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00256",
+          "time_s": 122.0,
+          "type": "pick_completed",
+          "order_id": "order-035",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00257",
+          "time_s": 122.0,
+          "type": "waiting_pack",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00258",
+          "time_s": 122.0,
+          "type": "pick_started",
+          "order_id": "order-036",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00259",
+          "time_s": 122.0,
+          "type": "pack_started",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00260",
+          "time_s": 122.0,
+          "type": "pick_started",
+          "order_id": "order-037",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00261",
+          "time_s": 124.0,
+          "type": "shipped",
+          "order_id": "order-034",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00262",
+          "time_s": 124.0,
+          "type": "pack_started",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00263",
+          "time_s": 126.0,
+          "type": "shipped",
+          "order_id": "order-035",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00264",
+          "time_s": 128.0,
+          "type": "pick_completed",
+          "order_id": "order-036",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00265",
+          "time_s": 128.0,
+          "type": "waiting_pack",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00266",
+          "time_s": 128.0,
+          "type": "pick_completed",
+          "order_id": "order-037",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00267",
+          "time_s": 128.0,
+          "type": "waiting_pack",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00268",
+          "time_s": 128.0,
+          "type": "pick_started",
+          "order_id": "order-038",
+          "resource_id": "pick-01",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00269",
+          "time_s": 128.0,
+          "type": "pack_started",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00270",
+          "time_s": 128.0,
+          "type": "pick_started",
+          "order_id": "order-039",
+          "resource_id": "pick-02",
+          "payload": {
+            "service_s": 6.0
+          }
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00271",
+          "time_s": 130.0,
+          "type": "shipped",
+          "order_id": "order-036",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00272",
+          "time_s": 130.0,
+          "type": "pack_started",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00273",
+          "time_s": 132.0,
+          "type": "shipped",
+          "order_id": "order-037",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00274",
+          "time_s": 134.0,
+          "type": "pick_completed",
+          "order_id": "order-038",
+          "resource_id": "pick-01",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00275",
+          "time_s": 134.0,
+          "type": "waiting_pack",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00276",
+          "time_s": 134.0,
+          "type": "pick_completed",
+          "order_id": "order-039",
+          "resource_id": "pick-02",
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00277",
+          "time_s": 134.0,
+          "type": "waiting_pack",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00278",
+          "time_s": 134.0,
+          "type": "pack_started",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00279",
+          "time_s": 136.0,
+          "type": "shipped",
+          "order_id": "order-038",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00280",
+          "time_s": 136.0,
+          "type": "pack_started",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        },
+        {
+          "schema_version": 1,
+          "run_id": "fault_aware",
+          "event_id": "fault_aware-00281",
+          "time_s": 138.0,
+          "type": "shipped",
+          "order_id": "order-039",
+          "resource_id": null,
+          "payload": {}
+        }
+      ],
+      "metrics": {
+        "arrived": 40,
+        "shipped_before_cutoff": 26,
+        "unfinished_at_cutoff": 14,
+        "mean_completed_lead_s": 28.615384615384617,
+        "p95_completed_lead_s": 46.0,
+        "pick_calendar_utilization": [
+          0.74,
+          0.98
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "tokenizer": "tiktoken 0.12.0",
+  "encoding": "cl100k_base",
+  "minimum_per_chapter": 5000,
+  "chapters": [
+    {
+      "chapter": "01-python-and-the-digital-twin.md",
+      "tokens_cl100k_base": 5092,
+      "non_code_whitespace_words": 3311
+    },
+    {
+      "chapter": "02-warehouse-flow-and-simpy.md",
+      "tokens_cl100k_base": 5041,
+      "non_code_whitespace_words": 3655
+    },
+    {
+      "chapter": "03-orchestration-and-honest-replay.md",
+      "tokens_cl100k_base": 5005,
+      "non_code_whitespace_words": 3775
+    },
+    {
+      "chapter": "04-robotics-math-and-physics.md",
+      "tokens_cl100k_base": 5013,
+      "non_code_whitespace_words": 3324
+    },
+    {
+      "chapter": "05-openusd-from-the-ground-up.md",
+      "tokens_cl100k_base": 5123,
+      "non_code_whitespace_words": 3195
+    },
+    {
+      "chapter": "06-omniverse-kit-and-isaac-sim.md",
+      "tokens_cl100k_base": 5032,
+      "non_code_whitespace_words": 3632
+    },
+    {
+      "chapter": "07-robots-sensors-and-ros2.md",
+      "tokens_cl100k_base": 5158,
+      "non_code_whitespace_words": 3434
+    },
+    {
+      "chapter": "08-extensions-streaming-and-mcp.md",
+      "tokens_cl100k_base": 5043,
+      "non_code_whitespace_words": 3817
+    },
+    {
+      "chapter": "09-synthetic-data-and-robot-learning.md",
+      "tokens_cl100k_base": 5021,
+      "non_code_whitespace_words": 3707
+    },
+    {
+      "chapter": "10-build-and-validate-an-operational-twin.md",
+      "tokens_cl100k_base": 5036,
+      "non_code_whitespace_words": 3831
+    }
+  ],
+  "total_tokens": 50564,
+  "total_non_code_whitespace_words": 35681
+}

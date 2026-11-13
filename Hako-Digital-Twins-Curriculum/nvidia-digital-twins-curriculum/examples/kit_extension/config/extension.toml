@@ -1,0 +1,12 @@
+[package]
+version = "0.1.0"
+title = "Course Synthetic Twin Feed"
+description = "Local synthetic telemetry and lifecycle learning example"
+
+[dependencies]
+"omni.usd" = {}
+"omni.ui" = {}
+"omni.kit.app" = {}
+
+[[python.module]]
+name = "course_inspection"

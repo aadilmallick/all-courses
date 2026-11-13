@@ -1,0 +1,110 @@
+{
+  "starter": false,
+  "experiments": [
+    {
+      "id": "warehouse",
+      "title": "Warehouse capacity",
+      "chapter": "chapter-02",
+      "description": "Change disclosed robot, port, and order assumptions to inspect an analytic bottleneck.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "policy",
+      "title": "Policy replay",
+      "chapter": "chapter-03",
+      "description": "Replay real output from the paired teaching DES; compare counters and disclosed tradeoffs.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "conveyor",
+      "title": "Conveyor timing",
+      "chapter": "chapter-01",
+      "description": "Connect lengths, speeds, exposure intervals, and units.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "frames",
+      "title": "Coordinate frames",
+      "chapter": "chapter-04",
+      "description": "Rotate a local displacement, then translate into the world frame.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "arm",
+      "title": "Planar arm",
+      "chapter": "chapter-04",
+      "description": "Change joint angles and compute a two-link tool position.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "layers",
+      "title": "Layer opinions",
+      "chapter": "chapter-05",
+      "description": "Inspect a limited scalar analogy for stronger and weaker authored opinions.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "clocks",
+      "title": "Clock budget",
+      "chapter": "chapter-06",
+      "description": "Separate physics intervals, camera rate, and wall versus simulation time.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "control",
+      "title": "Feedback control",
+      "chapter": "chapter-04",
+      "description": "Integrate a stated actuator model and inspect gain/lag effects.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "drive",
+      "title": "Differential drive",
+      "chapter": "chapter-07",
+      "description": "Compute wheel speeds and an exact constant-command ideal path.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "projection",
+      "title": "Camera projection",
+      "chapter": "chapter-07",
+      "description": "Project an optical-frame point using explicit pixel intrinsics.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "sensors",
+      "title": "Sensor age and filter",
+      "chapter": "chapter-07",
+      "description": "See how smoothing, noise, and delay affect estimated state.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "action",
+      "title": "Bounded scene action",
+      "chapter": "chapter-08",
+      "description": "Validate a local scene proposal using identity, revision, and bounds.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "detection",
+      "title": "Detection tradeoffs",
+      "chapter": "chapter-09",
+      "description": "Measure precision and recall on seeded synthetic scores.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "reward",
+      "title": "Reward design",
+      "chapter": "chapter-09",
+      "description": "Train a tiny tabular policy and inspect reward-induced behavior.",
+      "module": "experiments.mjs"
+    },
+    {
+      "id": "twin",
+      "title": "Twin replay",
+      "chapter": "chapter-10",
+      "description": "Inspect freshness and candidate sequence validity under a shared-clock fixture.",
+      "module": "experiments.mjs"
+    }
+  ]
+}

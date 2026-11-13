@@ -1,0 +1,286 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>COMPANION GUIDE</title><style>
+*{box-sizing:border-box}body{margin:0;color:#1b2c37;background:#f2f6f8;font:17px/1.75 Georgia,serif}header{background:#142f43;color:white;padding:25px 30px;font:15px/1.5 system-ui,sans-serif}header a{color:#c6e6fc}header strong{font-size:22px;display:block;margin-bottom:9px}.layout{display:grid;grid-template-columns:280px minmax(0,900px);gap:35px;max-width:1250px;margin:auto;padding:30px 20px}nav{position:sticky;top:18px;align-self:start;max-height:95vh;overflow:auto;font:14px/1.5 system-ui,sans-serif}nav a{display:block;padding:8px;color:#15598a}article{background:white;padding:35px;border:1px solid #d4e1e8;min-width:0;border-radius:9px}h1,h2,h3,h4{font-family:system-ui,sans-serif;line-height:1.3;color:#16374e;margin-top:1.8em;scroll-margin-top:20px}h1{font-size:30px}h2{font-size:25px}h3{font-size:21px}a{color:#15598a;overflow-wrap:anywhere}p{margin:1em 0}pre{font:13px/1.65 ui-monospace,monospace;padding:18px;background:#f0f5f8;border-radius:7px;overflow:auto}code{font:0.84em ui-monospace,monospace}pre code{font:inherit}img{max-width:100%;height:auto}table{border-collapse:collapse;width:100%;display:block;overflow:auto;font:14px/1.55 system-ui,sans-serif}td,th{padding:10px;border:1px solid #c4d4de;vertical-align:top}th{background:#e8f0f5}tr:nth-child(even){background:#f7f9fb}blockquote{margin:1em 0;padding-left:18px;border-left:3px solid #a4c3d8}hr{border:0;border-top:1px solid #d6e2e9;margin:35px 0}:focus-visible{outline:3px solid #c17722;outline-offset:3px}.top{position:fixed;bottom:20px;right:20px;background:#163c57;color:white;border-radius:25px;padding:9px 15px;font:14px system-ui}@media(max-width:850px){.layout{display:block;padding:12px}nav{position:static;max-height:none;margin-bottom:20px}nav a{display:inline-block}article{padding:20px}header{padding:20px}h1{font-size:26px}}@media print{header,nav,.top{display:none}.layout{display:block;padding:0}article{border:0;padding:0}pre{white-space:pre-wrap}body{background:white;font-size:11pt}}
+.layout{display:block;max-width:1000px}</style></head><body><header><a href="book.html">Textbook</a> · <a href="companion/index.html">Interactive companion (local server)</a></header><div class="layout"><article><h1>Companion guide for Hako digital twin engineering</h1>
+<h2>Where to begin today</h2>
+<p>You already know Python. Start with Chapter 2, warehouse flow and SimPy, followed by Chapter 3, orchestration and replay. Keep Chapter 1 nearby for unfamiliar numerical/software details. Your initial objective is to explain one order&#39;s path, one resource bottleneck, and one policy decision using evidence.</p>
+<p>For a first 90-minute session: spend twenty minutes reading the warehouse vocabulary and rate conversions; twenty running and reading the teaching DES; twenty tracing one order and the port outage; and thirty comparing the browser replay to the log. These are suggested allocations, not required time limits. Stop to understand a new term rather than accumulating unexplained terminology.</p>
+<h2>The eight-week core path</h2>
+<p>Budget approximately 15–20 focused hours per week, consistent with the supplied onboarding&#39;s learning budget. The schedule is a planning estimate. Native tooling setup can vary, and mastery is not guaranteed by a date.</p>
+<table>
+<thead>
+<tr>
+<th>Week</th>
+<th>Read and understand</th>
+<th>Guided application</th>
+<th>Reviewable output</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Chapter 2; optional Chapter 1</td>
+<td>Run the small SimPy queue; trace an order; derive units/order/hour</td>
+<td>A process map, rate ledger, and tiny deterministic timeline</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Chapter 3</td>
+<td>Run both teaching policies on shared inputs; inspect cutoff/backlog; replay events</td>
+<td>Paired results and a faithful local web replay</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Chapter 4</td>
+<td>Transform points; inspect planar FK/IK; distinguish kinematics and dynamics</td>
+<td>Known-case math results and a list of needed robot facts</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Chapter 5</td>
+<td>Run CPU USD authoring; inspect references, variants, layers, physics descriptions</td>
+<td>Reopenable modular USD scene with explicit units</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Chapter 6</td>
+<td>Check GPU/runtime compatibility; run drop lab; inspect a robot asset</td>
+<td>Environment record and actual native run evidence</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Chapter 8 through extension lifecycle; conceptual Chapter 7</td>
+<td>Enable synthetic-feed extension; reset, reopen stage, disable</td>
+<td>Traceable state updates and lifecycle observations</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Chapter 8 streaming/MCP; relevant Chapter 7 sections</td>
+<td>Choose web replay versus streaming; perform local native stream if needed</td>
+<td>Architecture decision with observed capabilities and limits</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Chapter 10</td>
+<td>Assemble primary warehouse capstone and optional NVIDIA subsystem study</td>
+<td>Reproducible review package with claim/evidence table</td>
+</tr>
+</tbody></table>
+<p>Optional depth afterward: detailed ROS installation/bridge work in Chapter 7 and the synthetic-data/learning chapter. Start these earlier only if a current assigned task needs them. For a slower pace, split each week into two; keep the dependency order.</p>
+<p>The onboarding&#39;s 30/60/90-day expectations are role context, not outcomes promised by this curriculum. A useful first contribution can be a corrected assumption, reproducible policy experiment, or replay consistency fix before the whole curriculum is finished.</p>
+<h2>Environment A for CPU learning</h2>
+<p>Use a separate Python 3.12 virtual environment in the extracted folder. The commands in the README use explicit interpreter paths, avoiding activation and execution-policy confusion. If <code>py</code> is absent, use your installed Python 3.12 executable to create the environment. Confirm its version first.</p>
+<p>Install only the dependency needed for the current lab. <code>requirements-sim.txt</code> pins SimPy 4.1.1; <code>requirements-usd.txt</code> pins usd-core 26.5. The other CPU examples use the standard library. Do not install these requirements into Isaac Sim&#39;s environment.</p>
+<table>
+<thead>
+<tr>
+<th>Example</th>
+<th>Command argument after the environment&#39;s Python</th>
+<th>What to inspect</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>First quantities</td>
+<td><code>examples/01_first_model.py</code></td>
+<td>1.80, 2.00, 2.30 s; exposure travel 0.4 mm</td>
+</tr>
+<tr>
+<td>Robot math</td>
+<td><code>examples/02_robot_math.py</code></td>
+<td>World point (2,1.5); reconstructed (0.4,0.3); stop estimate 0.45 m</td>
+</tr>
+<tr>
+<td>CPU USD</td>
+<td><code>examples/03_usd_cell.py</code></td>
+<td>Cube composed; telemetry overlay 0.84; generated USD files</td>
+</tr>
+<tr>
+<td>Scalar learning</td>
+<td><code>examples/06_learning.py</code></td>
+<td>Held-out counts; grid route 0→1→2→3→4</td>
+</tr>
+<tr>
+<td>Observation replay</td>
+<td><code>examples/07_twin_pipeline.py</code></td>
+<td>Fresh/stale status; duplicate rejection; residual metrics</td>
+</tr>
+<tr>
+<td>Warehouse DES</td>
+<td><code>examples/08_warehouse_sim.py</code></td>
+<td>Same demand hash; events; outcomes before 100 s; unfinished work</td>
+</tr>
+<tr>
+<td>Python checks</td>
+<td><code>checks/test_core.py -v</code></td>
+<td>Nine executed tests when both optional dependencies are installed</td>
+</tr>
+</tbody></table>
+<p>Generated USD files live in <code>generated/usd/</code>; the root <code>cell.usda</code> uses relative references to the included sibling files. The warehouse simulator updates <code>assets/policy-replay.json</code>, which is already included from the verified run. Re-running the unchanged deterministic fixture should preserve its modeled outcomes.</p>
+<p>The teaching policy comparison ships 26 orders before 100 s in both runs. Baseline completed-order mean/p95 lead times are approximately 27.85/52 s; fault-aware mean/p95 are approximately 28.62/46 s. Both have fourteen unfinished orders at cutoff. This demonstrates a tradeoff, not guaranteed policy superiority. At later replay times, more orders ship; keep the cutoff definition separate from the current replay cursor.</p>
+<h2>Environment B for the browser companion</h2>
+<p>Run <code>node companion/server.mjs</code> from the extracted folder. Open <code>http://127.0.0.1:4173/</code>. The server binds only to your computer&#39;s loopback interface and serves read-only course files. If the port is occupied, set a task-specific <code>PORT</code> environment value in that terminal and restart, for example <code>$env:PORT = &#39;4174&#39;</code> in PowerShell. Stop with Ctrl+C.</p>
+<p>No npm installation is needed. Source files are the runnable output; there is no separate web build to perform. The standalone <code>book.html</code> provides the offline reading view. The companion needs the local server because it loads JavaScript modules and the included replay data.</p>
+<table>
+<thead>
+<tr>
+<th>Experiment</th>
+<th>Chapter</th>
+<th>What changes and what is real</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Warehouse capacity</td>
+<td>2</td>
+<td>Analytic capacity bounds from disclosed illustrative visit/rate assumptions</td>
+</tr>
+<tr>
+<td>Policy replay</td>
+<td>3</td>
+<td>Real event reduction from the executed teaching SimPy output; play/pause/seek/speed</td>
+</tr>
+<tr>
+<td>Conveyor timing</td>
+<td>1, 7</td>
+<td>Visibility interval and exposure travel arithmetic</td>
+</tr>
+<tr>
+<td>Coordinate frames</td>
+<td>4</td>
+<td>Actual planar rotation and translation</td>
+</tr>
+<tr>
+<td>Planar arm</td>
+<td>4</td>
+<td>Actual two-link forward kinematics</td>
+</tr>
+<tr>
+<td>Layer opinions</td>
+<td>5</td>
+<td>Simplified scalar precedence analogy; real USD is in the Python lab</td>
+</tr>
+<tr>
+<td>Clock budget</td>
+<td>6</td>
+<td>Rate ratios and real-time-factor arithmetic</td>
+</tr>
+<tr>
+<td>Feedback control</td>
+<td>4</td>
+<td>Numerical integration of a stated actuator model</td>
+</tr>
+<tr>
+<td>Differential drive</td>
+<td>7</td>
+<td>Exact constant-command ideal planar arc and wheel conversion</td>
+</tr>
+<tr>
+<td>Camera projection</td>
+<td>7</td>
+<td>Ideal pinhole projection with explicit optical convention</td>
+</tr>
+<tr>
+<td>Sensor age/filter</td>
+<td>7</td>
+<td>Seeded noise, delay, and moving-average filtering</td>
+</tr>
+<tr>
+<td>Detection tradeoffs</td>
+<td>9</td>
+<td>Confusion counts from synthetic scalar scores</td>
+</tr>
+<tr>
+<td>Reward design</td>
+<td>9</td>
+<td>Actual seeded tabular Q-learning</td>
+</tr>
+<tr>
+<td>Twin replay</td>
+<td>10</td>
+<td>Freshness and candidate-sequence validation; stateful Python counterpart</td>
+</tr>
+<tr>
+<td>Bounded scene action</td>
+<td>8</td>
+<td>Local command-contract validation; no external MCP call</td>
+</tr>
+</tbody></table>
+<p>There are fifteen experiments in the finished catalog. They teach models; they do not execute NVIDIA, ROS, a cloud stream, or a physical robot. Reset returns each experiment&#39;s initial parameters. Source inspection is available below the output and through the included modules.</p>
+<h2>Environment C for native NVIDIA labs</h2>
+<p>First identify GPU model, VRAM, driver, operating system, and available RAM. Compare them to the versioned requirements linked in Chapter 6 and run the compatibility checker. “NVIDIA GPU available” does not establish RT support or enough memory. Existing access may be local or remote; use the environment actually provided to you.</p>
+<p>Install the documented Isaac Sim 6.2.0 workstation release using official distribution. Do not use old Launcher setup videos. Confirm the installed build. Use the installation&#39;s <code>python.bat</code> on Windows or <code>python.sh</code> on Linux for native examples, with full paths when the course and installation folders differ.</p>
+<pre><code class="language-powershell">$coursePath = (Get-Location).Path
+&amp; &#39;C:\isaacsim\python.bat&#39; &quot;$coursePath\examples\04_isaac_drop.py&quot;
+&amp; &#39;C:\isaacsim\python.bat&#39; &quot;$coursePath\examples\05_isaac_robot.py&quot;
+&amp; &#39;C:\isaacsim\python.bat&#39; &quot;$coursePath\examples\06_replicator_capture.py&quot;
+</code></pre>
+<p><code>C:\isaacsim</code> is an example installation path to replace. The robot lab requires configured NVIDIA assets and the documented Jetbot path. It is a controller-interface exercise, not the Standard Bots RO1 model. No RO1 asset or validated cycle trajectory was supplied. The Replicator lab creates four RGB/box-annotation captures for boxed-item examples; inspect their alignment.</p>
+<p>For the extension, add <code>examples/kit_extension</code> as an extension package through your matched application&#39;s extension-search workflow. Enable Course Synthetic Twin Feed, open a disposable learning stage, reset, observe position updates, change stages, and verify the unbound message. Disable/re-enable and check cleanup. It targets the documented current event-dispatcher style; adapt against the installed Kit version if needed.</p>
+<p>Expected evidence: actual startup/version record, meaningful drop/settling observation, named robot joints and bounded commands, generated images/annotations, extension lifecycle observations. These native outcomes were not observed in this delivery. If a step fails, retain the first causal log and isolate runtime, asset, or API compatibility before changing dependencies.</p>
+<h2>Environment D for optional ROS and streaming</h2>
+<p>ROS: read Chapter 7 before installing. The 6.2 documentation recommends Ubuntu 24.04/Jazzy and documents a native Windows Pixi route. Use one platform procedure. In a sourced ROS terminal, run <code>python examples/05_ros_observer.py</code>; in another, use <code>ros2 topic echo /course/observation</code>. This publishes synthetic text, not actuator commands. Stop with Ctrl+C. Native ROS was not installed or executed here.</p>
+<p>Streaming: use the maintained Create OV WebRTC App route in Chapter 8. Start with a local streaming-enabled Kit server and one tiny scene. Verify connection, image, one application request/response, reconnect, and shutdown. Record server, generator, library, transport, and application versions. Do not assume the reference-only old viewer is the current starter.</p>
+<p>MCP: inspect the actual selected server&#39;s tools. Documentation search and live stage manipulation are different capabilities. Begin with read-only queries and a proposed bounded edit. Record the resulting query/diff and independent validation. No MCP server or paid AI service is configured by these files.</p>
+<h2>Optional applications with reference routes</h2>
+<p>Change the number of grid robots in the capacity calculator; trace which equation changes and when the bottleneck moves. Reference: <code>capacity</code> in <code>companion/models.mjs</code>.</p>
+<p>Remove the fault from both SimPy runs by calling <code>run(policy, fault=False)</code> in a small local driver; compare the outcomes and retain both manifests. Reference: <code>examples/08_warehouse_sim.py</code>. Do not assume the same winner across scenarios.</p>
+<p>Change an arm link length in both forward and inverse calculations, then reconstruct a reachable target. Reference: <code>core.forward_arm</code>, <code>core.inverse_arm</code>, and their reconstruction tests. Keep unit and reachability checks.</p>
+<p>Author another telemetry-layer value in the USD lab, reopen the stage, and query its resolved value. Reference: <code>examples/03_usd_cell.py</code> and the USD composition test. A resolved scalar does not prove a live broker connection.</p>
+<p>Introduce an invalid sequence or nonfinite position into the observation fixture and inspect rejection without changing accepted state. Reference: <code>TwinState</code> and <code>ObservationContract</code> tests. Preserve the last valid state and show its age.</p>
+<h2>The role-specific capstone package</h2>
+<p>Create a decision brief; process map; rate/source ledger; paired input manifest; event log; metric definitions; shareable replay; and a claim/evidence/limitation table. Use the teaching model initially, clearly labeled. Once the actual Hako artifacts are provided, trace one order through <code>hako_sim.py</code>, the event export, the web view, and the USD builder. Reconcile counts at the same time boundary.</p>
+<p>Keep the Site 1 planning configuration separate from this teaching fixture. Reproduce the reported grid bottleneck through sensitivity experiments in the actual model before repeating it as your own verified finding. If evidence changes a pitch or financial assumption, surface the change instead of altering the simulation to preserve a desired result.</p>
+<p>The optional NVIDIA subsystem study adds a modular USD scene, a validated robot asset, a bounded physics/sensor experiment, and a native run report. It can deepen the model where physical feasibility matters without delaying a useful first web-replay contribution.</p>
+<h2>Quick troubleshooting</h2>
+<table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>First useful checks</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Missing Python module</td>
+<td>Confirm the running interpreter and install into that same environment</td>
+</tr>
+<tr>
+<td>Missing USD viewer</td>
+<td><code>usd-core</code> bindings do not promise a GUI viewer; use a documented USD/Kit application</td>
+</tr>
+<tr>
+<td>Missing file</td>
+<td>Check working directory, extension, and layer-relative asset paths</td>
+</tr>
+<tr>
+<td>Native import fails</td>
+<td>Use the simulator wrapper; construct SimulationApp before runtime imports</td>
+</tr>
+<tr>
+<td>Cube falls through floor</td>
+<td>Check collision APIs, scale, floor placement, and runtime physics</td>
+</tr>
+<tr>
+<td>Robot targets do nothing</td>
+<td>Check physics initialization, joint names, drive mode, limits, and control ownership</td>
+</tr>
+<tr>
+<td>ROS topic absent</td>
+<td>Check environment, domain, bridge startup, type, middleware, and QoS</td>
+</tr>
+<tr>
+<td>Replay counts differ</td>
+<td>Check run identity, event schema/order, duplicates, and inclusive/exclusive cutoff</td>
+</tr>
+<tr>
+<td>Stream visible but commands fail</td>
+<td>Inspect the separate message channel, request schema, server handler, and acknowledgment</td>
+</tr>
+<tr>
+<td>Feed looks frozen</td>
+<td>Check producer health, stage binding, queue, timestamps, and stale status</td>
+</tr>
+</tbody></table>
+<h2>A cloud run sheet</h2>
+<p>Before a Brev or other GPU session: record purpose, approved environment, hardware/image, expected duration, output location, owner, and management identifier. After running: save outputs, stop the correct resource in its management surface, and verify the resulting state and any retained-resource costs under the provider&#39;s current terms. Closing a browser/SSH session is not shutdown evidence. No cloud resources were created by this curriculum.</p>
+<h2>Coaching prompts</h2>
+<p>“Teach me the next unfamiliar concept in this chapter using the smallest complete example. Define each new term, trace intermediate values, keep units/frames/time visible, and reconnect it to warehouse orchestration. Do not quiz me or skip prerequisites.”</p>
+<p>“Review this policy comparison for fairness. Identify shared external inputs, future information, baseline competence, unfinished work, and metric windows. Propose one small counterexample and show how to test it.”</p>
+<p>“Debug this exact Isaac Sim build and script using its versioned documentation. Explain the first causal error, separate environment and asset failures from code failures, and change one thing at a time. State what was actually run.”</p>
+</article></div></body></html>

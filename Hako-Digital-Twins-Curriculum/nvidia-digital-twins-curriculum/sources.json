@@ -1,0 +1,551 @@
+{
+  "edition_date": "2026-11-12",
+  "sources": [
+    {
+      "id": "D3",
+      "title": "Roadmap.docx",
+      "access_state": "inspected",
+      "inspected_scope": "Full relevant body text, tables in document order, and hyperlinks; layout not reviewed",
+      "access_date": "2026-11-12",
+      "redistribution": "Original private source not bundled"
+    },
+    {
+      "id": "D2",
+      "title": "Digital Twin Learning Path.docx",
+      "access_state": "inspected",
+      "inspected_scope": "Full relevant body text, tables in document order, and hyperlinks; layout not reviewed",
+      "access_date": "2026-11-12",
+      "redistribution": "Original private source not bundled"
+    },
+    {
+      "id": "D1",
+      "title": "Hako — Engineer Onboarding_ Aadil Mallick.docx",
+      "access_state": "inspected",
+      "inspected_scope": "Full relevant body text, tables in document order, and hyperlinks; layout not reviewed",
+      "access_date": "2026-11-12",
+      "redistribution": "Original private source not bundled"
+    },
+    {
+      "id": "PY1",
+      "title": "Python 3.12 introduction",
+      "url": "https://docs.python.org/3.12/tutorial/introduction.html",
+      "access_state": "inspected",
+      "inspected_scope": "Numbers, assignment, strings; chapter 1",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "PY2",
+      "title": "Python control flow",
+      "url": "https://docs.python.org/3.12/tutorial/controlflow.html",
+      "access_state": "inspected",
+      "inspected_scope": "Loops, functions; chapter 1",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "PY3",
+      "title": "Python data structures",
+      "url": "https://docs.python.org/3.12/tutorial/datastructures.html",
+      "access_state": "inspected",
+      "inspected_scope": "Lists/dictionaries; chapter 1",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "PY4",
+      "title": "Python venv",
+      "url": "https://docs.python.org/3.12/library/venv.html",
+      "access_state": "inspected",
+      "inspected_scope": "Environment creation; setup",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "PY5",
+      "title": "Python unittest",
+      "url": "https://docs.python.org/3.12/library/unittest.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "TestCase and assertions, not entire reference",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "SP1",
+      "title": "SimPy basic concepts",
+      "url": "https://simpy.readthedocs.io/en/stable/simpy_intro/basic_concepts.html",
+      "access_state": "inspected",
+      "inspected_scope": "Environment, generators, processes, timeouts; 4.1.2 docs, 4.1.1 tested",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "SP2",
+      "title": "SimPy shared resources",
+      "url": "https://simpy.readthedocs.io/en/latest/simpy_intro/shared_resources.html",
+      "access_state": "inspected",
+      "inspected_scope": "Resource request/yield/context release",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "SP3",
+      "title": "SimPy monitoring",
+      "url": "https://simpy.readthedocs.io/en/latest/topical_guides/monitoring.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Process/resource monitoring sections",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "WH1",
+      "title": "AutoStore robot FAQ",
+      "url": "https://www.autostoresystem.com/faq/robots",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Case-specific bin presentations per robot-hour; source metric preserved",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "WH2",
+      "title": "AutoStore solution FAQ",
+      "url": "https://www.autostoresystem.com/solution-faqs",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Configuration-dependent system throughput",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "WH3",
+      "title": "Boston Dynamics Stretch FAQ",
+      "url": "https://bostondynamics.com/faq/",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Case-rate qualifications; no universal 700/hour claim established",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "WH4",
+      "title": "Standard Bots RO1 product information",
+      "url": "https://standardbots.com/l/affordable-easy-to-use-robotics-for-all",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Hardware metrics; not a validated Hako cycle time",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "R1",
+      "title": "Modern Robotics configuration space",
+      "url": "https://modernrobotics.northwestern.edu/chapters/chapter2/",
+      "access_state": "index-only",
+      "inspected_scope": "Chapter/video descriptions; videos/book not fully consumed",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "R2",
+      "title": "Modern Robotics rigid motions",
+      "url": "https://modernrobotics.northwestern.edu/chapters/chapter3/",
+      "access_state": "index-only",
+      "inspected_scope": "Frame/rotation topic index; formal extension resource",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U1",
+      "title": "OpenUSD introduction",
+      "url": "https://openusd.org/release/intro.html",
+      "access_state": "inspected",
+      "inspected_scope": "Scope and composition overview; live release 26.11",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U2",
+      "title": "OpenUSD Hello World",
+      "url": "https://openusd.org/release/tut_helloworld.html",
+      "access_state": "inspected",
+      "inspected_scope": "Stage/define/save workflow",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U3",
+      "title": "OpenUSD referencing",
+      "url": "https://openusd.org/release/tut_referencing_layers.html",
+      "access_state": "inspected",
+      "inspected_scope": "defaultPrim and namespace mapping",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U4",
+      "title": "OpenUSD transforms",
+      "url": "https://openusd.org/release/tut_xforms.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Transform operations and animation examples",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U5",
+      "title": "OpenUSD variants",
+      "url": "https://openusd.org/release/tut_authoring_variants.html",
+      "access_state": "inspected",
+      "inspected_scope": "Variant edit context and local-opinion masking",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U6",
+      "title": "OpenUSD time and values",
+      "url": "https://openusd.org/release/user_guides/time_and_animated_values.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Time samples and interpolation",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U7",
+      "title": "OpenUSD terms",
+      "url": "https://openusd.org/release/glossary.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Stage, layer, opinions, API schemas; not entire glossary",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "U8",
+      "title": "USD Physics schema",
+      "url": "https://openusd.org/release/api/usd_physics_page_front.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Rigid bodies, collision, mass, scene schema scope",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N1",
+      "title": "NVIDIA digital twin overview",
+      "url": "https://www.nvidia.com/en-us/glossary/digital-twin/",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Definition and lifecycle framing; marketing metrics not adopted",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N2",
+      "title": "Omniverse developer overview",
+      "url": "https://developer.nvidia.com/omniverse",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Current library-oriented platform map; not each library executed",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N3",
+      "title": "Omniverse legacy tools",
+      "url": "https://developer.nvidia.com/omniverse/legacy-tools",
+      "access_state": "inspected",
+      "inspected_scope": "Launcher deprecation and distribution changes",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N4",
+      "title": "Isaac Sim 6.2 release",
+      "url": "https://github.com/isaac-sim/IsaacSim/releases/tag/v6.2.0",
+      "access_state": "inspected",
+      "inspected_scope": "Release identity; no full code audit",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N5",
+      "title": "Isaac Sim requirements",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/requirements.html",
+      "access_state": "inspected",
+      "inspected_scope": "Supported platforms, hardware table, RT and container qualifications",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N6",
+      "title": "Cross-product compatibility",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/compatibility.html",
+      "access_state": "inspected",
+      "inspected_scope": "ROS workspace, Lab pairing, backend warnings",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N7",
+      "title": "Workstation installation",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_workstation.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Native distribution/setup workflow; not installed",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N8",
+      "title": "Python environment",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_python.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Bundled Python 3.12 wrappers and initialization order",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N9",
+      "title": "SimulationApp API",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/py/source/extensions/isaacsim.simulation_app/docs/api.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Application launch, runtime imports, close",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N10",
+      "title": "6.2 Hello World",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/core_api_tutorials/tutorial_core_hello_world.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Experimental wrappers, standalone lifecycle, state query",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N11",
+      "title": "6.2 Hello Robot",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/core_api_tutorials/tutorial_core_hello_robot.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Asset path, joint name lookup, velocity targets",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N12",
+      "title": "6.2 physics fundamentals",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/physics/simulation_fundamentals.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Schemas and timing; no native physics run",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N13",
+      "title": "6.2 camera sensors",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/sensors/isaacsim_sensors_camera.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Camera interface/conventions reference",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N14",
+      "title": "6.2 ROS installation",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_ros.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Jazzy/platform/runtime compatibility; not installed",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N15",
+      "title": "6.2 URDF tutorial",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/importer_exporter/import_urdf.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Robot import workflow; no user robot imported",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N16",
+      "title": "6.2 Replicator getting started",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/replicator_tutorials/tutorial_replicator_getting_started.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Functional API, DiskBackend, BasicWriter, capture/cleanup",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N17",
+      "title": "6.2 performance handbook",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/reference_material/sim_performance_optimization_handbook.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Profiling/timing categories; not GPU benchmarked",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N18",
+      "title": "6.2 Brev deployment",
+      "url": "https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_advanced_cloud_setup_brev.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Deployment reference; no instance launched",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "N19",
+      "title": "NVIDIA scene assembly course overview",
+      "url": "https://docs.nvidia.com/learning/physical-ai/assembling-digital-twins/latest/getting-started/overview.html",
+      "access_state": "inspected",
+      "inspected_scope": "Public objectives and workflow; not a completed interactive course",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K1",
+      "title": "Kit extensions",
+      "url": "https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/guide/extensions_advanced.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Manifest/module and startup/shutdown behavior",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K2",
+      "title": "Kit lifecycle functions",
+      "url": "https://docs.omniverse.nvidia.com/dev-guide/latest/programmer_ref/extensions/functions.html",
+      "access_state": "inspected",
+      "inspected_scope": "Startup/shutdown and cleanup",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K3",
+      "title": "Kit events",
+      "url": "https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/guide/events.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "GLOBAL_EVENT_UPDATE retained observer API; live Oct 27 edition",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K4",
+      "title": "Kit commands",
+      "url": "https://docs.omniverse.nvidia.com/kit/docs/omni.kit.commands/latest/index.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Command/undo API index, not all command implementations",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K5",
+      "title": "Application streaming tutorial",
+      "url": "https://docs.omniverse.nvidia.com/kit/docs/kit-app-template/latest/docs/streaming.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Server application/container flow; old client references reconciled",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K6",
+      "title": "Old web-viewer official README",
+      "url": "https://raw.githubusercontent.com/NVIDIA-Omniverse/web-viewer-sample/main/README.md",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Deprecation notice and replacement route",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K7",
+      "title": "Create OV WebRTC App",
+      "url": "https://docs.omniverse.nvidia.com/ov-web-sdk/latest/web-sample/overview.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "2.3.1 generator, registry, version pinning and client setup",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K8",
+      "title": "Kit MCP guide",
+      "url": "https://docs.omniverse.nvidia.com/kit/docs/kit-manual/110.1.5/guide/ai-assisted-development-mcp.html",
+      "access_state": "inspected",
+      "inspected_scope": "Development tool scope and repository reference",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K9",
+      "title": "Kit USD Agents README",
+      "url": "https://raw.githubusercontent.com/NVIDIA-Omniverse/kit-usd-agents/main/README.md",
+      "access_state": "inspected",
+      "inspected_scope": "Chat USD versus documentation MCP capabilities",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "K10",
+      "title": "SimReady Foundation",
+      "url": "https://github.com/nvidia/simready-foundation",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Use-case-specific content specification overview",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "ROS1",
+      "title": "ROS Jazzy topics official source",
+      "url": "https://raw.githubusercontent.com/ros2/ros2_documentation/jazzy/source/Concepts/Basic/About-Topics.rst",
+      "access_state": "inspected",
+      "inspected_scope": "Official raw source used after rendered site access denial",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "ROS2",
+      "title": "ROS Jazzy QoS official source",
+      "url": "https://raw.githubusercontent.com/ros2/ros2_documentation/jazzy/source/Concepts/Intermediate/About-Quality-of-Service-Settings.rst",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Policies and compatibility",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "ROS3",
+      "title": "ROS Python publisher official source",
+      "url": "https://raw.githubusercontent.com/ros2/ros2_documentation/jazzy/source/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.rst",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Client-library lifecycle and pub/sub pattern",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "AI1",
+      "title": "RL key concepts",
+      "url": "https://spinningup.openai.com/en/latest/spinningup/rl_intro.html",
+      "access_state": "partially-inspected",
+      "inspected_scope": "Observation/action/reward/policy definitions; no current SDK used",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "AI2",
+      "title": "Cosmos docs hub",
+      "url": "https://docs.nvidia.com/cosmos/",
+      "access_state": "index-only",
+      "inspected_scope": "Platform scope and model/data directions; not models executed",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "X1",
+      "title": "MWPVL order fulfillment link",
+      "url": "https://mwpvl.com/html/order_fulfillment.html",
+      "access_state": "unavailable",
+      "inspected_scope": "Supplied link inaccessible; not relied upon",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    },
+    {
+      "id": "X2",
+      "title": "Guessed Isaac Lab tag",
+      "url": "https://github.com/isaac-sim/IsaacLab/tree/v3.0.0",
+      "access_state": "unavailable",
+      "inspected_scope": "404; not prescribed as an installation command",
+      "access_date": "2026-11-12",
+      "redistribution": "Link only; no full extraction bundled"
+    }
+  ]
+}

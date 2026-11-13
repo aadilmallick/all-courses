@@ -1,0 +1,125 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SOURCES</title><style>
+*{box-sizing:border-box}body{margin:0;color:#1b2c37;background:#f2f6f8;font:17px/1.75 Georgia,serif}header{background:#142f43;color:white;padding:25px 30px;font:15px/1.5 system-ui,sans-serif}header a{color:#c6e6fc}header strong{font-size:22px;display:block;margin-bottom:9px}.layout{display:grid;grid-template-columns:280px minmax(0,900px);gap:35px;max-width:1250px;margin:auto;padding:30px 20px}nav{position:sticky;top:18px;align-self:start;max-height:95vh;overflow:auto;font:14px/1.5 system-ui,sans-serif}nav a{display:block;padding:8px;color:#15598a}article{background:white;padding:35px;border:1px solid #d4e1e8;min-width:0;border-radius:9px}h1,h2,h3,h4{font-family:system-ui,sans-serif;line-height:1.3;color:#16374e;margin-top:1.8em;scroll-margin-top:20px}h1{font-size:30px}h2{font-size:25px}h3{font-size:21px}a{color:#15598a;overflow-wrap:anywhere}p{margin:1em 0}pre{font:13px/1.65 ui-monospace,monospace;padding:18px;background:#f0f5f8;border-radius:7px;overflow:auto}code{font:0.84em ui-monospace,monospace}pre code{font:inherit}img{max-width:100%;height:auto}table{border-collapse:collapse;width:100%;display:block;overflow:auto;font:14px/1.55 system-ui,sans-serif}td,th{padding:10px;border:1px solid #c4d4de;vertical-align:top}th{background:#e8f0f5}tr:nth-child(even){background:#f7f9fb}blockquote{margin:1em 0;padding-left:18px;border-left:3px solid #a4c3d8}hr{border:0;border-top:1px solid #d6e2e9;margin:35px 0}:focus-visible{outline:3px solid #c17722;outline-offset:3px}.top{position:fixed;bottom:20px;right:20px;background:#163c57;color:white;border-radius:25px;padding:9px 15px;font:14px system-ui}@media(max-width:850px){.layout{display:block;padding:12px}nav{position:static;max-height:none;margin-bottom:20px}nav a{display:inline-block}article{padding:20px}header{padding:20px}h1{font-size:26px}}@media print{header,nav,.top{display:none}.layout{display:block;padding:0}article{border:0;padding:0}pre{white-space:pre-wrap}body{background:white;font-size:11pt}}
+.layout{display:block;max-width:1000px}</style></head><body><header><a href="book.html">Textbook</a> · <a href="companion/index.html">Interactive companion (local server)</a></header><div class="layout"><article><h1>Sources and version record</h1>
+<p>Access date: November 12, 2026. Explanations, derivations, code, and synthetic examples are original. This ledger records what was inspected; an index or search result is not a claim that every linked course, video, or API was read. Full source extracts are not redistributed.</p>
+<h2>Tested and documentation baselines</h2>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Baseline and evidence</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Python</td>
+<td>3.12.14 executed</td>
+</tr>
+<tr>
+<td>CPU USD</td>
+<td>usd-core 26.5 executed; live OpenUSD release docs identify 26.11</td>
+</tr>
+<tr>
+<td>SimPy</td>
+<td>4.1.1 executed; inspected stable docs identify 4.1.2</td>
+</tr>
+<tr>
+<td>Native simulator</td>
+<td>Isaac Sim 6.2.0 documentation baseline; native runtime not installed/executed</td>
+</tr>
+<tr>
+<td>Lab</td>
+<td>Pairing label v3.0.0-GA in 6.2 matrix; optional, not installed</td>
+</tr>
+<tr>
+<td>ROS</td>
+<td>Jazzy interface teaching; not executed</td>
+</tr>
+<tr>
+<td>Kit</td>
+<td>Current documented dispatcher API; actual bundled build must be matched</td>
+</tr>
+<tr>
+<td>Web generator</td>
+<td>2.3.1 documentation checked; generator/stream not executed</td>
+</tr>
+<tr>
+<td>Companion</td>
+<td>Native JS/CSS, no runtime packages; Node 26.7.0 tested</td>
+</tr>
+<tr>
+<td>Reader build</td>
+<td>Marked 17.0.5 from bundled authoring runtime</td>
+</tr>
+<tr>
+<td>Chapter measurement</td>
+<td>tiktoken 0.12.0, cl100k_base</td>
+</tr>
+</tbody></table>
+<h2>Role sources and curated primary references</h2>
+<p>| ID | Source | Access and scope |
+|---|---|
+| D3 | Roadmap.docx | inspected: Full relevant body text, tables in document order, and hyperlinks; layout not reviewed |
+| D2 | Digital Twin Learning Path.docx | inspected: Full relevant body text, tables in document order, and hyperlinks; layout not reviewed |
+| D1 | Hako — Engineer Onboarding_ Aadil Mallick.docx | inspected: Full relevant body text, tables in document order, and hyperlinks; layout not reviewed |
+| PY1 | <a href="https://docs.python.org/3.12/tutorial/introduction.html">Python 3.12 introduction</a> | inspected: Numbers, assignment, strings; chapter 1 |
+| PY2 | <a href="https://docs.python.org/3.12/tutorial/controlflow.html">Python control flow</a> | inspected: Loops, functions; chapter 1 |
+| PY3 | <a href="https://docs.python.org/3.12/tutorial/datastructures.html">Python data structures</a> | inspected: Lists/dictionaries; chapter 1 |
+| PY4 | <a href="https://docs.python.org/3.12/library/venv.html">Python venv</a> | inspected: Environment creation; setup |
+| PY5 | <a href="https://docs.python.org/3.12/library/unittest.html">Python unittest</a> | partially-inspected: TestCase and assertions, not entire reference |
+| SP1 | <a href="https://simpy.readthedocs.io/en/stable/simpy_intro/basic_concepts.html">SimPy basic concepts</a> | inspected: Environment, generators, processes, timeouts; 4.1.2 docs, 4.1.1 tested |
+| SP2 | <a href="https://simpy.readthedocs.io/en/latest/simpy_intro/shared_resources.html">SimPy shared resources</a> | inspected: Resource request/yield/context release |
+| SP3 | <a href="https://simpy.readthedocs.io/en/latest/topical_guides/monitoring.html">SimPy monitoring</a> | partially-inspected: Process/resource monitoring sections |
+| WH1 | <a href="https://www.autostoresystem.com/faq/robots">AutoStore robot FAQ</a> | partially-inspected: Case-specific bin presentations per robot-hour; source metric preserved |
+| WH2 | <a href="https://www.autostoresystem.com/solution-faqs">AutoStore solution FAQ</a> | partially-inspected: Configuration-dependent system throughput |
+| WH3 | <a href="https://bostondynamics.com/faq/">Boston Dynamics Stretch FAQ</a> | partially-inspected: Case-rate qualifications; no universal 700/hour claim established |
+| WH4 | <a href="https://standardbots.com/l/affordable-easy-to-use-robotics-for-all">Standard Bots RO1 product information</a> | partially-inspected: Hardware metrics; not a validated Hako cycle time |
+| R1 | <a href="https://modernrobotics.northwestern.edu/chapters/chapter2/">Modern Robotics configuration space</a> | index-only: Chapter/video descriptions; videos/book not fully consumed |
+| R2 | <a href="https://modernrobotics.northwestern.edu/chapters/chapter3/">Modern Robotics rigid motions</a> | index-only: Frame/rotation topic index; formal extension resource |
+| U1 | <a href="https://openusd.org/release/intro.html">OpenUSD introduction</a> | inspected: Scope and composition overview; live release 26.11 |
+| U2 | <a href="https://openusd.org/release/tut_helloworld.html">OpenUSD Hello World</a> | inspected: Stage/define/save workflow |
+| U3 | <a href="https://openusd.org/release/tut_referencing_layers.html">OpenUSD referencing</a> | inspected: defaultPrim and namespace mapping |
+| U4 | <a href="https://openusd.org/release/tut_xforms.html">OpenUSD transforms</a> | partially-inspected: Transform operations and animation examples |
+| U5 | <a href="https://openusd.org/release/tut_authoring_variants.html">OpenUSD variants</a> | inspected: Variant edit context and local-opinion masking |
+| U6 | <a href="https://openusd.org/release/user_guides/time_and_animated_values.html">OpenUSD time and values</a> | partially-inspected: Time samples and interpolation |
+| U7 | <a href="https://openusd.org/release/glossary.html">OpenUSD terms</a> | partially-inspected: Stage, layer, opinions, API schemas; not entire glossary |
+| U8 | <a href="https://openusd.org/release/api/usd_physics_page_front.html">USD Physics schema</a> | partially-inspected: Rigid bodies, collision, mass, scene schema scope |
+| N1 | <a href="https://www.nvidia.com/en-us/glossary/digital-twin/">NVIDIA digital twin overview</a> | partially-inspected: Definition and lifecycle framing; marketing metrics not adopted |
+| N2 | <a href="https://developer.nvidia.com/omniverse">Omniverse developer overview</a> | partially-inspected: Current library-oriented platform map; not each library executed |
+| N3 | <a href="https://developer.nvidia.com/omniverse/legacy-tools">Omniverse legacy tools</a> | inspected: Launcher deprecation and distribution changes |
+| N4 | <a href="https://github.com/isaac-sim/IsaacSim/releases/tag/v6.2.0">Isaac Sim 6.2 release</a> | inspected: Release identity; no full code audit |
+| N5 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/requirements.html">Isaac Sim requirements</a> | inspected: Supported platforms, hardware table, RT and container qualifications |
+| N6 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/compatibility.html">Cross-product compatibility</a> | inspected: ROS workspace, Lab pairing, backend warnings |
+| N7 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_workstation.html">Workstation installation</a> | partially-inspected: Native distribution/setup workflow; not installed |
+| N8 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_python.html">Python environment</a> | partially-inspected: Bundled Python 3.12 wrappers and initialization order |
+| N9 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/py/source/extensions/isaacsim.simulation_app/docs/api.html">SimulationApp API</a> | partially-inspected: Application launch, runtime imports, close |
+| N10 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/core_api_tutorials/tutorial_core_hello_world.html">6.2 Hello World</a> | partially-inspected: Experimental wrappers, standalone lifecycle, state query |
+| N11 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/core_api_tutorials/tutorial_core_hello_robot.html">6.2 Hello Robot</a> | partially-inspected: Asset path, joint name lookup, velocity targets |
+| N12 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/physics/simulation_fundamentals.html">6.2 physics fundamentals</a> | partially-inspected: Schemas and timing; no native physics run |
+| N13 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/sensors/isaacsim_sensors_camera.html">6.2 camera sensors</a> | partially-inspected: Camera interface/conventions reference |
+| N14 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_ros.html">6.2 ROS installation</a> | partially-inspected: Jazzy/platform/runtime compatibility; not installed |
+| N15 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/importer_exporter/import_urdf.html">6.2 URDF tutorial</a> | partially-inspected: Robot import workflow; no user robot imported |
+| N16 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/replicator_tutorials/tutorial_replicator_getting_started.html">6.2 Replicator getting started</a> | partially-inspected: Functional API, DiskBackend, BasicWriter, capture/cleanup |
+| N17 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/reference_material/sim_performance_optimization_handbook.html">6.2 performance handbook</a> | partially-inspected: Profiling/timing categories; not GPU benchmarked |
+| N18 | <a href="https://docs.isaacsim.omniverse.nvidia.com/6.2.0/installation/install_advanced_cloud_setup_brev.html">6.2 Brev deployment</a> | partially-inspected: Deployment reference; no instance launched |
+| N19 | <a href="https://docs.nvidia.com/learning/physical-ai/assembling-digital-twins/latest/getting-started/overview.html">NVIDIA scene assembly course overview</a> | inspected: Public objectives and workflow; not a completed interactive course |
+| K1 | <a href="https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/guide/extensions_advanced.html">Kit extensions</a> | partially-inspected: Manifest/module and startup/shutdown behavior |
+| K2 | <a href="https://docs.omniverse.nvidia.com/dev-guide/latest/programmer_ref/extensions/functions.html">Kit lifecycle functions</a> | inspected: Startup/shutdown and cleanup |
+| K3 | <a href="https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/guide/events.html">Kit events</a> | partially-inspected: GLOBAL_EVENT_UPDATE retained observer API; live Oct 27 edition |
+| K4 | <a href="https://docs.omniverse.nvidia.com/kit/docs/omni.kit.commands/latest/index.html">Kit commands</a> | partially-inspected: Command/undo API index, not all command implementations |
+| K5 | <a href="https://docs.omniverse.nvidia.com/kit/docs/kit-app-template/latest/docs/streaming.html">Application streaming tutorial</a> | partially-inspected: Server application/container flow; old client references reconciled |
+| K6 | <a href="https://raw.githubusercontent.com/NVIDIA-Omniverse/web-viewer-sample/main/README.md">Old web-viewer official README</a> | partially-inspected: Deprecation notice and replacement route |
+| K7 | <a href="https://docs.omniverse.nvidia.com/ov-web-sdk/latest/web-sample/overview.html">Create OV WebRTC App</a> | partially-inspected: 2.3.1 generator, registry, version pinning and client setup |
+| K8 | <a href="https://docs.omniverse.nvidia.com/kit/docs/kit-manual/110.1.5/guide/ai-assisted-development-mcp.html">Kit MCP guide</a> | inspected: Development tool scope and repository reference |
+| K9 | <a href="https://raw.githubusercontent.com/NVIDIA-Omniverse/kit-usd-agents/main/README.md">Kit USD Agents README</a> | inspected: Chat USD versus documentation MCP capabilities |
+| K10 | <a href="https://github.com/nvidia/simready-foundation">SimReady Foundation</a> | partially-inspected: Use-case-specific content specification overview |
+| ROS1 | <a href="https://raw.githubusercontent.com/ros2/ros2_documentation/jazzy/source/Concepts/Basic/About-Topics.rst">ROS Jazzy topics official source</a> | inspected: Official raw source used after rendered site access denial |
+| ROS2 | <a href="https://raw.githubusercontent.com/ros2/ros2_documentation/jazzy/source/Concepts/Intermediate/About-Quality-of-Service-Settings.rst">ROS Jazzy QoS official source</a> | partially-inspected: Policies and compatibility |
+| ROS3 | <a href="https://raw.githubusercontent.com/ros2/ros2_documentation/jazzy/source/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.rst">ROS Python publisher official source</a> | partially-inspected: Client-library lifecycle and pub/sub pattern |
+| AI1 | <a href="https://spinningup.openai.com/en/latest/spinningup/rl_intro.html">RL key concepts</a> | partially-inspected: Observation/action/reward/policy definitions; no current SDK used |
+| AI2 | <a href="https://docs.nvidia.com/cosmos/">Cosmos docs hub</a> | index-only: Platform scope and model/data directions; not models executed |
+| X1 | <a href="https://mwpvl.com/html/order_fulfillment.html">MWPVL order fulfillment link</a> | unavailable: Supplied link inaccessible; not relied upon |
+| X2 | <a href="https://github.com/isaac-sim/IsaacLab/tree/v3.0.0">Guessed Isaac Lab tag</a> | unavailable: 404; not prescribed as an installation command |</p>
+<h2>Supplied resources not claimed as completed</h2>
+<p>The supplied YouTube talk, DLI enrollment/course pages, broader learning-path catalog, and vendor/internal documents beyond the inspected pages are further-study resources. No video transcript or authenticated course session was available or completed here. The ROS rendered pages returned automated-access denial; the official repository text was used. The inaccessible MWPVL page and guessed Lab tag are recorded above rather than represented as read.</p>
+<p>The actual Hako model, twin code, rate-source block, RO1 asset, and financial workbook were not supplied. Company planning figures remain attributed context. See ROLE_ALIGNMENT.md for scope and corrections.</p>
+</article></div></body></html>

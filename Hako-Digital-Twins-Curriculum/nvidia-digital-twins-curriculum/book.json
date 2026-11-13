@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "title": "Digital Twins and Warehouse Orchestration for Hako",
+  "subtitle": "From warehouse flow and first-principles robotics to OpenUSD, Isaac Sim, and trustworthy evidence",
+  "audience": "Python/TypeScript/Docker engineer new to warehouse robotics and NVIDIA; GPU access available, compatibility unverified",
+  "status": "complete",
+  "preface": "preface.md",
+  "output": "book.md",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Optional Python refresher for physical models",
+      "path": "chapters/01-python-and-the-digital-twin.md",
+      "part": "Optional software reference",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "conveyor"
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Understand Hako's warehouse and model its flow with SimPy",
+      "path": "chapters/02-warehouse-flow-and-simpy.md",
+      "part": "Warehouse flow and orchestration",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [],
+      "experiments": [
+        "warehouse"
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "title": "Compare orchestration policies and build an honest web replay",
+      "path": "chapters/03-orchestration-and-honest-replay.md",
+      "part": "Warehouse flow and orchestration",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "policy"
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "title": "The mathematics and physics a robot model needs",
+      "path": "chapters/04-robotics-math-and-physics.md",
+      "part": "Spatial and NVIDIA foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02"
+      ],
+      "experiments": [
+        "frames",
+        "arm",
+        "control"
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "title": "OpenUSD: describe, assemble, and inspect a world",
+      "path": "chapters/05-openusd-from-the-ground-up.md",
+      "part": "Spatial and NVIDIA foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04"
+      ],
+      "experiments": [
+        "layers"
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "title": "Run the world with Omniverse, Kit, and Isaac Sim",
+      "path": "chapters/06-omniverse-kit-and-isaac-sim.md",
+      "part": "Spatial and NVIDIA foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-05"
+      ],
+      "experiments": [
+        "clocks"
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "title": "Connect robots, controllers, sensors, and ROS 2",
+      "path": "chapters/07-robots-sensors-and-ros2.md",
+      "part": "Spatial and NVIDIA foundations",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04",
+        "chapter-06"
+      ],
+      "experiments": [
+        "drive",
+        "projection",
+        "sensors"
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "title": "Build an integration boundary with Kit extensions, streaming, and MCP",
+      "path": "chapters/08-extensions-streaming-and-mcp.md",
+      "part": "Integration and evidence",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-03",
+        "chapter-05",
+        "chapter-06"
+      ],
+      "experiments": [
+        "action"
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "title": "Generate useful data and understand robot learning",
+      "path": "chapters/09-synthetic-data-and-robot-learning.md",
+      "part": "Integration and evidence",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-04",
+        "chapter-07"
+      ],
+      "experiments": [
+        "detection",
+        "reward"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "Build an operational twin and make its claims reviewable",
+      "path": "chapters/10-build-and-validate-an-operational-twin.md",
+      "part": "Integration and evidence",
+      "status": "complete",
+      "minimum_prose_words": 2500,
+      "prerequisites": [
+        "chapter-02",
+        "chapter-03",
+        "chapter-05",
+        "chapter-06"
+      ],
+      "experiments": [
+        "twin"
+      ]
+    }
+  ],
+  "assets": [
+    "assets/policy-replay.json",
+    "assets/architecture.svg"
+  ],
+  "source_listings": [],
+  "companion": {
+    "path": "companion",
+    "catalog": "companion/catalog.json",
+    "run": "node companion/server.mjs",
+    "starter": false
+  },
+  "provenance": "sources.json",
+  "verification": "verification.md"
+}

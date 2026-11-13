@@ -1,0 +1,305 @@
+{
+  "notice": "Hashes cover all intended files except this inventory itself.",
+  "files": [
+    {
+      "path": "assets/architecture.svg",
+      "bytes": 2861,
+      "sha256": "535e2b8a878521271e7395fc3be1fff32bccea159c18876b4375a78bf6b8ceac"
+    },
+    {
+      "path": "assets/policy-replay.json",
+      "bytes": 182750,
+      "sha256": "c4f1273b3bab085b522ea09a65ebb2c0b322d9c9ced49e491100e397ba46423d"
+    },
+    {
+      "path": "book.html",
+      "bytes": 318866,
+      "sha256": "2ca16418df25d47a7af894a0e47fbe9dd627da32023e47ddc07c0a4c8b94658b"
+    },
+    {
+      "path": "book.json",
+      "bytes": 4972,
+      "sha256": "a1f21a6bdd457bc1ca05db772c37ae6b736b61ec01eb61a7cc5066659fcf2e48"
+    },
+    {
+      "path": "book.md",
+      "bytes": 295297,
+      "sha256": "0a7384faa30d7b90beccacb3f880e64156bb9f26d3c46db23c11d73f14972e92"
+    },
+    {
+      "path": "chapters/01-python-and-the-digital-twin.md",
+      "bytes": 24455,
+      "sha256": "8d28d6572aba301975136bfa4c8493b5bc99dcdbeee8313abb28d6a6066ac09f"
+    },
+    {
+      "path": "chapters/02-warehouse-flow-and-simpy.md",
+      "bytes": 26215,
+      "sha256": "af21ec4594d545a054382e9185079d37a65648fea773c74c7b242c8ae414435c"
+    },
+    {
+      "path": "chapters/03-orchestration-and-honest-replay.md",
+      "bytes": 27174,
+      "sha256": "302c586a80549432a6e49bcb92b8a57f7b379462628d2734a25f2a554877ffdc"
+    },
+    {
+      "path": "chapters/04-robotics-math-and-physics.md",
+      "bytes": 23290,
+      "sha256": "0a277bdbede38e08ac87032e1053621f1fa6bc6a0609f950188873c99b6ccfa7"
+    },
+    {
+      "path": "chapters/05-openusd-from-the-ground-up.md",
+      "bytes": 25149,
+      "sha256": "b4003aeab26ed673c09a854f7e789b433eedc9f2f88e019d6cafb97810b3fd73"
+    },
+    {
+      "path": "chapters/06-omniverse-kit-and-isaac-sim.md",
+      "bytes": 26709,
+      "sha256": "693bb1d2044214b6aba1df4aca4fa38c226c2729b05cf9a35947d21caf62aaab"
+    },
+    {
+      "path": "chapters/07-robots-sensors-and-ros2.md",
+      "bytes": 25922,
+      "sha256": "ab7a9533841ed94e294e685317659b1c3727ade738d11820fffd79328faa53a5"
+    },
+    {
+      "path": "chapters/08-extensions-streaming-and-mcp.md",
+      "bytes": 27459,
+      "sha256": "ee03bcd72050fcb80f74bfcc1641a1d67cfe923ea3b79c19213665fe4ca7c5ec"
+    },
+    {
+      "path": "chapters/09-synthetic-data-and-robot-learning.md",
+      "bytes": 26297,
+      "sha256": "2f5b8f81a2b630707250bffa382fa622be94c6204f0fcaf0fe55c6f23dea742e"
+    },
+    {
+      "path": "chapters/10-build-and-validate-an-operational-twin.md",
+      "bytes": 27571,
+      "sha256": "382569a3f74682fb898b7fdd53dcfc47ebb1efc88d0168e293a979e4e2a544c2"
+    },
+    {
+      "path": "checks/browser-evidence.json",
+      "bytes": 2916,
+      "sha256": "6972ef49a9d5927eec5b11032066164618d33fa6ec3e84f491cf196a18ab9a0d"
+    },
+    {
+      "path": "checks/chapter-depth.json",
+      "bytes": 1665,
+      "sha256": "83b7387c006c8a0c6ee4fdf409918166a15a3fa907ba007b0dda92951b98a581"
+    },
+    {
+      "path": "checks/check_models.mjs",
+      "bytes": 1725,
+      "sha256": "6281b536d26fcf92712548e9f891dd41a2078ac4283b481dfb1e78ef257eca0e"
+    },
+    {
+      "path": "checks/example-output.txt",
+      "bytes": 888,
+      "sha256": "11bdcc8d21ceb262c8eb38a03114a7b234e857aa84263abca6e289f54591fbde"
+    },
+    {
+      "path": "checks/structure.json",
+      "bytes": 916,
+      "sha256": "e90bf5124ad9662dc217ef947ca9a44c91398bcd80685a6dedd04c26a31e8a91"
+    },
+    {
+      "path": "checks/test_core.py",
+      "bytes": 5591,
+      "sha256": "2d76a0aa058e41be1e968aa9027aa7f79db169278d984a2c064d550dbaac0092"
+    },
+    {
+      "path": "companion/app.mjs",
+      "bytes": 1836,
+      "sha256": "127d0acc7f0d3bb79f88b29ed86613538a0e79484ebe402536aa79f3a90fbbcb"
+    },
+    {
+      "path": "companion/catalog.json",
+      "bytes": 3574,
+      "sha256": "796e78df4e450f9a925c7f4d69d8f0aa965ca79f909240b76310e0630e2e2f29"
+    },
+    {
+      "path": "companion/experiments.mjs",
+      "bytes": 12290,
+      "sha256": "4a15ae5b325a380b0b6fe37cd2315a3385b957aa51280722e0dbdda2bbd5d933"
+    },
+    {
+      "path": "companion/index.html",
+      "bytes": 1464,
+      "sha256": "164344220697c73863c48915b4a9bf28b04ef5066dbe7c25c77cb5e8b8af2c74"
+    },
+    {
+      "path": "companion/models.mjs",
+      "bytes": 4720,
+      "sha256": "34e4a464d51e813f3dee38588b1888263a66e2ae7745063181a6bcf075cd5bd6"
+    },
+    {
+      "path": "companion/server.mjs",
+      "bytes": 2268,
+      "sha256": "6cfe5bb7b70b57451b97b1dd089cc7eaad785c523de67ea83ad3723108bceb7b"
+    },
+    {
+      "path": "companion/style.css",
+      "bytes": 3073,
+      "sha256": "49b9b9ac45f2da325340967768a56b888f97065d5d5a2148fce56d53ec8cf433"
+    },
+    {
+      "path": "COMPANION_GUIDE.html",
+      "bytes": 19786,
+      "sha256": "9656013f35a55bd883727af3977992d30c45543ee4b510dfb7f12250ed1cafec"
+    },
+    {
+      "path": "COMPANION_GUIDE.md",
+      "bytes": 15166,
+      "sha256": "e4d32e724374547616b1ebb3828926683b33bf44dc9ac74ac9eb91023f5135e9"
+    },
+    {
+      "path": "COVERAGE.md",
+      "bytes": 2755,
+      "sha256": "5c49b6182e8f75b1578dc451ce4adc8b0d6d2f48325e753fef3244922be13d0e"
+    },
+    {
+      "path": "examples/01_first_model.py",
+      "bytes": 242,
+      "sha256": "26f6d4e46d31960f2f0cd182cd3c9365ee935bb3af53c97c0d795be77c5c4c75"
+    },
+    {
+      "path": "examples/02_robot_math.py",
+      "bytes": 430,
+      "sha256": "3b1fbe043c5114ac19f2f05e5d8e411d1ffe5a66337bb05accc70e4bc0eed94e"
+    },
+    {
+      "path": "examples/03_usd_cell.py",
+      "bytes": 2887,
+      "sha256": "73f44137d4e680cfc9c2316ada938b56b78a0f777c8903b5cb15ad987fff5ac3"
+    },
+    {
+      "path": "examples/04_isaac_drop.py",
+      "bytes": 1962,
+      "sha256": "37401bc3afa2e3714e5cad3cd4f27a785b0f38a4b4ce8fe935933311d7c147b4"
+    },
+    {
+      "path": "examples/05_isaac_robot.py",
+      "bytes": 1710,
+      "sha256": "5106deedf4b9b4d7d759f628f71b84f7bd032cf23ddbe902b8b07f5c579a37ab"
+    },
+    {
+      "path": "examples/05_ros_observer.py",
+      "bytes": 833,
+      "sha256": "1bb06ce3ec27145b87f40dba7052e8d1100c0125db4fd4d9e10e73b9d1aff8bc"
+    },
+    {
+      "path": "examples/06_learning.py",
+      "bytes": 2024,
+      "sha256": "b1fe019e7fd5dee1e84a42487ffc12b2c63ed78255c9224f53caba989106c059"
+    },
+    {
+      "path": "examples/06_replicator_capture.py",
+      "bytes": 1638,
+      "sha256": "b39a3a335d64e66cf19767fd39078c3049c7c92137b83b87048a92d30390f0f7"
+    },
+    {
+      "path": "examples/07_twin_pipeline.py",
+      "bytes": 636,
+      "sha256": "4414b4ae165556e8614a693c10f3194c3bd52bd9a969a6363e812867bba85723"
+    },
+    {
+      "path": "examples/08_warehouse_sim.py",
+      "bytes": 5551,
+      "sha256": "1e36a760ea3529f66311996d838e0a5eacb531a7a834cd02dbc06efdddf2568e"
+    },
+    {
+      "path": "examples/core.py",
+      "bytes": 5383,
+      "sha256": "3718dadc2f8c68dfc712a49c572e654752775c829ab7bb76ad2f16d005eaad20"
+    },
+    {
+      "path": "examples/kit_extension/config/extension.toml",
+      "bytes": 251,
+      "sha256": "53e97079983789e0fbd63a7fb2cef3a64a3ffbae831390358d61ddbb55cede72"
+    },
+    {
+      "path": "examples/kit_extension/course_inspection/__init__.py",
+      "bytes": 3876,
+      "sha256": "c08f22e254f003e66a1d629b24cf494d141ffc307ba1efad6bf546b67bb11f68"
+    },
+    {
+      "path": "generated/usd/base.usda",
+      "bytes": 415,
+      "sha256": "73ff786c461ca803f4fbda03584df4b9189419966f159bde8977d2621cc6136b"
+    },
+    {
+      "path": "generated/usd/cell.usda",
+      "bytes": 150,
+      "sha256": "3ae9679961f6a277e7174e505f5b10f01f0577a77938d7ec4f772db73896b814"
+    },
+    {
+      "path": "generated/usd/part.usda",
+      "bytes": 729,
+      "sha256": "3eb15fa725fa893d0c47ede776a276661d60034749f2fe6c1973c909360e82b9"
+    },
+    {
+      "path": "generated/usd/telemetry.usda",
+      "bytes": 108,
+      "sha256": "31eebe36190a1581c5fe15f0c49367ff51b92a4ec620e56d6a3bee780ce783a2"
+    },
+    {
+      "path": "NOTICES.md",
+      "bytes": 962,
+      "sha256": "7a3f6216b5ab12c0b96b75aafc5dc0c84508ef2423a5224798f51c1ddbc6efb8"
+    },
+    {
+      "path": "preface.md",
+      "bytes": 2998,
+      "sha256": "fee24f796e579c6900cb27a59aedf944e226eeb4bd43edbcfc0b72cafbe5f4fe"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3673,
+      "sha256": "f5d543b69075e53b562c6ae2305e04e5139fbd34a39272d6b5a02984b39c5f7a"
+    },
+    {
+      "path": "requirements-sim.txt",
+      "bytes": 13,
+      "sha256": "3bc31b2c0e619725cc5dc4b41b621d79e061de946efe8c1729e57315116a620f"
+    },
+    {
+      "path": "requirements-usd.txt",
+      "bytes": 15,
+      "sha256": "3a138c9f0714ce37ec64ff6fa6f51bb4033f32d92eca42af486ac2d1b38c392e"
+    },
+    {
+      "path": "ROLE_ALIGNMENT.html",
+      "bytes": 8202,
+      "sha256": "8a7688caefe64478fa990355682c2d373a0609fa62522767415267e15292fb21"
+    },
+    {
+      "path": "ROLE_ALIGNMENT.md",
+      "bytes": 5007,
+      "sha256": "323807009f5cfd910bb6f9f55dea1d77d87c3519183c11734b258a7824e1c7f7"
+    },
+    {
+      "path": "SOURCES.html",
+      "bytes": 15929,
+      "sha256": "e921e31532b370dc5ace79ca6593915cab9663a47d0f5638ffd775a6e8e40c83"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 23486,
+      "sha256": "7fa9b3c4e13adfa31c45e509442914dc09be72f46d787fddfb55b5a7b2909889"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 12643,
+      "sha256": "25e49f3d41f10b63bde8b850afdbb7e35ba6e623eec68d7926ec6a6a85a2d180"
+    },
+    {
+      "path": "verification.html",
+      "bytes": 8652,
+      "sha256": "46871b95091fa503bf2aecd216b44f7bdc5fe720ab6a8d9653b0479a10e0eeec"
+    },
+    {
+      "path": "verification.md",
+      "bytes": 6062,
+      "sha256": "ed7bc4ddb2b7b0334030e42daa605ac455dc276ec2a4d5caca17c8df13195ba6"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+
+01_first_model.py
+0.18 m -> 1.80 s
+0.20 m -> 2.00 s
+0.23 m -> 2.30 s
+Travel during 4 ms exposure: 0.4 mm
+
+02_robot_math.py
+Sensor world point: (2.0, 1.5)
+IK degrees: (0.0, 90.0)
+FK reconstruction: (0.39999999999999997, 0.3)
+Toy stopping distance: 0.45 m
+
+06_learning.py
+Classifier weight, bias, held-out counts: (3.367581370142359, 0.3087011009942777, {'tp': 96, 'fp': 10, 'tn': 90, 'fn': 4})
+Learned greedy grid route: [0, 1, 2, 3, 4]
+
+07_twin_pipeline.py
+Accepted: Observation(asset_id='conveyor-01', sequence=12, source_time_s=4.2, received_time_s=4.28, position_m=0.84, frame='cell_world')
+At 4.4 s: {'status': 'fresh', 'age_s': 0.20000000000000018}
+At 4.7 s: {'status': 'stale', 'age_s': 0.5}
+Rejected duplicate: Duplicate or out-of-order observation
+{
+  "bias_m": 0.010000000000000004,
+  "mae_m": 0.030000000000000023,
+  "rmse_m": 0.031091263510296074
+}
